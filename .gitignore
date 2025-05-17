@@ -2,7 +2,9 @@
 venv/
 
 # Ignore Jupyter Notebook checkpoints
+data_preparation/.ipynb_checkpoints
 .ipynb_checkpoints
 
 # Ignore outputs in .ipynb files
 *.ipynb
+data_preparation/*.ipynb
