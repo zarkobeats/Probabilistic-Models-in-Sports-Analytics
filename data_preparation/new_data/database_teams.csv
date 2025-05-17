@@ -1,79 +1,1515 @@
-teamId,Team,Form,League,Rank,Games,Wins,Ties,Losses,Points,Goal_for,Goal_against,Goal_difference
-364,Liverpool,WWWLD,700,1,36,25,8,3,83,83,37,46
-359,Arsenal,DWDLD,700,2,36,18,14,4,68,66,33,33
-361,Newcastle United,WLWDW,700,3,36,20,6,10,66,68,45,23
-363,Chelsea,WWWLW,700,4,37,19,9,9,66,63,43,20
-362,Aston Villa,WLWWW,700,5,37,19,9,9,66,58,49,9
-382,Manchester City,WWWWD,700,6,36,19,8,9,65,67,43,24
-393,Nottingham Forest,LWLDD,700,7,36,18,8,10,62,56,44,12
-337,Brentford,DWWWW,700,8,36,16,7,13,55,63,53,10
-331,Brighton & Hove Albion,DLWDW,700,9,36,14,13,9,55,59,56,3
-349,AFC Bournemouth,WDDWL,700,10,36,14,11,11,53,55,43,12
-370,Fulham,LLWLL,700,11,36,14,9,13,51,51,50,1
-384,Crystal Palace,LDDDW,700,12,36,12,13,11,49,46,48,-2
-368,Everton,WLLDW,700,13,36,9,15,12,42,39,44,-5
-380,Wolverhampton Wanderers,WWWLL,700,14,36,12,5,19,41,51,64,-13
-371,West Ham United,LDLDW,700,15,36,10,10,16,40,42,59,-17
-360,Manchester United,LDLLL,700,16,37,10,9,18,39,42,54,-12
-367,Tottenham Hotspur,LLDLL,700,17,37,11,5,21,38,63,61,2
-373,Ipswich Town,DLLDL,700,18,36,4,10,22,22,35,77,-42
-375,Leicester City,DLLWD,700,19,36,5,7,24,22,31,78,-47
-376,Southampton,LDLLD,700,20,36,2,6,28,12,25,82,-57
-132,Bayern Munich,DWWDW,720,1,33,24,7,2,79,95,32,63
-131,Bayer Leverkusen,DDWDL,720,2,33,19,11,3,68,70,41,29
-125,Eintracht Frankfurt,WDWDD,720,3,33,16,9,8,57,65,45,20
-126,SC Freiburg,WWWDW,720,4,33,16,7,10,55,48,50,-2
-124,Borussia Dortmund,DWWWW,720,5,33,16,6,11,54,68,51,17
-2950,Mainz,LDLDW,720,6,33,14,9,10,51,53,41,12
-11420,RB Leipzig,WDLDD,720,7,33,13,12,8,51,51,45,6
-137,Werder Bremen,WWDDD,720,8,33,13,9,11,48,50,56,-6
-134,VfB Stuttgart,LDLWW,720,9,33,13,8,12,47,61,51,10
-268,Borussia Monchengladbach,LLLDL,720,10,33,13,6,14,45,55,56,-1
-3841,FC Augsburg,WDLLL,720,11,33,11,10,12,43,34,49,-15
-138,VfL Wolfsburg,LDLLD,720,12,33,10,10,13,40,55,54,1
-598,1. FC Union Berlin,DDDDL,720,13,33,9,10,14,37,33,50,-17
-270,St. Pauli,WDDLD,720,14,33,8,8,17,32,28,39,-11
-7911,TSG Hoffenheim,WLLDD,720,15,33,7,11,15,32,46,64,-18
-6418,1. FC Heidenheim 1846,LLWDW,720,16,33,8,5,20,29,36,60,-24
-7884,Holstein Kiel,LDWWL,720,17,33,6,7,20,25,49,77,-28
-121,VfL Bochum,LLDDL,720,18,33,5,7,21,22,31,67,-36
-114,Napoli,WWWWD,730,1,36,23,9,4,78,57,27,30
-110,Internazionale,WLLWW,730,2,36,23,8,5,77,75,33,42
-105,Atalanta,WWDWW,730,3,36,21,8,7,71,73,32,41
-111,Juventus,WLWDD,730,4,36,16,16,4,64,53,33,20
-112,Lazio,DWDWD,730,5,36,18,10,8,64,59,46,13
-104,AS Roma,DWWWL,730,6,36,18,9,9,63,51,34,17
-107,Bologna,LWDDL,730,7,36,16,14,6,62,54,41,13
-103,AC Milan,WLWWW,730,8,36,17,9,10,60,58,40,18
-109,Fiorentina,DWWLL,730,9,36,17,8,11,59,54,37,17
-2572,Como,WWWWW,730,10,36,13,9,14,48,48,49,-1
-239,Torino,LWLDL,730,11,36,10,14,12,44,39,42,-3
-118,Udinese,LLDWL,730,12,36,12,8,16,44,39,51,-12
-3263,Genoa,DLLLD,730,13,36,9,13,14,40,32,45,-13
-2925,Cagliari,LLWLL,730,14,36,8,9,19,33,37,54,-17
-119,Hellas Verona,DLLLD,730,15,36,9,6,21,33,31,64,-33
-115,Parma,DWDLL,730,16,36,6,14,16,32,41,56,-15
-17530,Venezia,WDLDW,730,17,36,5,14,17,29,30,50,-20
-113,Lecce,LLDLD,730,18,36,6,10,20,28,25,58,-33
-2574,Empoli,LDLLW,730,19,36,5,13,18,28,29,56,-27
-4007,Monza,LLLLW,730,20,36,3,9,24,18,27,64,-37
-83,Barcelona,WWWWW,740,1,36,27,4,5,85,97,36,61
-86,Real Madrid,WWWLW,740,2,36,24,6,6,78,74,38,36
-1068,Atlético Madrid,LWDWL,740,3,36,20,10,6,70,60,29,31
-93,Athletic Club,LWDWW,740,4,36,18,13,5,67,53,26,27
-102,Villarreal,LWWWW,740,5,36,18,10,8,64,64,47,17
-244,Real Betis,WWWDD,740,6,36,16,11,9,59,55,45,10
-85,Celta Vigo,LWLWW,740,7,36,15,7,14,52,56,54,2
-101,Rayo Vallecano,DLWWD,740,8,36,12,12,12,48,39,44,-5
-97,Osasuna,WWLDW,740,9,36,11,15,10,48,45,51,-6
-84,Mallorca,DLLWL,740,10,36,13,8,15,47,34,42,-8
-94,Valencia,DDWWL,740,11,36,11,12,13,45,43,52,-9
-89,Real Sociedad,DLDLL,740,12,36,12,7,17,43,32,42,-10
-9812,Girona,LDWLW,740,13,36,11,8,17,41,42,53,-11
-243,Sevilla,DLDLW,740,14,36,10,11,15,41,40,49,-9
-2922,Getafe,LLLLL,740,15,36,10,9,17,39,31,36,-5
-88,Espanyol,DLLLL,740,16,36,10,9,17,39,38,49,-11
-96,Alavés,DWDLW,740,17,36,9,11,16,38,36,47,-11
-17534,Leganés,DDDWL,740,18,36,7,13,16,34,35,56,-21
-98,Las Palmas,WLLLL,740,19,36,8,8,20,32,40,58,-18
-95,Real Valladolid,LLLLL,740,20,36,4,4,28,16,26,86,-60
+teamId,League_Id,Rank,Team,Form,Games,Wins,Ties,Losses,Points,Goal_for,Goal_against,Goal_difference
+364,ENG1,1,Liverpool,WWWLD,36,25,8,3,83,83,37,46
+359,ENG1,2,Arsenal,DWDLD,36,18,14,4,68,66,33,33
+361,ENG1,3,Newcastle United,WLWDW,36,20,6,10,66,68,45,23
+363,ENG1,4,Chelsea,WWWLW,37,19,9,9,66,63,43,20
+362,ENG1,5,Aston Villa,WLWWW,37,19,9,9,66,58,49,9
+382,ENG1,6,Manchester City,WWWWD,36,19,8,9,65,67,43,24
+393,ENG1,7,Nottingham Forest,LWLDD,36,18,8,10,62,56,44,12
+337,ENG1,8,Brentford,DWWWW,36,16,7,13,55,63,53,10
+331,ENG1,9,Brighton & Hove Albion,DLWDW,36,14,13,9,55,59,56,3
+349,ENG1,10,AFC Bournemouth,WDDWL,36,14,11,11,53,55,43,12
+370,ENG1,11,Fulham,LLWLL,36,14,9,13,51,51,50,1
+384,ENG1,12,Crystal Palace,LDDDW,36,12,13,11,49,46,48,-2
+368,ENG1,13,Everton,WLLDW,36,9,15,12,42,39,44,-5
+380,ENG1,14,Wolverhampton Wanderers,WWWLL,36,12,5,19,41,51,64,-13
+371,ENG1,15,West Ham United,LDLDW,36,10,10,16,40,42,59,-17
+360,ENG1,16,Manchester United,LDLLL,37,10,9,18,39,42,54,-12
+367,ENG1,17,Tottenham Hotspur,LLDLL,37,11,5,21,38,63,61,2
+373,ENG1,18,Ipswich Town,DLLDL,36,4,10,22,22,35,77,-42
+375,ENG1,19,Leicester City,DLLWD,36,5,7,24,22,31,78,-47
+376,ENG1,20,Southampton,LDLLD,36,2,6,28,12,25,82,-57
+83,ESP1,1,Barcelona,WWWWW,36,27,4,5,85,97,36,61
+86,ESP1,2,Real Madrid,WWWLW,36,24,6,6,78,74,38,36
+1068,ESP1,3,Atlético Madrid,LWDWL,36,20,10,6,70,60,29,31
+93,ESP1,4,Athletic Club,LWDWW,36,18,13,5,67,53,26,27
+102,ESP1,5,Villarreal,LWWWW,36,18,10,8,64,64,47,17
+244,ESP1,6,Real Betis,WWWDD,36,16,11,9,59,55,45,10
+85,ESP1,7,Celta Vigo,LWLWW,36,15,7,14,52,56,54,2
+101,ESP1,8,Rayo Vallecano,DLWWD,36,12,12,12,48,39,44,-5
+97,ESP1,9,Osasuna,WWLDW,36,11,15,10,48,45,51,-6
+84,ESP1,10,Mallorca,DLLWL,36,13,8,15,47,34,42,-8
+94,ESP1,11,Valencia,DDWWL,36,11,12,13,45,43,52,-9
+89,ESP1,12,Real Sociedad,DLDLL,36,12,7,17,43,32,42,-10
+9812,ESP1,13,Girona,LDWLW,36,11,8,17,41,42,53,-11
+243,ESP1,14,Sevilla,DLDLW,36,10,11,15,41,40,49,-9
+2922,ESP1,15,Getafe,LLLLL,36,10,9,17,39,31,36,-5
+88,ESP1,16,Espanyol,DLLLL,36,10,9,17,39,38,49,-11
+96,ESP1,17,Alavés,DWDLW,36,9,11,16,38,36,47,-11
+17534,ESP1,18,Leganés,DDDWL,36,7,13,16,34,35,56,-21
+98,ESP1,19,Las Palmas,WLLLL,36,8,8,20,32,40,58,-18
+95,ESP1,20,Real Valladolid,LLLLL,36,4,4,28,16,26,86,-60
+132,GER1,1,Bayern Munich,DWWDW,33,24,7,2,79,95,32,63
+131,GER1,2,Bayer Leverkusen,DDWDL,33,19,11,3,68,70,41,29
+125,GER1,3,Eintracht Frankfurt,WDWDD,33,16,9,8,57,65,45,20
+126,GER1,4,SC Freiburg,WWWDW,33,16,7,10,55,48,50,-2
+124,GER1,5,Borussia Dortmund,DWWWW,33,16,6,11,54,68,51,17
+2950,GER1,6,Mainz,LDLDW,33,14,9,10,51,53,41,12
+11420,GER1,7,RB Leipzig,WDLDD,33,13,12,8,51,51,45,6
+137,GER1,8,Werder Bremen,WWDDD,33,13,9,11,48,50,56,-6
+134,GER1,9,VfB Stuttgart,LDLWW,33,13,8,12,47,61,51,10
+268,GER1,10,Borussia Monchengladbach,LLLDL,33,13,6,14,45,55,56,-1
+3841,GER1,11,FC Augsburg,WDLLL,33,11,10,12,43,34,49,-15
+138,GER1,12,VfL Wolfsburg,LDLLD,33,10,10,13,40,55,54,1
+598,GER1,13,1. FC Union Berlin,DDDDL,33,9,10,14,37,33,50,-17
+270,GER1,14,St. Pauli,WDDLD,33,8,8,17,32,28,39,-11
+7911,GER1,15,TSG Hoffenheim,WLLDD,33,7,11,15,32,46,64,-18
+6418,GER1,16,1. FC Heidenheim 1846,LLWDW,33,8,5,20,29,36,60,-24
+7884,GER1,17,Holstein Kiel,LDWWL,33,6,7,20,25,49,77,-28
+121,GER1,18,VfL Bochum,LLDDL,33,5,7,21,22,31,67,-36
+114,ITA1,1,Napoli,WWWWD,36,23,9,4,78,57,27,30
+110,ITA1,2,Internazionale,WLLWW,36,23,8,5,77,75,33,42
+105,ITA1,3,Atalanta,WWDWW,36,21,8,7,71,73,32,41
+111,ITA1,4,Juventus,WLWDD,36,16,16,4,64,53,33,20
+112,ITA1,5,Lazio,DWDWD,36,18,10,8,64,59,46,13
+104,ITA1,6,AS Roma,DWWWL,36,18,9,9,63,51,34,17
+107,ITA1,7,Bologna,LWDDL,36,16,14,6,62,54,41,13
+103,ITA1,8,AC Milan,WLWWW,36,17,9,10,60,58,40,18
+109,ITA1,9,Fiorentina,DWWLL,36,17,8,11,59,54,37,17
+2572,ITA1,10,Como,WWWWW,36,13,9,14,48,48,49,-1
+239,ITA1,11,Torino,LWLDL,36,10,14,12,44,39,42,-3
+118,ITA1,12,Udinese,LLDWL,36,12,8,16,44,39,51,-12
+3263,ITA1,13,Genoa,DLLLD,36,9,13,14,40,32,45,-13
+2925,ITA1,14,Cagliari,LLWLL,36,8,9,19,33,37,54,-17
+119,ITA1,15,Hellas Verona,DLLLD,36,9,6,21,33,31,64,-33
+115,ITA1,16,Parma,DWDLL,36,6,14,16,32,41,56,-15
+17530,ITA1,17,Venezia,WDLDW,36,5,14,17,29,30,50,-20
+113,ITA1,18,Lecce,LLDLD,36,6,10,20,28,25,58,-33
+2574,ITA1,19,Empoli,LDLLW,36,5,13,18,28,29,56,-27
+4007,ITA1,20,Monza,LLLLW,36,3,9,24,18,27,64,-37
+4,,1,Belgrano (Córdoba),DWDWW,6,3,3,0,12,7,3,4
+12,,1,Lanús,WWWWL,6,4,1,1,13,12,3,9
+15,,1,Racing Club,WWLWW,6,5,0,1,15,14,3,11
+21,,1,Vélez Sarsfield,DDWLW,27,14,9,4,51,38,16,22
+127,,1,Hamburg SV,LDLWW,33,16,11,6,59,76,41,35
+148,,1,PSV Eindhoven,WWWWW,33,24,4,5,76,100,38,62
+160,,1,Paris Saint-Germain,WDLLW,33,25,6,2,81,89,34,55
+164,,1,Spain,WWW,0,0,0,0,0,0,0,0
+215,,1,Honduras,WW,2,2,0,0,6,9,2,7
+223,,1,Toluca,WW,2,2,0,0,6,5,2,3
+229,,1,Necaxa,LW,2,1,0,1,3,3,2,1
+232,,1,Tigres UANL,WW,2,2,0,0,6,4,2,2
+251,,1,Ross County,WWWW,4,4,0,0,12,10,3,7
+254,,1,Falkirk,WLWW,4,3,0,1,9,11,2,9
+256,,1,Celtic,WWDWW,37,29,4,4,91,111,25,86
+258,,1,Hibernian,WWLW,4,3,0,1,9,14,2,12
+261,,1,Dundee,WWWW,4,4,0,0,12,18,2,16
+263,,1,Aberdeen,WWWW,4,4,0,0,12,15,1,14
+266,,1,Motherwell,WDWD,3,2,1,0,8,7,2,5
+267,,1,St Johnstone,WWLW,4,3,0,1,9,11,5,6
+273,,1,Lorient,WDWLW,34,22,5,7,71,68,31,37
+279,,1,Doncaster Rovers,DWWWW,45,23,12,10,81,71,49,22
+280,,1,Barnet,DDWWW,46,31,9,6,102,97,38,59
+339,,1,Colchester United,WDW,3,2,1,0,7,6,2,4
+343,,1,Chesterfield,DWW,3,2,1,0,8,5,3,2
+344,,1,Wycombe Wanderers,LWW,3,2,0,1,6,7,5,2
+346,,1,Blackpool,WDD,3,1,2,0,6,6,3,3
+352,,1,Wrexham,WWD,3,2,1,0,7,6,2,4
+357,,1,Leeds United,WWWWW,45,28,13,4,97,93,29,64
+358,,1,Bolton Wanderers,WDW,3,2,1,0,7,6,4,2
+372,,1,Charlton Athletic,WWW,3,3,0,0,9,6,1,5
+400,,1,Stockport County,WWL,3,2,0,1,6,8,4,4
+402,,1,Rotherham United,WWW,2,2,0,0,6,5,1,4
+432,,1,Galatasaray,WWWWW,33,27,5,1,86,84,31,53
+435,,1,Olympiacos,LWWWW,32,23,6,3,75,58,22,36
+459,,1,Belgium,LWD,0,0,0,0,0,0,0,0
+463,,1,North Macedonia,WWWWW,6,5,1,0,16,10,1,9
+464,,1,Norway,WWLWW,6,4,1,1,13,15,7,8
+465,,1,Turkey,WLW,0,0,0,0,0,0,0,0
+466,,1,Sweden,WDWWW,6,5,1,0,16,19,4,15
+467,,1,South Africa,WWDWW,6,4,2,0,14,16,5,11
+472,,1,Slovenia,DDD,0,0,0,0,0,0,0,0
+481,,1,Germany,WWD,0,0,0,0,0,0,0,0
+483,,1,Moldova,WWLW,4,3,0,1,9,5,1,4
+484,,1,FCSB,DWWWW,8,6,2,0,48,16,8,8
+576,,1,The New Saints,WWLWW,31,25,0,6,75,86,30,56
+578,,1,Wales,WDWDW,6,3,3,0,12,9,4,5
+586,,1,Northern Ireland,LDWWD,6,3,2,1,11,11,3,8
+588,,1,San Marino,WLDW,4,2,1,1,7,5,3,2
+607,,1,Silkeborg IF,WWLDW,30,12,10,8,46,52,37,15
+621,,1,Barry Town,WLWWW,31,14,7,10,49,50,51,-1
+624,,1,Algeria,WWWDW,6,5,1,0,16,16,2,14
+653,,1,Angola,WWWDD,6,4,2,0,14,7,2,5
+654,,1,Senegal,WWWWW,6,5,1,0,16,10,1,9
+656,,1,Cameroon,DWWDW,6,4,2,0,14,8,2,6
+657,,1,Nigeria,DWWDL,6,3,2,1,11,9,3,6
+790,,1,Shabab Al-Ahli,LWDWW,6,4,1,1,13,17,11,6
+874,,1,Corinthians,WLWWW,6,4,1,1,13,14,2,12
+884,,1,Olimpia,DDLWW,18,10,5,3,35,29,13,16
+909,,1,F.C. København,LWWWD,30,16,9,5,57,53,33,20
+989,,1,FC Basel,WWW,36,21,7,8,70,85,37,48
+1538,,1,Levante,WLDWW,40,20,13,7,73,65,40,25
+2022,,1,Cruzeiro,DDWWW,6,3,3,0,12,8,3,5
+2250,,1,Sporting CP,WWWWD,33,24,7,2,79,86,27,59
+2276,,1,Al Ittihad,LWWWW,32,24,5,3,77,75,33,42
+2555,,1,Linfield,WWWLL,33,24,4,5,76,61,23,38
+2567,,1,Burton Albion,WLW,3,2,0,1,6,9,5,4
+2620,,1,Egypt,WWWDD,6,4,2,0,14,12,2,10
+2652,,1,Guatemala,WW,2,2,0,0,6,9,0,9
+2658,,1,Nicaragua,WW,2,2,0,0,6,8,1,7
+2664,,1,Suriname,WW,2,2,0,0,6,8,1,7
+2666,,1,New Zealand,W,3,3,0,0,9,19,1,18
+2675,,1,Olimpia,LWDDW,22,12,8,2,44,29,13,16
+2680,,1,Alianza Lima,LDDDL,6,2,4,0,10,7,4,3
+2685,,1,Universitario,WWLWD,16,11,3,2,36,31,10,21
+2688,,1,Colo Colo,LDLDD,6,4,2,0,14,9,5,4
+2690,,1,Independiente Medellín,WWWDW,6,4,1,1,13,16,7,9
+2720,,1,Malmö FF,DDWDW,30,19,8,3,65,67,25,42
+2727,,1,FC Volendam,WLWWL,38,26,4,8,82,87,48,39
+2753,,1,Canada,WWW,3,3,0,0,9,13,0,13
+2755,,1,France,L,3,2,0,1,6,6,5,1
+2764,,1,Sweden,WDWD,4,2,2,0,8,7,5,2
+2812,,1,Mexico,DWW,3,2,1,0,7,10,0,10
+2849,,1,Mali,WWDWW,6,4,2,0,14,10,1,9
+2850,,1,Congo DR,WWWLL,6,4,0,2,12,7,3,4
+2869,,1,Morocco,WWWWW,6,6,0,0,18,26,2,24
+2980,,1,Bodo/Glimt,LDDWW,30,18,8,4,62,71,31,40
+3019,,1,FC Zürich,LWW,36,15,8,13,53,52,51,1
+3616,,1,Royal Charleroi SC,WLWWW,36,13,9,14,30,47,41,6
+3746,,1,SK Sturm Graz,WLLWW,30,19,5,6,39,64,35,29
+3997,,1,Sassuolo,WWDLL,37,25,7,5,82,78,37,41
+4137,,1,La Serena,DWLWD,6,3,2,1,11,8,5,3
+4277,,1,Zambia,WDWWW,6,4,1,1,13,7,4,3
+4411,,1,LASK Linz,WWWWD,30,16,5,9,37,51,35,16
+4888,,1,New Caledonia,W,3,2,1,0,7,7,4,3
+4895,,1,Indonesia,WDLL,0,0,0,0,0,0,0,0
+5264,,1,Atlético Nacional,WLDWW,6,4,1,1,13,13,4,9
+5276,,1,Levadiakos,WDWWL,34,11,11,12,44,46,41,5
+5489,,1,Deportes Tolima,WWLLW,6,3,1,2,10,7,7,0
+5492,,1,Liverpool,LWLLL,6,5,1,0,16,12,3,9
+5518,,1,Cambodia,DLWL,0,0,0,0,0,0,0,0
+6071,,1,Antofagasta,DLWLW,6,3,1,2,10,10,12,-2
+6086,,1,Botafogo,LWLWW,2,2,0,0,6,3,0,3
+6272,,1,Fortaleza,WWLDW,6,4,1,1,13,15,8,7
+7084,,1,Mamelodi Sundowns,WWWWW,27,23,1,3,70,63,13,50
+7119,,1,Jeonbuk Motors,WLWWL,6,4,0,2,12,16,4,12
+7138,,1,Buriram United,WWLLW,30,22,4,4,70,92,20,72
+7477,,1,Vissel Kobe,LWDDW,38,21,9,8,72,61,36,25
+7517,,1,USM Alger,DWDWW,5,3,2,0,11,12,2,10
+7635,,1,Sport,DWDWW,8,5,2,1,17,16,8,8
+7915,,1,Llaneros,WLWLW,3,2,0,1,6,8,3,5
+8040,,1,Lion City Sailors,WWLWL,31,22,5,4,71,96,32,64
+8293,,1,Persib,WWLDD,30,18,10,2,64,54,27,27
+8371,,1,Sharjah,DWLWW,6,4,1,1,13,13,8,5
+8377,,1,Esperance Sportive de Tunis,DWLWW,5,3,1,1,10,8,2,6
+8392,,1,Zamalek,DWDWW,5,3,2,0,11,8,3,5
+8601,,1,Comoros,DWDWW,6,3,3,0,12,7,4,3
+8896,,1,Churchill Brothers,WWDDD,22,11,7,4,40,45,25,20
+9739,,1,Aldosivi,WWLDW,38,17,13,8,64,41,24,17
+11268,,1,São Bernardo,LWWDL,12,7,2,3,23,19,16,3
+11336,,1,Krasnodar,LWWWL,28,18,7,3,61,54,22,32
+11553,,1,Aris,WWDDW,32,16,8,8,35,42,32,10
+11678,,1,Curacao,WW,2,2,0,0,6,6,1,5
+15107,,1,Traktor Sazi FC,WWWD,4,3,1,0,10,16,4,12
+15515,,1,Shanghai Port,WWLWW,30,25,3,2,78,96,30,66
+17374,,1,Unión Magdalena,WWWLW,16,10,4,2,34,26,13,13
+17640,,1,Spain,D,3,3,0,0,9,5,1,4
+17689,,1,Johor Darul Ta'zim,WWWWW,24,23,1,0,70,90,8,82
+17814,,1,San Martín (Tucumán),WWDWD,38,24,9,5,81,43,18,25
+17832,,1,Louisville City FC,WDWDW,34,24,4,6,76,86,43,43
+17851,,1,FC Juarez,WD,2,1,1,0,5,3,1,2
+18015,,1,Spartans FC,LWWW,4,3,0,1,9,7,3,4
+18206,,1,Orlando Pride,W,26,18,6,2,60,46,20,26
+18832,,1,Al Hilal Omdurman,WWDLL,5,3,1,1,10,6,3,3
+18966,,1,LAFC,WWWWW,34,19,7,8,64,63,43,20
+19156,,1,Latvia,WW,2,2,0,0,6,3,1,2
+19195,,1,Deportes Limache,DLWWW,6,3,2,1,11,12,7,5
+19221,,1,RSB Berkane,WWWDW,5,4,1,0,13,7,1,6
+19256,,1,Lyon,WWDWW,22,20,2,0,62,92,7,85
+19265,,1,Hermannstadt,DDWWW,8,4,3,1,36,11,6,5
+19345,,1,Poland,WWWD,4,3,1,0,10,9,2,7
+19408,,1,New Mexico United,LLDDL,34,18,5,11,59,46,44,2
+19415,,1,CS Constantine,WLWWL,5,4,0,1,12,12,4,8
+19970,,1,Chelsea,DWWWW,22,19,3,0,60,56,13,43
+20091,,1,Barcelona,WWWWW,29,27,0,2,81,122,16,106
+20114,,1,FC Twente,WWWWW,21,17,3,1,54,66,17,49
+20232,,1,Inter Miami CF,DDWWW,34,22,8,4,74,79,49,30
+20280,,1,Melbourne City,WWWWW,23,16,7,0,55,56,22,34
+20684,,1,Union Omaha,WDWWW,22,15,3,4,48,47,24,23
+20774,,1,Mohun Bagan Super Giant,WWWDW,24,17,5,2,56,47,16,31
+20851,,1,Athletic,LL,6,3,1,2,10,11,8,3
+20864,,1,Malta,LWWW,4,3,0,1,9,7,5,2
+20883,,1,Slovakia ,WWWW,4,4,0,0,12,14,0,14
+20884,,1,Serbia,WDWW,4,3,1,0,10,5,0,5
+20886,,1,Ukraine,WWWD,4,3,1,0,10,6,3,3
+20921,,1,Slovenia,WWWW,4,4,0,0,12,10,1,9
+20967,,1,Luxembourg,DWWW,4,3,1,0,10,15,5,10
+21480,,1,Montenegro,DWD,3,1,2,0,5,4,2,2
+21486,,1,Israel,WWD,3,2,1,0,7,9,5,4
+21563,,1,Nigeria U17,WWW,3,3,0,0,9,9,1,8
+21572,,1,Spain U17,WWW,3,3,0,0,9,10,2,8
+21801,,1,FAR Rabat,DDWDD,5,2,3,0,9,7,3,4
+22303,,1,North Korea U17,WWW,2,2,0,0,6,7,1,6
+22309,,1,Poland U17,DWD,2,1,1,0,4,2,0,2
+22344,,1,Auckland FC,DDWWL,26,15,8,3,53,49,27,22
+22413,,1,Tigres UANL,WWWD,4,3,1,0,10,18,6,12
+22415,,1,América,WLWW,4,3,0,1,9,14,3,11
+5,,2,Boca Juniors,WLWDW,6,3,2,1,11,10,6,4
+19,,2,Talleres (Córdoba),WWWWL,27,13,9,5,48,34,27,7
+122,,2,FC Cologne,DWLDW,33,17,7,9,58,49,38,11
+139,,2,Ajax Amsterdam,WLDLD,33,23,6,4,75,65,32,33
+176,,2,Marseille,LWWDW,33,19,5,9,62,70,45,25
+183,,2,Columbus Crew,DLWWW,34,19,9,6,66,72,40,32
+187,,2,LA Galaxy,LWWWL,34,19,7,8,64,69,50,19
+216,,2,Atlas,WL,2,1,0,1,3,2,2,0
+218,,2,Cruz Azul,DD,2,0,2,0,3,1,1,0
+225,,2,Santos,LD,2,0,1,1,2,0,3,-3
+227,,2,América,WLDLW,17,10,4,3,34,34,10,24
+233,,2,Pumas UNAM,LD,2,0,1,1,2,3,4,-1
+234,,2,Pachuca,DL,2,0,1,1,2,2,3,-1
+249,,2,Raith Rovers,WWLD,4,2,1,1,8,7,4,3
+257,,2,Rangers,DDDWW,37,22,8,7,74,78,39,39
+259,,2,Livingston,WWWL,4,3,0,1,9,5,1,4
+264,,2,Dundee United,LWWW,4,3,0,1,9,10,5,5
+314,,2,Lincoln City,LWW,3,2,0,1,6,7,2,5
+315,,2,York City,WWDWW,46,29,9,8,96,95,42,53
+335,,2,Huddersfield Town,LWW,3,2,0,1,6,7,3,4
+338,,2,Reading,WLW,3,2,0,1,6,6,2,4
+345,,2,Tranmere Rovers,LWW,3,2,0,1,6,5,4,1
+348,,2,Port Vale,WLDWL,45,22,14,9,80,65,45,20
+350,,2,Wigan Athletic,LWD,3,1,1,1,5,3,2,1
+379,,2,Burnley,WWWWW,45,27,16,2,97,66,15,51
+392,,2,Birmingham City,DWW,3,2,1,0,7,12,2,10
+396,,2,Crewe Alexandra,WLW,3,2,0,1,6,7,5,2
+403,,2,Alloa Athletic,DWWL,4,2,1,1,8,7,5,2
+414,,2,Montrose,LDWW,4,2,1,1,7,6,5,1
+422,,2,Queen's Park,WLWW,4,3,0,1,9,16,5,11
+436,,2,Fenerbahce,WDWLW,33,24,6,3,78,84,33,51
+443,,2,Panathinaikos,WWLWL,32,17,8,7,59,42,32,10
+449,,2,Netherlands,WDL,0,0,0,0,0,0,0,0
+453,,2,Malta,LWWD,4,2,1,1,7,2,2,0
+455,,2,Greece,WWWLW,6,5,0,1,15,11,4,7
+462,,2,Bulgaria,WDLWD,6,2,3,1,9,3,6,-3
+468,,2,Slovakia,WLD,0,0,0,0,0,0,0,0
+477,,2,Croatia,LDD,0,0,0,0,0,0,0,0
+479,,2,Denmark,DDD,0,0,0,0,0,0,0,0
+524,,2,Maccabi Tel-Aviv,DLWDW,34,22,8,4,74,78,36,42
+557,,2,St. Gallen,DLD,36,12,13,11,49,49,49,0
+570,,2,Club Brugge,DLDWW,30,17,8,5,59,65,36,29
+572,,2,FC Midtjylland,WLWWD,30,17,5,8,56,59,39,20
+579,,2,Armenia,LDLLW,6,2,1,3,7,8,9,-1
+580,,2,Scotland,LDL,0,0,0,0,0,0,0,0
+620,,2,SK Brann,WWWLD,30,17,8,5,59,55,33,22
+659,,2,Tunisia,WLDWL,6,3,1,2,10,7,6,1
+819,,2,Flamengo,WWWWW,2,1,1,0,4,5,1,4
+929,,2,Al Hilal,WDWWW,32,22,5,5,71,92,40,52
+936,,2,Sint-Truidense,LWLWD,34,9,10,15,37,46,63,-17
+977,,2,Shanghai Shenhua,WWWDW,30,24,5,1,77,73,20,53
+1038,,2,Jamaica,WW,2,2,0,0,6,4,2,2
+1929,,2,Benfica,DWWWD,33,25,4,4,79,83,27,56
+1936,,2,Internacional,DWLWW,6,3,2,1,11,6,3,3
+2029,,2,Palmeiras,LW,1,0,1,0,1,1,1,0
+2405,,2,Malaysia,DWLD,0,0,0,0,0,0,0,0
+2495,,2,Hammarby IF,WWWDL,30,16,6,8,54,48,25,23
+2500,,2,Airdrieonians,WWLW,4,3,0,1,9,15,5,10
+2533,,2,Zenit St Petersburg,WWDWW,28,18,6,4,60,54,18,36
+2564,,2,Shamrock Rovers,LWWWW,36,17,10,9,61,50,35,15
+2566,,2,Excelsior,WWWWL,38,22,8,8,74,74,38,36
+2627,,2,Trinidad and Tobago,DW,2,1,1,0,4,9,3,6
+2647,,2,Cuba,LW,2,1,0,1,3,4,3,1
+2654,,2,Haiti,WW,2,2,0,0,6,5,2,3
+2674,,2,Santos,WL,1,1,0,0,3,1,0,1
+2684,,2,Nacional,LWDWL,6,2,2,2,8,6,6,0
+2687,,2,The Strongest,WWWWL,30,18,6,6,60,62,34,28
+2756,,2,Germany,D,3,2,0,1,6,8,5,3
+2758,,2,Japan,L,3,2,0,1,6,6,4,2
+2762,,2,Norway,LWDL,4,1,1,2,4,2,4,-2
+2765,,2,United States,WWL,3,2,0,1,6,9,2,7
+2792,,2,Italy,WLLW,4,2,0,2,6,7,6,1
+2844,,2,Benin,WWLDD,6,2,2,2,8,7,7,0
+2845,,2,Burkina Faso,WWWLL,6,3,1,2,10,10,7,3
+2919,,2,Once Caldas,DDWWL,6,2,3,1,9,8,5,3
+2942,,2,Otelul Galati,WWLWD,9,6,1,2,35,13,5,8
+3153,,2,Viborg FF,DDDDW,30,11,11,8,44,55,48,7
+3458,,2,Athletico Paranaense,WWWLL,6,4,0,2,12,17,5,12
+3552,,2,Santiago Wanderers,WWLDL,6,3,1,2,10,6,5,1
+3751,,2,Elche,WDDWL,39,20,11,8,71,52,32,20
+3802,,2,AFC Wimbledon,WWL,3,2,0,1,6,5,6,-1
+3956,,2,Pisa,WWLDW,37,22,7,8,73,62,35,27
+4128,,2,Deportes Temuco,DLWDW,6,2,2,2,8,9,12,-3
+4133,,2,Cobresal,LLLLL,6,3,1,2,10,11,4,7
+4134,,2,Huachipato,WDLWL,6,3,1,2,10,8,7,1
+4139,,2,Universidad de Chile,LWWWD,30,19,8,3,65,53,24,29
+4178,,2,Republic of Ireland,WLWW,4,3,0,1,9,7,5,2
+4211,,2,Uganda,WWWLW,6,4,1,1,13,8,5,3
+4214,,2,Zimbabwe,DWWDL,6,2,3,1,9,6,4,2
+4231,,2,Gabon,WDWLW,6,3,1,2,10,7,9,-2
+4245,,2,Botswana,LWWDD,6,2,2,2,8,4,7,-3
+4319,,2,Sudan,LDWLD,6,2,2,2,8,4,6,-2
+4422,,2,Palestino,LWWDL,6,4,1,1,13,10,6,4
+4789,,2,Ivory Coast,WWLLW,6,4,0,2,12,12,3,9
+4816,,2,Liga de Quito,WDLLW,6,4,0,2,12,12,5,7
+4818,,2,Deportivo Táchira,LLDLL,6,3,1,2,10,7,5,2
+4862,,2,Fiji,L,3,1,2,0,5,5,4,1
+4863,,2,Tahiti,L,3,2,0,1,6,5,3,2
+4936,,2,Remo,DWDWW,7,4,3,0,15,10,4,6
+5159,,2,England,DWWL,4,2,1,1,7,9,4,5
+5260,,2,CFR Cluj-Napoca,DLDWD,8,3,3,2,39,12,9,3
+5579,,2,Oud-Heverlee Leuven,WDLLL,36,9,18,9,27,37,41,-4
+5778,,2,Tanzania,WLLWW,6,3,1,2,10,5,4,1
+6041,,2,Monagas SC,WWWWD,13,7,4,2,25,22,14,8
+6079,,2,Red Bull Bragantino,LWWWD,6,4,1,1,13,9,8,1
+6517,,2,Czechia,WWLD,4,2,1,1,7,10,3,7
+6851,,2,Paris FC,WWDDW,34,21,6,7,69,55,33,22
+6907,,2,TSV Hartberg,DWDWD,30,9,11,10,25,36,38,-2
+7085,,2,Orlando Pirates,WLWWW,24,18,1,5,55,39,17,22
+7114,,2,Sanfrecce Hiroshima,LLLWL,38,19,11,8,68,72,43,29
+7151,,2,Netherlands,DWWW,4,3,1,0,10,10,5,5
+7166,,2,Annan Athletic,WDWL,4,2,1,1,7,7,5,2
+7245,,2,Real Espana,LWDDW,18,10,5,3,35,27,15,12
+7339,,2,Al-Masry,DLDDW,5,1,3,1,6,4,3,1
+7348,,2,Laos,LDDL,0,0,0,0,0,0,0,0
+7385,,2,Guarani,DDWWD,22,7,14,1,35,22,15,7
+7391,,2,São Luiz-RS,LDLLW,8,2,3,3,9,7,13,-6
+7501,,2,MC Alger,WLDWD,5,2,2,1,8,4,2,2
+7522,,2,Bangkok United,WWWWW,30,21,6,3,69,63,30,33
+7536,,2,Finland,LWDW,4,2,1,1,7,4,1,3
+7591,,2,Connah's Quay,WWLLD,31,12,5,14,41,46,34,12
+7632,,2,Atlético-MG,WWWLW,6,3,1,2,10,7,6,1
+7845,,2,San Martín (San Juan),W,38,19,13,6,70,40,21,19
+7998,,2,Tampines Rovers,WWWLW,30,19,6,5,63,83,35,48
+8354,,2,Asteras Tripoli,WWWLL,32,13,5,14,27,35,40,-5
+8938,,2,Equatorial Guinea,DWWDL,6,2,2,2,8,5,8,-3
+8939,,2,Mozambique,WDWLW,6,3,2,1,11,9,5,4
+9169,,2,Mirassol,WWDDW,38,19,10,9,67,42,26,16
+9283,,2,Universidad Católica (Quito),WWWDL,6,3,2,1,11,8,2,6
+9729,,2,Charleston Battery,WDLDW,34,18,10,6,64,68,35,33
+9779,,2,Spain U19,WDD,2,1,1,0,4,3,2,1
+9903,,2,Racing (Montevideo),WDWWL,6,3,2,1,11,10,8,2
+10143,,2,San Luis,LWLWW,5,3,0,2,9,8,7,1
+10207,,2,Al Ahly,DWLWL,5,3,1,1,10,13,5,8
+11143,,2,Melbourne City FC,WWDDW,26,14,6,6,48,41,25,16
+11337,,2,Colombia,WLW,3,2,0,1,6,8,1,7
+11431,,2,Panetolikos,DLDLW,34,11,9,14,42,25,30,-5
+11766,,2,Puerto Rico,DW,2,1,1,0,4,8,0,8
+13294,,2,Wolfsberger,WDWWW,30,16,6,8,36,58,35,23
+15365,,2,Washington Spirit,WLWWW,26,18,2,6,56,51,28,23
+16721,,2,Gibraltar,DWDD,4,1,3,0,6,4,3,1
+17313,,2,Cuiabá,WDWDW,6,3,3,0,12,9,3,6
+17363,,2,Magallanes,WDWLW,6,4,1,1,13,7,4,3
+17365,,2,Curicó Unido,WLDDW,6,2,2,2,8,7,6,1
+17701,,2,Deportivo Español,WLDWW,24,14,6,4,48,35,17,18
+17739,,2,Selangor,DWLWW,24,16,4,4,52,44,16,28
+17830,,2,Colorado Springs Switchbacks FC,DLLWW,34,15,7,12,52,48,40,8
+18003,,2,FC Goa,WWWWL,24,14,6,4,48,43,27,16
+18260,,2,Deportivo Madryn,D,38,17,13,8,64,35,20,15
+18272,,2,Kosovo,WWWLW,6,4,0,2,12,10,7,3
+19258,,2,Paris Saint-Germain,WWWDW,22,16,4,2,52,57,14,43
+19414,,2,Simba SC,LWWDW,5,3,1,1,10,6,4,2
+19425,,2,Always Ready,DWWDL,6,3,2,1,11,10,7,3
+19973,,2,Arsenal,WWLLW,22,15,3,4,48,62,26,36
+20032,,2,Servette,LDW,36,16,11,9,59,57,49,8
+20038,,2,Penybont FC,DWWWL,31,19,7,5,64,54,29,25
+20039,,2,Larne,DDWWD,33,15,9,9,54,39,28,11
+20075,,2,Aston Villa U21,WDL,3,1,1,1,5,4,6,-2
+20103,,2,Bayern Munich,WWDWL,6,4,1,1,13,17,6,11
+20107,,2,VfL Wolfsburg,LWWWL,6,3,0,3,9,16,5,11
+20220,,2,Pyramids FC,DLWWW,5,3,1,1,10,8,4,4
+20284,,2,Melbourne Victory ,WWWWW,23,16,5,2,53,42,21,21
+20702,,2,Mazatlán FC,LW,2,1,0,1,3,2,1,1
+20802,,2,PSV Eindhoven,WWWWW,21,17,3,1,54,55,11,44
+20852,,2,Pouso Alegre,DWLLW,8,2,2,4,8,7,15,-8
+20860,,2,Al Wehdat,DWWDL,6,3,2,1,11,8,7,1
+20865,,2,Northern Ireland,LWDW,4,2,1,1,7,5,5,0
+20880,,2,Jaraaf,DDWWL,5,2,2,1,8,2,2,0
+20972,,2,Azerbaijan,DWD,3,1,2,0,5,3,1,2
+20974,,2,Bulgaria,LDD,3,0,2,1,2,4,6,-2
+21128,,2,Real Madrid,WWWWD,29,24,3,2,75,85,26,59
+21354,,2,Northern Colorado Hailstorm FC,WWWWW,22,12,5,5,41,34,18,16
+21369,,2,Guarany de Bagé,WWLDL,8,2,3,3,9,6,6,0
+21395,,2,Faroe Islands,LWWW,4,3,0,1,9,8,3,5
+21479,,2,Kosovo,WLW,3,2,0,1,6,7,1,6
+21481,,2,Cyprus,WWDL,4,2,1,1,7,7,6,1
+21485,,2,Kazakhstan,DLWW,4,2,1,1,7,9,6,3
+21565,,2,United States U17,LWW,3,2,0,1,6,8,3,5
+21570,,2,Japan U17,DWW,2,1,1,0,4,2,1,1
+22069,,2,Inter Kashi,WDWDW,22,11,6,5,39,39,33,6
+22305,,2,Ecuador U17,WLW,3,2,0,1,6,6,4,2
+22308,,2,England U17,WWL,2,2,0,0,6,6,2,4
+22352,,2,Nam Dinh,DDWWL,6,3,2,1,11,13,8,5
+22353,,2,Al Wakrah,LWDL,4,1,1,2,4,4,8,-4
+22354,,2,Khaldiya,WWWLW,6,4,0,2,12,14,7,7
+22355,,2,Al Hussein,WWWLD,6,3,1,2,10,11,11,0
+22529,,2,San Diego FC,LLWWW,13,7,2,4,23,25,16,9
+3,,3,Argentinos Juniors,LWLLW,6,3,0,3,9,7,12,-5
+8,,3,Estudiantes de La Plata,WLLLD,6,2,1,3,7,8,9,-1
+142,,3,Feyenoord Rotterdam,WWWLW,33,20,8,5,68,76,36,40
+162,,3,Italy,WLD,0,0,0,0,0,0,0,0
+174,,3,AS Monaco,WDDWW,33,18,7,8,61,63,37,26
+177,,3,Metz,WDLDW,34,18,11,5,65,64,34,30
+214,,3,Costa Rica,DLW,3,1,1,1,4,2,4,-2
+219,,3,Guadalajara,DD,2,0,2,0,2,3,3,0
+220,,3,Monterrey,LD,2,0,1,1,1,1,3,-2
+222,,3,Querétaro,DL,2,0,1,1,1,0,1,-1
+228,,3,León,LD,2,0,1,1,1,2,3,-1
+231,,3,Puebla,LL,2,0,0,2,0,1,4,-3
+236,,3,Nueva Chicago,D,38,18,10,10,64,39,25,14
+247,,3,Partick Thistle,WWLD,3,2,0,1,6,11,5,6
+248,,3,Ayr United,WLWW,4,3,0,1,9,9,5,4
+252,,3,Arbroath,LLDW,4,1,1,2,5,1,5,-4
+282,,3,Forest Green Rovers,LDWWD,46,22,17,7,83,69,42,27
+304,,3,Mansfield Town,LLW,3,1,0,2,3,3,5,-2
+340,,3,Notts County,WLW,3,2,0,1,6,3,3,0
+387,,3,Bradford City,LDDLW,45,21,12,12,75,63,45,18
+398,,3,Sheffield United,LWLWD,45,28,7,10,89,62,35,27
+406,,3,Queen of the South,LWWL,4,2,0,2,6,5,6,-1
+408,,3,Forfar Athletic,LWWL,4,2,0,2,6,5,3,2
+409,,3,Hamilton Academical,DWLD,4,1,2,1,5,5,3,2
+416,,3,Peterhead,LWWL,4,2,0,2,6,5,11,-6
+421,,3,East Fife,WDWL,4,2,1,1,7,8,5,3
+437,,3,FC Porto,WWLWW,33,21,5,7,68,62,30,32
+444,,3,Estonia,LWLDL,6,1,1,4,4,3,9,-6
+445,,3,Cyprus,LLLWL,6,2,0,4,6,4,15,-11
+447,,3,Faroe Islands,LDDWL,6,1,3,2,6,5,6,-1
+470,,3,Iceland,LDLWL,6,2,1,3,7,10,13,-3
+473,,3,Romania,WLD,0,0,0,0,0,0,0,0
+474,,3,Austria,LWW,0,0,0,0,0,0,0,0
+476,,3,Republic of Ireland,LWLWL,6,2,0,4,6,3,12,-9
+480,,3,Hungary,LLW,0,0,0,0,0,0,0,0
+482,,3,Portugal,WWL,0,0,0,0,0,0,0,0
+510,,3,Viking FK,WWWWD,30,16,9,5,57,61,39,22
+571,,3,Glentoran,WLWLD,33,15,9,9,54,40,31,9
+583,,3,Belarus,WDDLD,6,1,4,1,7,3,4,-1
+584,,3,Georgia,LDW,3,1,1,1,4,4,4,0
+587,,3,Andorra,LLLD,4,0,1,3,1,0,4,-4
+589,,3,Liechtenstein,LDDL,4,0,2,2,2,3,6,-3
+605,,3,PAOK Salonika,WLWLW,32,18,4,10,58,62,37,25
+606,,3,KVC Westerlo,WDWLW,36,11,11,14,26,60,59,1
+635,,3,Newport County,LWL,3,1,0,2,3,2,5,-3
+938,,3,Racing Genk,LDLLL,36,23,6,7,41,63,39,24
+994,,3,AIK,LWWLW,30,17,3,10,54,46,41,5
+1011,,3,Delfín,DLDWL,6,2,2,2,8,9,8,1
+1382,,3,Austria Vienna,LWWLL,30,17,5,8,33,43,29,14
+1895,,3,Besiktas,LDWWW,33,16,10,7,58,53,33,20
+1963,,3,CSKA Moscow,WDWDW,28,16,7,5,55,43,19,24
+2646,,3,Cayman Islands,WL,2,1,0,1,3,1,3,-2
+2649,,3,Dominican Republic,LW,2,1,0,1,3,4,1,3
+2650,,3,El Salvador,DW,2,1,1,0,4,3,1,2
+2653,,3,Guyana,LW,2,1,0,1,3,3,3,0
+2661,,3,St. Lucia,LD,2,0,1,1,1,3,4,-1
+2662,,3,St. Kitts and Nevis,LW,2,1,0,1,3,1,4,-3
+2673,,3,Sporting Cristal,WLWWW,16,9,4,3,31,44,15,29
+2686,,3,Barcelona SC,DLLDW,6,1,3,2,6,4,5,-1
+2722,,3,Young Boys,LDW,36,16,9,11,57,53,46,7
+2741,,3,Quilmes,W,38,17,12,9,60,41,24,17
+2754,,3,China,DWL,3,1,1,1,4,5,3,2
+2847,,3,Guinea,LWWWL,6,3,0,3,9,9,5,4
+2848,,3,Kenya,WLLDD,6,1,3,2,6,4,7,-3
+2851,,3,Rwanda,DLWLW,6,2,2,2,8,5,7,-2
+2896,,3,Denmark,LWWL,4,2,0,2,6,6,7,-1
+2934,,3,Haverfordwest,DLDDL,31,13,12,6,51,38,23,15
+3076,,3,FC Sion,WDD,36,10,11,15,41,45,54,-9
+3132,,3,Randers FC,WLDWW,30,13,9,8,48,55,43,12
+3454,,3,Vasco da Gama,WDWWW,2,1,1,0,4,5,3,2
+3683,,3,Iceland,DLDD,4,0,3,1,3,5,6,-1
+3736,,3,SC Cambuur,WDWWW,38,22,5,11,71,63,42,21
+3891,,3,Fleetwood Town,LWL,3,1,0,2,3,6,5,1
+4056,,3,Spezia,DWLLW,37,16,15,6,63,56,32,24
+4135,,3,Rangers de Talca,LWLDW,6,2,1,3,7,5,8,-3
+4276,,3,Congo,LLDLL,6,1,1,4,4,4,12,-8
+4356,,3,Togo,DLLLW,6,1,2,3,5,7,10,-3
+4384,,3,Singapore,WWLD,0,0,0,0,0,0,0,0
+4515,,3,Mirandés,DLWWW,39,20,8,11,68,54,38,16
+4703,,3,Salford City,LLW,3,1,0,2,3,4,6,-2
+4771,,3,Real Salt Lake,DDDWW,34,16,11,7,59,65,48,17
+4815,,3,Atlético Junior,DDDWD,6,1,3,2,6,6,9,-3
+4817,,3,Danubio,DLLWD,6,2,2,2,8,5,4,1
+4861,,3,Solomon Islands,LLW,3,1,0,2,3,4,5,-1
+4864,,3,Vanuatu,WLL,3,1,0,2,3,5,11,-6
+4935,,3,Ypiranga,WDWWL,8,3,3,2,12,6,6,0
+5362,,3,Universidad de Concepción,WWDLD,6,2,2,2,8,7,6,1
+5479,,3,Real Cartagena,WDWLW,16,10,2,4,32,24,9,15
+5484,,3,Millonarios,LLDDL,6,2,1,3,7,8,7,1
+5485,,3,Deportivo Pasto,LWWLD,6,2,1,3,7,5,6,-1
+5779,,3,Burundi,LLLDL,6,1,1,4,4,4,11,-7
+5786,,3,KV Kortrijk,WWLWD,34,9,6,19,33,36,61,-25
+5807,,3,Union St.-Gilloise,LWWWL,30,15,10,5,55,49,25,24
+6073,,3,Santiago Morning,DWLDL,6,1,2,3,5,3,8,-5
+6097,,3,2 de Mayo,WWDLD,22,9,7,6,34,25,18,7
+6137,,3,Bucaramanga,DWDLD,5,1,3,1,6,6,9,-3
+6640,,3,Lesotho,LDLWL,6,1,1,4,4,2,13,-11
+6731,,3,FC Farul Constanta,DWWLD,9,3,4,2,31,12,9,3
+6757,,3,Serbia,LDD,0,0,0,0,0,0,0,0
+6770,,3,Myanmar,LDWL,0,0,0,0,0,0,0,0
+6790,,3,Atromitos,LLDWD,32,12,7,13,26,39,37,2
+7242,,3,CD Motagua,LWWDD,18,8,6,4,30,33,18,15
+7368,,3,Gambia,LDWLW,6,2,2,2,8,6,6,0
+7526,,3,Sepahan,WLWDW,6,3,1,2,10,12,7,5
+8091,,3,Universitatea Cluj,WWLLW,9,4,0,5,38,10,13,-3
+8110,,3,Deportes Concepcion,WDDLL,5,1,2,2,5,9,13,-4
+8118,,3,Sønderjyske Fodbold,WWDDL,30,8,7,15,31,39,61,-22
+8186,,3,Coquimbo Unido,WLDLD,6,1,2,3,5,3,7,-4
+8416,,3,Juventud,WLWDW,14,8,3,3,27,21,14,7
+8600,,3,Sierra Leone,LLWDL,6,1,2,3,5,5,10,-5
+8602,,3,Guinea-Bissau,LLDDL,6,1,2,3,5,4,6,-2
+8618,,3,Raja Casablanca,DLWDW,5,1,2,2,5,3,5,-2
+8937,,3,Niger,DLLWW,6,2,1,3,7,7,6,1
+8940,,3,Mauritania,LLLDW,6,2,1,3,7,3,6,-3
+8950,,3,Defensa y Justicia,DLLDL,6,1,2,3,5,4,8,-4
+9531,,3,Portugal,DWLL,4,1,1,2,4,5,12,-7
+9761,,3,Alianza FC,DLLDW,6,1,2,3,5,5,10,-5
+9999,,3,Boston River,LWDLL,9,6,1,2,19,13,9,4
+10125,,3,Tijuana,LL,2,0,0,2,0,1,6,-5
+10138,,3,San Marcos de Arica,WLWLL,6,2,1,3,7,6,11,-5
+10142,,3,Deportes Iquique,WLWLW,30,14,6,10,48,53,48,5
+10311,,3,Nacional Potosí,LLWWL,6,2,1,3,7,6,13,-7
+10388,,3,SV 07 Elversberg,WDDWW,33,15,10,8,55,62,36,26
+15364,,3,Gotham FC,DWWWW,26,17,5,4,56,41,20,21
+15720,,3,Atlético de San Luis,LD,2,0,1,1,1,3,4,-1
+17086,,3,Independiente del Valle,WLLLW,6,2,1,3,7,6,11,-5
+17699,,3,General Lamadrid,DDLLW,24,13,5,6,44,45,23,22
+18267,,3,FC Cincinnati,DLLLW,34,18,5,11,59,58,48,10
+18396,,3,Democrata GV,LWWW,0,0,0,0,0,0,0,0
+18444,,3,Austria,WLLL,4,1,0,3,3,4,10,-6
+18774,,3,Brighton & Hove Albion U21,DLW,3,1,1,1,4,8,7,1
+18775,,3,Chelsea U21,WLL,3,1,0,2,3,3,6,-3
+18776,,3,Everton U21,WLL,3,1,0,2,3,5,7,-2
+18777,,3,Fulham U21,WLL,3,1,0,2,3,3,9,-6
+18779,,3,Manchester City U21,DDL,3,0,2,1,3,2,7,-5
+18787,,3,Tottenham Hotspur U21,DLL,3,0,1,2,2,4,7,-3
+18794,,3,WSG Swarovski Tirol,LWLLW,30,7,8,15,19,32,46,-14
+18851,,3,Bengaluru FC,WWWDL,24,11,5,8,38,40,31,9
+19179,,3,Detroit City FC,WDDWW,34,15,11,8,56,46,32,14
+19217,,3,ASEC Mimosas,DLDLW,5,1,2,2,5,3,5,-2
+19223,,3,Young Africans,LDWWD,5,2,1,2,7,5,6,-1
+19232,,3,Norway U19,LDW,2,0,1,1,1,1,2,-1
+19262,,3,Harrogate Town,DLD,3,0,2,1,3,3,4,-1
+19299,,3,Arsenal U21,WDL,3,1,1,1,4,4,6,-2
+19341,,3,Real Kashmir,WLWDD,22,10,7,5,37,31,25,6
+19409,,3,Memphis 901 FC,LDDWW,34,14,9,11,51,52,41,11
+19995,,3,Forward Madison FC,DWWDL,22,10,9,3,39,35,18,17
+20043,,3,Volos NFC,WWLWW,34,11,6,17,39,34,47,-13
+20061,,3,Manchester United,WDLDL,22,13,5,4,44,41,16,25
+20077,,3,Manchester United U21,WDL,3,1,1,1,5,7,9,-2
+20086,,3,Western United,WLLWW,26,14,5,7,47,55,37,18
+20092,,3,Juventus,LLLLW,6,2,0,4,6,4,11,-7
+20093,,3,Atlético Madrid,LWDWW,29,15,10,4,55,44,23,21
+20286,,3,Adelaide United ,LWLWW,23,14,3,6,45,44,30,14
+20298,,3,Sabah,DDWDL,24,11,7,6,40,41,33,8
+20698,,3,Estonia,LD,2,0,1,1,1,1,3,-2
+20745,,3,Flint Town United FC,LWWWW,31,12,3,16,39,44,62,-18
+20796,,3,Ajax Amsterdam,DLWLW,21,16,2,3,50,54,21,33
+20814,,3,Sekhukhune United,WWDWD,26,13,6,7,45,36,27,9
+20853,,3,CR Belouizdad,WLWLW,5,2,0,3,6,5,10,-5
+20912,,3,Air Force Club,WLLWL,6,3,0,3,9,8,9,-1
+20919,,3,Hungary,WLLL,4,1,0,3,3,2,5,-3
+20920,,3,Bosnia and Herzegovina,WLLD,4,1,1,2,4,8,9,-1
+20973,,3,Turkey,LWLL,4,1,0,3,3,1,5,-4
+20980,,3,Kaya,LLWDL,6,1,1,4,4,6,14,-8
+21008,,3,Kuwait SC,LLDWD,6,1,3,2,6,9,12,-3
+21027,,3,Ravshan Kulob,LLLW,4,1,0,3,3,3,11,-8
+21030,,3,Albania,LLWW,4,2,0,2,6,8,8,0
+21033,,3,Crystal Palace U21,LWL,3,1,0,2,3,4,6,-2
+21355,,3,Chengdu Rongcheng,LWWDL,30,18,5,7,59,65,31,34
+21362,,3,Sagrada Esperança,DDWLL,5,1,2,2,5,2,6,-4
+21478,,3,Armenia,WWLL,4,2,0,2,6,11,7,4
+21482,,3,Moldova,WLLL,4,1,0,3,3,1,5,-4
+21483,,3,Lithuania,LL,2,0,0,2,0,1,5,-4
+21484,,3,North Macedonia,LLL,3,0,0,3,0,1,9,-8
+21537,,3,Monterrey,LWDW,4,2,1,1,7,8,4,4
+21557,,3,Andorra,LLDW,4,1,1,2,4,5,6,-1
+21561,,3,Brazil U17,WLD,2,1,0,1,3,2,2,0
+21568,,3,Mexico U17,LLL,2,0,0,2,0,3,8,-5
+21573,,3,Colombia U17,DLL,3,0,1,2,1,2,5,-3
+21640,,3,Paris FC,WLDWL,22,13,6,3,45,58,19,39
+21685,,3,Roma,WLLLW,6,3,0,3,9,12,14,-2
+21819,,3,Deportivo Garcilaso,LDLDD,6,1,3,2,6,7,9,-2
+21979,,3,Nottingham Forest U21,WLD,3,1,1,1,4,4,5,-1
+22022,,3,Al Qadsiah,WDWWW,32,20,5,7,65,50,28,22
+22077,,3,Stade Malien,DLLLL,5,1,1,3,4,3,5,-2
+22167,,3,Machida Zelvia,DLWWL,38,19,9,10,66,54,34,20
+22174,,3,GV San José,LWDWL,30,14,6,10,48,62,40,22
+22257,,3,Denmark U19,LLD,2,0,1,1,1,2,3,-1
+22304,,3,Dominican Republic U17,LDL,3,0,1,2,1,1,4,-3
+22408,,3,Hammarby IF,LLLLW,6,2,0,4,6,5,17,-12
+22427,,3,F.C. Bravos do Maquis,WWLDL,5,2,1,2,7,7,10,-3
+22486,,3,EC Noroeste,DLLLD,12,1,5,6,8,12,19,-7
+22489,,3,Betim FC,DLWDW,8,4,3,1,15,12,5,7
+22490,,3,SC Aymorés,DDLLD,8,1,4,3,7,3,5,-2
+22520,,3,Monsoon,LLWDL,8,2,1,5,7,7,14,-7
+22525,,3,FC Naples,DWWLL,8,4,2,2,14,10,6,4
+10,,4,Huracán,LDLWL,27,12,10,5,46,28,18,10
+87,,4,Racing Santander,DWWLD,39,19,10,10,67,60,45,15
+153,,4,FC Utrecht,WWWLD,33,18,9,6,63,62,45,17
+253,,4,Inverness Caledonian Thistle,LWDL,4,1,1,2,4,3,7,-4
+255,,4,Clyde,WLWL,4,2,0,2,6,9,6,3
+265,,4,Dunfermline Athletic,WLLL,4,1,0,3,3,4,5,-1
+302,,4,Shrewsbury Town,LLL,3,0,0,3,0,1,9,-8
+303,,4,Rochdale,WDWWL,46,21,11,14,74,69,44,25
+366,,4,Sunderland,LLLLL,45,21,13,11,76,58,43,15
+386,,4,Grimsby Town,LDL,3,0,1,2,1,4,6,-2
+390,,4,Milton Keynes Dons,LDL,3,0,1,2,2,4,7,-3
+397,,4,Barnsley,LLL,3,0,0,3,0,3,8,-5
+401,,4,Walsall,LDDLW,45,20,14,11,74,74,54,20
+405,,4,Stenhousemuir,WLLL,4,1,0,3,3,5,11,-6
+411,,4,Greenock Morton,LWLW,4,2,0,2,6,3,6,-3
+417,,4,Stirling Albion,LDDL,4,0,2,2,4,2,8,-6
+438,,4,Rosenborg,WWWDW,30,16,5,9,53,52,39,13
+441,,4,Anderlecht,WLWLW,30,15,6,9,51,50,27,23
+448,,4,England,WDD,0,0,0,0,0,0,0,0
+450,,4,Czechia,LDL,0,0,0,0,0,0,0,0
+452,,4,Bosnia and Herzegovina,DLLLD,6,0,2,4,2,4,17,-13
+456,,4,Latvia,WLDLL,6,1,1,4,4,4,11,-7
+457,,4,Ukraine,LWD,3,1,1,1,4,2,4,-2
+458,,4,Finland,LLLLL,6,0,0,6,0,2,13,-11
+460,,4,Lithuania,LLLLL,6,0,0,6,0,4,11,-7
+461,,4,Israel,LLLDW,6,1,1,4,4,5,13,-8
+471,,4,Poland,LLD,3,0,1,2,1,3,6,-3
+475,,4,Switzerland,WDD,0,0,0,0,0,0,0,0
+478,,4,France,WDD,0,0,0,0,0,0,0,0
+492,,4,Grasshoppers,LLW,36,8,12,16,36,40,51,-11
+575,,4,Brøndby IF,DWDLD,30,12,12,6,48,54,42,12
+581,,4,Azerbaijan,LLLDL,6,0,1,5,1,3,17,-14
+582,,4,Luxembourg,LDDLD,6,0,3,3,3,3,7,-4
+585,,4,Albania,LDL,0,0,0,0,0,0,0,0
+596,,4,Dinamo Moscow,DWDWW,28,15,8,5,53,59,31,28
+817,,4,Al Nassr,LWLWD,32,19,7,6,64,74,37,37
+887,,4,AEK Athens,LLLLL,32,16,5,11,53,48,28,20
+1010,,4,OFI Crete,LLLDD,32,10,8,14,20,40,47,-7
+2052,,4,Beijing Guoan,WWWWD,30,16,8,6,56,65,35,30
+2339,,4,Djurgården,DLWLW,30,16,5,9,53,45,35,10
+2502,,4,Nice,DWWWL,33,16,9,8,57,60,41,19
+2594,,4,Crawley Town,DLL,3,0,1,2,2,6,8,-2
+2597,,4,Cape Verde Islands,WLLDL,6,1,1,4,4,3,7,-4
+2619,,4,Kazakhstan,LLLLL,6,0,1,5,1,0,15,-15
+2621,,4,Libya,LLLWD,6,1,2,3,5,3,7,-4
+2638,,4,Antigua and Barbuda,DL,2,0,1,1,1,1,2,-1
+2642,,4,Aruba,LD,2,0,1,1,1,2,4,-2
+2651,,4,Grenada,DL,2,0,1,1,1,2,5,-3
+2655,,4,Montserrat,LL,2,0,0,2,0,2,7,-5
+2681,,4,Bolívar,WWDLW,6,0,1,5,1,3,11,-8
+2683,,4,Peñarol,WLWWW,6,1,2,3,5,5,9,-4
+2726,,4,ADO Den Haag,DWDLW,38,20,10,8,70,69,47,22
+2731,,4,Accrington Stanley,LLW,3,1,0,2,3,4,7,-3
+2751,,4,Australia,LLL,3,0,0,3,0,2,8,-6
+2790,,4,RB Salzburg,WDLWL,30,14,9,7,32,47,33,14
+2976,,4,Greece,LLLL,4,0,0,4,0,2,9,-7
+2994,,4,Braga,WWDDL,33,19,8,6,65,54,29,25
+3307,,4,SC Paderborn 07,LWDWW,33,15,10,8,55,56,43,13
+3445,,4,Fluminense,WDWLL,2,1,1,0,4,3,2,1
+4050,,4,Cremonese,WDDWL,37,16,13,8,61,61,42,19
+4130,,4,Unión San Felipe,LLLLW,6,1,1,4,4,4,11,-7
+4205,,4,Liberia,LLLWL,6,1,1,4,4,4,12,-8
+4325,,4,Malawi,LLLDW,6,1,1,4,4,6,11,-5
+4396,,4,Thailand,WWWW,0,0,0,0,0,0,0,0
+4469,,4,Ghana,DDLDL,6,0,3,3,3,3,7,-4
+4773,,4,Portuguesa,WDDDD,12,2,7,3,13,15,16,-1
+4811,,4,Caracas FC,LDLLL,6,0,1,5,1,2,11,-9
+4885,,4,Papua New Guinea,LDL,3,0,1,2,1,5,8,-3
+4887,,4,Samoa,LLL,3,0,0,3,0,1,15,-14
+4910,,4,Villa Nova-MG,LLLDL,8,1,1,6,4,4,17,-13
+4926,,4,Dungannon Swifts,DLLWW,33,15,5,13,50,44,40,4
+5482,,4,Atlético Huila,LDWWL,16,9,1,6,28,19,14,5
+5488,,4,Independiente Santa Fe,LLLDL,6,0,1,5,1,2,13,-11
+5533,,4,Madagascar,DDLLL,6,0,2,4,2,4,8,-4
+5567,,4,César Vallejo,LLLDW,6,1,1,4,4,6,14,-8
+5777,,4,Ethiopia,LLLLW,6,1,1,4,4,3,12,-9
+6038,,4,Estudiantes de Mérida,DDLWL,13,6,4,3,22,20,14,6
+6046,,4,Aurora,WLLDW,30,12,12,6,48,49,40,9
+6270,,4,Juventude,DL,1,1,0,0,3,1,0,1
+6273,,4,Grêmio,LWWWD,6,0,3,3,3,6,12,-6
+6686,,4,Eswatini,LDLDL,6,0,2,4,2,2,13,-11
+6725,,4,Namibia,LLLDD,6,0,2,4,2,2,7,-5
+6775,,4,Montenegro,LLLLW,6,1,0,5,3,4,9,-5
+6912,,4,UTA Arad,LDLWW,8,4,1,3,30,9,11,-2
+7102,,4,Gamba Osaka,DWWWW,38,18,12,8,66,49,35,14
+7135,,4,Al Sadd,DDWLL,8,3,3,2,12,10,9,1
+7249,,4,Marathon,WWDLD,18,7,8,3,29,25,14,11
+7268,,4,Chinese Taipei,LLL,3,0,0,3,0,0,15,-15
+7312,,4,Melgar,DWWWD,16,9,4,3,31,29,15,14
+7347,,4,Philippines,DDDW,0,0,0,0,0,0,0,0
+7590,,4,Caernarfon,LWDLW,31,13,6,12,45,51,50,1
+7640,,4,FC Luzern,LDL,36,14,10,12,52,63,56,7
+7732,,4,Dunkerque,LWLDD,34,17,5,12,56,47,40,7
+7879,,4,KV Mechelen,LLDWD,36,11,11,14,25,57,53,4
+8089,,4,CSU Craiova,DWLLD,8,3,2,3,37,11,9,2
+8109,,4,América de Cali,DLWLW,6,2,1,3,7,6,8,-2
+8217,,4,Nasaf Quarshi,WLLLL,6,1,1,4,4,7,10,-3
+8380,,4,Club Sportif Sfaxien,LLLLW,5,0,0,5,0,3,10,-7
+8941,,4,Chad,LDLDL,6,0,3,3,3,1,8,-7
+9460,,4,Uberlândia,DLLWL,8,2,3,3,9,10,10,0
+9726,,4,Seattle Sounders FC,DWWWD,34,16,9,9,57,51,35,16
+9786,,4,All Boys,D,38,15,13,10,58,34,24,10
+9969,,4,Ceará,WWWWD,38,19,7,12,64,59,41,18
+10144,,4,Unión La Calera,LDLLL,6,1,1,4,4,1,7,-6
+10266,,4,Avenida,LLLDD,8,0,3,5,3,4,9,-5
+10528,,4,Central African Republic,LLLLL,6,1,0,5,3,3,14,-11
+10674,,4,TP Mazembe,LDLLW,5,0,2,3,2,3,7,-4
+11429,,4,Samsunspor,LLLWW,33,17,6,10,57,50,38,12
+11972,,4,Gimnasia (Mendoza),D,38,17,12,9,63,44,33,11
+12011,,4,Orlando City SC,LWWWL,34,15,7,12,52,59,50,9
+12498,,4,Vejle Boldklub,DLWDW,30,6,7,17,25,34,61,-27
+12633,,4,Scotland,LLLL,4,0,0,4,0,2,13,-11
+12634,,4,Wales,LDLD,4,0,2,2,2,3,5,-2
+13481,,4,Metropolitanos FC,LLLLD,6,0,1,5,1,3,16,-13
+13582,,4,Dominica,LL,2,0,0,2,0,2,9,-7
+13584,,4,St. Vincent and the Grenadines,LL,2,0,0,2,0,2,7,-5
+13696,,4,Western Sydney Wanderers,DWDWW,26,13,7,6,46,58,40,18
+14075,,4,South Sudan,LLLWL,6,1,0,5,3,6,12,-6
+16728,,4,Liverpool U21,LDD,3,0,2,1,3,2,6,-4
+17129,,4,EC Pelotas,LDDLL,8,1,3,4,6,6,13,-7
+17134,,4,Brasil de Pelotas,WLDLD,8,1,4,3,7,5,10,-5
+17349,,4,Berazategui,DWLWW,24,13,4,7,43,32,22,10
+17360,,4,Indy Eleven,DWDWL,34,14,9,11,51,49,50,-1
+17641,,4,Switzerland,DLLD,4,0,2,2,2,4,7,-3
+18004,,4,NorthEast United FC,LWLWW,24,10,8,6,38,46,29,17
+18018,,4,Kelty Hearts,DWLL,4,1,1,2,4,2,8,-6
+18128,,4,Água Santa,DDLDL,12,1,4,7,7,10,23,-13
+18395,,4,Romania,LLDL,4,0,1,3,1,1,7,-6
+18460,,4,Eastern SC,LWLLL,6,1,0,5,3,7,19,-12
+18615,,4,Stellenbosch,LWWWL,26,12,8,6,44,32,20,12
+18736,,4,Belgium,LLLW,4,1,0,3,3,5,11,-6
+18778,,4,Leicester City U21,LLL,3,0,0,3,0,1,7,-6
+18781,,4,Newcastle United U21,DLL,3,0,1,2,2,3,8,-5
+18789,,4,West Ham U21,LLL,3,0,0,3,0,2,7,-5
+18889,,4,Croatia,LLLL,4,0,0,4,0,2,12,-10
+18896,,4,Gokulam Kerala FC,WWWWL,22,11,4,7,37,45,29,16
+18963,,4,Inter de Limeira,DLLDL,12,0,7,5,7,9,19,-10
+18987,,4,Las Vegas Lights FC,WDWLL,34,13,11,10,50,49,46,3
+19197,,4,Deportes Recoleta,LLLDD,6,0,2,4,2,2,11,-9
+19198,,4,Deportes Santa Cruz,DLWDD,6,1,3,2,6,5,9,-4
+19220,,4,Djoliba,DDLLL,5,0,2,3,2,0,6,-6
+19257,,4,Manchester City,WDWDW,22,13,4,5,43,49,28,21
+19300,,4,Wolverhampton Wanderers U21,DLL,3,0,1,2,1,4,8,-4
+19964,,4,Greenville Triumph,DWWLW,22,11,4,7,37,39,28,11
+20115,,4,St. Pölten,LLLLL,6,0,0,6,0,4,20,-16
+20368,,4,South Carolina,L,22,11,7,4,18,48,21,27
+20836,,4,Valerenga,LLDLL,6,0,1,5,1,3,15,-12
+20861,,4,Istiklol,LLLLL,6,0,0,6,0,1,12,-11
+20890,,4,Real Tomayapo,DLLLL,6,0,1,5,1,3,11,-8
+20907,,4,Kansas City Current,DWWWW,25,15,7,3,52,54,30,24
+20909,,4,Belarus,LDDL,4,0,2,2,2,0,5,-5
+20971,,4,Georgia,WLLL,4,1,0,3,3,6,8,-2
+21017,,4,Lee Man,LLLLD,6,0,1,5,1,2,13,-11
+21029,,4,Altyn Asyr,LLLLL,6,0,0,6,0,2,15,-13
+21313,,4,Sportivo Ameliano,WLWLL,22,9,6,7,33,21,16,5
+21372,,4,Athletic Club,LDWLW,29,16,3,10,51,40,26,14
+21559,,4,New Zealand U17,LDL,3,0,1,2,1,2,9,-7
+21639,,4,Dijon,WWWDW,22,13,4,5,43,40,24,16
+21706,,4,Liechtenstein,LLLL,4,0,0,4,0,3,20,-17
+21846,,4,Grazer AK,DLDDD,30,4,12,14,16,32,53,-21
+21850,,4,Deportivo Rayo Zuliano,LLLLD,6,0,1,5,1,1,18,-17
+21970,,4,Panserraikos FC,DLWLD,34,10,7,17,37,40,59,-19
+21978,,4,FC Utrecht,DLWWW,21,12,3,6,39,39,22,17
+21991,,4,Central Coast Mariners,DWWLW,23,9,7,7,34,31,25,6
+21999,,4,Dynamic Herb Cebu,LDLLL,6,0,1,5,1,4,26,-22
+22142,,4,Itabirito,LDWWL,8,2,2,4,8,7,11,-4
+22301,,4,Briton Ferry,DWWLL,31,9,5,17,32,46,60,-14
+22302,,4,South Korea U17,DLL,3,0,1,2,1,1,11,-10
+22306,,4,Zambia U17,LLL,2,0,0,2,0,0,3,-3
+22307,,4,Kenya U17,LLW,2,0,0,2,0,0,5,-5
+22351,,4,Gwangju FC,WLWDD,7,4,2,1,14,15,9,6
+22406,,4,Galatasaray,LLLLL,6,0,0,6,0,1,28,-27
+22407,,4,Celtic,LLLLL,6,0,0,6,0,1,17,-16
+22419,,4,Vancouver Whitecaps,LWLL,4,1,0,3,3,2,16,-14
+22420,,4,Alajuelense,WLLL,4,1,0,3,3,6,10,-4
+22424,,4,Orapa United F.C.,DDLLL,5,0,2,3,2,1,9,-8
+22425,,4,Associação Black Bulls,DWLLL,5,1,1,3,4,6,10,-4
+22426,,4,C.D. Lunda Sul,DLLDW,5,0,2,3,2,1,6,-5
+22428,,4,Stade d'Abidjan,LDLLL,5,0,1,4,1,4,12,-8
+22429,,4,AS Maniema Union,DDLLL,5,0,3,2,3,3,6,-3
+22487,,4,AE Velo Clube,LDWDW,12,3,4,5,13,13,16,-3
+22488,,4,Gibraltar,LLLL,4,0,0,4,0,0,15,-15
+16,,5,River Plate,LWDWL,27,11,10,6,43,38,21,17
+92,,5,Real Oviedo,WDWWD,39,18,12,9,66,52,41,11
+140,,5,AZ Alkmaar,LDWWW,33,16,8,9,56,57,36,21
+166,,5,Lille,WWWDL,33,16,9,8,57,50,35,15
+171,,5,Guingamp,LLWDW,34,17,4,13,55,57,45,12
+332,,5,Oldham Athletic,LWDLW,46,19,16,11,73,64,48,16
+333,,5,Bristol City,DWLLD,45,17,16,12,67,57,53,4
+407,,5,Stranraer,LLLD,4,0,1,3,1,4,10,-6
+415,,5,Dumbarton,DLLL,4,0,1,3,1,4,13,-9
+419,,5,Elgin City,LDLL,4,0,1,3,2,3,14,-11
+519,,5,Rapid Vienna,LLDLW,30,11,8,11,24,38,37,1
+545,,5,Rapid Bucuresti,DLLWD,8,2,3,3,32,9,11,-2
+885,,5,Universidad Católica,LWLDL,30,13,7,10,46,44,34,10
+1941,,5,Spartak Moscow,LWLDL,28,15,6,7,51,49,25,24
+2613,,5,Cove Rangers,LLLW,4,1,0,3,3,2,11,-9
+2637,,5,Barbados,LL,2,0,0,2,0,2,7,-5
+2640,,5,Bahamas,LL,2,0,0,2,0,1,8,-7
+2641,,5,Belize,LL,2,0,0,2,0,1,7,-6
+2643,,5,Bermuda,DL,2,0,1,1,1,2,7,-5
+2644,,5,British Virgin Islands,LL,2,0,0,2,0,0,7,-7
+2715,,5,Molde,WDDWL,30,15,7,8,52,64,36,28
+2832,,5,Edinburgh City,LLLL,4,0,0,4,0,1,16,-15
+3101,,5,FC Nordsjælland,WLLDW,31,13,7,11,46,53,53,0
+3457,,5,Vitória,DWLWW,8,4,2,2,14,12,7,5
+3975,,5,Juve Stabia,LWDLD,37,14,12,11,54,42,41,1
+4172,,5,Newtown,DLLLL,31,6,8,17,26,36,61,-25
+4405,,5,SC Rheindorf Altach,DLWLD,30,5,9,16,16,29,46,-17
+4426,,5,FC Dordrecht,WLWLW,38,20,8,10,68,69,46,23
+5263,,5,Gimnasia y Esgrima (Jujuy),L,38,17,7,14,58,32,27,5
+5309,,5,Guimaraes,WLWWL,33,14,12,7,54,47,35,12
+5328,,5,Melbourne Victory,WWLWD,26,12,7,7,43,44,36,8
+5584,,5,Nacional,LDLDD,22,8,9,5,33,22,16,6
+6037,,5,Carabobo,DWLDD,13,5,5,3,20,17,13,4
+6077,,5,Houston Dynamo FC,WLWLW,34,15,9,10,54,47,39,8
+6087,,5,Nova Iguaçu,WDWWW,2,1,1,0,4,3,2,1
+7115,,5,Kashima Antlers,WDDWW,38,18,11,9,65,60,41,19
+7349,,5,Vietnam,WWDW,0,0,0,0,0,0,0,0
+7521,,5,Shandong Taishan,DWWDW,30,13,9,8,48,49,40,9
+7599,,5,Crusaders,LDLWL,33,15,5,13,50,41,43,-2
+7672,,5,FC Lugano,WLL,36,15,7,14,52,53,56,-3
+7860,,5,Lyngby Boldklub,LDWDL,30,4,12,14,24,22,37,-15
+7914,,5,Istanbul Basaksehir,WWLWL,33,15,6,12,51,55,49,6
+8346,,5,Al Ahli,WWWWL,31,19,4,8,61,63,32,31
+8365,,5,Al Wasl,DWDLL,8,3,2,3,11,8,12,-4
+8664,,5,Timor-Leste,LLLL,0,0,0,0,0,0,0,0
+8830,,5,Terengganu,WDLLW,24,9,8,7,35,35,26,9
+8942,,5,Anguilla,LL,2,0,0,2,0,0,12,-12
+9707,,5,Fortuna Düsseldorf,WDDDW,33,14,11,8,53,55,48,7
+10149,,5,Colegiales,WWWWW,0,0,0,0,0,0,0,0
+10157,,5,San Telmo,W,38,18,11,9,62,49,25,24
+10605,,5,Bonnyrigg Rose,LDLL,4,0,1,3,2,3,13,-10
+12603,,5,Petrolul Ploiesti,DWLLL,8,2,2,4,28,8,10,-2
+15366,,5,North Carolina Courage,L,26,12,3,11,39,34,28,6
+17544,,5,Antwerp,DDWLW,37,13,12,12,28,53,45,8
+17757,,5,Port,DLDWW,30,13,9,8,48,52,39,13
+17828,,5,Sacramento Republic FC,LDDLL,34,13,10,11,49,46,34,12
+18127,,5,Novorizontino,WWLDL,38,18,10,10,64,43,31,12
+18288,,5,Cardiff MU,DLDDL,31,12,8,11,44,42,44,-2
+18850,,5,Jamshedpur FC,LWDLL,24,12,2,10,38,37,43,-6
+19298,,5,TS Galaxy,LDLDL,27,8,10,9,34,29,29,0
+19976,,5,Brighton & Hove Albion,LLWWL,22,8,4,10,28,35,41,-6
+20288,,5,Canberra United ,LLWWW,23,9,6,8,33,28,31,-3
+20293,,5,Atlético Grau,WWDWW,16,7,8,1,29,22,10,12
+20301,,5,Mjällby AIF,WWDDW,30,14,8,8,50,44,35,9
+20695,,5,Orense,WDLDD,14,7,3,4,24,18,16,2
+20984,,5,Feyenoord Rotterdam,LWLLW,21,12,2,7,38,53,26,27
+20996,,5,Winterthur,WWL,36,10,6,20,36,39,66,-27
+21140,,5,Granada,WWWLL,29,14,3,12,45,42,44,-2
+21300,,5,Charlotte FC,WDWWW,34,14,9,11,51,46,37,9
+21312,,5,Rajasthan United,LWWWL,22,9,6,7,33,34,33,1
+21637,,5,FC Fleury 91,WLWLL,22,9,6,7,33,40,30,10
+21821,,5,One Knoxville,DDWDD,22,9,8,5,35,23,16,7
+22164,,5,Rhode Island FC,WWDDW,34,12,15,7,51,56,41,15
+22325,,5,Athens Kallithea,LWDLD,34,6,12,16,30,31,52,-21
+22421,,5,Frazsiers Whip,LLLL,4,0,0,4,0,1,30,-29
+22422,,5,Santa Fe,LLLL,4,0,0,4,0,2,11,-9
+22535,,5,Vinotinto,WWLLL,12,5,3,4,18,20,14,6
+7,,6,Colón (Santa Fe),D,38,16,10,12,58,40,26,14
+130,,6,Kaiserslautern,LLWDW,33,15,8,10,53,56,51,5
+144,,6,De Graafschap,LWLWW,38,19,8,11,65,73,50,23
+152,,6,FC Twente,DLWWL,33,15,9,9,54,62,47,15
+180,,6,Strasbourg,DDWWL,33,16,9,8,57,54,41,13
+250,,6,St Mirren,WDWWD,37,14,7,16,49,52,58,-6
+309,,6,Leyton Orient,WWWWW,45,23,6,16,75,68,47,21
+312,,6,FC Halifax Town,LWLWL,46,19,13,14,70,50,46,4
+388,,6,Coventry City,DWLLW,45,19,9,17,66,62,58,4
+442,,6,Lokomotiv Moscow,LWDDW,28,14,7,7,49,45,38,7
+793,,6,Al Shabab,DDLWW,32,17,6,9,57,61,38,23
+2026,,6,São Paulo,DDLLL,38,17,8,13,59,53,43,10
+2227,,6,Enyimba,LWWWL,37,14,13,10,55,38,34,4
+2496,,6,Dinamo Bucuresti,LDLDL,9,1,2,6,31,9,17,-8
+2671,,6,Cerro Porteño,DDLLL,22,8,5,9,29,26,28,-2
+2723,,6,Coleraine,LWLLW,33,13,10,10,49,49,41,8
+2986,,6,AaB,LLLDL,30,5,9,16,24,31,61,-30
+3039,,6,Fredrikstad,LDDWW,30,14,9,7,51,39,35,4
+3257,,6,Catanzaro,LLDWD,37,11,19,7,52,51,45,6
+3393,,6,Tokyo Verdy 1969,WWDLD,38,14,14,10,56,51,51,0
+3395,,6,Goiás,WWWWW,38,18,9,11,63,56,32,24
+3611,,6,KAA Gent,WDDWL,30,11,12,7,45,41,33,8
+4132,,6,Unión Española,WWWLL,30,13,6,11,45,53,45,8
+5267,,6,Alianza Atlético,WWLWD,16,8,5,3,29,15,13,2
+5321,,6,Adelaide United,LLWDD,26,10,8,8,38,53,55,-2
+5487,,6,Deportes Quindío,WDWLW,16,7,3,6,24,23,18,5
+5496,,6,Rampla Juniors,LLLLD,9,4,2,3,14,10,10,0
+6832,,6,Almería,WLWWL,39,17,11,11,62,68,55,13
+7079,,6,Amazulu,LWLWD,27,10,4,13,34,28,33,-5
+7525,,6,Esteghlal,LDDDW,8,2,3,3,9,8,9,-1
+7612,,6,Aberystwyth,LLLWD,31,6,2,23,20,27,70,-43
+7853,,6,AGF,LLLLL,31,10,10,11,40,51,43,8
+8222,,6,GAIS,LDDWW,30,14,6,10,48,36,34,2
+8239,,6,Tianjin Jinmen Tiger,LWLWL,30,12,6,12,42,44,47,-3
+9970,,6,CRB,LW,8,2,0,6,6,9,13,-4
+10496,,6,Bala Town,DLDLW,31,7,13,11,34,35,41,-6
+10532,,6,French Guiana,LDLL,4,0,1,3,1,4,7,-3
+11551,,6,Lausanne Sports,WDL,36,14,9,13,51,58,50,8
+12215,,6,Santa Clara,LDWDW,33,16,6,11,54,34,31,3
+15106,,6,Muangthong United,LLWDW,30,13,6,11,45,46,39,7
+15362,,6,Portland Thorns FC,LLWLW,26,10,4,12,34,37,35,2
+17352,,6,Estudiantes (Buenos Aires),D,38,14,14,10,56,34,32,2
+17361,,6,Tampa Bay Rowdies,LLLDW,34,14,8,12,50,55,46,9
+17362,,6,Minnesota United FC,WWDWW,34,15,7,12,52,58,49,9
+17606,,6,New York City FC,DWWWL,34,14,8,12,50,54,49,5
+17826,,6,Charlotte Independence,DLLDW,22,9,7,6,34,37,31,6
+18002,,6,Mumbai City FC,LDDLW,24,9,9,6,36,29,28,1
+18066,,6,Annecy,WDWLW,34,14,9,11,51,42,43,-1
+18134,,6,Portuguesa-RJ,DWDLL,2,1,0,1,3,2,2,0
+18320,,6,Politehnica Iasi,WWDDL,8,3,3,2,28,9,3,6
+18455,,6,Orange County SC,DWWDW,34,13,7,14,46,38,45,-7
+18814,,6,Lamia,LDLWL,34,4,8,22,20,20,58,-38
+18983,,6,Kuala Lumpur,WWLLW,24,11,4,9,31,40,33,7
+20707,,6,Aston Villa,WWWWW,22,7,4,11,25,32,44,-12
+20729,,6,Eyupspor,WLLLL,34,14,8,12,50,49,44,5
+20856,,6,Degerfors IF,WLDLW,9,4,1,4,13,15,16,-1
+20966,,6,SK Austria Klagenfurt,DLLDL,30,6,8,16,15,33,69,-36
+21428,,6,Real Sociedad,LDLWW,29,12,5,12,41,39,41,-2
+21538,,6,Yverdon,DDL,36,8,11,17,35,35,64,-29
+21638,,6,Montpellier,DWLDW,22,10,3,9,33,34,36,-2
+21666,,6,Western United,LWWLD,23,9,6,8,33,39,46,-7
+21843,,6,Libertad (Ecuador),DWWDW,15,6,5,4,23,20,18,2
+21950,,6,FC Blau-Weiß Linz,LWDLL,30,11,4,15,20,34,41,-7
+21977,,6,AZ Alkmaar,WWLWD,21,11,3,7,36,38,28,10
+22071,,6,Namdhari,LLLWL,22,9,5,8,32,30,27,3
+22536,,6,Yunnan Yukun,LLWWW,13,5,3,5,18,19,21,-2
+11,,7,Independiente,WLWWD,27,9,13,5,40,25,17,8
+167,,7,Lyon,WLWLL,33,16,6,11,54,63,46,17
+184,,7,Colorado Rapids,WLLLL,34,15,5,14,50,61,60,1
+190,,7,New York Red Bulls,DLWLL,34,11,14,9,47,55,50,5
+262,,7,Heart of Midlothian,DLWWW,37,14,7,16,49,51,47,4
+310,,7,Southend United,LDWWD,46,17,17,12,68,59,48,11
+391,,7,Millwall,WLWWL,45,18,12,15,66,46,46,0
+529,,7,IF Elfsborg,LLLWD,30,13,6,11,45,52,44,8
+555,,7,Legia Warsaw,WWWLL,6,4,0,2,12,13,5,8
+559,,7,Standard Liege,LWLLD,30,10,9,11,39,22,35,-13
+789,,7,Goztepe,LDWWD,33,12,11,10,47,54,41,13
+2689,,7,Fénix ,LLDLL,9,4,1,4,13,10,12,-2
+2923,,7,Palermo,WLLWD,37,14,9,14,51,51,42,9
+3266,,7,Stade Laval,LWWDL,34,14,8,12,50,44,38,6
+3384,,7,FC Tokyo,WLLLW,38,15,9,14,54,53,51,2
+3706,,7,Go Ahead Eagles,DDLDW,33,14,9,10,51,54,50,4
+3735,,7,Telstar,DWWLW,38,17,10,11,61,69,47,22
+3747,,7,Granada,WWDLL,39,16,11,12,59,59,49,10
+3851,,7,Rubin Kazan,WLWLW,28,12,6,10,42,36,40,-4
+4129,,7,Everton CD,LLWWD,30,12,9,9,45,47,41,6
+4786,,7,Madureira,LLLLL,2,1,0,1,3,1,1,0
+5327,,7,Sydney FC,WDWLL,26,10,7,9,37,53,46,7
+6047,,7,Blooming,DWDLW,30,13,6,11,45,36,43,-7
+7099,,7,Polokwane City,WLLDD,26,8,9,9,33,19,23,-4
+7527,,7,Al Rayyan,WDDWL,8,2,2,4,8,8,12,-4
+7597,,7,Cliftonville,WWWLW,33,13,7,13,46,44,37,7
+8363,,7,Al Ettifaq,DWLWL,31,12,7,12,43,39,43,-4
+8831,,7,Perak,LDWLW,24,8,6,10,30,36,36,0
+9292,,7,Técnico Universitario,WWWDL,14,6,4,4,22,24,13,11
+9811,,7,Stromsgodset,WLWLW,30,10,8,12,38,32,40,-8
+10148,,7,Central Córdoba (Rosario),WLWLW,24,10,6,8,36,28,25,3
+10151,,7,Defensores de Belgrano,L,38,15,13,10,58,38,24,14
+10382,,7,1. FC Magdeburg,LWDLL,33,13,11,9,50,60,50,10
+11995,,7,Cusco FC,WWLLW,16,8,4,4,28,26,22,4
+12698,,7,FC Famalicao,LDLLW,34,12,11,11,47,44,39,5
+17090,,7,Deportivo La Guaira,DDLWL,13,5,5,3,20,13,11,2
+17827,,7,Pittsburgh Riverhounds,DWWWW,34,12,12,10,48,41,28,13
+17998,,7,Odisha FC,DWLDW,24,8,9,7,33,44,37,7
+18187,,7,Operario PR,LWWDD,38,16,10,12,58,34,32,2
+18203,,7,Zhejiang Professional FC,DLWDD,30,11,5,14,38,55,60,-5
+18773,,7,Sepsi Sfantu Gheorghe,LDLDW,8,1,2,5,26,6,14,-8
+19145,,7,Racing (Córdoba),D,38,14,11,13,53,37,36,1
+19971,,7,Liverpool,LWDLL,22,7,4,11,25,22,37,-15
+20281,,7,Brisbane Roar,LLLDL,23,8,2,13,26,46,42,4
+20687,,7,Oakland Roots,LDLWL,34,13,5,16,44,37,57,-20
+21316,,7,General Caballero JLM,DLWWD,22,6,10,6,28,18,21,-3
+21427,,7,Granadilla Tenerife,LLLWD,29,10,9,10,39,36,35,1
+21584,,7,Fortuna Sittard,DWWLL,21,5,5,11,20,20,40,-20
+22130,,7,Spokane Velocity FC,LLLLD,22,7,6,9,27,26,35,-9
+22187,,7,Bay FC,L,26,11,1,14,34,31,41,-10
+22328,,7,Nantes,DLLLL,22,5,8,9,23,17,30,-13
+22473,,7,Dempo Sports Club,WLWDW,22,8,5,9,29,35,33,2
+147,,8,NEC Nijmegen,WLDWW,33,11,7,15,40,49,45,4
+173,,8,Bastia,WLLDW,34,11,15,8,48,43,37,6
+365,,8,Blackburn Rovers,WWWWD,45,19,8,18,65,52,47,5
+900,,8,Boavista,DDLWW,2,1,0,1,3,3,4,-1
+997,,8,Trabzonspor,WWWDL,33,12,10,11,46,53,42,11
+2428,,8,Hannover 96,LLWWD,33,13,11,9,50,40,35,5
+2509,,8,Portadown,DLWWW,33,13,7,13,46,39,38,1
+3138,,8,Gateshead,WLLLD,46,19,10,17,67,76,68,8
+3337,,8,Cesena,LLWWW,37,13,11,13,50,45,47,-2
+3372,,8,Cienciano del Cusco,LDWLW,16,7,2,7,23,21,24,-3
+3707,,8,FC Emmen,LLLWL,38,17,5,16,56,56,53,3
+3852,,8,Rostov,LWDDL,28,10,8,10,38,40,41,-1
+5413,,8,Huesca,WLDLL,39,16,10,13,58,53,42,11
+5493,,8,Miramar Misiones,WDDLD,9,3,4,2,13,8,10,-2
+5583,,8,Sportivo Luqueño,WDLWL,22,6,8,8,26,27,32,-5
+6054,,8,Jorge Wilstermann,LLDDW,30,11,11,8,44,35,30,5
+6101,,8,Cúcuta Deportivo,LWWWD,16,7,2,7,23,22,16,6
+6154,,8,América Mineiro,WLWLW,38,15,13,10,58,50,35,15
+6763,,8,Zamora,DWWLW,13,6,2,5,20,15,14,1
+6997,,8,Brest,DLLWW,33,15,5,13,50,52,53,-1
+7104,,8,Shimizu S-Pulse,WWLLD,16,6,4,6,22,21,19,2
+7112,,8,Kawasaki Frontale,LDDWW,38,13,13,12,52,66,57,9
+7123,,8,Pakhtakor Tashkent,LDDLW,8,1,4,3,7,4,6,-2
+7834,,8,BK Häcken,WWLLL,30,12,6,12,42,54,51,3
+8112,,8,PSM Makassar,WDLLW,30,10,14,6,44,38,28,10
+8240,,8,Henan Songshan Longmen,WLLDD,30,9,9,12,36,34,39,-5
+9682,,8,FC Botosani,LLWDL,8,3,1,4,26,9,11,-2
+9720,,8,CF Montréal,WWWLW,34,11,10,13,43,48,64,-16
+9725,,8,North Carolina FC,WWLWW,34,13,9,12,48,54,43,11
+9727,,8,Vancouver Whitecaps,DLLLL,34,13,8,13,47,52,49,3
+9785,,8,Atlético Tucumán,WLDLW,27,11,7,9,40,28,27,1
+9967,,8,Bahia,LDWLW,38,15,8,15,53,49,49,0
+10058,,8,San Miguel,D,38,13,14,11,53,34,33,1
+10743,,8,Gimnasia y Tiro (Salta),L,38,14,16,8,58,27,22,5
+11913,,8,Chippa United,DLLLL,27,8,6,13,30,21,27,-6
+15360,,8,Chicago Stars FC,LWLLL,25,10,2,13,32,30,35,-5
+17176,,8,Mushuc Runa,DWLDD,14,5,7,2,22,25,22,3
+17545,,8,Richmond Kickers,WDDWL,22,6,6,10,24,25,34,-9
+17740,,8,Pahang,LWWWW,24,7,8,9,29,35,39,-4
+17850,,8,Phoenix Rising FC,LWWLL,34,11,9,14,42,33,39,-6
+17997,,8,Kerala Blasters FC,LLDWD,24,8,5,11,29,33,37,-4
+18126,,8,Ferroviária,DLWDD,8,2,5,1,11,8,6,2
+18459,,8,Al Taawoun,LWLLD,32,11,9,12,42,35,34,1
+18898,,8,Shillong Lajong,LLLDD,22,7,7,8,28,46,45,1
+19340,,8,Macarthur FC,DWDLL,26,9,6,11,33,50,45,5
+19972,,8,Everton,LDLWD,22,6,6,10,24,24,32,-8
+20285,,8,Sydney FC ,WWWWL,23,7,4,12,25,23,29,-6
+20798,,8,ADO Den Haag,DLWDW,21,4,6,11,18,23,43,-20
+21424,,8,Sevilla,WLDWD,29,10,6,13,36,31,44,-13
+21581,,8,Casa Pia,DLDWL,34,12,9,13,45,39,44,-5
+21635,,8,Le Havre AC,LDDDL,22,5,6,11,21,22,42,-20
+22165,,8,KFUM Oslo,LLLLW,30,9,10,11,37,35,36,-1
+22526,,8,AV Alta FC,LWWLD,6,2,1,3,7,7,9,-2
+20,,9,Unión (Santa Fe),LLLWD,27,11,7,9,40,27,26,1
+106,,9,Bari,LLWLD,37,10,17,10,47,41,40,1
+146,,9,Heerenveen,LWWLL,33,11,7,15,40,40,57,-17
+175,,9,Lens,LWLWD,33,14,7,12,49,38,39,-1
+260,,9,Kilmarnock,LWWWL,37,12,8,17,44,45,63,-18
+271,,9,FC Den Bosch,LDDWL,38,15,10,13,55,53,48,5
+369,,9,Middlesbrough,LWLDL,45,18,10,17,64,64,54,10
+633,,9,Altrincham,LLWLD,46,17,13,16,64,68,62,6
+1007,,9,Defensor Sporting,WWLLD,9,3,3,3,12,12,11,1
+2670,,9,Libertad,LDLWW,22,7,5,10,26,23,29,-6
+4471,,9,Karlsruher SC,DWWDD,33,13,10,10,49,54,55,-1
+5002,,9,Sarpsborg FK,LWDDW,30,10,7,13,37,43,55,-12
+5323,,9,Newcastle Jets,LWLLD,26,8,6,12,30,43,44,-1
+5495,,9,Plaza Colonia,LDLDL,14,5,4,5,19,12,11,1
+6870,,9,Kasimpasa,DLWDW,33,11,13,9,46,57,56,1
+6994,,9,Grenoble,LLWWL,34,13,7,14,46,43,44,-1
+7081,,9,Kaizer Chiefs,LDDLL,26,8,6,12,30,24,31,-7
+7116,,9,Yokohama F. Marinos,DWWWL,38,15,7,16,52,61,62,-1
+7427,,9,Ñublense,LWWLL,30,11,7,12,40,40,34,6
+7595,,9,Ballymena,WLDLL,33,13,4,16,43,40,42,-2
+8225,,9,Changchun Yatai,LLWDD,30,8,8,14,32,46,58,-12
+8447,,9,Córdoba,DDDWL,39,14,12,13,54,56,56,0
+8547,,9,IK Sirius,WLLDL,30,12,5,13,41,47,46,1
+8834,,9,PDRM,LWLWL,24,7,6,11,27,25,36,-11
+8897,,9,SC East Bengal,WWWDL,24,8,4,12,28,27,33,-6
+9693,,9,Pohang Steelers,LLWLL,7,2,0,5,6,9,17,-8
+9723,,9,Portland Timbers,DDLDD,34,12,11,11,47,65,56,9
+9743,,9,Ferro Carril Oeste,DLDLD,38,12,14,12,50,51,45,6
+9973,,9,Vila Nova,LLWLL,38,16,7,15,55,42,54,-12
+10101,,9,Centro Español,DLWWL,24,10,4,10,34,26,23,3
+11505,,9,Jagiellonia Bialystok,WWDLD,6,3,2,1,11,10,5,5
+11990,,9,Mitre (Santiago del Estero),DDWDW,38,13,18,7,57,27,20,7
+12216,,9,Estoril,LLWLD,33,11,10,12,43,44,53,-9
+13830,,9,C.D.Real Sociedad,DWLDL,18,1,9,8,12,11,26,-15
+17373,,9,Barranquilla FC,WLWWD,16,6,4,6,22,19,20,-1
+18265,,9,San Antonio FC,WDWDL,34,10,9,15,39,36,49,-13
+18418,,9,Atlanta United FC,DDLWW,34,10,10,14,40,46,49,-3
+18461,,9,Persepolis,DDWLD,8,1,4,3,7,6,10,-4
+19405,,9,Birmingham Legion FC,DLLLW,34,13,6,15,45,44,51,-7
+19975,,9,West Ham United,DDWLL,22,6,5,11,23,36,41,-5
+20800,,9,Heerenveen,LLLLL,21,4,3,14,15,24,46,-22
+20855,,9,Sampaio Correa RJ,LWWLW,2,0,1,1,1,4,5,-1
+20905,,9,Racing Louisville FC,LLLWL,25,7,7,11,28,32,36,-4
+21133,,9,Wellington Phoenix,LLLLD,23,7,3,13,24,25,30,-5
+21311,,9,Sreenidi Deccan,WDDLD,22,7,7,8,28,34,37,-3
+21376,,9,Eibar,LDDLL,29,9,8,12,35,21,40,-19
+21822,,9,Lexington,LLLDW,22,5,6,11,21,33,42,-9
+21965,,9,Al Riyadh,LDLWL,32,10,8,14,38,35,48,-13
+22271,,9,Akron Tolyatti,WLDWW,28,10,5,13,35,37,49,-12
+22314,,9,Unirea Slobozia,WLDDW,8,2,5,1,24,9,7,2
+22329,,9,Strasbourg,LWDDW,22,3,8,11,17,22,39,-17
+143,,10,Fortuna Sittard,LWLWD,33,11,7,15,40,37,54,-17
+170,,10,Troyes,DWWLW,34,13,5,16,44,36,34,2
+172,,10,AJ Auxerre,LLWLD,33,11,9,13,42,47,48,-1
+193,,10,D.C. United,LDWWL,34,10,10,14,40,52,70,-18
+269,,10,1. FC Nürnberg,WLDLL,33,13,6,14,45,56,56,0
+383,,10,West Bromwich Albion,WLLDW,45,14,19,12,61,52,44,8
+573,,10,Glenavon,DLLWW,33,10,9,14,39,35,43,-8
+645,,10,Tamworth,WLLWD,46,17,13,16,64,65,72,-7
+882,,10,El Nacional,LLLDW,14,4,4,6,16,14,19,-5
+2737,,10,Albacete,DWLWL,40,14,12,14,54,54,56,-2
+3279,,10,Sandefjord,WLWWL,30,9,7,14,34,41,46,-5
+3822,,10,Rio Ave,DLWDD,34,9,11,14,38,39,55,-16
+3850,,10,Krylia Sovetov,WDWLL,28,8,6,14,30,35,48,-13
+4138,,10,Audax Italiano,WLLWL,30,10,4,16,34,36,39,-3
+4806,,10,Volta Redonda,LLDLL,2,0,1,1,1,3,4,-1
+5325,,10,Central Coast Mariners,WLLDL,26,5,11,10,26,29,51,-22
+5501,,10,Wanderers,DLLWD,9,3,2,4,11,11,12,-1
+6499,,10,Luján,LWDWL,24,10,4,10,34,28,31,-3
+7109,,10,Cerezo Osaka,LDWLL,38,13,13,12,52,43,48,-5
+7120,,10,Ulsan Hyundai,LLLWL,7,1,0,6,3,4,16,-12
+7129,,10,Al Gharafa,DLLWL,8,2,1,5,7,10,18,-8
+7466,,10,Trinidense,LWDWD,22,6,7,9,25,25,28,-3
+7648,,10,Konyaspor,WWWLW,34,13,7,14,46,43,46,-3
+7764,,10,Platense,WLWLW,27,10,9,8,39,20,18,2
+8221,,10,IF Brommapojkarna,WDLLL,30,8,10,12,34,46,53,-7
+9966,,10,Avaí,WLDWW,38,14,11,13,53,34,32,2
+10162,,10,Temperley,DDWDD,38,11,19,8,52,30,25,5
+11139,,10,Suditrol,WWWDD,37,12,9,16,45,50,57,-7
+13317,,10,Marumo Gallants,WWDDW,26,8,6,12,30,24,37,-13
+13913,,10,Agropecuario,DWDLL,38,13,10,15,49,44,45,-1
+17939,,10,Juticalpa,LLLLW,18,3,3,12,12,7,28,-21
+18162,,10,Penang,DLWWL,24,6,8,10,26,31,38,-7
+18446,,10,FC Tulsa,LLDLW,34,9,11,14,38,33,48,-15
+18748,,10,Jong AZ,LWDWW,38,14,10,14,52,69,63,6
+18894,,10,Punjab FC,LLLWD,24,8,4,12,28,34,38,-4
+18895,,10,Aizawl FC,LWLDW,22,6,5,11,23,35,46,-11
+19002,,10,Montevideo City Torque,WDWLL,14,4,5,5,17,15,20,-5
+19141,,10,Utah Royals,WWWDL,26,7,4,15,25,22,40,-18
+19181,,10,South Georgia Tormenta FC,DLDLL,22,4,8,10,20,33,42,-9
+19411,,10,Hartford Athletic,LWWDL,34,12,8,14,44,39,52,-13
+20282,,10,Perth Glory,DWLLL,23,6,4,13,22,27,43,-16
+20797,,10,PEC Zwolle,LLWLL,21,3,4,14,13,15,44,-29
+20889,,10,Independiente Petrolero,LWLLL,30,9,9,12,36,48,58,-10
+20906,,10,Austin FC,LDWLW,34,11,9,14,42,39,48,-9
+21036,,10,Leicester City,DLLDW,22,5,5,12,20,21,37,-16
+21314,,10,ADT,LLWDW,16,5,5,6,20,17,16,1
+21387,,10,Marica,LLDLL,11,3,3,5,12,11,17,-6
+21425,,10,Madrid CFF,LDLLD,29,8,6,15,30,33,59,-26
+21829,,10,Al Khaleej,LDLLW,32,10,7,15,37,38,52,-14
+21925,,10,Gloria Buzau,LLLLL,8,2,0,6,16,4,14,-10
+21963,,10,Saint-Étienne,LLLDL,22,5,2,15,17,16,62,-46
+22198,,10,Qingdao West Coast,WLLDW,30,8,8,14,32,41,58,-17
+22537,,10,Dalian Yingbo,LDWLD,12,3,5,4,14,13,18,-5
+129,,11,Hertha Berlin,DWDWL,33,12,7,14,43,48,50,-2
+151,,11,Sparta Rotterdam,WDLWD,33,9,12,12,39,38,40,-2
+169,,11,Stade Rennais,WWLLW,33,13,2,18,41,49,46,3
+185,,11,FC Dallas,WLLDW,34,11,8,15,41,54,56,-2
+318,,11,Swansea City,WWWLD,45,17,9,19,60,48,53,-5
+323,,11,Hartlepool United,DLWLD,46,14,18,14,60,59,62,-3
+2497,,11,Apoel Nicosia,LWWWD,6,3,2,1,11,8,5,3
+2573,,11,Modena,WLLDL,37,10,15,12,45,48,49,-1
+2682,,11,Oriente Petrolero,WLLLL,30,10,5,15,35,44,58,-14
+2791,,11,Valerenga,LWLLD,8,2,2,4,8,10,13,-3
+3129,,11,Bromley,LWWDW,45,16,15,14,63,61,59,2
+3335,,11,SC Amiens,WWLWL,34,13,4,17,43,38,50,-12
+3643,,11,Kayserispor,WDWDW,33,11,11,11,44,43,51,-8
+3696,,11,Moreirense,LLDLD,33,9,10,14,37,39,50,-11
+3732,,11,FC Eindhoven,WLWLW,38,14,9,15,51,58,64,-6
+5486,,11,Deportivo Pereira,WWDDW,18,6,7,5,25,19,19,0
+5498,,11,River Plate,LDWWL,9,3,2,4,11,11,16,-5
+6017,,11,Aucas,DDLWW,15,4,4,7,16,16,22,-6
+6672,,11,Kristiansund BK,LDLWL,30,8,10,12,34,32,45,-13
+7108,,11,Nagoya Grampus,LLDLW,38,15,5,18,50,44,47,-3
+7318,,11,Toronto FC,LLDLL,34,11,4,19,37,40,61,-21
+7465,,11,Sol de América,WDDLW,22,5,6,11,21,22,26,-4
+8352,,11,Wellington Phoenix FC,WLLLL,26,6,6,14,24,27,43,-16
+8544,,11,IFK Norrköping,LDWWL,30,9,7,14,34,36,57,-21
+8835,,11,Kedah,LLLDL,24,6,6,12,21,21,51,-30
+9655,,11,Al-Shorta,LLLDW,8,1,3,4,6,7,17,-10
+9744,,11,Independiente Rivadavia,WWWWD,27,10,8,9,38,23,25,-2
+9769,,11,Itagüí Leones,WLLWL,16,4,6,6,18,18,21,-3
+10102,,11,Claypole,WWLLW,24,9,6,9,33,32,20,12
+10163,,11,Tristán Suárez,LWLWW,38,12,12,14,48,45,47,-2
+10265,,11,Bangu,DLLWL,2,0,0,2,0,0,3,-3
+10307,,11,Manta F.C.,WLDLW,12,3,4,5,13,16,22,-6
+10318,,11,Sport Huancayo,WLLLD,16,5,3,8,18,20,27,-7
+11691,,11,Carrick,LWDDL,33,6,9,18,27,24,48,-24
+12597,,11,Burgos,DDLLW,39,15,9,15,54,37,42,-5
+18000,,11,Chennaiyin FC,WWLLW,24,7,6,11,27,34,39,-5
+18825,,11,Richards Bay,LLWLW,26,8,5,13,29,17,26,-9
+18995,,11,Academia Puerto Cabello,DLWDD,13,2,6,5,12,13,15,-2
+19410,,11,Loudoun United FC,WLDLL,34,11,9,14,42,44,39,5
+19685,,11,Estudiantes de Río Cuarto,WDDLD,38,12,15,11,51,27,28,-1
+20000,,11,Chattanooga Red Wolves,DDLLL,22,5,3,14,18,28,48,-20
+20062,,11,Tottenham Hotspur,DLDLD,22,5,5,12,20,26,44,-18
+20287,,11,Newcastle Jets ,WLLLL,23,5,5,13,20,29,53,-24
+20799,,11,Excelsior,LDLLL,21,1,7,13,10,15,65,-50
+21154,,11,Espanyol,DWDLL,29,6,11,12,29,23,48,-25
+21370,,11,Monterey Bay,LWDLL,34,8,10,16,34,29,44,-15
+21422,,11,Angel City FC,LWDDL,26,7,6,13,24,29,42,-13
+21506,,11,Wuhan Three Towns,DWLLL,30,8,7,15,31,31,44,-13
+21643,,11,Stade de Reims,LDLWL,22,4,3,15,15,24,49,-25
+21828,,11,Damac,LWLLW,31,9,7,15,34,37,48,-11
+21888,,11,Amazonas,LWDLW,38,14,10,14,52,31,37,-6
+22300,,11,Dynamo Makhachkala,WLLLL,28,6,9,13,27,25,33,-8
+22472,,11,SC Bengaluru,LWLLD,22,5,6,11,21,24,42,-18
+90,,12,Deportivo La Coruña,DDLWL,39,13,14,12,53,54,46,8
+145,,12,FC Groningen,LWWLD,33,10,9,14,39,40,51,-11
+149,,12,Roda JC Kerkrade,WLDLL,38,13,10,15,49,49,57,-8
+179,,12,Toulouse,LLDWD,33,10,9,14,39,41,41,0
+399,,12,Sheffield Wednesday,LLWDD,45,15,12,18,57,59,68,-9
+2503,,12,AC Ajaccio,DDLWL,34,12,6,16,42,30,42,-12
+2672,,12,Deportivo Cali,LWLDL,18,5,9,4,24,14,14,0
+3017,,12,Halmstads BK,LWWWL,30,10,3,17,33,32,50,-18
+3231,,12,Sutton United,LDLWD,46,15,15,16,60,59,64,-5
+3456,,12,Coritiba,WLLLL,38,14,8,16,50,41,44,-3
+3794,,12,Antalyaspor,WDLWL,33,12,7,14,43,36,58,-22
+3812,,12,SV Darmstadt 98,DWDLL,33,10,9,14,39,53,54,-1
+3942,,12,Reggiana,WWWWL,37,11,11,15,44,41,50,-9
+4820,,12,Tacuary,DLWLD,22,4,5,13,17,17,35,-18
+5326,,12,Brisbane Roar,LWDWW,26,5,6,15,21,32,51,-19
+6762,,12,Portuguesa,DLWLL,13,3,2,8,11,12,21,-9
+7107,,12,Avispa Fukuoka,DWLWL,38,12,14,12,50,33,38,-5
+7128,,12,Al-Ain,LLDLL,8,0,2,6,2,11,22,-11
+7424,,12,FC Khimki,LLDDD,28,5,11,12,26,32,49,-17
+7878,,12,Dender,LDLLL,30,8,8,14,32,33,51,-18
+9770,,12,Tigres,LWLWL,16,5,3,8,18,14,24,-10
+9902,,12,Cerro Largo,WDWWW,9,2,3,4,9,5,7,-2
+10146,,12,Atlanta,WLDWL,38,13,12,13,51,30,34,-4
+10739,,12,Philadelphia Union,WDLLL,34,9,10,15,37,62,55,7
+11978,,12,Deportivo Maipú,DDLDL,38,13,9,16,48,37,49,-12
+15363,,12,Seattle Reign FC,LLLWL,26,6,5,15,23,27,44,-17
+15784,,12,Arouca,DWLDD,33,8,11,14,35,31,48,-17
+17339,,12,Tombense,DDLLD,19,5,8,6,23,22,21,1
+18159,,12,Miami FC,LLLLL,34,3,2,29,11,26,89,-63
+18439,,12,Macará,DLDLL,15,4,3,8,15,15,27,-12
+18611,,12,Magesi FC,WWWWD,25,8,5,12,29,17,27,-10
+19407,,12,El Paso Locomotive FC,WDLWL,34,8,8,18,32,27,46,-19
+20174,,12,Hyderabad,LDLLD,24,4,6,14,18,22,47,-25
+20283,,12,Western Sydney ,LLLDL,23,4,4,15,16,28,46,-18
+21037,,12,Crystal Palace,LLLDL,22,2,4,16,10,20,65,-45
+21149,,12,Levante Badalona,LLLWD,29,6,10,13,28,24,40,-16
+21353,,12,Central Valley Fuego FC,LWLWL,22,5,3,14,18,27,51,-24
+21379,,12,Universitario de Vinto,LLLDW,30,9,7,14,34,36,47,-11
+21380,,12,Hamarkameratene,WDLLL,30,8,9,13,33,34,39,-5
+21585,,12,Telstar,LDLLL,21,1,5,15,8,20,59,-39
+21636,,12,Guingamp,LLWLW,22,3,0,19,9,15,85,-70
+21812,,12,St. Louis CITY SC,WWLWL,34,8,13,13,37,50,63,-13
+21910,,12,Qingdao Hainiu,LLLLW,30,8,5,17,29,28,55,-27
+22028,,12,Al Kholood,LLLLW,31,10,4,17,34,37,59,-22
+22070,,12,Delhi FC,LLLLD,22,3,5,14,14,21,44,-23
+22168,,12,Los Chankas,WLWLD,16,4,5,7,17,17,21,-4
+22281,,12,Pafos,LWLWD,6,3,1,2,10,11,7,4
+22524,,12,Westchester SC,WLDLL,6,1,2,3,5,11,14,-3
+133,,13,Schalke 04,LDLLL,33,10,8,15,38,51,60,-9
+186,,13,Sporting Kansas City,WLLLL,34,8,7,19,31,51,66,-15
+341,,13,Swindon Town,WWLDD,45,15,16,14,61,71,63,8
+395,,13,Watford,LLLLD,45,16,8,21,56,52,60,-8
+2556,,13,IFK Göteborg,WLLDL,30,7,10,13,31,33,43,-10
+2565,,13,PEC Zwolle,DLWDW,33,9,11,13,38,41,51,-10
+2975,,13,Instituto (Córdoba),WDWLL,27,10,6,11,36,32,31,1
+3385,,13,Urawa Red Diamonds,DWDLD,38,12,12,14,48,49,45,4
+3610,,13,Cercle Brugge KSV,DDDLL,30,7,11,12,32,29,44,-15
+3699,,13,Gil Vicente,WWLDD,34,8,10,16,34,34,47,-13
+3752,,13,Eibar,DDDLW,39,13,13,13,52,39,39,0
+3775,,13,Helmond Sport,LDLLL,38,12,10,16,46,53,61,-8
+3897,,13,Eastleigh,LDWDL,46,14,17,15,59,58,61,-3
+3988,,13,Carrarese,WLWLD,37,11,11,15,44,38,48,-10
+4812,,13,Deportivo Cuenca,LLWDL,14,4,4,6,13,15,16,-1
+5270,,13,Tromso,LDLWL,30,9,6,15,33,34,44,-10
+5322,,13,Perth Glory,LLWLW,26,4,5,17,17,22,56,-34
+5490,,13,Cerro,DDDLL,9,2,3,4,9,8,14,-6
+7080,,13,SuperSport United,LDDDW,24,6,8,10,26,16,24,-8
+7868,,13,Angers,WLLWW,33,10,6,17,36,32,51,-19
+10154,,13,Deportivo Morón,DLDWD,38,9,14,15,41,27,38,-11
+10678,,13,Pau,DDWLL,34,10,12,12,42,39,53,-14
+13033,,13,Al Fateh,WDWLL,32,9,6,17,33,43,59,-16
+13150,,13,Nizhny Novgorod,DLWLW,28,7,5,16,26,26,51,-25
+15424,,13,Paysandu,LWWDW,38,12,14,12,50,41,43,-2
+17372,,13,Boca Juniors de Cali,DLLWL,16,4,5,7,17,15,21,-6
+18199,,13,Cangzhou Mighty Lions,DLDLL,30,7,8,15,29,33,57,-24
+18284,,13,Güemes,LWLWD,38,10,15,13,45,32,37,-5
+18985,,13,Deportivo Binacional,DLWLD,11,3,3,5,12,14,19,-5
+18986,,13,Nashville SC,DLLLW,34,9,9,16,36,38,54,-16
+19433,,13,Carlos A. Mannucci,LLWWD,16,4,4,8,16,21,28,-7
+20070,,13,Gaziantep FK,WLLLL,33,12,6,15,42,41,46,-5
+20842,,13,Mohammedan SC,LLDLD,24,2,7,15,13,12,43,-31
+21423,,13,San Diego Wave FC,WLLLW,25,5,7,13,22,21,34,-13
+21426,,13,Levante,WWDLD,29,7,7,15,28,29,45,-16
+22137,,13,San Antonio Bulo Bulo,LWLLL,30,8,7,15,31,40,58,-18
+22528,,13,Portland Hearts of Pine,DDLDD,5,0,4,1,4,4,5,-1
+22530,,13,Bryne,WLLLW,7,2,0,5,6,8,13,-5
+2,,14,Almagro,LLLLL,38,8,14,16,38,27,47,-20
+6,,14,Chacarita Juniors,WDWLD,38,11,12,15,45,35,44,-9
+189,,14,New England Revolution,WLLLL,34,9,4,21,31,37,74,-37
+191,,14,San Jose Earthquakes,LLWLL,34,6,3,25,21,41,78,-37
+285,,14,Stevenage,LWLDD,45,15,11,19,56,41,49,-8
+381,,14,Norwich City,LLLDW,45,13,15,17,54,67,66,1
+500,,14,Olimpija Ljubljana,WWWLD,6,3,1,2,10,7,6,1
+2991,,14,Akhmat Grozny,WLLDL,28,4,12,12,24,26,44,-18
+3070,,14,SpVgg Greuther Furth,DLLLD,33,9,9,15,36,42,57,-15
+3243,,14,Stade de Reims,WWDLL,33,8,9,16,33,32,45,-13
+3327,,14,Haugesund,LWWLW,30,9,6,15,33,29,46,-17
+3472,,14,C.D. Nacional,WLDLD,33,9,7,17,34,32,47,-15
+3708,,14,Heracles Almelo,WLLWL,33,9,11,13,38,41,61,-20
+3731,,14,VVV-Venlo,WDWLL,38,11,8,19,41,44,69,-25
+3842,,14,Cádiz,LDWLW,39,13,13,13,52,50,50,0
+3991,,14,Mantova,LWLWD,37,10,13,14,43,47,56,-9
+4928,,14,Fortaleza CEIF,WDLWL,19,5,5,9,20,15,24,-9
+5570,,14,Sport Boys,WLDDL,16,4,4,8,16,14,30,-16
+6072,,14,O'Higgins,LLLLL,30,8,7,15,31,34,53,-19
+7077,,14,Golden Arrows,DLLLL,25,6,8,11,26,16,29,-13
+7422,,14,Imbabura,LLLDL,15,3,2,10,11,17,31,-14
+7656,,14,Caykur Rizespor,LWLWL,33,12,4,17,40,39,52,-13
+7719,,14,Rodez Aveyron,DLDDD,34,9,12,13,39,56,54,2
+9497,,14,Guabirá,WWDDL,30,8,6,16,30,36,53,-17
+10281,,14,Botafogo-SP,WWLLW,38,11,12,15,45,36,51,-15
+13061,,14,Solihull Moors,WWLLD,46,16,10,20,58,61,67,-6
+17346,,14,Houston Dash,LLWLL,26,5,5,16,20,20,42,-22
+17371,,14,Bogotá FC,DDWLL,16,4,3,9,15,25,29,-4
+17707,,14,Muñiz,LLDLL,24,9,5,10,32,26,33,-7
+20887,,14,Inter de Barinas,LLLLD,13,0,2,11,2,8,26,-18
+21145,,14,Deportivo La Coruña,WLLLD,29,6,9,14,27,24,44,-20
+21361,,14,Kyoto Sanga,WDDLD,38,12,11,15,47,43,55,-12
+21382,,14,IFK Värnamo,DDLWD,30,7,10,13,31,30,40,-10
+21827,,14,Al Fayha,WLDWL,31,7,12,12,33,25,45,-20
+22199,,14,Shenzhen Xinpengcheng,LLDDW,30,7,8,15,29,29,55,-26
+22527,,14,Texoma FC,LLDLD,7,0,2,5,2,6,17,-11
+108,,15,Brescia,LWDDW,37,8,16,13,40,40,47,-7
+141,,15,NAC Breda,DDLLL,33,8,8,17,32,33,57,-24
+165,,15,Nantes,LDDLD,33,7,12,14,33,36,52,-16
+182,,15,Chicago Fire FC,LLDLL,34,7,9,18,30,40,62,-22
+290,,15,Woking,WDWDD,46,13,19,14,58,52,59,-7
+320,,15,Cheltenham Town,WDWWL,45,16,12,17,60,60,67,-7
+324,,15,Exeter City,WDLWL,45,15,11,19,56,49,62,-13
+334,,15,Queens Park Rangers,DWLLW,45,13,14,18,53,52,63,-11
+987,,15,Lillestrom,WLLLL,30,7,3,20,24,33,63,-30
+2678,,15,Cobreloa,LWLDW,30,9,4,17,31,33,62,-29
+2936,,15,Östers IF,LLLLW,9,2,0,7,6,6,13,-7
+3052,,15,Kalmar FF,DLWDW,30,8,6,16,30,38,58,-20
+3730,,15,MVV Maastricht,LWLWL,38,10,10,18,40,52,59,-7
+3788,,15,Sporting Gijón,WWLLW,39,12,14,13,50,51,50,1
+5481,,15,Envigado,WLLLL,19,5,3,11,18,15,27,-12
+6756,,15,Godoy Cruz Antonio Tomba,LDLWW,27,8,11,8,35,31,28,3
+6866,,15,Progreso,DLDLL,9,1,3,5,6,4,10,-6
+6902,,15,Shonan Bellmare,WWDLL,38,12,9,17,45,53,58,-5
+7100,,15,Cape Town City,LDLLL,26,6,5,15,23,13,31,-18
+9078,,15,Alanyaspor,LWLDW,33,10,8,15,38,38,48,-10
+9318,,15,Chapecoense,WLDWL,38,11,11,16,44,34,45,-11
+9867,,15,Preußen Münster,DLDWW,33,8,11,14,35,38,41,-3
+10122,,15,UTC,LLLDD,16,3,5,8,14,13,23,-10
+11884,,15,Red Star FC 93,LDDDD,34,9,11,14,38,37,51,-14
+11963,,15,Chaco For Ever,LDDDL,38,8,13,17,37,24,30,-6
+11993,,15,Central Norte,DLLLL,14,3,3,8,12,10,18,-8
+17131,,15,Caxias do Sul,LLWWL,19,6,3,10,21,20,27,-7
+17370,,15,Atlético FC,LWDLD,16,3,4,9,13,13,24,-11
+18285,,15,Gazovik Orenburg,LWLDD,28,4,7,17,19,25,50,-25
+19143,,15,Alvarado (Mar del Plata),WLLLL,38,12,9,17,45,30,40,-10
+21373,,15,Real Betis,WLDLL,29,6,5,18,23,22,61,-39
+21392,,15,Cumbayá,DWLDL,15,2,4,9,10,17,34,-17
+21507,,15,Meizhou Hakka,LLDWL,30,6,9,15,27,29,55,-26
+21610,,15,Estrela,LLWLL,33,7,8,18,29,24,46,-22
+21835,,15,Al Wehda,WLWWL,32,9,5,18,32,40,64,-24
+13,,16,Los Andes,LWWWW,0,0,0,0,0,0,0,0
+156,,16,Willem II,LLDLL,33,6,7,20,25,33,55,-22
+385,,16,Portsmouth,DWWDD,45,14,11,20,53,57,70,-13
+602,,16,Odds BK,LLLLL,30,5,8,17,23,26,54,-28
+632,,16,Aldershot Town,LDLLW,46,14,15,17,57,69,83,-14
+642,,16,Barrow,WDDDD,45,15,13,17,58,52,50,2
+991,,16,Beerschot,LDWLL,30,3,9,18,18,26,60,-34
+2668,,16,Emelec,LLDDL,15,3,3,9,9,12,20,-8
+3067,,16,TSV Eintracht Braunschweig,WWDDL,33,8,11,14,35,37,60,-23
+3171,,16,Clermont Foot,DLDWD,34,7,12,15,33,30,46,-16
+3236,,16,Le Havre AC,LLDWL,33,9,4,20,31,37,69,-32
+3691,,16,Sivasspor,LLWLD,34,9,8,17,35,44,57,-13
+3728,,16,TOP Oss,LWLDD,38,8,14,16,38,31,61,-30
+4057,,16,Frosinone,DLDLW,37,8,16,13,40,36,50,-14
+4438,,16,Castellón,DWLWL,39,13,10,16,49,59,59,0
+7113,,16,Albirex Niigata,DLDLD,38,10,12,16,42,44,59,-15
+9740,,16,Almirante Brown,WWLLD,38,8,13,17,37,26,40,-14
+9774,,16,Real Santander,LLLLL,16,3,1,12,10,9,34,-25
+10000,,16,Deportivo Maldonado,DLLWW,9,0,1,8,1,4,15,-11
+10139,,16,Copiapó,WLLLD,30,7,3,20,24,40,61,-21
+10374,,16,Patronato,LLLLW,38,10,10,18,40,36,44,-8
+11706,,16,Viktoria Plzen,WWLWL,8,3,3,2,12,13,12,1
+18153,,16,Comerciantes Unidos,LLDDL,16,3,4,9,13,14,26,-12
+18616,,16,Royal AM,LLDLL,0,0,0,0,0,0,0,0
+21374,,16,Valencia,DLWWD,29,5,7,17,22,22,45,-23
+21539,,16,Fakel Voronezh,LLLDL,28,2,10,16,16,12,40,-28
+21909,,16,Nantong Zhiyun,WWDLL,30,5,7,18,22,32,66,-34
+22029,,16,Al Orobah,LDWLL,32,9,3,20,30,29,67,-38
+22064,,16,AVS,LDLLW,33,5,12,16,27,25,57,-32
+22163,,16,Västerås SK,LDLLW,30,6,5,19,23,26,43,-17
+22522,,16,Fagiano Okayama,DLLDL,16,5,4,7,19,11,13,-2
+22534,,16,Juan Pablo II,LWLDD,10,2,2,6,8,11,16,-5
+99,,17,Málaga,LDWWL,39,11,16,12,49,38,41,-3
+155,,17,RKC Waalwijk,LLLWL,33,5,7,21,22,39,71,-32
+178,,17,Saint-Etienne,DWLLW,33,8,6,19,30,37,74,-37
+311,,17,Oxford United,WLDWD,45,13,13,19,52,46,62,-16
+342,,17,Peterborough United,DDDLL,44,13,12,19,51,65,75,-10
+389,,17,Gillingham,WDWDW,45,13,16,16,55,40,46,-6
+622,,17,Ferencvaros,WWLLW,8,4,0,4,12,15,15,0
+2635,,17,Arsenal Sarandi,LLWLW,38,9,13,16,40,21,36,-15
+2734,,17,Sampdoria,LDDWD,37,8,16,13,40,38,49,-11
+3459,,17,Ponte Preta,LLLLL,38,10,8,20,38,37,55,-18
+3828,,17,Braintree Town,LDDLW,46,15,11,20,56,51,59,-8
+5480,,17,Boyacá Chicó,DLLDW,18,3,8,7,17,10,26,-16
+7476,,17,Kashiwa Reysol,LLDDL,38,9,14,15,41,39,51,-12
+10597,,17,Jong Ajax,DLWLD,38,9,9,20,36,37,52,-15
+11312,,17,Martigues,LWLDL,34,9,5,20,32,29,56,-27
+15710,,17,SSV Ulm 1846,WLWLL,33,6,11,16,29,34,46,-12
+17697,,17,Defensores Unidos,DLDLD,38,7,14,17,35,30,46,-16
+17702,,17,Deportivo Riestra,DDLDD,27,8,11,8,35,26,27,-1
+20740,,17,SC Farense,WLLWW,33,6,9,18,27,24,44,-20
+21966,,17,Al Okhdood,DDWLL,31,7,7,17,28,29,52,-23
+22321,,17,Bodrum FK,WDLLD,33,9,8,16,35,24,37,-13
+91,,18,Real Zaragoza,DLDWW,39,12,12,15,48,54,58,-4
+274,,18,Montpellier,LLDLL,33,4,4,25,16,23,76,-53
+284,,18,Yeovil Town,WDLLL,46,15,11,20,56,51,60,-9
+336,,18,Stoke City,WWLLD,45,12,14,19,50,45,62,-17
+353,,18,Northampton Town,DLWLD,45,12,14,19,50,47,65,-18
+2256,,18,Boavista,LWLWL,33,6,6,21,24,23,55,-32
+2927,,18,Caen,DLLDL,34,5,7,22,22,31,58,-27
+3240,,18,Salernitana,WLWLW,37,10,9,18,39,35,47,-12
+4774,,18,Ituano,LLLWL,38,11,4,23,37,43,63,-20
+5291,,18,Almere City,LLDLD,33,4,9,20,21,22,63,-41
+7106,,18,Jubilo Iwata,LLLWL,38,10,8,20,38,47,68,-21
+7145,,18,Yokohama FC,LLLWL,16,4,3,9,15,10,17,-7
+7767,,18,Tigre,WDDLW,27,8,10,9,34,27,30,-3
+9747,,18,Atletico Rafaela,DWWDD,38,6,12,20,30,24,43,-19
+9762,,18,Águilas Doradas,LDLDW,18,2,9,7,15,13,17,-4
+9971,,18,Criciúma,LDLLL,38,9,11,18,38,42,61,-19
+9983,,18,Jong PSV,WLLLW,38,8,6,24,30,55,86,-31
+10061,,18,El Porvenir,DWDWD,24,6,11,7,29,13,14,-1
+10161,,18,Talleres,LLLDD,38,7,16,15,37,26,41,-15
+11017,,18,SSV Jahn Regensburg,WLDDD,33,6,7,20,25,22,68,-46
+11324,,18,Unión Comercio,LWLLL,16,2,2,12,8,13,38,-25
+19432,,18,Alianza Universidad,LWDLL,11,1,3,7,6,10,22,-12
+20737,,18,Hatayspor,LLLLD,33,4,8,21,20,36,67,-31
+21834,,18,Al Raed,WLLLL,32,6,3,23,21,40,63,-23
+9,,19,Gimnasia La Plata,LWLLL,27,8,8,11,32,21,23,-2
+374,,19,Derby County,DLWWD,45,13,10,22,49,48,56,-8
+3256,,19,Boston United,WWLWL,46,15,10,21,55,54,67,-13
+3943,,19,Cittadella,LLDWL,37,10,9,18,39,30,54,-24
+7320,,19,Eldense,LLDLW,39,11,10,18,43,38,56,-18
+7445,,19,La Equidad,LWLLL,18,2,4,12,10,12,28,-16
+8249,,19,Vikingur Reykjavik,WWDLD,6,2,2,2,8,7,8,-1
+9249,,19,Consadole Sapporo,WDDLW,38,9,10,19,37,43,66,-23
+10116,,19,Ayacucho FC,LLLDL,12,1,3,8,6,9,22,-13
+10147,,19,Brown (Adrogué),LDWDD,38,5,15,18,30,21,50,-29
+10357,,19,Atlético Goianiense,LLDWL,38,7,9,22,30,29,58,-29
+11674,,19,Guillermo Brown,LLDLL,38,7,12,19,33,29,44,-15
+18278,,19,Jong FC Utrecht,LLLWL,38,4,11,23,23,31,82,-51
+18428,,19,Brusque,LLLWL,38,8,12,18,36,24,44,-20
+20765,,19,Adana Demirspor,LLLLL,33,2,4,27,-2,29,83,-54
+17,,20,Rosario Central,DWLLW,27,8,8,11,32,27,30,-3
+154,,20,Vitesse,DWLDW,38,11,11,16,5,54,73,-19
+245,,20,Tenerife,DDDDD,39,8,12,19,36,35,51,-16
+394,,20,Preston North End,LLLLD,45,10,19,16,49,46,57,-11
+3448,,20,Guarani,LLDLD,38,8,9,21,33,33,53,-20
+3887,,20,Wealdstone,DLDLW,46,13,14,19,53,56,76,-20
+6911,,20,Sagan Tosu,LWLWW,38,10,5,23,35,48,68,-20
+7389,,20,São José-RS,LDWDD,19,2,5,12,11,12,22,-10
+8683,,20,Cosenza,LWLLL,37,7,13,17,30,31,53,-22
+20710,,20,Borac Banja Luka,WLWLD,6,2,2,2,8,4,7,-3
+275,,21,Dagenham & Redbridge,DWDWD,46,12,16,18,52,61,62,-1
+301,,21,Luton Town,LWWWL,45,13,10,22,49,42,64,-22
+3362,,21,NK Celje,WLDLW,6,2,1,3,7,13,13,0
+8448,,21,Racing Ferrol,LWLLD,39,5,12,22,27,21,60,-39
+306,,22,Hull City,DLWLD,45,12,12,21,48,43,53,-10
+308,,22,Bristol Rovers,LDLLL,45,12,7,26,43,43,72,-29
+617,,22,Omonia Nicosia,LLLWD,6,2,1,3,7,7,7,0
+5419,,22,FC Cartagena,LLLWL,39,5,5,29,20,29,72,-43
+7156,,22,Maidenhead United,WDDWW,46,14,10,22,52,57,75,-18
+11989,,22,Central Córdoba (Santiago del Estero),WLLWL,27,8,7,12,31,29,36,-7
+307,,23,Plymouth Argyle,WLWWL,45,11,13,21,46,50,86,-36
+322,,23,Carlisle United,WWDLD,45,10,11,24,41,42,69,-27
+351,,23,Cambridge United,LWLLL,45,9,11,25,38,44,71,-27
+13884,,23,AFC Fylde,LLDLL,46,11,7,28,40,50,85,-35
+18,,24,San Lorenzo,LLDLL,27,7,8,12,29,20,26,-6
+278,,24,Morecambe,LLLLL,45,10,6,29,36,39,70,-31
+347,,24,Cardiff City,LLDDL,45,9,17,19,44,46,69,-23
+640,,24,Ebbsfleet United,WLLLL,46,3,13,30,22,38,98,-60
+20713,,24,FK TSC,LWDLW,6,2,1,3,7,10,13,-3
+14,,25,Newell's Old Boys,LWDLW,27,7,7,13,28,22,35,-13
+597,,25,Dinamo Zagreb,WLDLW,8,3,2,3,11,12,19,-7
+10158,,26,Sarmiento (Junín),LWLDD,27,5,11,11,26,18,28,-10
+235,,27,Banfield,LDLLD,27,5,9,13,24,22,36,-14
+493,,27,Shakhtar Donetsk,WLLWL,8,2,1,5,7,8,16,-8
+6758,,27,Mlada Boleslav,LLWWL,6,2,0,4,6,7,10,-3
+10060,,28,Barracas Central,DWDDD,27,4,11,12,23,15,33,-18
+12124,,28,FC Astana,LLDLD,6,1,2,3,5,4,8,-4
+2290,,29,Red Star Belgrade,LWLLW,8,2,0,6,6,13,22,-9
+494,,30,Slavia Prague,LLLLD,8,1,2,5,5,7,11,-4
+502,,30,HJK Helsinki,WLLDL,6,1,1,4,4,3,9,-6
+433,,31,Sparta Prague,LLLLL,8,1,1,6,4,7,21,-14
+20712,,31,FC Noah,LLDLL,6,1,1,4,4,6,16,-10
+12030,,32,Rigas Futbola Skola,DLLWL,8,1,2,5,5,6,13,-7
+2539,,33,Dinamo Minsk,LLLWL,6,1,0,5,3,4,13,-9
+13018,,33,Ludogorets Razgrad,LDDLD,8,0,4,4,4,4,11,-7
+440,,34,Dynamo Kyiv,LLLDW,8,1,1,6,4,5,18,-13
+521,,35,Slovan Bratislava,LLLLL,8,0,0,8,0,7,27,-20
+10414,,36,FK Qarabag,WLLLL,8,1,0,7,3,6,20,-14
+19250,,36,Petrocub,LLDLD,6,0,2,4,2,4,13,-9
