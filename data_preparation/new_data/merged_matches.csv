@@ -1,619 +1,298 @@
-eventId,date,home_League,home_Rank,home_Team,home_Form,home_Average_Points,home_Goal_difference,away_Rank,away_Team,away_Form,away_Average_Points,away_Goal_difference,Result
-711610,2025-01-31 19:30:00,GER1,8,Werder Bremen,medium,1.45,-6,6,Mainz,medium,1.55,12,HomeWin
-712339,2025-01-31 19:45:00,ITA1,16,Parma,low,0.89,-15,18,Lecce,low,0.78,-33,AwayWin
-704874,2025-01-31 20:00:00,ESP1,18,Leganés,medium,0.94,-21,8,Rayo Vallecano,medium,1.33,-5,AwayWin
-704518,2025-02-01 12:30:00,ENG1,7,Nottingham Forest,low,1.72,12,9,Brighton & Hove Albion,medium,1.53,3,HomeWin
-704872,2025-02-01 13:00:00,ESP1,15,Getafe,low,1.08,-5,14,Sevilla,medium,1.14,-9,Draw
-712338,2025-02-01 14:00:00,ITA1,20,Monza,low,0.5,-37,15,Hellas Verona,low,0.92,-33,AwayWin
-712341,2025-02-01 14:00:00,ITA1,12,Udinese,low,1.22,-12,17,Venezia,medium,0.81,-20,HomeWin
-711611,2025-02-01 14:30:00,GER1,14,St. Pauli,medium,0.97,-11,11,FC Augsburg,low,1.3,-15,Draw
-711608,2025-02-01 14:30:00,GER1,18,VfL Bochum,low,0.67,-36,4,SC Freiburg,high,1.67,-2,AwayWin
-711606,2025-02-01 14:30:00,GER1,16,1. FC Heidenheim 1846,medium,0.88,-24,5,Borussia Dortmund,high,1.64,17,AwayWin
-711607,2025-02-01 14:30:00,GER1,1,Bayern Munich,high,2.39,63,17,Holstein Kiel,medium,0.76,-28,HomeWin
-711609,2025-02-01 14:30:00,GER1,9,VfB Stuttgart,medium,1.42,10,10,Borussia Monchengladbach,low,1.36,-1,AwayWin
-704517,2025-02-01 15:00:00,ENG1,3,Newcastle United,high,1.83,23,11,Fulham,low,1.42,1,AwayWin
-704511,2025-02-01 15:00:00,ENG1,10,AFC Bournemouth,medium,1.47,12,1,Liverpool,medium,2.31,46,AwayWin
-704510,2025-02-01 15:00:00,ENG1,18,Ipswich Town,low,0.61,-42,20,Southampton,low,0.33,-57,AwayWin
-704509,2025-02-01 15:00:00,ENG1,13,Everton,medium,1.17,-5,19,Leicester City,medium,0.61,-47,HomeWin
-704879,2025-02-01 15:15:00,ESP1,5,Villarreal,high,1.78,17,20,Real Valladolid,low,0.44,-60,HomeWin
-712337,2025-02-01 17:00:00,ITA1,3,Atalanta,high,1.97,41,11,Torino,low,1.22,-3,Draw
-711605,2025-02-01 17:30:00,GER1,13,1. FC Union Berlin,low,1.12,-17,7,RB Leipzig,medium,1.55,6,Draw
-704870,2025-02-01 17:30:00,ESP1,3,Atlético Madrid,medium,1.94,31,10,Mallorca,low,1.31,-8,HomeWin
-704514,2025-02-01 17:30:00,ENG1,14,Wolverhampton Wanderers,medium,1.14,-13,5,Aston Villa,high,1.78,9,HomeWin
-712333,2025-02-01 19:45:00,ITA1,7,Bologna,low,1.72,13,10,Como,high,1.33,-1,HomeWin
-704877,2025-02-01 20:00:00,ESP1,16,Espanyol,low,1.08,-11,2,Real Madrid,high,2.17,36,HomeWin
-712336,2025-02-02 11:30:00,ITA1,4,Juventus,medium,1.78,20,19,Empoli,medium,0.78,-27,HomeWin
-704871,2025-02-02 13:00:00,ESP1,1,Barcelona,high,2.36,61,17,Alavés,medium,1.06,-11,HomeWin
-712340,2025-02-02 14:00:00,ITA1,9,Fiorentina,medium,1.64,17,13,Genoa,low,1.11,-13,HomeWin
-704512,2025-02-02 14:00:00,ENG1,8,Brentford,high,1.53,10,17,Tottenham Hotspur,low,1.03,2,AwayWin
-704516,2025-02-02 14:00:00,ENG1,16,Manchester United,low,1.05,-12,12,Crystal Palace,medium,1.36,-2,AwayWin
-711603,2025-02-02 14:30:00,GER1,3,Eintracht Frankfurt,medium,1.73,20,12,VfL Wolfsburg,low,1.21,1,Draw
-704878,2025-02-02 15:15:00,ESP1,11,Valencia,medium,1.25,-9,7,Celta Vigo,high,1.44,2,HomeWin
-711604,2025-02-02 16:30:00,GER1,2,Bayer Leverkusen,medium,2.06,29,15,TSG Hoffenheim,low,0.97,-18,HomeWin
-704515,2025-02-02 16:30:00,ENG1,2,Arsenal,medium,1.89,33,6,Manchester City,high,1.81,24,HomeWin
-712342,2025-02-02 17:00:00,ITA1,8,AC Milan,high,1.67,18,2,Internazionale,medium,2.14,42,Draw
-704875,2025-02-02 17:30:00,ESP1,9,Osasuna,medium,1.33,-6,12,Real Sociedad,low,1.19,-10,HomeWin
-712335,2025-02-02 19:45:00,ITA1,6,AS Roma,medium,1.75,17,1,Napoli,high,2.17,30,Draw
-704876,2025-02-02 20:00:00,ESP1,6,Real Betis,medium,1.64,10,4,Athletic Club,high,1.86,27,Draw
-712334,2025-02-03 19:45:00,ITA1,14,Cagliari,low,0.92,-17,5,Lazio,medium,1.78,13,AwayWin
-704873,2025-02-03 20:00:00,ESP1,13,Girona,medium,1.14,-11,19,Las Palmas,low,0.89,-18,HomeWin
-704513,2025-02-03 20:00:00,ENG1,4,Chelsea,high,1.78,20,15,West Ham United,medium,1.11,-17,HomeWin
-712244,2025-02-06 19:45:00,ITA1,9,Fiorentina,medium,1.64,17,2,Internazionale,medium,2.14,42,HomeWin
-711615,2025-02-07 19:30:00,GER1,1,Bayern Munich,high,2.39,63,8,Werder Bremen,medium,1.45,-6,HomeWin
-712352,2025-02-07 19:45:00,ITA1,10,Como,high,1.33,-1,4,Juventus,medium,1.78,20,AwayWin
-704885,2025-02-07 20:00:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,20,Real Valladolid,low,0.44,-60,HomeWin
-704882,2025-02-08 13:00:00,ESP1,7,Celta Vigo,high,1.44,2,6,Real Betis,medium,1.64,10,HomeWin
-712349,2025-02-08 14:00:00,ITA1,15,Hellas Verona,low,0.92,-33,3,Atalanta,high,1.97,41,AwayWin
-711613,2025-02-08 14:30:00,GER1,5,Borussia Dortmund,high,1.64,17,9,VfB Stuttgart,medium,1.42,10,AwayWin
-711616,2025-02-08 14:30:00,GER1,12,VfL Wolfsburg,low,1.21,1,2,Bayer Leverkusen,medium,2.06,29,Draw
-711620,2025-02-08 14:30:00,GER1,15,TSG Hoffenheim,low,0.97,-18,13,1. FC Union Berlin,low,1.12,-17,AwayWin
-711612,2025-02-08 14:30:00,GER1,6,Mainz,medium,1.55,12,11,FC Augsburg,low,1.3,-15,Draw
-711617,2025-02-08 14:30:00,GER1,4,SC Freiburg,high,1.67,-2,16,1. FC Heidenheim 1846,medium,0.88,-24,HomeWin
-704881,2025-02-08 15:15:00,ESP1,4,Athletic Club,high,1.86,27,13,Girona,medium,1.14,-11,HomeWin
-712348,2025-02-08 17:00:00,ITA1,19,Empoli,medium,0.78,-27,8,AC Milan,high,1.67,18,AwayWin
-711614,2025-02-08 17:30:00,GER1,10,Borussia Monchengladbach,low,1.36,-1,3,Eintracht Frankfurt,medium,1.73,20,Draw
-704883,2025-02-08 17:30:00,ESP1,19,Las Palmas,low,0.89,-18,5,Villarreal,high,1.78,17,AwayWin
-712343,2025-02-08 19:45:00,ITA1,11,Torino,low,1.22,-3,13,Genoa,low,1.11,-13,Draw
-704886,2025-02-08 20:00:00,ESP1,2,Real Madrid,high,2.17,36,3,Atlético Madrid,medium,1.94,31,Draw
-712347,2025-02-09 11:30:00,ITA1,17,Venezia,medium,0.81,-20,6,AS Roma,medium,1.75,17,AwayWin
-704880,2025-02-09 13:00:00,ESP1,17,Alavés,medium,1.06,-11,15,Getafe,low,1.08,-5,AwayWin
-712351,2025-02-09 14:00:00,ITA1,5,Lazio,medium,1.78,13,20,Monza,low,0.5,-37,HomeWin
-712346,2025-02-09 14:00:00,ITA1,14,Cagliari,low,0.92,-17,16,Parma,low,0.89,-15,HomeWin
-711619,2025-02-09 14:30:00,GER1,17,Holstein Kiel,medium,0.76,-28,18,VfL Bochum,low,0.67,-36,Draw
-704889,2025-02-09 15:15:00,ESP1,11,Valencia,medium,1.25,-9,18,Leganés,medium,0.94,-21,HomeWin
-711618,2025-02-09 16:30:00,GER1,7,RB Leipzig,medium,1.55,6,14,St. Pauli,medium,0.97,-11,HomeWin
-712345,2025-02-09 17:00:00,ITA1,18,Lecce,low,0.78,-33,7,Bologna,low,1.72,13,Draw
-704887,2025-02-09 17:30:00,ESP1,12,Real Sociedad,low,1.19,-10,16,Espanyol,low,1.08,-11,HomeWin
-712344,2025-02-09 19:45:00,ITA1,1,Napoli,high,2.17,30,12,Udinese,low,1.22,-12,Draw
-704888,2025-02-09 20:00:00,ESP1,14,Sevilla,medium,1.14,-9,1,Barcelona,high,2.36,61,AwayWin
-712350,2025-02-10 19:45:00,ITA1,2,Internazionale,medium,2.14,42,9,Fiorentina,medium,1.64,17,HomeWin
-704884,2025-02-10 20:00:00,ESP1,10,Mallorca,low,1.31,-8,9,Osasuna,medium,1.33,-6,Draw
-704425,2025-02-12 19:30:00,ENG1,13,Everton,medium,1.17,-5,1,Liverpool,medium,2.31,46,Draw
-711626,2025-02-14 19:30:00,GER1,11,FC Augsburg,low,1.3,-15,7,RB Leipzig,medium,1.55,6,Draw
-712356,2025-02-14 19:45:00,ITA1,7,Bologna,low,1.72,13,11,Torino,low,1.22,-3,HomeWin
-704892,2025-02-14 20:00:00,ESP1,13,Girona,medium,1.14,-11,15,Getafe,low,1.08,-5,AwayWin
-704526,2025-02-14 20:00:00,ENG1,9,Brighton & Hove Albion,medium,1.53,3,4,Chelsea,high,1.78,20,HomeWin
-704520,2025-02-15 12:30:00,ENG1,19,Leicester City,medium,0.61,-47,2,Arsenal,medium,1.89,33,AwayWin
-704893,2025-02-15 13:00:00,ESP1,18,Leganés,medium,0.94,-21,17,Alavés,medium,1.06,-11,Draw
-712355,2025-02-15 14:00:00,ITA1,3,Atalanta,high,1.97,41,14,Cagliari,low,0.92,-17,Draw
-711629,2025-02-15 14:30:00,GER1,9,VfB Stuttgart,medium,1.42,10,12,VfL Wolfsburg,low,1.21,1,AwayWin
-711623,2025-02-15 14:30:00,GER1,13,1. FC Union Berlin,low,1.12,-17,10,Borussia Monchengladbach,low,1.36,-1,AwayWin
-711621,2025-02-15 14:30:00,GER1,18,VfL Bochum,low,0.67,-36,5,Borussia Dortmund,high,1.64,17,HomeWin
-711627,2025-02-15 14:30:00,GER1,14,St. Pauli,medium,0.97,-11,4,SC Freiburg,high,1.67,-2,AwayWin
-704519,2025-02-15 15:00:00,ENG1,11,Fulham,low,1.42,1,7,Nottingham Forest,low,1.72,12,HomeWin
-704522,2025-02-15 15:00:00,ENG1,6,Manchester City,high,1.81,24,3,Newcastle United,high,1.83,23,HomeWin
-704523,2025-02-15 15:00:00,ENG1,15,West Ham United,medium,1.11,-17,8,Brentford,high,1.53,10,AwayWin
-704527,2025-02-15 15:00:00,ENG1,5,Aston Villa,high,1.78,9,18,Ipswich Town,low,0.61,-42,Draw
-704528,2025-02-15 15:00:00,ENG1,20,Southampton,low,0.33,-57,10,AFC Bournemouth,medium,1.47,12,AwayWin
-704895,2025-02-15 15:15:00,ESP1,9,Osasuna,medium,1.33,-6,2,Real Madrid,high,2.17,36,Draw
-712358,2025-02-15 17:00:00,ITA1,5,Lazio,medium,1.78,13,1,Napoli,high,2.17,30,Draw
-704890,2025-02-15 17:30:00,ESP1,3,Atlético Madrid,medium,1.94,31,7,Celta Vigo,high,1.44,2,Draw
-711624,2025-02-15 17:30:00,GER1,2,Bayer Leverkusen,medium,2.06,29,1,Bayern Munich,high,2.39,63,Draw
-704525,2025-02-15 17:30:00,ENG1,12,Crystal Palace,medium,1.36,-2,13,Everton,medium,1.17,-5,AwayWin
-712361,2025-02-15 19:45:00,ITA1,8,AC Milan,high,1.67,18,15,Hellas Verona,low,0.92,-33,HomeWin
-704899,2025-02-15 20:00:00,ESP1,5,Villarreal,high,1.78,17,11,Valencia,medium,1.25,-9,Draw
-712357,2025-02-16 11:30:00,ITA1,9,Fiorentina,medium,1.64,17,10,Como,high,1.33,-1,AwayWin
-704898,2025-02-16 13:00:00,ESP1,16,Espanyol,low,1.08,-11,4,Athletic Club,high,1.86,27,Draw
-712362,2025-02-16 14:00:00,ITA1,20,Monza,low,0.5,-37,18,Lecce,low,0.78,-33,Draw
-712353,2025-02-16 14:00:00,ITA1,12,Udinese,low,1.22,-12,19,Empoli,medium,0.78,-27,HomeWin
-704521,2025-02-16 14:00:00,ENG1,1,Liverpool,medium,2.31,46,14,Wolverhampton Wanderers,medium,1.14,-13,HomeWin
-711628,2025-02-16 14:30:00,GER1,8,Werder Bremen,medium,1.45,-6,15,TSG Hoffenheim,low,0.97,-18,AwayWin
-704897,2025-02-16 15:15:00,ESP1,20,Real Valladolid,low,0.44,-60,14,Sevilla,medium,1.14,-9,AwayWin
-704524,2025-02-16 16:30:00,ENG1,17,Tottenham Hotspur,low,1.03,2,16,Manchester United,low,1.05,-12,HomeWin
-711625,2025-02-16 16:30:00,GER1,3,Eintracht Frankfurt,medium,1.73,20,17,Holstein Kiel,medium,0.76,-28,HomeWin
-712354,2025-02-16 17:00:00,ITA1,16,Parma,low,0.89,-15,6,AS Roma,medium,1.75,17,AwayWin
-704894,2025-02-16 17:30:00,ESP1,10,Mallorca,low,1.31,-8,19,Las Palmas,low,0.89,-18,HomeWin
-711622,2025-02-16 18:30:00,GER1,16,1. FC Heidenheim 1846,medium,0.88,-24,6,Mainz,medium,1.55,12,AwayWin
-712359,2025-02-16 19:45:00,ITA1,4,Juventus,medium,1.78,20,2,Internazionale,medium,2.14,42,HomeWin
-704896,2025-02-16 20:00:00,ESP1,6,Real Betis,medium,1.64,10,12,Real Sociedad,low,1.19,-10,HomeWin
-712360,2025-02-17 19:45:00,ITA1,13,Genoa,low,1.11,-13,17,Venezia,medium,0.81,-20,HomeWin
-704891,2025-02-17 20:00:00,ESP1,1,Barcelona,high,2.36,61,8,Rayo Vallecano,medium,1.33,-5,HomeWin
-704567,2025-02-19 19:30:00,ENG1,5,Aston Villa,high,1.78,9,1,Liverpool,medium,2.31,46,Draw
-711636,2025-02-21 19:30:00,GER1,4,SC Freiburg,high,1.67,-2,8,Werder Bremen,medium,1.45,-6,HomeWin
-712363,2025-02-21 19:45:00,ITA1,18,Lecce,low,0.78,-33,12,Udinese,low,1.22,-12,AwayWin
-704902,2025-02-21 20:00:00,ESP1,7,Celta Vigo,high,1.44,2,9,Osasuna,medium,1.33,-6,HomeWin
-704535,2025-02-21 20:00:00,ENG1,19,Leicester City,medium,0.61,-47,8,Brentford,high,1.53,10,AwayWin
-704530,2025-02-22 12:30:00,ENG1,13,Everton,medium,1.17,-5,16,Manchester United,low,1.05,-12,Draw
-704900,2025-02-22 13:00:00,ESP1,17,Alavés,medium,1.06,-11,16,Espanyol,low,1.08,-11,AwayWin
-712368,2025-02-22 14:00:00,ITA1,17,Venezia,medium,0.81,-20,5,Lazio,medium,1.78,13,Draw
-712366,2025-02-22 14:00:00,ITA1,16,Parma,low,0.89,-15,7,Bologna,low,1.72,13,HomeWin
-711634,2025-02-22 14:30:00,GER1,12,VfL Wolfsburg,low,1.21,1,18,VfL Bochum,low,0.67,-36,Draw
-711632,2025-02-22 14:30:00,GER1,10,Borussia Monchengladbach,low,1.36,-1,11,FC Augsburg,low,1.3,-15,AwayWin
-711630,2025-02-22 14:30:00,GER1,6,Mainz,medium,1.55,12,14,St. Pauli,medium,0.97,-11,HomeWin
-711638,2025-02-22 14:30:00,GER1,17,Holstein Kiel,medium,0.76,-28,2,Bayer Leverkusen,medium,2.06,29,AwayWin
-704536,2025-02-22 15:00:00,ENG1,20,Southampton,low,0.33,-57,9,Brighton & Hove Albion,medium,1.53,3,AwayWin
-704531,2025-02-22 15:00:00,ENG1,11,Fulham,low,1.42,1,12,Crystal Palace,medium,1.36,-2,AwayWin
-704532,2025-02-22 15:00:00,ENG1,18,Ipswich Town,low,0.61,-42,17,Tottenham Hotspur,low,1.03,2,AwayWin
-704538,2025-02-22 15:00:00,ENG1,2,Arsenal,medium,1.89,33,15,West Ham United,medium,1.11,-17,AwayWin
-704529,2025-02-22 15:00:00,ENG1,10,AFC Bournemouth,medium,1.47,12,14,Wolverhampton Wanderers,medium,1.14,-13,AwayWin
-704904,2025-02-22 15:15:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,5,Villarreal,high,1.78,17,AwayWin
-712364,2025-02-22 17:00:00,ITA1,11,Torino,low,1.22,-3,8,AC Milan,high,1.67,18,HomeWin
-704905,2025-02-22 17:30:00,ESP1,11,Valencia,medium,1.25,-9,3,Atlético Madrid,medium,1.94,31,AwayWin
-704537,2025-02-22 17:30:00,ENG1,5,Aston Villa,high,1.78,9,4,Chelsea,high,1.78,20,HomeWin
-711631,2025-02-22 17:30:00,GER1,5,Borussia Dortmund,high,1.64,17,13,1. FC Union Berlin,low,1.12,-17,HomeWin
-712371,2025-02-22 19:45:00,ITA1,2,Internazionale,medium,2.14,42,13,Genoa,low,1.11,-13,HomeWin
-704909,2025-02-22 20:00:00,ESP1,19,Las Palmas,low,0.89,-18,1,Barcelona,high,2.36,61,AwayWin
-712367,2025-02-23 11:30:00,ITA1,10,Como,high,1.33,-1,1,Napoli,high,2.17,30,HomeWin
-704901,2025-02-23 13:00:00,ESP1,4,Athletic Club,high,1.86,27,20,Real Valladolid,low,0.44,-60,HomeWin
-712370,2025-02-23 14:00:00,ITA1,15,Hellas Verona,low,0.92,-33,9,Fiorentina,medium,1.64,17,HomeWin
-704533,2025-02-23 14:00:00,ENG1,3,Newcastle United,high,1.83,23,7,Nottingham Forest,low,1.72,12,HomeWin
-711635,2025-02-23 14:30:00,GER1,7,RB Leipzig,medium,1.55,6,16,1. FC Heidenheim 1846,medium,0.88,-24,Draw
-704906,2025-02-23 15:15:00,ESP1,2,Real Madrid,high,2.17,36,13,Girona,medium,1.14,-11,HomeWin
-704534,2025-02-23 16:30:00,ENG1,6,Manchester City,high,1.81,24,1,Liverpool,medium,2.31,46,AwayWin
-711633,2025-02-23 16:30:00,GER1,1,Bayern Munich,high,2.39,63,3,Eintracht Frankfurt,medium,1.73,20,HomeWin
-712369,2025-02-23 17:00:00,ITA1,19,Empoli,medium,0.78,-27,3,Atalanta,high,1.97,41,AwayWin
-704903,2025-02-23 17:30:00,ESP1,15,Getafe,low,1.08,-5,6,Real Betis,medium,1.64,10,AwayWin
-711637,2025-02-23 18:30:00,GER1,15,TSG Hoffenheim,low,0.97,-18,9,VfB Stuttgart,medium,1.42,10,Draw
-712372,2025-02-23 19:45:00,ITA1,14,Cagliari,low,0.92,-17,4,Juventus,medium,1.78,20,AwayWin
-704907,2025-02-23 20:00:00,ESP1,12,Real Sociedad,low,1.19,-10,18,Leganés,medium,0.94,-21,HomeWin
-712365,2025-02-24 19:45:00,ITA1,6,AS Roma,medium,1.75,17,20,Monza,low,0.5,-37,HomeWin
-704908,2025-02-24 20:00:00,ESP1,14,Sevilla,medium,1.14,-9,10,Mallorca,low,1.31,-8,Draw
-704544,2025-02-25 19:30:00,ENG1,12,Crystal Palace,medium,1.36,-2,5,Aston Villa,high,1.78,9,HomeWin
-704542,2025-02-25 19:30:00,ENG1,9,Brighton & Hove Albion,medium,1.53,3,10,AFC Bournemouth,medium,1.47,12,HomeWin
-704539,2025-02-25 19:30:00,ENG1,14,Wolverhampton Wanderers,medium,1.14,-13,11,Fulham,low,1.42,1,AwayWin
-704547,2025-02-25 20:15:00,ENG1,4,Chelsea,high,1.78,20,20,Southampton,low,0.33,-57,HomeWin
-704541,2025-02-26 19:30:00,ENG1,7,Nottingham Forest,low,1.72,12,2,Arsenal,medium,1.89,33,Draw
-704546,2025-02-26 19:30:00,ENG1,16,Manchester United,low,1.05,-12,18,Ipswich Town,low,0.61,-42,HomeWin
-704540,2025-02-26 19:30:00,ENG1,17,Tottenham Hotspur,low,1.03,2,6,Manchester City,high,1.81,24,AwayWin
-704545,2025-02-26 19:30:00,ENG1,8,Brentford,high,1.53,10,13,Everton,medium,1.17,-5,Draw
-704548,2025-02-26 20:15:00,ENG1,1,Liverpool,medium,2.31,46,3,Newcastle United,high,1.83,23,HomeWin
-712200,2025-02-27 19:45:00,ITA1,7,Bologna,low,1.72,13,8,AC Milan,high,1.67,18,HomeWin
-704543,2025-02-27 20:00:00,ENG1,15,West Ham United,medium,1.11,-17,19,Leicester City,medium,0.61,-47,HomeWin
-711639,2025-02-28 19:30:00,GER1,9,VfB Stuttgart,medium,1.42,10,1,Bayern Munich,high,2.39,63,AwayWin
-712379,2025-02-28 19:45:00,ITA1,9,Fiorentina,medium,1.64,17,18,Lecce,low,0.78,-33,HomeWin
-704918,2025-02-28 20:00:00,ESP1,20,Real Valladolid,low,0.44,-60,19,Las Palmas,low,0.89,-18,Draw
-704912,2025-03-01 13:00:00,ESP1,13,Girona,medium,1.14,-11,7,Celta Vigo,high,1.44,2,Draw
-712381,2025-03-01 14:00:00,ITA1,3,Atalanta,high,1.97,41,17,Venezia,medium,0.81,-20,Draw
-711641,2025-03-01 14:30:00,GER1,7,RB Leipzig,medium,1.55,6,6,Mainz,medium,1.55,12,AwayWin
-711640,2025-03-01 14:30:00,GER1,8,Werder Bremen,medium,1.45,-6,12,VfL Wolfsburg,low,1.21,1,AwayWin
-711642,2025-03-01 14:30:00,GER1,14,St. Pauli,medium,0.97,-11,5,Borussia Dortmund,high,1.64,17,AwayWin
-711643,2025-03-01 14:30:00,GER1,18,VfL Bochum,low,0.67,-36,15,TSG Hoffenheim,low,0.97,-18,AwayWin
-711646,2025-03-01 14:30:00,GER1,16,1. FC Heidenheim 1846,medium,0.88,-24,10,Borussia Monchengladbach,low,1.36,-1,AwayWin
-704916,2025-03-01 15:15:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,14,Sevilla,medium,1.14,-9,Draw
-712374,2025-03-01 17:00:00,ITA1,1,Napoli,high,2.17,30,2,Internazionale,medium,2.14,42,Draw
-711644,2025-03-01 17:30:00,GER1,3,Eintracht Frankfurt,medium,1.73,20,2,Bayer Leverkusen,medium,2.06,29,AwayWin
-704917,2025-03-01 17:30:00,ESP1,6,Real Betis,medium,1.64,10,2,Real Madrid,high,2.17,36,HomeWin
-712382,2025-03-01 19:45:00,ITA1,12,Udinese,low,1.22,-12,16,Parma,low,0.89,-15,HomeWin
-704910,2025-03-01 20:00:00,ESP1,3,Atlético Madrid,medium,1.94,31,4,Athletic Club,high,1.86,27,HomeWin
-712375,2025-03-02 11:30:00,ITA1,20,Monza,low,0.5,-37,11,Torino,low,1.22,-3,AwayWin
-704913,2025-03-02 13:00:00,ESP1,18,Leganés,medium,0.94,-21,15,Getafe,low,1.08,-5,HomeWin
-712380,2025-03-02 14:00:00,ITA1,7,Bologna,low,1.72,13,14,Cagliari,low,0.92,-17,HomeWin
-712378,2025-03-02 14:00:00,ITA1,13,Genoa,low,1.11,-13,19,Empoli,medium,0.78,-27,Draw
-711645,2025-03-02 14:30:00,GER1,13,1. FC Union Berlin,low,1.12,-17,17,Holstein Kiel,medium,0.76,-28,AwayWin
-704911,2025-03-02 15:15:00,ESP1,1,Barcelona,high,2.36,61,12,Real Sociedad,low,1.19,-10,HomeWin
-711647,2025-03-02 16:30:00,GER1,11,FC Augsburg,low,1.3,-15,4,SC Freiburg,high,1.67,-2,Draw
-712373,2025-03-02 17:00:00,ITA1,6,AS Roma,medium,1.75,17,10,Como,high,1.33,-1,HomeWin
-704914,2025-03-02 17:30:00,ESP1,10,Mallorca,low,1.31,-8,17,Alavés,medium,1.06,-11,Draw
-712376,2025-03-02 19:45:00,ITA1,8,AC Milan,high,1.67,18,5,Lazio,medium,1.78,13,AwayWin
-704915,2025-03-02 20:00:00,ESP1,9,Osasuna,medium,1.33,-6,11,Valencia,medium,1.25,-9,Draw
-712377,2025-03-03 19:45:00,ITA1,4,Juventus,medium,1.78,20,15,Hellas Verona,low,0.92,-33,HomeWin
-711653,2025-03-07 19:30:00,GER1,10,Borussia Monchengladbach,low,1.36,-1,6,Mainz,medium,1.55,12,AwayWin
-712391,2025-03-07 19:45:00,ITA1,14,Cagliari,low,0.92,-17,13,Genoa,low,1.11,-13,Draw
-704554,2025-03-08 12:30:00,ENG1,7,Nottingham Forest,low,1.72,12,6,Manchester City,high,1.81,24,HomeWin
-704923,2025-03-08 13:00:00,ESP1,7,Celta Vigo,high,1.44,2,18,Leganés,medium,0.94,-21,HomeWin
-712390,2025-03-08 14:00:00,ITA1,10,Como,high,1.33,-1,17,Venezia,medium,0.81,-20,Draw
-712392,2025-03-08 14:00:00,ITA1,16,Parma,low,0.89,-15,11,Torino,low,1.22,-3,Draw
-711655,2025-03-08 14:30:00,GER1,2,Bayer Leverkusen,medium,2.06,29,8,Werder Bremen,medium,1.45,-6,AwayWin
-711650,2025-03-08 14:30:00,GER1,17,Holstein Kiel,medium,0.76,-28,9,VfB Stuttgart,medium,1.42,10,Draw
-711651,2025-03-08 14:30:00,GER1,1,Bayern Munich,high,2.39,63,18,VfL Bochum,low,0.67,-36,AwayWin
-711654,2025-03-08 14:30:00,GER1,5,Borussia Dortmund,high,1.64,17,11,FC Augsburg,low,1.3,-15,AwayWin
-711656,2025-03-08 14:30:00,GER1,12,VfL Wolfsburg,low,1.21,1,14,St. Pauli,medium,0.97,-11,Draw
-704557,2025-03-08 15:00:00,ENG1,12,Crystal Palace,medium,1.36,-2,18,Ipswich Town,low,0.61,-42,HomeWin
-704550,2025-03-08 15:00:00,ENG1,9,Brighton & Hove Albion,medium,1.53,3,11,Fulham,low,1.42,1,HomeWin
-704556,2025-03-08 15:00:00,ENG1,1,Liverpool,medium,2.31,46,20,Southampton,low,0.33,-57,HomeWin
-704920,2025-03-08 15:15:00,ESP1,17,Alavés,medium,1.06,-11,5,Villarreal,high,1.78,17,HomeWin
-712384,2025-03-08 17:00:00,ITA1,18,Lecce,low,0.78,-33,8,AC Milan,high,1.67,18,AwayWin
-711649,2025-03-08 17:30:00,GER1,4,SC Freiburg,high,1.67,-2,7,RB Leipzig,medium,1.55,6,Draw
-704929,2025-03-08 17:30:00,ESP1,11,Valencia,medium,1.25,-9,20,Real Valladolid,low,0.44,-60,HomeWin
-704549,2025-03-08 17:30:00,ENG1,8,Brentford,high,1.53,10,5,Aston Villa,high,1.78,9,AwayWin
-712387,2025-03-08 19:45:00,ITA1,2,Internazionale,medium,2.14,42,20,Monza,low,0.5,-37,HomeWin
-704551,2025-03-08 20:00:00,ENG1,14,Wolverhampton Wanderers,medium,1.14,-13,13,Everton,medium,1.17,-5,Draw
-712388,2025-03-09 11:30:00,ITA1,15,Hellas Verona,low,0.92,-33,7,Bologna,low,1.72,13,AwayWin
-704924,2025-03-09 13:00:00,ESP1,15,Getafe,low,1.08,-5,3,Atlético Madrid,medium,1.94,31,HomeWin
-712383,2025-03-09 14:00:00,ITA1,1,Napoli,high,2.17,30,9,Fiorentina,medium,1.64,17,HomeWin
-704553,2025-03-09 14:00:00,ENG1,4,Chelsea,high,1.78,20,19,Leicester City,medium,0.61,-47,HomeWin
-704558,2025-03-09 14:00:00,ENG1,17,Tottenham Hotspur,low,1.03,2,10,AFC Bournemouth,medium,1.47,12,Draw
-711652,2025-03-09 14:30:00,GER1,3,Eintracht Frankfurt,medium,1.73,20,13,1. FC Union Berlin,low,1.12,-17,AwayWin
-704926,2025-03-09 15:15:00,ESP1,2,Real Madrid,high,2.17,36,8,Rayo Vallecano,medium,1.33,-5,HomeWin
-704555,2025-03-09 16:30:00,ENG1,16,Manchester United,low,1.05,-12,2,Arsenal,medium,1.89,33,Draw
-711648,2025-03-09 16:30:00,GER1,15,TSG Hoffenheim,low,0.97,-18,16,1. FC Heidenheim 1846,medium,0.88,-24,Draw
-712389,2025-03-09 17:00:00,ITA1,19,Empoli,medium,0.78,-27,6,AS Roma,medium,1.75,17,AwayWin
-704925,2025-03-09 17:30:00,ESP1,6,Real Betis,medium,1.64,10,19,Las Palmas,low,0.89,-18,HomeWin
-704921,2025-03-09 17:30:00,ESP1,4,Athletic Club,high,1.86,27,10,Mallorca,low,1.31,-8,Draw
-712386,2025-03-09 19:45:00,ITA1,4,Juventus,medium,1.78,20,3,Atalanta,high,1.97,41,AwayWin
-704927,2025-03-09 20:00:00,ESP1,12,Real Sociedad,low,1.19,-10,14,Sevilla,medium,1.14,-9,AwayWin
-712385,2025-03-10 19:45:00,ITA1,5,Lazio,medium,1.78,13,12,Udinese,low,1.22,-12,Draw
-704552,2025-03-10 20:00:00,ENG1,15,West Ham United,medium,1.11,-17,3,Newcastle United,high,1.83,23,AwayWin
-704928,2025-03-10 20:00:00,ESP1,16,Espanyol,low,1.08,-11,13,Girona,medium,1.14,-11,Draw
-711663,2025-03-14 19:30:00,GER1,14,St. Pauli,medium,0.97,-11,15,TSG Hoffenheim,low,0.97,-18,HomeWin
-712396,2025-03-14 19:45:00,ITA1,13,Genoa,low,1.11,-13,18,Lecce,low,0.78,-33,HomeWin
-704932,2025-03-14 20:00:00,ESP1,19,Las Palmas,low,0.89,-18,17,Alavés,medium,1.06,-11,Draw
-704937,2025-03-15 13:00:00,ESP1,20,Real Valladolid,low,0.44,-60,7,Celta Vigo,high,1.44,2,AwayWin
-712401,2025-03-15 14:00:00,ITA1,12,Udinese,low,1.22,-12,15,Hellas Verona,low,0.92,-33,AwayWin
-712398,2025-03-15 14:00:00,ITA1,20,Monza,low,0.5,-37,16,Parma,low,0.89,-15,Draw
-711664,2025-03-15 14:30:00,GER1,11,FC Augsburg,low,1.3,-15,12,VfL Wolfsburg,low,1.21,1,HomeWin
-711665,2025-03-15 14:30:00,GER1,6,Mainz,medium,1.55,12,4,SC Freiburg,high,1.67,-2,Draw
-711658,2025-03-15 14:30:00,GER1,13,1. FC Union Berlin,low,1.12,-17,1,Bayern Munich,high,2.39,63,Draw
-711661,2025-03-15 14:30:00,GER1,8,Werder Bremen,medium,1.45,-6,10,Borussia Monchengladbach,low,1.36,-1,AwayWin
-704563,2025-03-15 15:00:00,ENG1,20,Southampton,low,0.33,-57,14,Wolverhampton Wanderers,medium,1.14,-13,AwayWin
-704568,2025-03-15 15:00:00,ENG1,18,Ipswich Town,low,0.61,-42,7,Nottingham Forest,low,1.72,12,AwayWin
-704565,2025-03-15 15:00:00,ENG1,13,Everton,medium,1.17,-5,15,West Ham United,medium,1.11,-17,Draw
-704561,2025-03-15 15:00:00,ENG1,6,Manchester City,high,1.81,24,9,Brighton & Hove Albion,medium,1.53,3,Draw
-704934,2025-03-15 15:15:00,ESP1,10,Mallorca,low,1.31,-8,16,Espanyol,low,1.08,-11,HomeWin
-712397,2025-03-15 17:00:00,ITA1,8,AC Milan,high,1.67,18,10,Como,high,1.33,-1,HomeWin
-704939,2025-03-15 17:30:00,ESP1,5,Villarreal,high,1.78,17,2,Real Madrid,high,2.17,36,AwayWin
-704566,2025-03-15 17:30:00,ENG1,10,AFC Bournemouth,medium,1.47,12,8,Brentford,high,1.53,10,AwayWin
-711662,2025-03-15 17:30:00,GER1,7,RB Leipzig,medium,1.55,6,5,Borussia Dortmund,high,1.64,17,HomeWin
-712400,2025-03-15 19:45:00,ITA1,11,Torino,low,1.22,-3,19,Empoli,medium,0.78,-27,HomeWin
-704931,2025-03-15 20:00:00,ESP1,13,Girona,medium,1.14,-11,11,Valencia,medium,1.25,-9,Draw
-712402,2025-03-16 11:30:00,ITA1,17,Venezia,medium,0.81,-20,1,Napoli,high,2.17,30,Draw
-704933,2025-03-16 13:00:00,ESP1,18,Leganés,medium,0.94,-21,6,Real Betis,medium,1.64,10,AwayWin
-704564,2025-03-16 13:30:00,ENG1,11,Fulham,low,1.42,1,17,Tottenham Hotspur,low,1.03,2,HomeWin
-704559,2025-03-16 13:30:00,ENG1,2,Arsenal,medium,1.89,33,4,Chelsea,high,1.78,20,HomeWin
-712394,2025-03-16 14:00:00,ITA1,7,Bologna,low,1.72,13,5,Lazio,medium,1.78,13,HomeWin
-711659,2025-03-16 14:30:00,GER1,18,VfL Bochum,low,0.67,-36,3,Eintracht Frankfurt,medium,1.73,20,AwayWin
-712399,2025-03-16 15:00:00,ITA1,6,AS Roma,medium,1.75,17,14,Cagliari,low,0.92,-17,HomeWin
-704938,2025-03-16 15:15:00,ESP1,14,Sevilla,medium,1.14,-9,4,Athletic Club,high,1.86,27,AwayWin
-711657,2025-03-16 16:30:00,GER1,16,1. FC Heidenheim 1846,medium,0.88,-24,17,Holstein Kiel,medium,0.76,-28,HomeWin
-712395,2025-03-16 17:00:00,ITA1,9,Fiorentina,medium,1.64,17,4,Juventus,medium,1.78,20,HomeWin
-704936,2025-03-16 17:30:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,12,Real Sociedad,low,1.19,-10,Draw
-704935,2025-03-16 17:30:00,ESP1,9,Osasuna,medium,1.33,-6,15,Getafe,low,1.08,-5,AwayWin
-711660,2025-03-16 18:30:00,GER1,9,VfB Stuttgart,medium,1.42,10,2,Bayer Leverkusen,medium,2.06,29,AwayWin
-704562,2025-03-16 19:00:00,ENG1,19,Leicester City,medium,0.61,-47,16,Manchester United,low,1.05,-12,AwayWin
-712393,2025-03-16 19:45:00,ITA1,3,Atalanta,high,1.97,41,2,Internazionale,medium,2.14,42,AwayWin
-704930,2025-03-16 20:00:00,ESP1,3,Atlético Madrid,medium,1.94,31,1,Barcelona,high,2.36,61,AwayWin
-704922,2025-03-27 20:00:00,ESP1,1,Barcelona,high,2.36,61,9,Osasuna,medium,1.33,-6,HomeWin
-711666,2025-03-28 19:30:00,GER1,2,Bayer Leverkusen,medium,2.06,29,18,VfL Bochum,low,0.67,-36,HomeWin
-704947,2025-03-29 13:00:00,ESP1,12,Real Sociedad,low,1.19,-10,20,Real Valladolid,low,0.44,-60,HomeWin
-712408,2025-03-29 14:00:00,ITA1,17,Venezia,medium,0.81,-20,7,Bologna,low,1.72,13,AwayWin
-712404,2025-03-29 14:00:00,ITA1,10,Como,high,1.33,-1,19,Empoli,medium,0.78,-27,Draw
-711674,2025-03-29 14:30:00,GER1,1,Bayern Munich,high,2.39,63,14,St. Pauli,medium,0.97,-11,HomeWin
-711667,2025-03-29 14:30:00,GER1,15,TSG Hoffenheim,low,0.97,-18,11,FC Augsburg,low,1.3,-15,Draw
-711669,2025-03-29 14:30:00,GER1,17,Holstein Kiel,medium,0.76,-28,8,Werder Bremen,medium,1.45,-6,AwayWin
-711672,2025-03-29 14:30:00,GER1,10,Borussia Monchengladbach,low,1.36,-1,7,RB Leipzig,medium,1.55,6,HomeWin
-711670,2025-03-29 14:30:00,GER1,12,VfL Wolfsburg,low,1.21,1,16,1. FC Heidenheim 1846,medium,0.88,-24,AwayWin
-704948,2025-03-29 15:15:00,ESP1,16,Espanyol,low,1.08,-11,3,Atlético Madrid,medium,1.94,31,Draw
-712407,2025-03-29 17:00:00,ITA1,4,Juventus,medium,1.78,20,13,Genoa,low,1.11,-13,HomeWin
-711671,2025-03-29 17:30:00,GER1,3,Eintracht Frankfurt,medium,1.73,20,9,VfB Stuttgart,medium,1.42,10,HomeWin
-704940,2025-03-29 17:30:00,ESP1,17,Alavés,medium,1.06,-11,8,Rayo Vallecano,medium,1.33,-5,AwayWin
-712410,2025-03-29 19:45:00,ITA1,18,Lecce,low,0.78,-33,6,AS Roma,medium,1.75,17,AwayWin
-704946,2025-03-29 20:00:00,ESP1,2,Real Madrid,high,2.17,36,18,Leganés,medium,0.94,-21,HomeWin
-712403,2025-03-30 10:30:00,ITA1,14,Cagliari,low,0.92,-17,20,Monza,low,0.5,-37,HomeWin
-704949,2025-03-30 12:00:00,ESP1,15,Getafe,low,1.08,-5,5,Villarreal,high,1.78,17,AwayWin
-712405,2025-03-30 13:00:00,ITA1,9,Fiorentina,medium,1.64,17,3,Atalanta,high,1.97,41,HomeWin
-711668,2025-03-30 13:30:00,GER1,4,SC Freiburg,high,1.67,-2,13,1. FC Union Berlin,low,1.12,-17,AwayWin
-704942,2025-03-30 14:15:00,ESP1,1,Barcelona,high,2.36,61,13,Girona,medium,1.14,-11,HomeWin
-711673,2025-03-30 15:30:00,GER1,5,Borussia Dortmund,high,1.64,17,6,Mainz,medium,1.55,12,HomeWin
-712412,2025-03-30 16:00:00,ITA1,2,Internazionale,medium,2.14,42,12,Udinese,low,1.22,-12,HomeWin
-704941,2025-03-30 16:30:00,ESP1,4,Athletic Club,high,1.86,27,9,Osasuna,medium,1.33,-6,Draw
-704945,2025-03-30 16:30:00,ESP1,11,Valencia,medium,1.25,-9,10,Mallorca,low,1.31,-8,HomeWin
-712411,2025-03-30 18:45:00,ITA1,1,Napoli,high,2.17,30,8,AC Milan,high,1.67,18,HomeWin
-704944,2025-03-30 19:00:00,ESP1,6,Real Betis,medium,1.64,10,14,Sevilla,medium,1.14,-9,HomeWin
-712406,2025-03-31 16:30:00,ITA1,15,Hellas Verona,low,0.92,-33,16,Parma,low,0.89,-15,Draw
-712409,2025-03-31 18:45:00,ITA1,5,Lazio,medium,1.78,13,11,Torino,low,1.22,-3,Draw
-704943,2025-03-31 19:00:00,ESP1,7,Celta Vigo,high,1.44,2,19,Las Palmas,low,0.89,-18,Draw
-704572,2025-04-01 18:45:00,ENG1,2,Arsenal,medium,1.89,33,11,Fulham,low,1.42,1,HomeWin
-704573,2025-04-01 18:45:00,ENG1,14,Wolverhampton Wanderers,medium,1.14,-13,15,West Ham United,medium,1.11,-17,HomeWin
-704569,2025-04-01 19:00:00,ENG1,7,Nottingham Forest,low,1.72,12,16,Manchester United,low,1.05,-12,HomeWin
-704574,2025-04-02 18:45:00,ENG1,6,Manchester City,high,1.81,24,19,Leicester City,medium,0.61,-47,HomeWin
-704578,2025-04-02 18:45:00,ENG1,3,Newcastle United,high,1.83,23,8,Brentford,high,1.53,10,HomeWin
-704571,2025-04-02 18:45:00,ENG1,9,Brighton & Hove Albion,medium,1.53,3,5,Aston Villa,high,1.78,9,AwayWin
-704570,2025-04-02 18:45:00,ENG1,10,AFC Bournemouth,medium,1.47,12,18,Ipswich Town,low,0.61,-42,AwayWin
-704577,2025-04-02 18:45:00,ENG1,20,Southampton,low,0.33,-57,12,Crystal Palace,medium,1.36,-2,Draw
-704575,2025-04-02 19:00:00,ENG1,1,Liverpool,medium,2.31,46,13,Everton,medium,1.17,-5,HomeWin
-704576,2025-04-03 19:00:00,ENG1,4,Chelsea,high,1.78,20,17,Tottenham Hotspur,low,1.03,2,HomeWin
-711683,2025-04-04 18:30:00,GER1,11,FC Augsburg,low,1.3,-15,1,Bayern Munich,high,2.39,63,AwayWin
-712415,2025-04-04 18:45:00,ITA1,13,Genoa,low,1.11,-13,12,Udinese,low,1.22,-12,HomeWin
-704952,2025-04-04 19:00:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,16,Espanyol,low,1.08,-11,AwayWin
-704584,2025-04-05 11:30:00,ENG1,13,Everton,medium,1.17,-5,2,Arsenal,medium,1.89,33,Draw
-704957,2025-04-05 12:00:00,ESP1,13,Girona,medium,1.14,-11,17,Alavés,medium,1.06,-11,AwayWin
-712418,2025-04-05 13:00:00,ITA1,20,Monza,low,0.5,-37,10,Como,high,1.33,-1,AwayWin
-711677,2025-04-05 13:30:00,GER1,7,RB Leipzig,medium,1.55,6,15,TSG Hoffenheim,low,0.97,-18,HomeWin
-711682,2025-04-05 13:30:00,GER1,16,1. FC Heidenheim 1846,medium,0.88,-24,2,Bayer Leverkusen,medium,2.06,29,AwayWin
-711676,2025-04-05 13:30:00,GER1,4,SC Freiburg,high,1.67,-2,5,Borussia Dortmund,high,1.64,17,AwayWin
-711679,2025-04-05 13:30:00,GER1,18,VfL Bochum,low,0.67,-36,9,VfB Stuttgart,medium,1.42,10,AwayWin
-711680,2025-04-05 13:30:00,GER1,6,Mainz,medium,1.55,12,17,Holstein Kiel,medium,0.76,-28,Draw
-704583,2025-04-05 14:00:00,ENG1,12,Crystal Palace,medium,1.36,-2,9,Brighton & Hove Albion,medium,1.53,3,HomeWin
-704585,2025-04-05 14:00:00,ENG1,18,Ipswich Town,low,0.61,-42,14,Wolverhampton Wanderers,medium,1.14,-13,AwayWin
-704582,2025-04-05 14:00:00,ENG1,15,West Ham United,medium,1.11,-17,10,AFC Bournemouth,medium,1.47,12,Draw
-704953,2025-04-05 14:15:00,ESP1,2,Real Madrid,high,2.17,36,11,Valencia,medium,1.25,-9,AwayWin
-712420,2025-04-05 16:00:00,ITA1,16,Parma,low,0.89,-15,2,Internazionale,medium,2.14,42,Draw
-704954,2025-04-05 16:30:00,ESP1,10,Mallorca,low,1.31,-8,7,Celta Vigo,high,1.44,2,AwayWin
-711675,2025-04-05 16:30:00,GER1,8,Werder Bremen,medium,1.45,-6,3,Eintracht Frankfurt,medium,1.73,20,HomeWin
-704580,2025-04-05 16:30:00,ENG1,5,Aston Villa,high,1.78,9,7,Nottingham Forest,low,1.72,12,HomeWin
-712422,2025-04-05 18:45:00,ITA1,8,AC Milan,high,1.67,18,9,Fiorentina,medium,1.64,17,Draw
-704958,2025-04-05 19:00:00,ESP1,1,Barcelona,high,2.36,61,6,Real Betis,medium,1.64,10,Draw
-712416,2025-04-06 10:30:00,ITA1,18,Lecce,low,0.78,-33,17,Venezia,medium,0.81,-20,Draw
-704956,2025-04-06 12:00:00,ESP1,19,Las Palmas,low,0.89,-18,12,Real Sociedad,low,1.19,-10,AwayWin
-712419,2025-04-06 13:00:00,ITA1,11,Torino,low,1.22,-3,15,Hellas Verona,low,0.92,-33,Draw
-704587,2025-04-06 13:00:00,ENG1,17,Tottenham Hotspur,low,1.03,2,20,Southampton,low,0.33,-57,HomeWin
-704586,2025-04-06 13:00:00,ENG1,11,Fulham,low,1.42,1,1,Liverpool,medium,2.31,46,HomeWin
-704579,2025-04-06 13:00:00,ENG1,8,Brentford,high,1.53,10,4,Chelsea,high,1.78,20,Draw
-712414,2025-04-06 13:00:00,ITA1,19,Empoli,medium,0.78,-27,14,Cagliari,low,0.92,-17,Draw
-711678,2025-04-06 13:30:00,GER1,14,St. Pauli,medium,0.97,-11,10,Borussia Monchengladbach,low,1.36,-1,Draw
-704955,2025-04-06 14:15:00,ESP1,14,Sevilla,medium,1.14,-9,3,Atlético Madrid,medium,1.94,31,AwayWin
-704581,2025-04-06 15:30:00,ENG1,16,Manchester United,low,1.05,-12,6,Manchester City,high,1.81,24,Draw
-711681,2025-04-06 15:30:00,GER1,13,1. FC Union Berlin,low,1.12,-17,12,VfL Wolfsburg,low,1.21,1,HomeWin
-712417,2025-04-06 16:00:00,ITA1,3,Atalanta,high,1.97,41,5,Lazio,medium,1.78,13,AwayWin
-704959,2025-04-06 16:30:00,ESP1,20,Real Valladolid,low,0.44,-60,15,Getafe,low,1.08,-5,AwayWin
-712421,2025-04-06 18:45:00,ITA1,6,AS Roma,medium,1.75,17,4,Juventus,medium,1.78,20,Draw
-704951,2025-04-06 19:00:00,ESP1,5,Villarreal,high,1.78,17,4,Athletic Club,high,1.86,27,Draw
-712413,2025-04-07 18:45:00,ITA1,7,Bologna,low,1.72,13,1,Napoli,high,2.17,30,Draw
-704588,2025-04-07 19:00:00,ENG1,19,Leicester City,medium,0.61,-47,3,Newcastle United,high,1.83,23,AwayWin
-704950,2025-04-07 19:00:00,ESP1,18,Leganés,medium,0.94,-21,9,Osasuna,medium,1.33,-6,Draw
-711692,2025-04-11 18:30:00,GER1,12,VfL Wolfsburg,low,1.21,1,7,RB Leipzig,medium,1.55,6,AwayWin
-712431,2025-04-11 18:45:00,ITA1,12,Udinese,low,1.22,-12,8,AC Milan,high,1.67,18,AwayWin
-704967,2025-04-11 19:00:00,ESP1,11,Valencia,medium,1.25,-9,14,Sevilla,medium,1.14,-9,HomeWin
-704591,2025-04-12 11:30:00,ENG1,6,Manchester City,high,1.81,24,12,Crystal Palace,medium,1.36,-2,HomeWin
-704965,2025-04-12 12:00:00,ESP1,12,Real Sociedad,low,1.19,-10,10,Mallorca,low,1.31,-8,AwayWin
-712429,2025-04-12 13:00:00,ITA1,17,Venezia,medium,0.81,-20,20,Monza,low,0.5,-37,HomeWin
-711684,2025-04-12 13:30:00,GER1,18,VfL Bochum,low,0.67,-36,11,FC Augsburg,low,1.3,-15,AwayWin
-711691,2025-04-12 13:30:00,GER1,2,Bayer Leverkusen,medium,2.06,29,13,1. FC Union Berlin,low,1.12,-17,Draw
-711690,2025-04-12 13:30:00,GER1,10,Borussia Monchengladbach,low,1.36,-1,4,SC Freiburg,high,1.67,-2,AwayWin
-711686,2025-04-12 13:30:00,GER1,15,TSG Hoffenheim,low,0.97,-18,6,Mainz,medium,1.55,12,HomeWin
-711687,2025-04-12 13:30:00,GER1,17,Holstein Kiel,medium,0.76,-28,14,St. Pauli,medium,0.97,-11,AwayWin
-704597,2025-04-12 14:00:00,ENG1,9,Brighton & Hove Albion,medium,1.53,3,19,Leicester City,medium,0.61,-47,Draw
-704592,2025-04-12 14:00:00,ENG1,20,Southampton,low,0.33,-57,5,Aston Villa,high,1.78,9,AwayWin
-704589,2025-04-12 14:00:00,ENG1,7,Nottingham Forest,low,1.72,12,13,Everton,medium,1.17,-5,AwayWin
-704961,2025-04-12 14:15:00,ESP1,15,Getafe,low,1.08,-5,19,Las Palmas,low,0.89,-18,AwayWin
-712425,2025-04-12 16:00:00,ITA1,2,Internazionale,medium,2.14,42,14,Cagliari,low,0.92,-17,HomeWin
-704595,2025-04-12 16:30:00,ENG1,2,Arsenal,medium,1.89,33,8,Brentford,high,1.53,10,Draw
-704960,2025-04-12 16:30:00,ESP1,7,Celta Vigo,high,1.44,2,16,Espanyol,low,1.08,-11,AwayWin
-711688,2025-04-12 16:30:00,GER1,1,Bayern Munich,high,2.39,63,5,Borussia Dortmund,high,1.64,17,Draw
-712424,2025-04-12 18:45:00,ITA1,4,Juventus,medium,1.78,20,18,Lecce,low,0.78,-33,HomeWin
-704962,2025-04-12 19:00:00,ESP1,18,Leganés,medium,0.94,-21,1,Barcelona,high,2.36,61,AwayWin
-712430,2025-04-13 10:30:00,ITA1,3,Atalanta,high,1.97,41,7,Bologna,low,1.72,13,HomeWin
-704963,2025-04-13 12:00:00,ESP1,9,Osasuna,medium,1.33,-6,13,Girona,medium,1.14,-11,HomeWin
-704593,2025-04-13 13:00:00,ENG1,14,Wolverhampton Wanderers,medium,1.14,-13,17,Tottenham Hotspur,low,1.03,2,HomeWin
-712426,2025-04-13 13:00:00,ITA1,15,Hellas Verona,low,0.92,-33,13,Genoa,low,1.11,-13,Draw
-712427,2025-04-13 13:00:00,ITA1,9,Fiorentina,medium,1.64,17,16,Parma,low,0.89,-15,Draw
-704594,2025-04-13 13:00:00,ENG1,1,Liverpool,medium,2.31,46,15,West Ham United,medium,1.11,-17,HomeWin
-704598,2025-04-13 13:00:00,ENG1,4,Chelsea,high,1.78,20,18,Ipswich Town,low,0.61,-42,Draw
-711685,2025-04-13 13:30:00,GER1,9,VfB Stuttgart,medium,1.42,10,8,Werder Bremen,medium,1.45,-6,AwayWin
-704966,2025-04-13 14:15:00,ESP1,17,Alavés,medium,1.06,-11,2,Real Madrid,high,2.17,36,AwayWin
-704590,2025-04-13 15:30:00,ENG1,3,Newcastle United,high,1.83,23,16,Manchester United,low,1.05,-12,HomeWin
-711689,2025-04-13 15:30:00,GER1,3,Eintracht Frankfurt,medium,1.73,20,16,1. FC Heidenheim 1846,medium,0.88,-24,HomeWin
-712428,2025-04-13 16:00:00,ITA1,10,Como,high,1.33,-1,11,Torino,low,1.22,-3,HomeWin
-704964,2025-04-13 16:30:00,ESP1,6,Real Betis,medium,1.64,10,5,Villarreal,high,1.78,17,AwayWin
-712423,2025-04-13 18:45:00,ITA1,5,Lazio,medium,1.78,13,6,AS Roma,medium,1.75,17,Draw
-704968,2025-04-13 19:00:00,ESP1,4,Athletic Club,high,1.86,27,8,Rayo Vallecano,medium,1.33,-5,HomeWin
-712432,2025-04-14 18:45:00,ITA1,1,Napoli,high,2.17,30,19,Empoli,medium,0.78,-27,HomeWin
-704969,2025-04-14 19:00:00,ESP1,3,Atlético Madrid,medium,1.94,31,20,Real Valladolid,low,0.44,-60,HomeWin
-704596,2025-04-14 19:00:00,ENG1,10,AFC Bournemouth,medium,1.47,12,11,Fulham,low,1.42,1,HomeWin
-704560,2025-04-16 18:30:00,ENG1,3,Newcastle United,high,1.83,23,12,Crystal Palace,medium,1.36,-2,HomeWin
-704977,2025-04-18 19:00:00,ESP1,16,Espanyol,low,1.08,-11,15,Getafe,low,1.08,-5,HomeWin
-704973,2025-04-19 12:00:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,11,Valencia,medium,1.25,-9,Draw
-712438,2025-04-19 13:00:00,ITA1,18,Lecce,low,0.78,-33,10,Como,high,1.33,-1,AwayWin
-711695,2025-04-19 13:30:00,GER1,8,Werder Bremen,medium,1.45,-6,18,VfL Bochum,low,0.67,-36,HomeWin
-711696,2025-04-19 13:30:00,GER1,4,SC Freiburg,high,1.67,-2,15,TSG Hoffenheim,low,0.97,-18,HomeWin
-711697,2025-04-19 13:30:00,GER1,7,RB Leipzig,medium,1.55,6,17,Holstein Kiel,medium,0.76,-28,Draw
-711693,2025-04-19 13:30:00,GER1,16,1. FC Heidenheim 1846,medium,0.88,-24,1,Bayern Munich,high,2.39,63,AwayWin
-711701,2025-04-19 13:30:00,GER1,6,Mainz,medium,1.55,12,12,VfL Wolfsburg,low,1.21,1,Draw
-704604,2025-04-19 14:00:00,ENG1,13,Everton,medium,1.17,-5,6,Manchester City,high,1.81,24,AwayWin
-704605,2025-04-19 14:00:00,ENG1,12,Crystal Palace,medium,1.36,-2,10,AFC Bournemouth,medium,1.47,12,Draw
-704607,2025-04-19 14:00:00,ENG1,8,Brentford,high,1.53,10,9,Brighton & Hove Albion,medium,1.53,3,HomeWin
-704603,2025-04-19 14:00:00,ENG1,15,West Ham United,medium,1.11,-17,20,Southampton,low,0.33,-57,Draw
-704970,2025-04-19 14:15:00,ESP1,1,Barcelona,high,2.36,61,7,Celta Vigo,high,1.44,2,HomeWin
-712436,2025-04-19 16:00:00,ITA1,20,Monza,low,0.5,-37,1,Napoli,high,2.17,30,AwayWin
-704606,2025-04-19 16:30:00,ENG1,5,Aston Villa,high,1.78,9,3,Newcastle United,high,1.83,23,HomeWin
-704972,2025-04-19 16:30:00,ESP1,10,Mallorca,low,1.31,-8,18,Leganés,medium,0.94,-21,Draw
-711694,2025-04-19 16:30:00,GER1,13,1. FC Union Berlin,low,1.12,-17,9,VfB Stuttgart,medium,1.42,10,Draw
-712433,2025-04-19 18:45:00,ITA1,6,AS Roma,medium,1.75,17,15,Hellas Verona,low,0.92,-33,HomeWin
-704971,2025-04-19 19:00:00,ESP1,19,Las Palmas,low,0.89,-18,3,Atlético Madrid,medium,1.94,31,HomeWin
-704975,2025-04-20 12:00:00,ESP1,20,Real Valladolid,low,0.44,-60,9,Osasuna,medium,1.33,-6,AwayWin
-704600,2025-04-20 13:00:00,ENG1,16,Manchester United,low,1.05,-12,14,Wolverhampton Wanderers,medium,1.14,-13,AwayWin
-704602,2025-04-20 13:00:00,ENG1,18,Ipswich Town,low,0.61,-42,2,Arsenal,medium,1.89,33,AwayWin
-704608,2025-04-20 13:00:00,ENG1,11,Fulham,low,1.42,1,4,Chelsea,high,1.78,20,AwayWin
-712440,2025-04-20 13:00:00,ITA1,19,Empoli,medium,0.78,-27,17,Venezia,medium,0.81,-20,Draw
-711699,2025-04-20 13:30:00,GER1,11,FC Augsburg,low,1.3,-15,3,Eintracht Frankfurt,medium,1.73,20,Draw
-704978,2025-04-20 14:15:00,ESP1,5,Villarreal,high,1.78,17,12,Real Sociedad,low,1.19,-10,Draw
-711700,2025-04-20 15:30:00,GER1,5,Borussia Dortmund,high,1.64,17,10,Borussia Monchengladbach,low,1.36,-1,HomeWin
-704601,2025-04-20 15:30:00,ENG1,19,Leicester City,medium,0.61,-47,1,Liverpool,medium,2.31,46,AwayWin
-712434,2025-04-20 16:00:00,ITA1,7,Bologna,low,1.72,13,2,Internazionale,medium,2.14,42,HomeWin
-704976,2025-04-20 16:30:00,ESP1,14,Sevilla,medium,1.14,-9,17,Alavés,medium,1.06,-11,Draw
-711698,2025-04-20 17:30:00,GER1,14,St. Pauli,medium,0.97,-11,2,Bayer Leverkusen,medium,2.06,29,Draw
-712437,2025-04-20 18:45:00,ITA1,8,AC Milan,high,1.67,18,3,Atalanta,high,1.97,41,AwayWin
-704974,2025-04-20 19:00:00,ESP1,2,Real Madrid,high,2.17,36,4,Athletic Club,high,1.86,27,HomeWin
-704979,2025-04-21 19:00:00,ESP1,13,Girona,medium,1.14,-11,6,Real Betis,medium,1.64,10,AwayWin
-704599,2025-04-21 19:00:00,ENG1,17,Tottenham Hotspur,low,1.03,2,7,Nottingham Forest,low,1.72,12,AwayWin
-704982,2025-04-22 17:00:00,ESP1,11,Valencia,medium,1.25,-9,16,Espanyol,low,1.08,-11,Draw
-704615,2025-04-22 19:00:00,ENG1,6,Manchester City,high,1.81,24,5,Aston Villa,high,1.78,9,HomeWin
-704988,2025-04-22 19:30:00,ESP1,1,Barcelona,high,2.36,61,10,Mallorca,low,1.31,-8,HomeWin
-712441,2025-04-23 16:30:00,ITA1,14,Cagliari,low,0.92,-17,9,Fiorentina,medium,1.64,17,AwayWin
-712442,2025-04-23 16:30:00,ITA1,11,Torino,low,1.22,-3,12,Udinese,low,1.22,-12,HomeWin
-712435,2025-04-23 16:30:00,ITA1,16,Parma,low,0.89,-15,4,Juventus,medium,1.78,20,HomeWin
-712439,2025-04-23 16:30:00,ITA1,13,Genoa,low,1.11,-13,5,Lazio,medium,1.78,13,AwayWin
-704987,2025-04-23 17:00:00,ESP1,7,Celta Vigo,high,1.44,2,5,Villarreal,high,1.78,17,HomeWin
-704984,2025-04-23 17:00:00,ESP1,4,Athletic Club,high,1.86,27,19,Las Palmas,low,0.89,-18,HomeWin
-704618,2025-04-23 19:00:00,ENG1,2,Arsenal,medium,1.89,33,12,Crystal Palace,medium,1.36,-2,Draw
-704986,2025-04-23 19:30:00,ESP1,17,Alavés,medium,1.06,-11,12,Real Sociedad,low,1.19,-10,HomeWin
-704981,2025-04-23 19:30:00,ESP1,15,Getafe,low,1.08,-5,2,Real Madrid,high,2.17,36,AwayWin
-704983,2025-04-24 17:00:00,ESP1,18,Leganés,medium,0.94,-21,13,Girona,medium,1.14,-11,Draw
-704989,2025-04-24 17:00:00,ESP1,9,Osasuna,medium,1.33,-6,14,Sevilla,medium,1.14,-9,HomeWin
-704980,2025-04-24 19:30:00,ESP1,3,Atlético Madrid,medium,1.94,31,8,Rayo Vallecano,medium,1.33,-5,HomeWin
-704985,2025-04-24 19:30:00,ESP1,6,Real Betis,medium,1.64,10,20,Real Valladolid,low,0.44,-60,HomeWin
-711704,2025-04-25 18:30:00,GER1,9,VfB Stuttgart,medium,1.42,10,16,1. FC Heidenheim 1846,medium,0.88,-24,AwayWin
-704611,2025-04-26 11:30:00,ENG1,4,Chelsea,high,1.78,20,13,Everton,medium,1.17,-5,HomeWin
-711708,2025-04-26 13:30:00,GER1,1,Bayern Munich,high,2.39,63,6,Mainz,medium,1.55,12,HomeWin
-711705,2025-04-26 13:30:00,GER1,15,TSG Hoffenheim,low,0.97,-18,5,Borussia Dortmund,high,1.64,17,AwayWin
-711707,2025-04-26 13:30:00,GER1,17,Holstein Kiel,medium,0.76,-28,10,Borussia Monchengladbach,low,1.36,-1,HomeWin
-711706,2025-04-26 13:30:00,GER1,12,VfL Wolfsburg,low,1.21,1,4,SC Freiburg,high,1.67,-2,AwayWin
-711702,2025-04-26 13:30:00,GER1,2,Bayer Leverkusen,medium,2.06,29,11,FC Augsburg,low,1.3,-15,HomeWin
-704614,2025-04-26 14:00:00,ENG1,3,Newcastle United,high,1.83,23,18,Ipswich Town,low,0.61,-42,HomeWin
-704613,2025-04-26 14:00:00,ENG1,14,Wolverhampton Wanderers,medium,1.14,-13,19,Leicester City,medium,0.61,-47,HomeWin
-704612,2025-04-26 14:00:00,ENG1,20,Southampton,low,0.33,-57,11,Fulham,low,1.42,1,AwayWin
-704610,2025-04-26 14:00:00,ENG1,9,Brighton & Hove Albion,medium,1.53,3,15,West Ham United,medium,1.11,-17,HomeWin
-711709,2025-04-26 16:30:00,GER1,3,Eintracht Frankfurt,medium,1.73,20,7,RB Leipzig,medium,1.55,6,HomeWin
-712444,2025-04-27 10:30:00,ITA1,10,Como,high,1.33,-1,13,Genoa,low,1.11,-13,HomeWin
-712451,2025-04-27 10:30:00,ITA1,17,Venezia,medium,0.81,-20,8,AC Milan,high,1.67,18,AwayWin
-704609,2025-04-27 13:00:00,ENG1,10,AFC Bournemouth,medium,1.47,12,16,Manchester United,low,1.05,-12,Draw
-712445,2025-04-27 13:00:00,ITA1,9,Fiorentina,medium,1.64,17,19,Empoli,medium,0.78,-27,HomeWin
-712452,2025-04-27 13:00:00,ITA1,2,Internazionale,medium,2.14,42,6,AS Roma,medium,1.75,17,AwayWin
-711703,2025-04-27 13:30:00,GER1,18,VfL Bochum,low,0.67,-36,13,1. FC Union Berlin,low,1.12,-17,Draw
-704919,2025-04-27 14:15:00,ESP1,5,Villarreal,high,1.78,17,16,Espanyol,low,1.08,-11,HomeWin
-704617,2025-04-27 15:30:00,ENG1,1,Liverpool,medium,2.31,46,17,Tottenham Hotspur,low,1.03,2,HomeWin
-711710,2025-04-27 15:30:00,GER1,8,Werder Bremen,medium,1.45,-6,14,St. Pauli,medium,0.97,-11,Draw
-712447,2025-04-27 16:00:00,ITA1,4,Juventus,medium,1.78,20,20,Monza,low,0.5,-37,HomeWin
-712450,2025-04-27 18:45:00,ITA1,1,Napoli,high,2.17,30,11,Torino,low,1.22,-3,HomeWin
-712448,2025-04-27 18:45:00,ITA1,3,Atalanta,high,1.97,41,18,Lecce,low,0.78,-33,Draw
-712443,2025-04-28 16:30:00,ITA1,12,Udinese,low,1.22,-12,7,Bologna,low,1.72,13,Draw
-712449,2025-04-28 18:45:00,ITA1,5,Lazio,medium,1.78,13,16,Parma,low,0.89,-15,Draw
-712446,2025-04-28 18:45:00,ITA1,15,Hellas Verona,low,0.92,-33,14,Cagliari,low,0.92,-17,AwayWin
-704616,2025-05-01 18:30:00,ENG1,7,Nottingham Forest,low,1.72,12,8,Brentford,high,1.53,10,AwayWin
-711714,2025-05-02 18:30:00,GER1,16,1. FC Heidenheim 1846,medium,0.88,-24,18,VfL Bochum,low,0.67,-36,Draw
-712460,2025-05-02 18:45:00,ITA1,11,Torino,low,1.22,-3,17,Venezia,medium,0.81,-20,Draw
-704998,2025-05-02 19:00:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,15,Getafe,low,1.08,-5,HomeWin
-704627,2025-05-02 19:00:00,ENG1,6,Manchester City,high,1.81,24,14,Wolverhampton Wanderers,medium,1.14,-13,HomeWin
-704620,2025-05-03 11:30:00,ENG1,5,Aston Villa,high,1.78,9,11,Fulham,low,1.42,1,HomeWin
-704993,2025-05-03 12:00:00,ESP1,17,Alavés,medium,1.06,-11,3,Atlético Madrid,medium,1.94,31,Draw
-712462,2025-05-03 13:00:00,ITA1,14,Cagliari,low,0.92,-17,12,Udinese,low,1.22,-12,AwayWin
-712458,2025-05-03 13:00:00,ITA1,16,Parma,low,0.89,-15,10,Como,high,1.33,-1,AwayWin
-711719,2025-05-03 13:30:00,GER1,10,Borussia Monchengladbach,low,1.36,-1,15,TSG Hoffenheim,low,0.97,-18,Draw
-711718,2025-05-03 13:30:00,GER1,7,RB Leipzig,medium,1.55,6,1,Bayern Munich,high,2.39,63,Draw
-711713,2025-05-03 13:30:00,GER1,13,1. FC Union Berlin,low,1.12,-17,8,Werder Bremen,medium,1.45,-6,Draw
-711717,2025-05-03 13:30:00,GER1,14,St. Pauli,medium,0.97,-11,9,VfB Stuttgart,medium,1.42,10,AwayWin
-704625,2025-05-03 14:00:00,ENG1,13,Everton,medium,1.17,-5,18,Ipswich Town,low,0.61,-42,Draw
-704626,2025-05-03 14:00:00,ENG1,19,Leicester City,medium,0.61,-47,20,Southampton,low,0.33,-57,HomeWin
-704991,2025-05-03 14:15:00,ESP1,5,Villarreal,high,1.78,17,9,Osasuna,medium,1.33,-6,HomeWin
-712456,2025-05-03 16:00:00,ITA1,18,Lecce,low,0.78,-33,1,Napoli,high,2.17,30,AwayWin
-704619,2025-05-03 16:30:00,ENG1,2,Arsenal,medium,1.89,33,10,AFC Bournemouth,medium,1.47,12,AwayWin
-704999,2025-05-03 16:30:00,ESP1,19,Las Palmas,low,0.89,-18,11,Valencia,medium,1.25,-9,AwayWin
-711711,2025-05-03 16:30:00,GER1,5,Borussia Dortmund,high,1.64,17,12,VfL Wolfsburg,low,1.21,1,HomeWin
-712455,2025-05-03 18:45:00,ITA1,2,Internazionale,medium,2.14,42,15,Hellas Verona,low,0.92,-33,HomeWin
-704996,2025-05-03 19:00:00,ESP1,20,Real Valladolid,low,0.44,-60,1,Barcelona,high,2.36,61,AwayWin
-712453,2025-05-04 10:30:00,ITA1,19,Empoli,medium,0.78,-27,5,Lazio,medium,1.78,13,AwayWin
-704994,2025-05-04 12:00:00,ESP1,2,Real Madrid,high,2.17,36,7,Celta Vigo,high,1.44,2,HomeWin
-704628,2025-05-04 13:00:00,ENG1,15,West Ham United,medium,1.11,-17,17,Tottenham Hotspur,low,1.03,2,Draw
-704622,2025-05-04 13:00:00,ENG1,9,Brighton & Hove Albion,medium,1.53,3,3,Newcastle United,high,1.83,23,Draw
-704621,2025-05-04 13:00:00,ENG1,8,Brentford,high,1.53,10,16,Manchester United,low,1.05,-12,HomeWin
-712457,2025-05-04 13:00:00,ITA1,20,Monza,low,0.5,-37,3,Atalanta,high,1.97,41,AwayWin
-711716,2025-05-04 13:30:00,GER1,11,FC Augsburg,low,1.3,-15,17,Holstein Kiel,medium,0.76,-28,AwayWin
-704997,2025-05-04 14:15:00,ESP1,14,Sevilla,medium,1.14,-9,18,Leganés,medium,0.94,-21,Draw
-704623,2025-05-04 15:30:00,ENG1,4,Chelsea,high,1.78,20,1,Liverpool,medium,2.31,46,HomeWin
-711715,2025-05-04 15:30:00,GER1,4,SC Freiburg,high,1.67,-2,2,Bayer Leverkusen,medium,2.06,29,Draw
-712459,2025-05-04 16:00:00,ITA1,6,AS Roma,medium,1.75,17,9,Fiorentina,medium,1.64,17,HomeWin
-704990,2025-05-04 16:30:00,ESP1,16,Espanyol,low,1.08,-11,6,Real Betis,medium,1.64,10,AwayWin
-711712,2025-05-04 17:30:00,GER1,6,Mainz,medium,1.55,12,3,Eintracht Frankfurt,medium,1.73,20,Draw
-712461,2025-05-04 18:45:00,ITA1,7,Bologna,low,1.72,13,4,Juventus,medium,1.78,20,Draw
-704995,2025-05-04 19:00:00,ESP1,12,Real Sociedad,low,1.19,-10,4,Athletic Club,high,1.86,27,Draw
-712454,2025-05-05 18:45:00,ITA1,13,Genoa,low,1.11,-13,8,AC Milan,high,1.67,18,AwayWin
-704624,2025-05-05 19:00:00,ENG1,12,Crystal Palace,medium,1.36,-2,7,Nottingham Forest,low,1.72,12,Draw
-704992,2025-05-05 19:00:00,ESP1,13,Girona,medium,1.14,-11,10,Mallorca,low,1.31,-8,HomeWin
-711725,2025-05-09 18:30:00,GER1,12,VfL Wolfsburg,low,1.21,1,15,TSG Hoffenheim,low,0.97,-18,Draw
-712467,2025-05-09 18:45:00,ITA1,8,AC Milan,high,1.67,18,7,Bologna,low,1.72,13,HomeWin
-705004,2025-05-09 19:00:00,ESP1,19,Las Palmas,low,0.89,-18,8,Rayo Vallecano,medium,1.33,-5,AwayWin
-705005,2025-05-10 12:00:00,ESP1,11,Valencia,medium,1.25,-9,15,Getafe,low,1.08,-5,HomeWin
-712463,2025-05-10 13:00:00,ITA1,10,Como,high,1.33,-1,14,Cagliari,low,0.92,-17,HomeWin
-711723,2025-05-10 13:30:00,GER1,13,1. FC Union Berlin,low,1.12,-17,16,1. FC Heidenheim 1846,medium,0.88,-24,AwayWin
-711728,2025-05-10 13:30:00,GER1,8,Werder Bremen,medium,1.45,-6,7,RB Leipzig,medium,1.55,6,Draw
-711726,2025-05-10 13:30:00,GER1,18,VfL Bochum,low,0.67,-36,6,Mainz,medium,1.55,12,AwayWin
-711724,2025-05-10 13:30:00,GER1,17,Holstein Kiel,medium,0.76,-28,4,SC Freiburg,high,1.67,-2,AwayWin
-704636,2025-05-10 14:00:00,ENG1,20,Southampton,low,0.33,-57,6,Manchester City,high,1.81,24,Draw
-704631,2025-05-10 14:00:00,ENG1,18,Ipswich Town,low,0.61,-42,8,Brentford,high,1.53,10,AwayWin
-704638,2025-05-10 14:00:00,ENG1,14,Wolverhampton Wanderers,medium,1.14,-13,9,Brighton & Hove Albion,medium,1.53,3,AwayWin
-704630,2025-05-10 14:00:00,ENG1,11,Fulham,low,1.42,1,13,Everton,medium,1.17,-5,AwayWin
-705003,2025-05-10 14:15:00,ESP1,7,Celta Vigo,high,1.44,2,14,Sevilla,medium,1.14,-9,HomeWin
-712468,2025-05-10 16:00:00,ITA1,5,Lazio,medium,1.78,13,4,Juventus,medium,1.78,20,Draw
-704629,2025-05-10 16:30:00,ENG1,10,AFC Bournemouth,medium,1.47,12,5,Aston Villa,high,1.78,9,AwayWin
-705009,2025-05-10 16:30:00,ESP1,13,Girona,medium,1.14,-11,5,Villarreal,high,1.78,17,AwayWin
-711720,2025-05-10 16:30:00,GER1,1,Bayern Munich,high,2.39,63,10,Borussia Monchengladbach,low,1.36,-1,HomeWin
-705007,2025-05-10 16:30:00,ESP1,10,Mallorca,low,1.31,-8,20,Real Valladolid,low,0.44,-60,HomeWin
-712470,2025-05-10 18:45:00,ITA1,19,Empoli,medium,0.78,-27,16,Parma,low,0.89,-15,HomeWin
-705001,2025-05-10 19:00:00,ESP1,3,Atlético Madrid,medium,1.94,31,12,Real Sociedad,low,1.19,-10,HomeWin
-712464,2025-05-11 10:30:00,ITA1,12,Udinese,low,1.22,-12,20,Monza,low,0.5,-37,AwayWin
-704634,2025-05-11 11:00:00,ENG1,3,Newcastle United,high,1.83,23,4,Chelsea,high,1.78,20,HomeWin
-705006,2025-05-11 12:00:00,ESP1,18,Leganés,medium,0.94,-21,16,Espanyol,low,1.08,-11,HomeWin
-712469,2025-05-11 13:00:00,ITA1,15,Hellas Verona,low,0.92,-33,18,Lecce,low,0.78,-33,Draw
-704635,2025-05-11 13:15:00,ENG1,7,Nottingham Forest,low,1.72,12,19,Leicester City,medium,0.61,-47,Draw
-704637,2025-05-11 13:15:00,ENG1,17,Tottenham Hotspur,low,1.03,2,12,Crystal Palace,medium,1.36,-2,AwayWin
-704633,2025-05-11 13:15:00,ENG1,16,Manchester United,low,1.05,-12,15,West Ham United,medium,1.11,-17,AwayWin
-711722,2025-05-11 13:30:00,GER1,2,Bayer Leverkusen,medium,2.06,29,5,Borussia Dortmund,high,1.64,17,AwayWin
-705002,2025-05-11 14:15:00,ESP1,1,Barcelona,high,2.36,61,2,Real Madrid,high,2.17,36,HomeWin
-704632,2025-05-11 15:30:00,ENG1,1,Liverpool,medium,2.31,46,2,Arsenal,medium,1.89,33,Draw
-711721,2025-05-11 15:30:00,GER1,3,Eintracht Frankfurt,medium,1.73,20,14,St. Pauli,medium,0.97,-11,Draw
-712465,2025-05-11 16:00:00,ITA1,11,Torino,low,1.22,-3,2,Internazionale,medium,2.14,42,AwayWin
-705000,2025-05-11 16:30:00,ESP1,4,Athletic Club,high,1.86,27,17,Alavés,medium,1.06,-11,HomeWin
-711727,2025-05-11 17:30:00,GER1,9,VfB Stuttgart,medium,1.42,10,11,FC Augsburg,low,1.3,-15,HomeWin
-712466,2025-05-11 18:45:00,ITA1,1,Napoli,high,2.17,30,13,Genoa,low,1.11,-13,Draw
-705008,2025-05-11 19:00:00,ESP1,6,Real Betis,medium,1.64,10,9,Osasuna,medium,1.33,-6,Draw
-712472,2025-05-12 16:30:00,ITA1,17,Venezia,medium,0.81,-20,9,Fiorentina,medium,1.64,17,HomeWin
-712471,2025-05-12 18:45:00,ITA1,3,Atalanta,high,1.97,41,6,AS Roma,medium,1.75,17,HomeWin
-705016,2025-05-13 17:00:00,ESP1,20,Real Valladolid,low,0.44,-60,13,Girona,medium,1.14,-11,AwayWin
-705015,2025-05-13 18:00:00,ESP1,12,Real Sociedad,low,1.19,-10,7,Celta Vigo,high,1.44,2,AwayWin
-705017,2025-05-13 19:30:00,ESP1,14,Sevilla,medium,1.14,-9,19,Las Palmas,low,0.89,-18,HomeWin
-705010,2025-05-14 17:00:00,ESP1,17,Alavés,medium,1.06,-11,11,Valencia,medium,1.25,-9,HomeWin
-705019,2025-05-14 17:00:00,ESP1,5,Villarreal,high,1.78,17,18,Leganés,medium,0.94,-21,HomeWin
-705014,2025-05-14 19:30:00,ESP1,2,Real Madrid,high,2.17,36,10,Mallorca,low,1.31,-8,HomeWin
-705012,2025-05-15 17:00:00,ESP1,9,Osasuna,medium,1.33,-6,3,Atlético Madrid,medium,1.94,31,HomeWin
-705013,2025-05-15 17:00:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,6,Real Betis,medium,1.64,10,Draw
-705018,2025-05-15 19:30:00,ESP1,16,Espanyol,low,1.08,-11,1,Barcelona,high,2.36,61,AwayWin
-705011,2025-05-15 19:30:00,ESP1,15,Getafe,low,1.08,-5,4,Athletic Club,high,1.86,27,AwayWin
-704640,2025-05-16 18:30:00,ENG1,5,Aston Villa,high,1.78,9,17,Tottenham Hotspur,low,1.03,2,HomeWin
-704643,2025-05-16 19:15:00,ENG1,4,Chelsea,high,1.78,20,16,Manchester United,low,1.05,-12,HomeWin
-711731,2025-05-17 13:30:00,GER1,6,Mainz,medium,1.55,12,2,Bayer Leverkusen,medium,2.06,29,Draw
-711736,2025-05-17 13:30:00,GER1,7,RB Leipzig,medium,1.55,6,9,VfB Stuttgart,medium,1.42,10,Draw
-711733,2025-05-17 13:30:00,GER1,10,Borussia Monchengladbach,low,1.36,-1,12,VfL Wolfsburg,low,1.21,1,Draw
-711732,2025-05-17 13:30:00,GER1,5,Borussia Dortmund,high,1.64,17,17,Holstein Kiel,medium,0.76,-28,Draw
-711730,2025-05-17 13:30:00,GER1,16,1. FC Heidenheim 1846,medium,0.88,-24,8,Werder Bremen,medium,1.45,-6,Draw
-711734,2025-05-17 13:30:00,GER1,4,SC Freiburg,high,1.67,-2,3,Eintracht Frankfurt,medium,1.73,20,Draw
-711735,2025-05-17 13:30:00,GER1,14,St. Pauli,medium,0.97,-11,18,VfL Bochum,low,0.67,-36,Draw
-711738,2025-05-17 13:30:00,GER1,11,FC Augsburg,low,1.3,-15,13,1. FC Union Berlin,low,1.12,-17,Draw
-711737,2025-05-17 13:30:00,GER1,15,TSG Hoffenheim,low,0.97,-18,1,Bayern Munich,high,2.39,63,Draw
-712474,2025-05-17 18:45:00,ITA1,13,Genoa,low,1.11,-13,3,Atalanta,high,1.97,41,Draw
-704645,2025-05-18 11:00:00,ENG1,13,Everton,medium,1.17,-5,20,Southampton,low,0.33,-57,Draw
-704648,2025-05-18 13:15:00,ENG1,15,West Ham United,medium,1.11,-17,7,Nottingham Forest,low,1.72,12,Draw
-704641,2025-05-18 14:00:00,ENG1,8,Brentford,high,1.53,10,11,Fulham,low,1.42,1,Draw
-704646,2025-05-18 14:00:00,ENG1,19,Leicester City,medium,0.61,-47,18,Ipswich Town,low,0.61,-42,Draw
-704639,2025-05-18 15:30:00,ENG1,2,Arsenal,medium,1.89,33,3,Newcastle United,high,1.83,23,Draw
-705024,2025-05-18 17:00:00,ESP1,10,Mallorca,low,1.31,-8,15,Getafe,low,1.08,-5,Draw
-705023,2025-05-18 17:00:00,ESP1,19,Las Palmas,low,0.89,-18,18,Leganés,medium,0.94,-21,Draw
-705022,2025-05-18 17:00:00,ESP1,7,Celta Vigo,high,1.44,2,8,Rayo Vallecano,medium,1.33,-5,Draw
-705029,2025-05-18 17:00:00,ESP1,11,Valencia,medium,1.25,-9,4,Athletic Club,high,1.86,27,Draw
-705020,2025-05-18 17:00:00,ESP1,3,Atlético Madrid,medium,1.94,31,6,Real Betis,medium,1.64,10,Draw
-705021,2025-05-18 17:00:00,ESP1,1,Barcelona,high,2.36,61,5,Villarreal,high,1.78,17,Draw
-705028,2025-05-18 17:00:00,ESP1,14,Sevilla,medium,1.14,-9,2,Real Madrid,high,2.17,36,Draw
-705025,2025-05-18 17:00:00,ESP1,9,Osasuna,medium,1.33,-6,16,Espanyol,low,1.08,-11,Draw
-705026,2025-05-18 17:00:00,ESP1,12,Real Sociedad,low,1.19,-10,13,Girona,medium,1.14,-11,Draw
-705027,2025-05-18 17:00:00,ESP1,20,Real Valladolid,low,0.44,-60,17,Alavés,medium,1.06,-11,Draw
-712476,2025-05-18 18:45:00,ITA1,9,Fiorentina,medium,1.64,17,7,Bologna,low,1.72,13,Draw
-712477,2025-05-18 18:45:00,ITA1,16,Parma,low,0.89,-15,1,Napoli,high,2.17,30,Draw
-712473,2025-05-18 18:45:00,ITA1,14,Cagliari,low,0.92,-17,17,Venezia,medium,0.81,-20,Draw
-712481,2025-05-18 18:45:00,ITA1,2,Internazionale,medium,2.14,42,5,Lazio,medium,1.78,13,Draw
-712482,2025-05-18 18:45:00,ITA1,15,Hellas Verona,low,0.92,-33,10,Como,high,1.33,-1,Draw
-712480,2025-05-18 18:45:00,ITA1,4,Juventus,medium,1.78,20,12,Udinese,low,1.22,-12,Draw
-712475,2025-05-18 18:45:00,ITA1,6,AS Roma,medium,1.75,17,8,AC Milan,high,1.67,18,Draw
-712479,2025-05-18 18:45:00,ITA1,18,Lecce,low,0.78,-33,11,Torino,low,1.22,-3,Draw
-712478,2025-05-18 18:45:00,ITA1,20,Monza,low,0.5,-37,19,Empoli,medium,0.78,-27,Draw
-704642,2025-05-19 19:00:00,ENG1,9,Brighton & Hove Albion,medium,1.53,3,1,Liverpool,medium,2.31,46,Draw
-704644,2025-05-20 19:00:00,ENG1,12,Crystal Palace,medium,1.36,-2,14,Wolverhampton Wanderers,medium,1.14,-13,Draw
-704647,2025-05-20 19:00:00,ENG1,6,Manchester City,high,1.81,24,10,AFC Bournemouth,medium,1.47,12,Draw
-712489,2025-05-25 13:00:00,ITA1,11,Torino,low,1.22,-3,6,AS Roma,medium,1.75,17,Draw
-712485,2025-05-25 13:00:00,ITA1,7,Bologna,low,1.72,13,13,Genoa,low,1.11,-13,Draw
-712484,2025-05-25 13:00:00,ITA1,10,Como,high,1.33,-1,2,Internazionale,medium,2.14,42,Draw
-712487,2025-05-25 13:00:00,ITA1,19,Empoli,medium,0.78,-27,15,Hellas Verona,low,0.92,-33,Draw
-712492,2025-05-25 13:00:00,ITA1,8,AC Milan,high,1.67,18,20,Monza,low,0.5,-37,Draw
-712491,2025-05-25 13:00:00,ITA1,17,Venezia,medium,0.81,-20,4,Juventus,medium,1.78,20,Draw
-712483,2025-05-25 13:00:00,ITA1,3,Atalanta,high,1.97,41,16,Parma,low,0.89,-15,Draw
-712488,2025-05-25 13:00:00,ITA1,1,Napoli,high,2.17,30,14,Cagliari,low,0.92,-17,Draw
-712490,2025-05-25 13:00:00,ITA1,12,Udinese,low,1.22,-12,9,Fiorentina,medium,1.64,17,Draw
-712486,2025-05-25 13:00:00,ITA1,5,Lazio,medium,1.78,13,18,Lecce,low,0.78,-33,Draw
-704655,2025-05-25 15:00:00,ENG1,7,Nottingham Forest,low,1.72,12,4,Chelsea,high,1.78,20,Draw
-704652,2025-05-25 15:00:00,ENG1,1,Liverpool,medium,2.31,46,12,Crystal Palace,medium,1.36,-2,Draw
-704651,2025-05-25 15:00:00,ENG1,18,Ipswich Town,low,0.61,-42,15,West Ham United,medium,1.11,-17,Draw
-704650,2025-05-25 15:00:00,ENG1,11,Fulham,low,1.42,1,6,Manchester City,high,1.81,24,Draw
-704649,2025-05-25 15:00:00,ENG1,10,AFC Bournemouth,medium,1.47,12,19,Leicester City,medium,0.61,-47,Draw
-704654,2025-05-25 15:00:00,ENG1,14,Wolverhampton Wanderers,medium,1.14,-13,8,Brentford,high,1.53,10,Draw
-704656,2025-05-25 15:00:00,ENG1,20,Southampton,low,0.33,-57,2,Arsenal,medium,1.89,33,Draw
-704653,2025-05-25 15:00:00,ENG1,3,Newcastle United,high,1.83,23,13,Everton,medium,1.17,-5,Draw
-704658,2025-05-25 15:00:00,ENG1,16,Manchester United,low,1.05,-12,5,Aston Villa,high,1.78,9,Draw
-704657,2025-05-25 15:00:00,ENG1,17,Tottenham Hotspur,low,1.03,2,9,Brighton & Hove Albion,medium,1.53,3,Draw
-705032,2025-05-25 18:00:00,ESP1,16,Espanyol,low,1.08,-11,19,Las Palmas,low,0.89,-18,Draw
-705031,2025-05-25 18:00:00,ESP1,5,Villarreal,high,1.78,17,14,Sevilla,medium,1.14,-9,Draw
-705038,2025-05-25 18:00:00,ESP1,18,Leganés,medium,0.94,-21,20,Real Valladolid,low,0.44,-60,Draw
-705035,2025-05-25 18:00:00,ESP1,4,Athletic Club,high,1.86,27,1,Barcelona,high,2.36,61,Draw
-705039,2025-05-25 18:00:00,ESP1,15,Getafe,low,1.08,-5,7,Celta Vigo,high,1.44,2,Draw
-705030,2025-05-25 18:00:00,ESP1,17,Alavés,medium,1.06,-11,9,Osasuna,medium,1.33,-6,Draw
-705036,2025-05-25 18:00:00,ESP1,6,Real Betis,medium,1.64,10,11,Valencia,medium,1.25,-9,Draw
-705037,2025-05-25 18:00:00,ESP1,8,Rayo Vallecano,medium,1.33,-5,10,Mallorca,low,1.31,-8,Draw
-705033,2025-05-25 18:00:00,ESP1,13,Girona,medium,1.14,-11,3,Atlético Madrid,medium,1.94,31,Draw
-705034,2025-05-25 18:00:00,ESP1,2,Real Madrid,high,2.17,36,12,Real Sociedad,low,1.19,-10,Draw
+eventId,date,home_League,home_Team,home_Form,away_Team,away_Form,Result,home_Rank_binned,away_Rank_binned,home_AvgPts_binned,away_AvgPts_binned,home_GD_binned,away_GD_binned,home_Strength,away_Strength
+711448,2024-08-30 18:30:00,GER1,1. FC Union Berlin,low,St. Pauli,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711443,2024-08-31 13:30:00,GER1,Werder Bremen,medium,Borussia Dortmund,high,Draw,Mid,Mid,Mid,Mid,Low,High,Weak,Average
+711442,2024-08-31 13:30:00,GER1,VfB Stuttgart,medium,Mainz,medium,Draw,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
+711444,2024-08-31 13:30:00,GER1,Holstein Kiel,medium,VfL Wolfsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
+711445,2024-08-31 13:30:00,GER1,VfL Bochum,low,Borussia Monchengladbach,low,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711446,2024-08-31 13:30:00,GER1,Eintracht Frankfurt,medium,TSG Hoffenheim,low,HomeWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
+711447,2024-08-31 16:30:00,GER1,Bayer Leverkusen,medium,RB Leipzig,medium,AwayWin,Top,Mid,High,Mid,High,Mid,Strong,Average
+711441,2024-09-01 13:30:00,GER1,1. FC Heidenheim 1846,medium,FC Augsburg,low,HomeWin,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
+711449,2024-09-01 15:30:00,GER1,Bayern Munich,high,SC Freiburg,high,HomeWin,Top,Top,High,Mid,High,Low,Strong,Average
+711452,2024-09-13 18:30:00,GER1,Borussia Dortmund,high,1. FC Heidenheim 1846,medium,HomeWin,Mid,Bottom,Mid,Low,High,Low,Average,Weak
+711451,2024-09-14 13:30:00,GER1,Borussia Monchengladbach,low,VfB Stuttgart,medium,AwayWin,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
+711456,2024-09-14 13:30:00,GER1,SC Freiburg,high,VfL Bochum,low,HomeWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
+711457,2024-09-14 13:30:00,GER1,TSG Hoffenheim,low,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
+711454,2024-09-14 13:30:00,GER1,VfL Wolfsburg,low,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Mid,Mid,Mid,High,Weak,Average
+711455,2024-09-14 13:30:00,GER1,RB Leipzig,medium,1. FC Union Berlin,low,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711458,2024-09-14 16:30:00,GER1,Holstein Kiel,medium,Bayern Munich,high,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
+711450,2024-09-15 13:30:00,GER1,FC Augsburg,low,St. Pauli,medium,HomeWin,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
+711453,2024-09-15 15:30:00,GER1,Mainz,medium,Werder Bremen,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
+711463,2024-09-20 18:30:00,GER1,FC Augsburg,low,Mainz,medium,AwayWin,Bottom,Mid,Mid,Mid,Low,Mid,Weak,Average
+711461,2024-09-21 13:30:00,GER1,1. FC Union Berlin,low,TSG Hoffenheim,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711464,2024-09-21 13:30:00,GER1,VfL Bochum,low,Holstein Kiel,medium,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711466,2024-09-21 13:30:00,GER1,Werder Bremen,medium,Bayern Munich,high,AwayWin,Mid,Top,Mid,High,Low,High,Weak,Strong
+711462,2024-09-21 13:30:00,GER1,1. FC Heidenheim 1846,medium,SC Freiburg,high,AwayWin,Bottom,Top,Low,Mid,Low,Low,Weak,Average
+711459,2024-09-21 16:30:00,GER1,Eintracht Frankfurt,medium,Borussia Monchengladbach,low,HomeWin,Top,Mid,Mid,Mid,High,Low,Average,Weak
+711460,2024-09-22 13:30:00,GER1,Bayer Leverkusen,medium,VfL Wolfsburg,low,HomeWin,Top,Bottom,High,Mid,High,Mid,Strong,Weak
+711465,2024-09-22 15:30:00,GER1,VfB Stuttgart,medium,Borussia Dortmund,high,HomeWin,Mid,Mid,Mid,Mid,Mid,High,Average,Average
+711467,2024-09-22 17:30:00,GER1,St. Pauli,medium,RB Leipzig,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711469,2024-09-27 18:30:00,GER1,Borussia Dortmund,high,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,High,Low,Average,Weak
+711468,2024-09-28 13:30:00,GER1,Mainz,medium,1. FC Heidenheim 1846,medium,AwayWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711473,2024-09-28 13:30:00,GER1,SC Freiburg,high,St. Pauli,medium,AwayWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
+711472,2024-09-28 13:30:00,GER1,VfL Wolfsburg,low,VfB Stuttgart,medium,Draw,Bottom,Mid,Mid,Mid,Mid,Mid,Weak,Average
+711470,2024-09-28 13:30:00,GER1,Borussia Monchengladbach,low,1. FC Union Berlin,low,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711474,2024-09-28 13:30:00,GER1,RB Leipzig,medium,FC Augsburg,low,HomeWin,Mid,Bottom,Mid,Mid,Mid,Low,Average,Weak
+711471,2024-09-28 16:30:00,GER1,Bayern Munich,high,Bayer Leverkusen,medium,Draw,Top,Top,High,High,High,High,Strong,Strong
+711475,2024-09-29 13:30:00,GER1,Holstein Kiel,medium,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Low,Mid,Low,High,Weak,Average
+711476,2024-09-29 15:30:00,GER1,TSG Hoffenheim,low,Werder Bremen,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711485,2024-10-04 18:30:00,GER1,FC Augsburg,low,Borussia Monchengladbach,low,HomeWin,Bottom,Mid,Mid,Mid,Low,Low,Weak,Weak
+711479,2024-10-05 13:30:00,GER1,Werder Bremen,medium,SC Freiburg,high,AwayWin,Mid,Top,Mid,Mid,Low,Low,Weak,Average
+711483,2024-10-05 13:30:00,GER1,Bayer Leverkusen,medium,Holstein Kiel,medium,Draw,Top,Bottom,High,Low,High,Low,Strong,Weak
+711484,2024-10-05 13:30:00,GER1,1. FC Union Berlin,low,Borussia Dortmund,high,HomeWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
+711477,2024-10-05 13:30:00,GER1,VfL Bochum,low,VfL Wolfsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
+711480,2024-10-05 16:30:00,GER1,St. Pauli,medium,Mainz,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711481,2024-10-06 13:30:00,GER1,1. FC Heidenheim 1846,medium,RB Leipzig,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711482,2024-10-06 15:30:00,GER1,Eintracht Frankfurt,medium,Bayern Munich,high,Draw,Top,Top,Mid,High,High,High,Average,Strong
+711478,2024-10-06 17:30:00,GER1,VfB Stuttgart,medium,TSG Hoffenheim,low,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711492,2024-10-18 18:30:00,GER1,Borussia Dortmund,high,St. Pauli,medium,HomeWin,Mid,Bottom,Mid,Low,High,Low,Average,Weak
+711494,2024-10-19 13:30:00,GER1,Mainz,medium,RB Leipzig,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
+711493,2024-10-19 13:30:00,GER1,Bayer Leverkusen,medium,Eintracht Frankfurt,medium,HomeWin,Top,Top,High,Mid,High,High,Strong,Average
+711491,2024-10-19 13:30:00,GER1,Borussia Monchengladbach,low,1. FC Heidenheim 1846,medium,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711487,2024-10-19 13:30:00,GER1,TSG Hoffenheim,low,VfL Bochum,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711488,2024-10-19 13:30:00,GER1,SC Freiburg,high,FC Augsburg,low,HomeWin,Top,Bottom,Mid,Mid,Low,Low,Average,Weak
+711490,2024-10-19 16:30:00,GER1,Bayern Munich,high,VfB Stuttgart,medium,HomeWin,Top,Mid,High,Mid,High,Mid,Strong,Average
+711489,2024-10-20 13:30:00,GER1,Holstein Kiel,medium,1. FC Union Berlin,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711486,2024-10-20 15:30:00,GER1,VfL Wolfsburg,low,Werder Bremen,medium,AwayWin,Bottom,Mid,Mid,Mid,Mid,Low,Weak,Weak
+711497,2024-10-25 18:30:00,GER1,Mainz,medium,Borussia Monchengladbach,low,Draw,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
+711498,2024-10-26 13:30:00,GER1,FC Augsburg,low,Borussia Dortmund,high,HomeWin,Bottom,Mid,Mid,Mid,Low,High,Weak,Average
+711500,2024-10-26 13:30:00,GER1,RB Leipzig,medium,SC Freiburg,high,HomeWin,Mid,Top,Mid,Mid,Mid,Low,Average,Average
+711502,2024-10-26 13:30:00,GER1,VfB Stuttgart,medium,Holstein Kiel,medium,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711503,2024-10-26 13:30:00,GER1,St. Pauli,medium,VfL Wolfsburg,low,Draw,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
+711501,2024-10-26 16:30:00,GER1,Werder Bremen,medium,Bayer Leverkusen,medium,Draw,Mid,Top,Mid,High,Low,High,Weak,Strong
+711499,2024-10-27 14:30:00,GER1,VfL Bochum,low,Bayern Munich,high,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
+711496,2024-10-27 16:30:00,GER1,1. FC Union Berlin,low,Eintracht Frankfurt,medium,Draw,Bottom,Top,Low,Mid,Low,High,Weak,Average
+711495,2024-10-27 18:30:00,GER1,1. FC Heidenheim 1846,medium,TSG Hoffenheim,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711504,2024-11-01 19:30:00,GER1,Bayer Leverkusen,medium,VfB Stuttgart,medium,Draw,Top,Mid,High,Mid,High,Mid,Strong,Average
+711509,2024-11-02 14:30:00,GER1,Holstein Kiel,medium,1. FC Heidenheim 1846,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711511,2024-11-02 14:30:00,GER1,Eintracht Frankfurt,medium,VfL Bochum,low,HomeWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
+711506,2024-11-02 14:30:00,GER1,VfL Wolfsburg,low,FC Augsburg,low,Draw,Bottom,Bottom,Mid,Mid,Mid,Low,Weak,Weak
+711507,2024-11-02 14:30:00,GER1,TSG Hoffenheim,low,St. Pauli,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711510,2024-11-02 14:30:00,GER1,Bayern Munich,high,1. FC Union Berlin,low,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711505,2024-11-02 17:30:00,GER1,Borussia Dortmund,high,RB Leipzig,medium,HomeWin,Mid,Mid,Mid,Mid,High,Mid,Average,Average
+711508,2024-11-03 14:30:00,GER1,SC Freiburg,high,Mainz,medium,Draw,Top,Mid,Mid,Mid,Low,Mid,Average,Average
+711512,2024-11-03 16:30:00,GER1,Borussia Monchengladbach,low,Werder Bremen,medium,HomeWin,Mid,Mid,Mid,Mid,Low,Low,Weak,Weak
+711520,2024-11-08 19:30:00,GER1,1. FC Union Berlin,low,SC Freiburg,high,Draw,Bottom,Top,Low,Mid,Low,Low,Weak,Average
+711517,2024-11-09 14:30:00,GER1,VfL Bochum,low,Bayer Leverkusen,medium,Draw,Bottom,Top,Low,High,Low,High,Weak,Strong
+711519,2024-11-09 14:30:00,GER1,Mainz,medium,Borussia Dortmund,high,HomeWin,Mid,Mid,Mid,Mid,Mid,High,Average,Average
+711521,2024-11-09 14:30:00,GER1,St. Pauli,medium,Bayern Munich,high,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
+711515,2024-11-09 14:30:00,GER1,Werder Bremen,medium,Holstein Kiel,medium,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711516,2024-11-09 17:30:00,GER1,RB Leipzig,medium,Borussia Monchengladbach,low,Draw,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
+711518,2024-11-10 14:30:00,GER1,FC Augsburg,low,TSG Hoffenheim,low,Draw,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
+711514,2024-11-10 16:30:00,GER1,VfB Stuttgart,medium,Eintracht Frankfurt,medium,AwayWin,Mid,Top,Mid,Mid,Mid,High,Average,Average
+711513,2024-11-10 18:30:00,GER1,1. FC Heidenheim 1846,medium,VfL Wolfsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
+711526,2024-11-22 19:30:00,GER1,Bayern Munich,high,FC Augsburg,low,HomeWin,Top,Bottom,High,Mid,High,Low,Strong,Weak
+711529,2024-11-23 14:30:00,GER1,VfB Stuttgart,medium,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711528,2024-11-23 14:30:00,GER1,TSG Hoffenheim,low,RB Leipzig,medium,HomeWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711530,2024-11-23 14:30:00,GER1,VfL Wolfsburg,low,1. FC Union Berlin,low,HomeWin,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
+711523,2024-11-23 14:30:00,GER1,Borussia Dortmund,high,SC Freiburg,high,HomeWin,Mid,Top,Mid,Mid,High,Low,Average,Average
+711522,2024-11-23 14:30:00,GER1,Bayer Leverkusen,medium,1. FC Heidenheim 1846,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711525,2024-11-23 17:30:00,GER1,Eintracht Frankfurt,medium,Werder Bremen,medium,HomeWin,Top,Mid,Mid,Mid,High,Low,Average,Weak
+711527,2024-11-24 14:30:00,GER1,Holstein Kiel,medium,Mainz,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711524,2024-11-24 16:30:00,GER1,Borussia Monchengladbach,low,St. Pauli,medium,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711539,2024-11-29 19:30:00,GER1,St. Pauli,medium,Holstein Kiel,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711534,2024-11-30 14:30:00,GER1,RB Leipzig,medium,VfL Wolfsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Mid,Mid,Average,Weak
+711536,2024-11-30 14:30:00,GER1,FC Augsburg,low,VfL Bochum,low,HomeWin,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
+711532,2024-11-30 14:30:00,GER1,Werder Bremen,medium,VfB Stuttgart,medium,Draw,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
+711533,2024-11-30 14:30:00,GER1,SC Freiburg,high,Borussia Monchengladbach,low,HomeWin,Top,Mid,Mid,Mid,Low,Low,Average,Weak
+711535,2024-11-30 14:30:00,GER1,1. FC Union Berlin,low,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
+711537,2024-11-30 17:30:00,GER1,Borussia Dortmund,high,Bayern Munich,high,Draw,Mid,Top,Mid,High,High,High,Average,Strong
+711538,2024-12-01 14:30:00,GER1,Mainz,medium,TSG Hoffenheim,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711531,2024-12-01 16:30:00,GER1,1. FC Heidenheim 1846,medium,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Low,Mid,Low,High,Weak,Average
+711545,2024-12-06 19:30:00,GER1,VfB Stuttgart,medium,1. FC Union Berlin,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711543,2024-12-07 14:30:00,GER1,Holstein Kiel,medium,RB Leipzig,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711540,2024-12-07 14:30:00,GER1,Bayer Leverkusen,medium,St. Pauli,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711541,2024-12-07 14:30:00,GER1,Eintracht Frankfurt,medium,FC Augsburg,low,Draw,Top,Bottom,Mid,Mid,High,Low,Average,Weak
+711542,2024-12-07 14:30:00,GER1,Bayern Munich,high,1. FC Heidenheim 1846,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711546,2024-12-07 14:30:00,GER1,VfL Bochum,low,Werder Bremen,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711547,2024-12-07 17:30:00,GER1,Borussia Monchengladbach,low,Borussia Dortmund,high,Draw,Mid,Mid,Mid,Mid,Low,High,Weak,Average
+711548,2024-12-08 14:30:00,GER1,VfL Wolfsburg,low,Mainz,medium,HomeWin,Bottom,Mid,Mid,Mid,Mid,Mid,Weak,Average
+711544,2024-12-08 16:30:00,GER1,TSG Hoffenheim,low,SC Freiburg,high,Draw,Bottom,Top,Low,Mid,Low,Low,Weak,Average
+711557,2024-12-13 19:30:00,GER1,SC Freiburg,high,VfL Wolfsburg,low,HomeWin,Top,Bottom,Mid,Mid,Low,Mid,Average,Weak
+711556,2024-12-14 14:30:00,GER1,1. FC Union Berlin,low,VfL Bochum,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711553,2024-12-14 14:30:00,GER1,FC Augsburg,low,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Mid,High,Low,High,Weak,Strong
+711552,2024-12-14 14:30:00,GER1,Borussia Monchengladbach,low,Holstein Kiel,medium,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711550,2024-12-14 14:30:00,GER1,Mainz,medium,Bayern Munich,high,HomeWin,Mid,Top,Mid,High,Mid,High,Average,Strong
+711554,2024-12-14 17:30:00,GER1,St. Pauli,medium,Werder Bremen,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711549,2024-12-15 14:30:00,GER1,1. FC Heidenheim 1846,medium,VfB Stuttgart,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711551,2024-12-15 16:30:00,GER1,Borussia Dortmund,high,TSG Hoffenheim,low,Draw,Mid,Bottom,Mid,Low,High,Low,Average,Weak
+711555,2024-12-15 18:30:00,GER1,RB Leipzig,medium,Eintracht Frankfurt,medium,HomeWin,Mid,Top,Mid,Mid,Mid,High,Average,Average
+711565,2024-12-20 19:30:00,GER1,Bayern Munich,high,RB Leipzig,medium,HomeWin,Top,Mid,High,Mid,High,Mid,Strong,Average
+711562,2024-12-21 14:30:00,GER1,TSG Hoffenheim,low,Borussia Monchengladbach,low,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711561,2024-12-21 14:30:00,GER1,VfB Stuttgart,medium,St. Pauli,medium,AwayWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711564,2024-12-21 14:30:00,GER1,Eintracht Frankfurt,medium,Mainz,medium,AwayWin,Top,Mid,Mid,Mid,High,Mid,Average,Average
+711566,2024-12-21 14:30:00,GER1,Holstein Kiel,medium,FC Augsburg,low,HomeWin,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
+711563,2024-12-21 14:30:00,GER1,Werder Bremen,medium,1. FC Union Berlin,low,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711558,2024-12-21 17:30:00,GER1,Bayer Leverkusen,medium,SC Freiburg,high,HomeWin,Top,Top,High,Mid,High,Low,Strong,Average
+711560,2024-12-22 14:30:00,GER1,VfL Bochum,low,1. FC Heidenheim 1846,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711559,2024-12-22 16:30:00,GER1,VfL Wolfsburg,low,Borussia Dortmund,high,AwayWin,Bottom,Mid,Mid,Mid,Mid,High,Weak,Average
+711572,2025-01-10 19:45:00,GER1,Borussia Dortmund,high,Bayer Leverkusen,medium,AwayWin,Mid,Top,Mid,High,High,High,Average,Strong
+711569,2025-01-11 14:30:00,GER1,TSG Hoffenheim,low,VfL Wolfsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
+711567,2025-01-11 14:30:00,GER1,SC Freiburg,high,Holstein Kiel,medium,HomeWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
+711571,2025-01-11 14:30:00,GER1,Mainz,medium,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711575,2025-01-11 14:30:00,GER1,St. Pauli,medium,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Low,Mid,Low,High,Weak,Average
+711570,2025-01-11 14:30:00,GER1,1. FC Heidenheim 1846,medium,1. FC Union Berlin,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711573,2025-01-11 17:30:00,GER1,Borussia Monchengladbach,low,Bayern Munich,high,AwayWin,Mid,Top,Mid,High,Low,High,Weak,Strong
+711568,2025-01-12 14:30:00,GER1,RB Leipzig,medium,Werder Bremen,medium,HomeWin,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
+711574,2025-01-12 16:30:00,GER1,FC Augsburg,low,VfB Stuttgart,medium,AwayWin,Bottom,Mid,Mid,Mid,Low,Mid,Weak,Average
+711584,2025-01-14 17:30:00,GER1,Holstein Kiel,medium,Borussia Dortmund,high,HomeWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
+711583,2025-01-14 19:30:00,GER1,Bayer Leverkusen,medium,Mainz,medium,HomeWin,Top,Mid,High,Mid,High,Mid,Strong,Average
+711582,2025-01-14 19:30:00,GER1,Eintracht Frankfurt,medium,SC Freiburg,high,HomeWin,Top,Top,Mid,Mid,High,Low,Average,Average
+711580,2025-01-14 19:30:00,GER1,VfL Wolfsburg,low,Borussia Monchengladbach,low,HomeWin,Bottom,Mid,Mid,Mid,Mid,Low,Weak,Weak
+711577,2025-01-15 17:30:00,GER1,VfL Bochum,low,St. Pauli,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711581,2025-01-15 19:30:00,GER1,Bayern Munich,high,TSG Hoffenheim,low,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711579,2025-01-15 19:30:00,GER1,Werder Bremen,medium,1. FC Heidenheim 1846,medium,Draw,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711576,2025-01-15 19:30:00,GER1,1. FC Union Berlin,low,FC Augsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
+711578,2025-01-15 19:30:00,GER1,VfB Stuttgart,medium,RB Leipzig,medium,HomeWin,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
+711589,2025-01-17 19:30:00,GER1,Eintracht Frankfurt,medium,Borussia Dortmund,high,HomeWin,Top,Mid,Mid,Mid,High,High,Average,Average
+711585,2025-01-18 14:30:00,GER1,VfB Stuttgart,medium,SC Freiburg,high,HomeWin,Mid,Top,Mid,Mid,Mid,Low,Average,Average
+711592,2025-01-18 14:30:00,GER1,1. FC Heidenheim 1846,medium,St. Pauli,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711587,2025-01-18 14:30:00,GER1,Holstein Kiel,medium,TSG Hoffenheim,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711593,2025-01-18 14:30:00,GER1,VfL Bochum,low,RB Leipzig,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711588,2025-01-18 14:30:00,GER1,Bayern Munich,high,VfL Wolfsburg,low,HomeWin,Top,Bottom,High,Mid,High,Mid,Strong,Weak
+711590,2025-01-18 17:30:00,GER1,Bayer Leverkusen,medium,Borussia Monchengladbach,low,HomeWin,Top,Mid,High,Mid,High,Low,Strong,Weak
+711591,2025-01-19 14:30:00,GER1,1. FC Union Berlin,low,Mainz,medium,HomeWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711586,2025-01-19 16:30:00,GER1,Werder Bremen,medium,FC Augsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Low,Low,Weak,Weak
+711598,2025-01-24 19:30:00,GER1,VfL Wolfsburg,low,Holstein Kiel,medium,Draw,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
+711594,2025-01-25 14:30:00,GER1,FC Augsburg,low,1. FC Heidenheim 1846,medium,HomeWin,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
+711597,2025-01-25 14:30:00,GER1,Mainz,medium,VfB Stuttgart,medium,HomeWin,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
+711599,2025-01-25 14:30:00,GER1,RB Leipzig,medium,Bayer Leverkusen,medium,Draw,Mid,Top,Mid,High,Mid,High,Average,Strong
+711596,2025-01-25 14:30:00,GER1,Borussia Dortmund,high,Werder Bremen,medium,Draw,Mid,Mid,Mid,Mid,High,Low,Average,Weak
+711600,2025-01-25 14:30:00,GER1,SC Freiburg,high,Bayern Munich,high,AwayWin,Top,Top,Mid,High,Low,High,Average,Strong
+711595,2025-01-25 17:30:00,GER1,Borussia Monchengladbach,low,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711601,2025-01-26 14:30:00,GER1,TSG Hoffenheim,low,Eintracht Frankfurt,medium,Draw,Bottom,Top,Low,Mid,Low,High,Weak,Average
+711602,2025-01-26 16:30:00,GER1,St. Pauli,medium,1. FC Union Berlin,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711610,2025-01-31 19:30:00,GER1,Werder Bremen,medium,Mainz,medium,HomeWin,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
+711607,2025-02-01 14:30:00,GER1,Bayern Munich,high,Holstein Kiel,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711608,2025-02-01 14:30:00,GER1,VfL Bochum,low,SC Freiburg,high,AwayWin,Bottom,Top,Low,Mid,Low,Low,Weak,Average
+711606,2025-02-01 14:30:00,GER1,1. FC Heidenheim 1846,medium,Borussia Dortmund,high,AwayWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
+711611,2025-02-01 14:30:00,GER1,St. Pauli,medium,FC Augsburg,low,Draw,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
+711609,2025-02-01 14:30:00,GER1,VfB Stuttgart,medium,Borussia Monchengladbach,low,AwayWin,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
+711605,2025-02-01 17:30:00,GER1,1. FC Union Berlin,low,RB Leipzig,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711603,2025-02-02 14:30:00,GER1,Eintracht Frankfurt,medium,VfL Wolfsburg,low,Draw,Top,Bottom,Mid,Mid,High,Mid,Average,Weak
+711604,2025-02-02 16:30:00,GER1,Bayer Leverkusen,medium,TSG Hoffenheim,low,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711615,2025-02-07 19:30:00,GER1,Bayern Munich,high,Werder Bremen,medium,HomeWin,Top,Mid,High,Mid,High,Low,Strong,Weak
+711620,2025-02-08 14:30:00,GER1,TSG Hoffenheim,low,1. FC Union Berlin,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711617,2025-02-08 14:30:00,GER1,SC Freiburg,high,1. FC Heidenheim 1846,medium,HomeWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
+711616,2025-02-08 14:30:00,GER1,VfL Wolfsburg,low,Bayer Leverkusen,medium,Draw,Bottom,Top,Mid,High,Mid,High,Weak,Strong
+711613,2025-02-08 14:30:00,GER1,Borussia Dortmund,high,VfB Stuttgart,medium,AwayWin,Mid,Mid,Mid,Mid,High,Mid,Average,Average
+711612,2025-02-08 14:30:00,GER1,Mainz,medium,FC Augsburg,low,Draw,Mid,Bottom,Mid,Mid,Mid,Low,Average,Weak
+711614,2025-02-08 17:30:00,GER1,Borussia Monchengladbach,low,Eintracht Frankfurt,medium,Draw,Mid,Top,Mid,Mid,Low,High,Weak,Average
+711619,2025-02-09 14:30:00,GER1,Holstein Kiel,medium,VfL Bochum,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711618,2025-02-09 16:30:00,GER1,RB Leipzig,medium,St. Pauli,medium,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711626,2025-02-14 19:30:00,GER1,FC Augsburg,low,RB Leipzig,medium,Draw,Bottom,Mid,Mid,Mid,Low,Mid,Weak,Average
+711623,2025-02-15 14:30:00,GER1,1. FC Union Berlin,low,Borussia Monchengladbach,low,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711629,2025-02-15 14:30:00,GER1,VfB Stuttgart,medium,VfL Wolfsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Mid,Mid,Average,Weak
+711621,2025-02-15 14:30:00,GER1,VfL Bochum,low,Borussia Dortmund,high,HomeWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
+711627,2025-02-15 14:30:00,GER1,St. Pauli,medium,SC Freiburg,high,AwayWin,Bottom,Top,Low,Mid,Low,Low,Weak,Average
+711624,2025-02-15 17:30:00,GER1,Bayer Leverkusen,medium,Bayern Munich,high,Draw,Top,Top,High,High,High,High,Strong,Strong
+711628,2025-02-16 14:30:00,GER1,Werder Bremen,medium,TSG Hoffenheim,low,AwayWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711625,2025-02-16 16:30:00,GER1,Eintracht Frankfurt,medium,Holstein Kiel,medium,HomeWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
+711622,2025-02-16 18:30:00,GER1,1. FC Heidenheim 1846,medium,Mainz,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711636,2025-02-21 19:30:00,GER1,SC Freiburg,high,Werder Bremen,medium,HomeWin,Top,Mid,Mid,Mid,Low,Low,Average,Weak
+711634,2025-02-22 14:30:00,GER1,VfL Wolfsburg,low,VfL Bochum,low,Draw,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
+711630,2025-02-22 14:30:00,GER1,Mainz,medium,St. Pauli,medium,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711632,2025-02-22 14:30:00,GER1,Borussia Monchengladbach,low,FC Augsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Low,Low,Weak,Weak
+711638,2025-02-22 14:30:00,GER1,Holstein Kiel,medium,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
+711631,2025-02-22 17:30:00,GER1,Borussia Dortmund,high,1. FC Union Berlin,low,HomeWin,Mid,Bottom,Mid,Low,High,Low,Average,Weak
+711635,2025-02-23 14:30:00,GER1,RB Leipzig,medium,1. FC Heidenheim 1846,medium,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711633,2025-02-23 16:30:00,GER1,Bayern Munich,high,Eintracht Frankfurt,medium,HomeWin,Top,Top,High,Mid,High,High,Strong,Average
+711637,2025-02-23 18:30:00,GER1,TSG Hoffenheim,low,VfB Stuttgart,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711639,2025-02-28 19:30:00,GER1,VfB Stuttgart,medium,Bayern Munich,high,AwayWin,Mid,Top,Mid,High,Mid,High,Average,Strong
+711643,2025-03-01 14:30:00,GER1,VfL Bochum,low,TSG Hoffenheim,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711646,2025-03-01 14:30:00,GER1,1. FC Heidenheim 1846,medium,Borussia Monchengladbach,low,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711641,2025-03-01 14:30:00,GER1,RB Leipzig,medium,Mainz,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
+711642,2025-03-01 14:30:00,GER1,St. Pauli,medium,Borussia Dortmund,high,AwayWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
+711640,2025-03-01 14:30:00,GER1,Werder Bremen,medium,VfL Wolfsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Low,Mid,Weak,Weak
+711644,2025-03-01 17:30:00,GER1,Eintracht Frankfurt,medium,Bayer Leverkusen,medium,AwayWin,Top,Top,Mid,High,High,High,Average,Strong
+711645,2025-03-02 14:30:00,GER1,1. FC Union Berlin,low,Holstein Kiel,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711647,2025-03-02 16:30:00,GER1,FC Augsburg,low,SC Freiburg,high,Draw,Bottom,Top,Mid,Mid,Low,Low,Weak,Average
+711653,2025-03-07 19:30:00,GER1,Borussia Monchengladbach,low,Mainz,medium,AwayWin,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
+711654,2025-03-08 14:30:00,GER1,Borussia Dortmund,high,FC Augsburg,low,AwayWin,Mid,Bottom,Mid,Mid,High,Low,Average,Weak
+711651,2025-03-08 14:30:00,GER1,Bayern Munich,high,VfL Bochum,low,AwayWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711650,2025-03-08 14:30:00,GER1,Holstein Kiel,medium,VfB Stuttgart,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711655,2025-03-08 14:30:00,GER1,Bayer Leverkusen,medium,Werder Bremen,medium,AwayWin,Top,Mid,High,Mid,High,Low,Strong,Weak
+711656,2025-03-08 14:30:00,GER1,VfL Wolfsburg,low,St. Pauli,medium,Draw,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
+711649,2025-03-08 17:30:00,GER1,SC Freiburg,high,RB Leipzig,medium,Draw,Top,Mid,Mid,Mid,Low,Mid,Average,Average
+711652,2025-03-09 14:30:00,GER1,Eintracht Frankfurt,medium,1. FC Union Berlin,low,AwayWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
+711648,2025-03-09 16:30:00,GER1,TSG Hoffenheim,low,1. FC Heidenheim 1846,medium,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711663,2025-03-14 19:30:00,GER1,St. Pauli,medium,TSG Hoffenheim,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711658,2025-03-15 14:30:00,GER1,1. FC Union Berlin,low,Bayern Munich,high,Draw,Bottom,Top,Low,High,Low,High,Weak,Strong
+711665,2025-03-15 14:30:00,GER1,Mainz,medium,SC Freiburg,high,Draw,Mid,Top,Mid,Mid,Mid,Low,Average,Average
+711664,2025-03-15 14:30:00,GER1,FC Augsburg,low,VfL Wolfsburg,low,HomeWin,Bottom,Bottom,Mid,Mid,Low,Mid,Weak,Weak
+711661,2025-03-15 14:30:00,GER1,Werder Bremen,medium,Borussia Monchengladbach,low,AwayWin,Mid,Mid,Mid,Mid,Low,Low,Weak,Weak
+711662,2025-03-15 17:30:00,GER1,RB Leipzig,medium,Borussia Dortmund,high,HomeWin,Mid,Mid,Mid,Mid,Mid,High,Average,Average
+711659,2025-03-16 14:30:00,GER1,VfL Bochum,low,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Low,Mid,Low,High,Weak,Average
+711657,2025-03-16 16:30:00,GER1,1. FC Heidenheim 1846,medium,Holstein Kiel,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711660,2025-03-16 18:30:00,GER1,VfB Stuttgart,medium,Bayer Leverkusen,medium,AwayWin,Mid,Top,Mid,High,Mid,High,Average,Strong
+711666,2025-03-28 19:30:00,GER1,Bayer Leverkusen,medium,VfL Bochum,low,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711669,2025-03-29 14:30:00,GER1,Holstein Kiel,medium,Werder Bremen,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711674,2025-03-29 14:30:00,GER1,Bayern Munich,high,St. Pauli,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
+711672,2025-03-29 14:30:00,GER1,Borussia Monchengladbach,low,RB Leipzig,medium,HomeWin,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
+711667,2025-03-29 14:30:00,GER1,TSG Hoffenheim,low,FC Augsburg,low,Draw,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
+711670,2025-03-29 14:30:00,GER1,VfL Wolfsburg,low,1. FC Heidenheim 1846,medium,AwayWin,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
+711671,2025-03-29 17:30:00,GER1,Eintracht Frankfurt,medium,VfB Stuttgart,medium,HomeWin,Top,Mid,Mid,Mid,High,Mid,Average,Average
+711668,2025-03-30 13:30:00,GER1,SC Freiburg,high,1. FC Union Berlin,low,AwayWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
+711673,2025-03-30 15:30:00,GER1,Borussia Dortmund,high,Mainz,medium,HomeWin,Mid,Mid,Mid,Mid,High,Mid,Average,Average
+711683,2025-04-04 18:30:00,GER1,FC Augsburg,low,Bayern Munich,high,AwayWin,Bottom,Top,Mid,High,Low,High,Weak,Strong
+711676,2025-04-05 13:30:00,GER1,SC Freiburg,high,Borussia Dortmund,high,AwayWin,Top,Mid,Mid,Mid,Low,High,Average,Average
+711680,2025-04-05 13:30:00,GER1,Mainz,medium,Holstein Kiel,medium,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711679,2025-04-05 13:30:00,GER1,VfL Bochum,low,VfB Stuttgart,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711682,2025-04-05 13:30:00,GER1,1. FC Heidenheim 1846,medium,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
+711677,2025-04-05 13:30:00,GER1,RB Leipzig,medium,TSG Hoffenheim,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711675,2025-04-05 16:30:00,GER1,Werder Bremen,medium,Eintracht Frankfurt,medium,HomeWin,Mid,Top,Mid,Mid,Low,High,Weak,Average
+711678,2025-04-06 13:30:00,GER1,St. Pauli,medium,Borussia Monchengladbach,low,Draw,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711681,2025-04-06 15:30:00,GER1,1. FC Union Berlin,low,VfL Wolfsburg,low,HomeWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
+711692,2025-04-11 18:30:00,GER1,VfL Wolfsburg,low,RB Leipzig,medium,AwayWin,Bottom,Mid,Mid,Mid,Mid,Mid,Weak,Average
+711687,2025-04-12 13:30:00,GER1,Holstein Kiel,medium,St. Pauli,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711684,2025-04-12 13:30:00,GER1,VfL Bochum,low,FC Augsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
+711691,2025-04-12 13:30:00,GER1,Bayer Leverkusen,medium,1. FC Union Berlin,low,Draw,Top,Bottom,High,Low,High,Low,Strong,Weak
+711690,2025-04-12 13:30:00,GER1,Borussia Monchengladbach,low,SC Freiburg,high,AwayWin,Mid,Top,Mid,Mid,Low,Low,Weak,Average
+711686,2025-04-12 13:30:00,GER1,TSG Hoffenheim,low,Mainz,medium,HomeWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711688,2025-04-12 16:30:00,GER1,Bayern Munich,high,Borussia Dortmund,high,Draw,Top,Mid,High,Mid,High,High,Strong,Average
+711685,2025-04-13 13:30:00,GER1,VfB Stuttgart,medium,Werder Bremen,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
+711689,2025-04-13 15:30:00,GER1,Eintracht Frankfurt,medium,1. FC Heidenheim 1846,medium,HomeWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
+711695,2025-04-19 13:30:00,GER1,Werder Bremen,medium,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711693,2025-04-19 13:30:00,GER1,1. FC Heidenheim 1846,medium,Bayern Munich,high,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
+711701,2025-04-19 13:30:00,GER1,Mainz,medium,VfL Wolfsburg,low,Draw,Mid,Bottom,Mid,Mid,Mid,Mid,Average,Weak
+711696,2025-04-19 13:30:00,GER1,SC Freiburg,high,TSG Hoffenheim,low,HomeWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
+711697,2025-04-19 13:30:00,GER1,RB Leipzig,medium,Holstein Kiel,medium,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711694,2025-04-19 16:30:00,GER1,1. FC Union Berlin,low,VfB Stuttgart,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711699,2025-04-20 13:30:00,GER1,FC Augsburg,low,Eintracht Frankfurt,medium,Draw,Bottom,Top,Mid,Mid,Low,High,Weak,Average
+711700,2025-04-20 15:30:00,GER1,Borussia Dortmund,high,Borussia Monchengladbach,low,HomeWin,Mid,Mid,Mid,Mid,High,Low,Average,Weak
+711698,2025-04-20 17:30:00,GER1,St. Pauli,medium,Bayer Leverkusen,medium,Draw,Bottom,Top,Low,High,Low,High,Weak,Strong
+711704,2025-04-25 18:30:00,GER1,VfB Stuttgart,medium,1. FC Heidenheim 1846,medium,AwayWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
+711707,2025-04-26 13:30:00,GER1,Holstein Kiel,medium,Borussia Monchengladbach,low,HomeWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711706,2025-04-26 13:30:00,GER1,VfL Wolfsburg,low,SC Freiburg,high,AwayWin,Bottom,Top,Mid,Mid,Mid,Low,Weak,Average
+711705,2025-04-26 13:30:00,GER1,TSG Hoffenheim,low,Borussia Dortmund,high,AwayWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
+711702,2025-04-26 13:30:00,GER1,Bayer Leverkusen,medium,FC Augsburg,low,HomeWin,Top,Bottom,High,Mid,High,Low,Strong,Weak
+711708,2025-04-26 13:30:00,GER1,Bayern Munich,high,Mainz,medium,HomeWin,Top,Mid,High,Mid,High,Mid,Strong,Average
+711709,2025-04-26 16:30:00,GER1,Eintracht Frankfurt,medium,RB Leipzig,medium,HomeWin,Top,Mid,Mid,Mid,High,Mid,Average,Average
+711703,2025-04-27 13:30:00,GER1,VfL Bochum,low,1. FC Union Berlin,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711710,2025-04-27 15:30:00,GER1,Werder Bremen,medium,St. Pauli,medium,Draw,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711714,2025-05-02 18:30:00,GER1,1. FC Heidenheim 1846,medium,VfL Bochum,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711717,2025-05-03 13:30:00,GER1,St. Pauli,medium,VfB Stuttgart,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711713,2025-05-03 13:30:00,GER1,1. FC Union Berlin,low,Werder Bremen,medium,Draw,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711718,2025-05-03 13:30:00,GER1,RB Leipzig,medium,Bayern Munich,high,Draw,Mid,Top,Mid,High,Mid,High,Average,Strong
+711719,2025-05-03 13:30:00,GER1,Borussia Monchengladbach,low,TSG Hoffenheim,low,Draw,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
+711711,2025-05-03 16:30:00,GER1,Borussia Dortmund,high,VfL Wolfsburg,low,HomeWin,Mid,Bottom,Mid,Mid,High,Mid,Average,Weak
+711716,2025-05-04 13:30:00,GER1,FC Augsburg,low,Holstein Kiel,medium,AwayWin,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
+711715,2025-05-04 15:30:00,GER1,SC Freiburg,high,Bayer Leverkusen,medium,Draw,Top,Top,Mid,High,Low,High,Average,Strong
+711712,2025-05-04 17:30:00,GER1,Mainz,medium,Eintracht Frankfurt,medium,Draw,Mid,Top,Mid,Mid,Mid,High,Average,Average
+711725,2025-05-09 18:30:00,GER1,VfL Wolfsburg,low,TSG Hoffenheim,low,Draw,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
+711728,2025-05-10 13:30:00,GER1,Werder Bremen,medium,RB Leipzig,medium,Draw,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
+711726,2025-05-10 13:30:00,GER1,VfL Bochum,low,Mainz,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
+711724,2025-05-10 13:30:00,GER1,Holstein Kiel,medium,SC Freiburg,high,AwayWin,Bottom,Top,Low,Mid,Low,Low,Weak,Average
+711723,2025-05-10 13:30:00,GER1,1. FC Union Berlin,low,1. FC Heidenheim 1846,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711720,2025-05-10 16:30:00,GER1,Bayern Munich,high,Borussia Monchengladbach,low,HomeWin,Top,Mid,High,Mid,High,Low,Strong,Weak
+711722,2025-05-11 13:30:00,GER1,Bayer Leverkusen,medium,Borussia Dortmund,high,AwayWin,Top,Mid,High,Mid,High,High,Strong,Average
+711721,2025-05-11 15:30:00,GER1,Eintracht Frankfurt,medium,St. Pauli,medium,Draw,Top,Bottom,Mid,Low,High,Low,Average,Weak
+711727,2025-05-11 17:30:00,GER1,VfB Stuttgart,medium,FC Augsburg,low,HomeWin,Mid,Bottom,Mid,Mid,Mid,Low,Average,Weak
+711738,2025-05-17 13:30:00,GER1,FC Augsburg,low,1. FC Union Berlin,low,Draw,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
+711737,2025-05-17 13:30:00,GER1,TSG Hoffenheim,low,Bayern Munich,high,Draw,Bottom,Top,Low,High,Low,High,Weak,Strong
+711734,2025-05-17 13:30:00,GER1,SC Freiburg,high,Eintracht Frankfurt,medium,Draw,Top,Top,Mid,Mid,Low,High,Average,Average
+711732,2025-05-17 13:30:00,GER1,Borussia Dortmund,high,Holstein Kiel,medium,Draw,Mid,Bottom,Mid,Low,High,Low,Average,Weak
+711733,2025-05-17 13:30:00,GER1,Borussia Monchengladbach,low,VfL Wolfsburg,low,Draw,Mid,Bottom,Mid,Mid,Low,Mid,Weak,Weak
+711731,2025-05-17 13:30:00,GER1,Mainz,medium,Bayer Leverkusen,medium,Draw,Mid,Top,Mid,High,Mid,High,Average,Strong
+711735,2025-05-17 13:30:00,GER1,St. Pauli,medium,VfL Bochum,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711736,2025-05-17 13:30:00,GER1,RB Leipzig,medium,VfB Stuttgart,medium,Draw,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
+711730,2025-05-17 13:30:00,GER1,1. FC Heidenheim 1846,medium,Werder Bremen,medium,Draw,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
