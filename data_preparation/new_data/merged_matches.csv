@@ -1,619 +1,619 @@
 eventId,date,home_League,home_Rank,home_Team,home_Form,home_Goal_difference,home_avg_points_per_match,away_Rank,away_Team,away_Form,away_Goal_difference,away_avg_points_per_match,Result
-712453,"10:30, 04.05.25",ITA1,19,Empoli,LDLLW,-27,0.78,5,Lazio,DWDWD,13,1.78,AwayWin
-712416,"10:30, 06.04.25",ITA1,18,Lecce,LLDLD,-33,0.78,17,Venezia,WDLDW,-20,0.81,Draw
-712464,"10:30, 11.05.25",ITA1,12,Udinese,LLDWL,-12,1.22,20,Monza,LLLLW,-37,0.5,AwayWin
-712430,"10:30, 13.04.25",ITA1,3,Atalanta,WWDWW,41,1.97,7,Bologna,LWDDL,13,1.72,HomeWin
-712444,"10:30, 27.04.25",ITA1,10,Como,WWWWW,-1,1.33,13,Genoa,DLLLD,-13,1.11,HomeWin
-712451,"10:30, 27.04.25",ITA1,17,Venezia,WDLDW,-20,0.81,8,AC Milan,WLWWW,18,1.67,AwayWin
-712403,"10:30, 30.03.25",ITA1,14,Cagliari,LLWLL,-17,0.92,20,Monza,LLLLW,-37,0.5,HomeWin
-704634,"11:00, 11.05.25",ENG1,3,Newcastle United,WLWDW,23,1.83,4,Chelsea,WWWLW,20,1.78,HomeWin
-704645,"11:00, 18.05.25",ENG1,13,Everton,WLLDW,-5,1.17,20,Southampton,LDLLD,-57,0.33,Draw
-712336,"11:30, 02.02.25",ITA1,4,Juventus,WLWDD,20,1.78,19,Empoli,LDLLW,-27,0.78,HomeWin
-712375,"11:30, 02.03.25",ITA1,20,Monza,LLLLW,-37,0.5,11,Torino,LWLDL,-3,1.22,AwayWin
-704620,"11:30, 03.05.25",ENG1,5,Aston Villa,WLWWW,9,1.78,11,Fulham,LLWLL,1,1.42,HomeWin
-704584,"11:30, 05.04.25",ENG1,13,Everton,WLLDW,-5,1.17,2,Arsenal,DWDLD,33,1.89,Draw
-712347,"11:30, 09.02.25",ITA1,17,Venezia,WDLDW,-20,0.81,6,AS Roma,DWWWL,17,1.75,AwayWin
-712388,"11:30, 09.03.25",ITA1,15,Hellas Verona,DLLLD,-33,0.92,7,Bologna,LWDDL,13,1.72,AwayWin
-704591,"11:30, 12.04.25",ENG1,6,Manchester City,WWWWD,24,1.81,12,Crystal Palace,LDDDW,-2,1.36,HomeWin
-712357,"11:30, 16.02.25",ITA1,9,Fiorentina,DWWLL,17,1.64,10,Como,WWWWW,-1,1.33,AwayWin
-712402,"11:30, 16.03.25",ITA1,17,Venezia,WDLDW,-20,0.81,1,Napoli,WWWWD,30,2.17,Draw
-712367,"11:30, 23.02.25",ITA1,10,Como,WWWWW,-1,1.33,1,Napoli,WWWWD,30,2.17,HomeWin
-704611,"11:30, 26.04.25",ENG1,4,Chelsea,WWWLW,20,1.78,13,Everton,WLLDW,-5,1.17,HomeWin
-704993,"12:00, 03.05.25",ESP1,17,Alavés,DWDLW,-11,1.06,3,Atlético Madrid,LWDWL,31,1.94,Draw
-704994,"12:00, 04.05.25",ESP1,2,Real Madrid,WWWLW,36,2.17,7,Celta Vigo,LWLWW,2,1.44,HomeWin
-704957,"12:00, 05.04.25",ESP1,13,Girona,LDWLW,-11,1.14,17,Alavés,DWDLW,-11,1.06,AwayWin
-704956,"12:00, 06.04.25",ESP1,19,Las Palmas,WLLLL,-18,0.89,12,Real Sociedad,DLDLL,-10,1.19,AwayWin
-705005,"12:00, 10.05.25",ESP1,11,Valencia,DDWWL,-9,1.25,15,Getafe,LLLLL,-5,1.08,HomeWin
-705006,"12:00, 11.05.25",ESP1,18,Leganés,DDDWL,-21,0.94,16,Espanyol,DLLLL,-11,1.08,HomeWin
-704965,"12:00, 12.04.25",ESP1,12,Real Sociedad,DLDLL,-10,1.19,10,Mallorca,DLLWL,-8,1.31,AwayWin
-704963,"12:00, 13.04.25",ESP1,9,Osasuna,WWLDW,-6,1.33,13,Girona,LDWLW,-11,1.14,HomeWin
-704973,"12:00, 19.04.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,11,Valencia,DDWWL,-9,1.25,Draw
-704975,"12:00, 20.04.25",ESP1,20,Real Valladolid,LLLLL,-60,0.44,9,Osasuna,WWLDW,-6,1.33,AwayWin
-704949,"12:00, 30.03.25",ESP1,15,Getafe,LLLLL,-5,1.08,5,Villarreal,LWWWW,17,1.78,AwayWin
-704518,"12:30, 01.02.25",ENG1,7,Nottingham Forest,LWLDD,12,1.72,9,Brighton & Hove Albion,DLWDW,3,1.53,HomeWin
-704554,"12:30, 08.03.25",ENG1,7,Nottingham Forest,LWLDD,12,1.72,6,Manchester City,WWWWD,24,1.81,HomeWin
-704520,"12:30, 15.02.25",ENG1,19,Leicester City,DLLWD,-47,0.61,2,Arsenal,DWDLD,33,1.89,AwayWin
-704530,"12:30, 22.02.25",ENG1,13,Everton,WLLDW,-5,1.17,16,Manchester United,LDLLL,-12,1.05,Draw
-704872,"13:00, 01.02.25",ESP1,15,Getafe,LLLLL,-5,1.08,14,Sevilla,DLDLW,-9,1.14,Draw
-704912,"13:00, 01.03.25",ESP1,13,Girona,LDWLW,-11,1.14,7,Celta Vigo,LWLWW,2,1.44,Draw
-704871,"13:00, 02.02.25",ESP1,1,Barcelona,WWWWW,61,2.36,17,Alavés,DWDLW,-11,1.06,HomeWin
-704913,"13:00, 02.03.25",ESP1,18,Leganés,DDDWL,-21,0.94,15,Getafe,LLLLL,-5,1.08,HomeWin
-712458,"13:00, 03.05.25",ITA1,16,Parma,DWDLL,-15,0.89,10,Como,WWWWW,-1,1.33,AwayWin
-712462,"13:00, 03.05.25",ITA1,14,Cagliari,LLWLL,-17,0.92,12,Udinese,LLDWL,-12,1.22,AwayWin
-704628,"13:00, 04.05.25",ENG1,15,West Ham United,LDLDW,-17,1.11,17,Tottenham Hotspur,LLDLL,2,1.03,Draw
-704622,"13:00, 04.05.25",ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,3,Newcastle United,WLWDW,23,1.83,Draw
-704621,"13:00, 04.05.25",ENG1,8,Brentford,DWWWW,10,1.53,16,Manchester United,LDLLL,-12,1.05,HomeWin
-712457,"13:00, 04.05.25",ITA1,20,Monza,LLLLW,-37,0.5,3,Atalanta,WWDWW,41,1.97,AwayWin
-712418,"13:00, 05.04.25",ITA1,20,Monza,LLLLW,-37,0.5,10,Como,WWWWW,-1,1.33,AwayWin
-712414,"13:00, 06.04.25",ITA1,19,Empoli,LDLLW,-27,0.78,14,Cagliari,LLWLL,-17,0.92,Draw
-712419,"13:00, 06.04.25",ITA1,11,Torino,LWLDL,-3,1.22,15,Hellas Verona,DLLLD,-33,0.92,Draw
-704587,"13:00, 06.04.25",ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,20,Southampton,LDLLD,-57,0.33,HomeWin
-704586,"13:00, 06.04.25",ENG1,11,Fulham,LLWLL,1,1.42,1,Liverpool,WWWLD,46,2.31,HomeWin
-704579,"13:00, 06.04.25",ENG1,8,Brentford,DWWWW,10,1.53,4,Chelsea,WWWLW,20,1.78,Draw
-704882,"13:00, 08.02.25",ESP1,7,Celta Vigo,LWLWW,2,1.44,6,Real Betis,WWWDD,10,1.64,HomeWin
-704923,"13:00, 08.03.25",ESP1,7,Celta Vigo,LWLWW,2,1.44,18,Leganés,DDDWL,-21,0.94,HomeWin
-704880,"13:00, 09.02.25",ESP1,17,Alavés,DWDLW,-11,1.06,15,Getafe,LLLLL,-5,1.08,AwayWin
-704924,"13:00, 09.03.25",ESP1,15,Getafe,LLLLL,-5,1.08,3,Atlético Madrid,LWDWL,31,1.94,HomeWin
-712463,"13:00, 10.05.25",ITA1,10,Como,WWWWW,-1,1.33,14,Cagliari,LLWLL,-17,0.92,HomeWin
-712469,"13:00, 11.05.25",ITA1,15,Hellas Verona,DLLLD,-33,0.92,18,Lecce,LLDLD,-33,0.78,Draw
-712429,"13:00, 12.04.25",ITA1,17,Venezia,WDLDW,-20,0.81,20,Monza,LLLLW,-37,0.5,HomeWin
-704594,"13:00, 13.04.25",ENG1,1,Liverpool,WWWLD,46,2.31,15,West Ham United,LDLDW,-17,1.11,HomeWin
-704598,"13:00, 13.04.25",ENG1,4,Chelsea,WWWLW,20,1.78,18,Ipswich Town,DLLDL,-42,0.61,Draw
-704593,"13:00, 13.04.25",ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
-712427,"13:00, 13.04.25",ITA1,9,Fiorentina,DWWLL,17,1.64,16,Parma,DWDLL,-15,0.89,Draw
-712426,"13:00, 13.04.25",ITA1,15,Hellas Verona,DLLLD,-33,0.92,13,Genoa,DLLLD,-13,1.11,Draw
-704893,"13:00, 15.02.25",ESP1,18,Leganés,DDDWL,-21,0.94,17,Alavés,DWDLW,-11,1.06,Draw
-704937,"13:00, 15.03.25",ESP1,20,Real Valladolid,LLLLL,-60,0.44,7,Celta Vigo,LWLWW,2,1.44,AwayWin
-704898,"13:00, 16.02.25",ESP1,16,Espanyol,DLLLL,-11,1.08,4,Athletic Club,LWDWW,27,1.86,Draw
-704933,"13:00, 16.03.25",ESP1,18,Leganés,DDDWL,-21,0.94,6,Real Betis,WWWDD,10,1.64,AwayWin
-712438,"13:00, 19.04.25",ITA1,18,Lecce,LLDLD,-33,0.78,10,Como,WWWWW,-1,1.33,AwayWin
-712440,"13:00, 20.04.25",ITA1,19,Empoli,LDLLW,-27,0.78,17,Venezia,WDLDW,-20,0.81,Draw
-704608,"13:00, 20.04.25",ENG1,11,Fulham,LLWLL,1,1.42,4,Chelsea,WWWLW,20,1.78,AwayWin
-704602,"13:00, 20.04.25",ENG1,18,Ipswich Town,DLLDL,-42,0.61,2,Arsenal,DWDLD,33,1.89,AwayWin
-704600,"13:00, 20.04.25",ENG1,16,Manchester United,LDLLL,-12,1.05,14,Wolverhampton Wanderers,WWWLL,-13,1.14,AwayWin
-704900,"13:00, 22.02.25",ESP1,17,Alavés,DWDLW,-11,1.06,16,Espanyol,DLLLL,-11,1.08,AwayWin
-704901,"13:00, 23.02.25",ESP1,4,Athletic Club,LWDWW,27,1.86,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
-712489,"13:00, 25.05.25",ITA1,11,Torino,LWLDL,-3,1.22,6,AS Roma,DWWWL,17,1.75,Draw
-712485,"13:00, 25.05.25",ITA1,7,Bologna,LWDDL,13,1.72,13,Genoa,DLLLD,-13,1.11,Draw
-712484,"13:00, 25.05.25",ITA1,10,Como,WWWWW,-1,1.33,2,Internazionale,WLLWW,42,2.14,Draw
-712488,"13:00, 25.05.25",ITA1,1,Napoli,WWWWD,30,2.17,14,Cagliari,LLWLL,-17,0.92,Draw
-712487,"13:00, 25.05.25",ITA1,19,Empoli,LDLLW,-27,0.78,15,Hellas Verona,DLLLD,-33,0.92,Draw
-712492,"13:00, 25.05.25",ITA1,8,AC Milan,WLWWW,18,1.67,20,Monza,LLLLW,-37,0.5,Draw
-712491,"13:00, 25.05.25",ITA1,17,Venezia,WDLDW,-20,0.81,4,Juventus,WLWDD,20,1.78,Draw
-712486,"13:00, 25.05.25",ITA1,5,Lazio,DWDWD,13,1.78,18,Lecce,LLDLD,-33,0.78,Draw
-712483,"13:00, 25.05.25",ITA1,3,Atalanta,WWDWW,41,1.97,16,Parma,DWDLL,-15,0.89,Draw
-712490,"13:00, 25.05.25",ITA1,12,Udinese,LLDWL,-12,1.22,9,Fiorentina,DWWLL,17,1.64,Draw
-712452,"13:00, 27.04.25",ITA1,2,Internazionale,WLLWW,42,2.14,6,AS Roma,DWWWL,17,1.75,AwayWin
-704609,"13:00, 27.04.25",ENG1,10,AFC Bournemouth,WDDWL,12,1.47,16,Manchester United,LDLLL,-12,1.05,Draw
-712445,"13:00, 27.04.25",ITA1,9,Fiorentina,DWWLL,17,1.64,19,Empoli,LDLLW,-27,0.78,HomeWin
-704947,"13:00, 29.03.25",ESP1,12,Real Sociedad,DLDLL,-10,1.19,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
-712405,"13:00, 30.03.25",ITA1,9,Fiorentina,DWWLL,17,1.64,3,Atalanta,WWDWW,41,1.97,HomeWin
-704633,"13:15, 11.05.25",ENG1,16,Manchester United,LDLLL,-12,1.05,15,West Ham United,LDLDW,-17,1.11,AwayWin
-704635,"13:15, 11.05.25",ENG1,7,Nottingham Forest,LWLDD,12,1.72,19,Leicester City,DLLWD,-47,0.61,Draw
-704637,"13:15, 11.05.25",ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,12,Crystal Palace,LDDDW,-2,1.36,AwayWin
-704648,"13:15, 18.05.25",ENG1,15,West Ham United,LDLDW,-17,1.11,7,Nottingham Forest,LWLDD,12,1.72,Draw
-711717,"13:30, 03.05.25",GER1,14,St. Pauli,WDDLD,-11,0.97,9,VfB Stuttgart,LDLWW,10,1.42,AwayWin
-711713,"13:30, 03.05.25",GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,8,Werder Bremen,WWDDD,-6,1.45,Draw
-711718,"13:30, 03.05.25",GER1,7,RB Leipzig,WDLDD,6,1.55,1,Bayern Munich,DWWDW,63,2.39,Draw
-711719,"13:30, 03.05.25",GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,15,TSG Hoffenheim,WLLDD,-18,0.97,Draw
-711716,"13:30, 04.05.25",GER1,11,FC Augsburg,WDLLL,-15,1.3,17,Holstein Kiel,LDWWL,-28,0.76,AwayWin
-711680,"13:30, 05.04.25",GER1,6,Mainz,LDLDW,12,1.55,17,Holstein Kiel,LDWWL,-28,0.76,Draw
-711679,"13:30, 05.04.25",GER1,18,VfL Bochum,LLDDL,-36,0.67,9,VfB Stuttgart,LDLWW,10,1.42,AwayWin
-711677,"13:30, 05.04.25",GER1,7,RB Leipzig,WDLDD,6,1.55,15,TSG Hoffenheim,WLLDD,-18,0.97,HomeWin
-711682,"13:30, 05.04.25",GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,2,Bayer Leverkusen,DDWDL,29,2.06,AwayWin
-711676,"13:30, 05.04.25",GER1,4,SC Freiburg,WWWDW,-2,1.67,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
-711678,"13:30, 06.04.25",GER1,14,St. Pauli,WDDLD,-11,0.97,10,Borussia Monchengladbach,LLLDL,-1,1.36,Draw
-711723,"13:30, 10.05.25",GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,AwayWin
-711724,"13:30, 10.05.25",GER1,17,Holstein Kiel,LDWWL,-28,0.76,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
-711726,"13:30, 10.05.25",GER1,18,VfL Bochum,LLDDL,-36,0.67,6,Mainz,LDLDW,12,1.55,AwayWin
-711728,"13:30, 10.05.25",GER1,8,Werder Bremen,WWDDD,-6,1.45,7,RB Leipzig,WDLDD,6,1.55,Draw
-711722,"13:30, 11.05.25",GER1,2,Bayer Leverkusen,DDWDL,29,2.06,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
-711684,"13:30, 12.04.25",GER1,18,VfL Bochum,LLDDL,-36,0.67,11,FC Augsburg,WDLLL,-15,1.3,AwayWin
-711691,"13:30, 12.04.25",GER1,2,Bayer Leverkusen,DDWDL,29,2.06,13,1. FC Union Berlin,DDDDL,-17,1.12,Draw
-711690,"13:30, 12.04.25",GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
-711686,"13:30, 12.04.25",GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,6,Mainz,LDLDW,12,1.55,HomeWin
-711687,"13:30, 12.04.25",GER1,17,Holstein Kiel,LDWWL,-28,0.76,14,St. Pauli,WDDLD,-11,0.97,AwayWin
-711685,"13:30, 13.04.25",GER1,9,VfB Stuttgart,LDLWW,10,1.42,8,Werder Bremen,WWDDD,-6,1.45,AwayWin
-704559,"13:30, 16.03.25",ENG1,2,Arsenal,DWDLD,33,1.89,4,Chelsea,WWWLW,20,1.78,HomeWin
-704564,"13:30, 16.03.25",ENG1,11,Fulham,LLWLL,1,1.42,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
-711734,"13:30, 17.05.25",GER1,4,SC Freiburg,WWWDW,-2,1.67,3,Eintracht Frankfurt,WDWDD,20,1.73,Draw
-711738,"13:30, 17.05.25",GER1,11,FC Augsburg,WDLLL,-15,1.3,13,1. FC Union Berlin,DDDDL,-17,1.12,Draw
-711737,"13:30, 17.05.25",GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,1,Bayern Munich,DWWDW,63,2.39,Draw
-711733,"13:30, 17.05.25",GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,12,VfL Wolfsburg,LDLLD,1,1.21,Draw
-711735,"13:30, 17.05.25",GER1,14,St. Pauli,WDDLD,-11,0.97,18,VfL Bochum,LLDDL,-36,0.67,Draw
-711731,"13:30, 17.05.25",GER1,6,Mainz,LDLDW,12,1.55,2,Bayer Leverkusen,DDWDL,29,2.06,Draw
-711736,"13:30, 17.05.25",GER1,7,RB Leipzig,WDLDD,6,1.55,9,VfB Stuttgart,LDLWW,10,1.42,Draw
-711732,"13:30, 17.05.25",GER1,5,Borussia Dortmund,DWWWW,17,1.64,17,Holstein Kiel,LDWWL,-28,0.76,Draw
-711730,"13:30, 17.05.25",GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,8,Werder Bremen,WWDDD,-6,1.45,Draw
-711693,"13:30, 19.04.25",GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,1,Bayern Munich,DWWDW,63,2.39,AwayWin
-711701,"13:30, 19.04.25",GER1,6,Mainz,LDLDW,12,1.55,12,VfL Wolfsburg,LDLLD,1,1.21,Draw
-711697,"13:30, 19.04.25",GER1,7,RB Leipzig,WDLDD,6,1.55,17,Holstein Kiel,LDWWL,-28,0.76,Draw
-711696,"13:30, 19.04.25",GER1,4,SC Freiburg,WWWDW,-2,1.67,15,TSG Hoffenheim,WLLDD,-18,0.97,HomeWin
-711695,"13:30, 19.04.25",GER1,8,Werder Bremen,WWDDD,-6,1.45,18,VfL Bochum,LLDDL,-36,0.67,HomeWin
-711699,"13:30, 20.04.25",GER1,11,FC Augsburg,WDLLL,-15,1.3,3,Eintracht Frankfurt,WDWDD,20,1.73,Draw
-711702,"13:30, 26.04.25",GER1,2,Bayer Leverkusen,DDWDL,29,2.06,11,FC Augsburg,WDLLL,-15,1.3,HomeWin
-711706,"13:30, 26.04.25",GER1,12,VfL Wolfsburg,LDLLD,1,1.21,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
-711707,"13:30, 26.04.25",GER1,17,Holstein Kiel,LDWWL,-28,0.76,10,Borussia Monchengladbach,LLLDL,-1,1.36,HomeWin
-711708,"13:30, 26.04.25",GER1,1,Bayern Munich,DWWDW,63,2.39,6,Mainz,LDLDW,12,1.55,HomeWin
-711705,"13:30, 26.04.25",GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
-711703,"13:30, 27.04.25",GER1,18,VfL Bochum,LLDDL,-36,0.67,13,1. FC Union Berlin,DDDDL,-17,1.12,Draw
-711668,"13:30, 30.03.25",GER1,4,SC Freiburg,WWWDW,-2,1.67,13,1. FC Union Berlin,DDDDL,-17,1.12,AwayWin
-712341,"14:00, 01.02.25",ITA1,12,Udinese,LLDWL,-12,1.22,17,Venezia,WDLDW,-20,0.81,HomeWin
-712338,"14:00, 01.02.25",ITA1,20,Monza,LLLLW,-37,0.5,15,Hellas Verona,DLLLD,-33,0.92,AwayWin
-712381,"14:00, 01.03.25",ITA1,3,Atalanta,WWDWW,41,1.97,17,Venezia,WDLDW,-20,0.81,Draw
-704512,"14:00, 02.02.25",ENG1,8,Brentford,DWWWW,10,1.53,17,Tottenham Hotspur,LLDLL,2,1.03,AwayWin
-712340,"14:00, 02.02.25",ITA1,9,Fiorentina,DWWLL,17,1.64,13,Genoa,DLLLD,-13,1.11,HomeWin
-704516,"14:00, 02.02.25",ENG1,16,Manchester United,LDLLL,-12,1.05,12,Crystal Palace,LDDDW,-2,1.36,AwayWin
-712378,"14:00, 02.03.25",ITA1,13,Genoa,DLLLD,-13,1.11,19,Empoli,LDLLW,-27,0.78,Draw
-712380,"14:00, 02.03.25",ITA1,7,Bologna,LWDDL,13,1.72,14,Cagliari,LLWLL,-17,0.92,HomeWin
-704625,"14:00, 03.05.25",ENG1,13,Everton,WLLDW,-5,1.17,18,Ipswich Town,DLLDL,-42,0.61,Draw
-704626,"14:00, 03.05.25",ENG1,19,Leicester City,DLLWD,-47,0.61,20,Southampton,LDLLD,-57,0.33,HomeWin
-704585,"14:00, 05.04.25",ENG1,18,Ipswich Town,DLLDL,-42,0.61,14,Wolverhampton Wanderers,WWWLL,-13,1.14,AwayWin
-704582,"14:00, 05.04.25",ENG1,15,West Ham United,LDLDW,-17,1.11,10,AFC Bournemouth,WDDWL,12,1.47,Draw
-704583,"14:00, 05.04.25",ENG1,12,Crystal Palace,LDDDW,-2,1.36,9,Brighton & Hove Albion,DLWDW,3,1.53,HomeWin
-712349,"14:00, 08.02.25",ITA1,15,Hellas Verona,DLLLD,-33,0.92,3,Atalanta,WWDWW,41,1.97,AwayWin
-712392,"14:00, 08.03.25",ITA1,16,Parma,DWDLL,-15,0.89,11,Torino,LWLDL,-3,1.22,Draw
-712390,"14:00, 08.03.25",ITA1,10,Como,WWWWW,-1,1.33,17,Venezia,WDLDW,-20,0.81,Draw
-712351,"14:00, 09.02.25",ITA1,5,Lazio,DWDWD,13,1.78,20,Monza,LLLLW,-37,0.5,HomeWin
-712346,"14:00, 09.02.25",ITA1,14,Cagliari,LLWLL,-17,0.92,16,Parma,DWDLL,-15,0.89,HomeWin
-712383,"14:00, 09.03.25",ITA1,1,Napoli,WWWWD,30,2.17,9,Fiorentina,DWWLL,17,1.64,HomeWin
-704553,"14:00, 09.03.25",ENG1,4,Chelsea,WWWLW,20,1.78,19,Leicester City,DLLWD,-47,0.61,HomeWin
-704558,"14:00, 09.03.25",ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,10,AFC Bournemouth,WDDWL,12,1.47,Draw
-704631,"14:00, 10.05.25",ENG1,18,Ipswich Town,DLLDL,-42,0.61,8,Brentford,DWWWW,10,1.53,AwayWin
-704630,"14:00, 10.05.25",ENG1,11,Fulham,LLWLL,1,1.42,13,Everton,WLLDW,-5,1.17,AwayWin
-704638,"14:00, 10.05.25",ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,9,Brighton & Hove Albion,DLWDW,3,1.53,AwayWin
-704636,"14:00, 10.05.25",ENG1,20,Southampton,LDLLD,-57,0.33,6,Manchester City,WWWWD,24,1.81,Draw
-704597,"14:00, 12.04.25",ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,19,Leicester City,DLLWD,-47,0.61,Draw
-704592,"14:00, 12.04.25",ENG1,20,Southampton,LDLLD,-57,0.33,5,Aston Villa,WLWWW,9,1.78,AwayWin
-704589,"14:00, 12.04.25",ENG1,7,Nottingham Forest,LWLDD,12,1.72,13,Everton,WLLDW,-5,1.17,AwayWin
-712355,"14:00, 15.02.25",ITA1,3,Atalanta,WWDWW,41,1.97,14,Cagliari,LLWLL,-17,0.92,Draw
-712398,"14:00, 15.03.25",ITA1,20,Monza,LLLLW,-37,0.5,16,Parma,DWDLL,-15,0.89,Draw
-712401,"14:00, 15.03.25",ITA1,12,Udinese,LLDWL,-12,1.22,15,Hellas Verona,DLLLD,-33,0.92,AwayWin
-704521,"14:00, 16.02.25",ENG1,1,Liverpool,WWWLD,46,2.31,14,Wolverhampton Wanderers,WWWLL,-13,1.14,HomeWin
-712353,"14:00, 16.02.25",ITA1,12,Udinese,LLDWL,-12,1.22,19,Empoli,LDLLW,-27,0.78,HomeWin
-712362,"14:00, 16.02.25",ITA1,20,Monza,LLLLW,-37,0.5,18,Lecce,LLDLD,-33,0.78,Draw
-712394,"14:00, 16.03.25",ITA1,7,Bologna,LWDDL,13,1.72,5,Lazio,DWDWD,13,1.78,HomeWin
-704641,"14:00, 18.05.25",ENG1,8,Brentford,DWWWW,10,1.53,11,Fulham,LLWLL,1,1.42,Draw
-704646,"14:00, 18.05.25",ENG1,19,Leicester City,DLLWD,-47,0.61,18,Ipswich Town,DLLDL,-42,0.61,Draw
-704605,"14:00, 19.04.25",ENG1,12,Crystal Palace,LDDDW,-2,1.36,10,AFC Bournemouth,WDDWL,12,1.47,Draw
-704607,"14:00, 19.04.25",ENG1,8,Brentford,DWWWW,10,1.53,9,Brighton & Hove Albion,DLWDW,3,1.53,HomeWin
-704603,"14:00, 19.04.25",ENG1,15,West Ham United,LDLDW,-17,1.11,20,Southampton,LDLLD,-57,0.33,Draw
-704604,"14:00, 19.04.25",ENG1,13,Everton,WLLDW,-5,1.17,6,Manchester City,WWWWD,24,1.81,AwayWin
-712368,"14:00, 22.02.25",ITA1,17,Venezia,WDLDW,-20,0.81,5,Lazio,DWDWD,13,1.78,Draw
-712366,"14:00, 22.02.25",ITA1,16,Parma,DWDLL,-15,0.89,7,Bologna,LWDDL,13,1.72,HomeWin
-712370,"14:00, 23.02.25",ITA1,15,Hellas Verona,DLLLD,-33,0.92,9,Fiorentina,DWWLL,17,1.64,HomeWin
-704533,"14:00, 23.02.25",ENG1,3,Newcastle United,WLWDW,23,1.83,7,Nottingham Forest,LWLDD,12,1.72,HomeWin
-704610,"14:00, 26.04.25",ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,15,West Ham United,LDLDW,-17,1.11,HomeWin
-704612,"14:00, 26.04.25",ENG1,20,Southampton,LDLLD,-57,0.33,11,Fulham,LLWLL,1,1.42,AwayWin
-704613,"14:00, 26.04.25",ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,19,Leicester City,DLLWD,-47,0.61,HomeWin
-704614,"14:00, 26.04.25",ENG1,3,Newcastle United,WLWDW,23,1.83,18,Ipswich Town,DLLDL,-42,0.61,HomeWin
-712408,"14:00, 29.03.25",ITA1,17,Venezia,WDLDW,-20,0.81,7,Bologna,LWDDL,13,1.72,AwayWin
-712404,"14:00, 29.03.25",ITA1,10,Como,WWWWW,-1,1.33,19,Empoli,LDLLW,-27,0.78,Draw
-704991,"14:15, 03.05.25",ESP1,5,Villarreal,LWWWW,17,1.78,9,Osasuna,WWLDW,-6,1.33,HomeWin
-704997,"14:15, 04.05.25",ESP1,14,Sevilla,DLDLW,-9,1.14,18,Leganés,DDDWL,-21,0.94,Draw
-704953,"14:15, 05.04.25",ESP1,2,Real Madrid,WWWLW,36,2.17,11,Valencia,DDWWL,-9,1.25,AwayWin
-704955,"14:15, 06.04.25",ESP1,14,Sevilla,DLDLW,-9,1.14,3,Atlético Madrid,LWDWL,31,1.94,AwayWin
-705003,"14:15, 10.05.25",ESP1,7,Celta Vigo,LWLWW,2,1.44,14,Sevilla,DLDLW,-9,1.14,HomeWin
-705002,"14:15, 11.05.25",ESP1,1,Barcelona,WWWWW,61,2.36,2,Real Madrid,WWWLW,36,2.17,HomeWin
-704961,"14:15, 12.04.25",ESP1,15,Getafe,LLLLL,-5,1.08,19,Las Palmas,WLLLL,-18,0.89,AwayWin
-704966,"14:15, 13.04.25",ESP1,17,Alavés,DWDLW,-11,1.06,2,Real Madrid,WWWLW,36,2.17,AwayWin
-704970,"14:15, 19.04.25",ESP1,1,Barcelona,WWWWW,61,2.36,7,Celta Vigo,LWLWW,2,1.44,HomeWin
-704978,"14:15, 20.04.25",ESP1,5,Villarreal,LWWWW,17,1.78,12,Real Sociedad,DLDLL,-10,1.19,Draw
-704919,"14:15, 27.04.25",ESP1,5,Villarreal,LWWWW,17,1.78,16,Espanyol,DLLLL,-11,1.08,HomeWin
-704942,"14:15, 30.03.25",ESP1,1,Barcelona,WWWWW,61,2.36,13,Girona,LDWLW,-11,1.14,HomeWin
-711607,"14:30, 01.02.25",GER1,1,Bayern Munich,DWWDW,63,2.39,17,Holstein Kiel,LDWWL,-28,0.76,HomeWin
-711609,"14:30, 01.02.25",GER1,9,VfB Stuttgart,LDLWW,10,1.42,10,Borussia Monchengladbach,LLLDL,-1,1.36,AwayWin
-711611,"14:30, 01.02.25",GER1,14,St. Pauli,WDDLD,-11,0.97,11,FC Augsburg,WDLLL,-15,1.3,Draw
-711606,"14:30, 01.02.25",GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
-711608,"14:30, 01.02.25",GER1,18,VfL Bochum,LLDDL,-36,0.67,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
-711642,"14:30, 01.03.25",GER1,14,St. Pauli,WDDLD,-11,0.97,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
-711640,"14:30, 01.03.25",GER1,8,Werder Bremen,WWDDD,-6,1.45,12,VfL Wolfsburg,LDLLD,1,1.21,AwayWin
-711641,"14:30, 01.03.25",GER1,7,RB Leipzig,WDLDD,6,1.55,6,Mainz,LDLDW,12,1.55,AwayWin
-711643,"14:30, 01.03.25",GER1,18,VfL Bochum,LLDDL,-36,0.67,15,TSG Hoffenheim,WLLDD,-18,0.97,AwayWin
-711646,"14:30, 01.03.25",GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,10,Borussia Monchengladbach,LLLDL,-1,1.36,AwayWin
-711603,"14:30, 02.02.25",GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,12,VfL Wolfsburg,LDLLD,1,1.21,Draw
-711645,"14:30, 02.03.25",GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,17,Holstein Kiel,LDWWL,-28,0.76,AwayWin
-711613,"14:30, 08.02.25",GER1,5,Borussia Dortmund,DWWWW,17,1.64,9,VfB Stuttgart,LDLWW,10,1.42,AwayWin
-711616,"14:30, 08.02.25",GER1,12,VfL Wolfsburg,LDLLD,1,1.21,2,Bayer Leverkusen,DDWDL,29,2.06,Draw
-711617,"14:30, 08.02.25",GER1,4,SC Freiburg,WWWDW,-2,1.67,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,HomeWin
-711620,"14:30, 08.02.25",GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,13,1. FC Union Berlin,DDDDL,-17,1.12,AwayWin
-711612,"14:30, 08.02.25",GER1,6,Mainz,LDLDW,12,1.55,11,FC Augsburg,WDLLL,-15,1.3,Draw
-711650,"14:30, 08.03.25",GER1,17,Holstein Kiel,LDWWL,-28,0.76,9,VfB Stuttgart,LDLWW,10,1.42,Draw
-711651,"14:30, 08.03.25",GER1,1,Bayern Munich,DWWDW,63,2.39,18,VfL Bochum,LLDDL,-36,0.67,AwayWin
-711654,"14:30, 08.03.25",GER1,5,Borussia Dortmund,DWWWW,17,1.64,11,FC Augsburg,WDLLL,-15,1.3,AwayWin
-711655,"14:30, 08.03.25",GER1,2,Bayer Leverkusen,DDWDL,29,2.06,8,Werder Bremen,WWDDD,-6,1.45,AwayWin
-711656,"14:30, 08.03.25",GER1,12,VfL Wolfsburg,LDLLD,1,1.21,14,St. Pauli,WDDLD,-11,0.97,Draw
-711619,"14:30, 09.02.25",GER1,17,Holstein Kiel,LDWWL,-28,0.76,18,VfL Bochum,LLDDL,-36,0.67,Draw
-711652,"14:30, 09.03.25",GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,13,1. FC Union Berlin,DDDDL,-17,1.12,AwayWin
-711621,"14:30, 15.02.25",GER1,18,VfL Bochum,LLDDL,-36,0.67,5,Borussia Dortmund,DWWWW,17,1.64,HomeWin
-711623,"14:30, 15.02.25",GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,10,Borussia Monchengladbach,LLLDL,-1,1.36,AwayWin
-711627,"14:30, 15.02.25",GER1,14,St. Pauli,WDDLD,-11,0.97,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
-711629,"14:30, 15.02.25",GER1,9,VfB Stuttgart,LDLWW,10,1.42,12,VfL Wolfsburg,LDLLD,1,1.21,AwayWin
-711664,"14:30, 15.03.25",GER1,11,FC Augsburg,WDLLL,-15,1.3,12,VfL Wolfsburg,LDLLD,1,1.21,HomeWin
-711665,"14:30, 15.03.25",GER1,6,Mainz,LDLDW,12,1.55,4,SC Freiburg,WWWDW,-2,1.67,Draw
-711658,"14:30, 15.03.25",GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,1,Bayern Munich,DWWDW,63,2.39,Draw
-711661,"14:30, 15.03.25",GER1,8,Werder Bremen,WWDDD,-6,1.45,10,Borussia Monchengladbach,LLLDL,-1,1.36,AwayWin
-711628,"14:30, 16.02.25",GER1,8,Werder Bremen,WWDDD,-6,1.45,15,TSG Hoffenheim,WLLDD,-18,0.97,AwayWin
-711659,"14:30, 16.03.25",GER1,18,VfL Bochum,LLDDL,-36,0.67,3,Eintracht Frankfurt,WDWDD,20,1.73,AwayWin
-711638,"14:30, 22.02.25",GER1,17,Holstein Kiel,LDWWL,-28,0.76,2,Bayer Leverkusen,DDWDL,29,2.06,AwayWin
-711634,"14:30, 22.02.25",GER1,12,VfL Wolfsburg,LDLLD,1,1.21,18,VfL Bochum,LLDDL,-36,0.67,Draw
-711632,"14:30, 22.02.25",GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,11,FC Augsburg,WDLLL,-15,1.3,AwayWin
-711630,"14:30, 22.02.25",GER1,6,Mainz,LDLDW,12,1.55,14,St. Pauli,WDDLD,-11,0.97,HomeWin
-711635,"14:30, 23.02.25",GER1,7,RB Leipzig,WDLDD,6,1.55,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,Draw
-711670,"14:30, 29.03.25",GER1,12,VfL Wolfsburg,LDLLD,1,1.21,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,AwayWin
-711672,"14:30, 29.03.25",GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,7,RB Leipzig,WDLDD,6,1.55,HomeWin
-711674,"14:30, 29.03.25",GER1,1,Bayern Munich,DWWDW,63,2.39,14,St. Pauli,WDDLD,-11,0.97,HomeWin
-711667,"14:30, 29.03.25",GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,11,FC Augsburg,WDLLL,-15,1.3,Draw
-711669,"14:30, 29.03.25",GER1,17,Holstein Kiel,LDWWL,-28,0.76,8,Werder Bremen,WWDDD,-6,1.45,AwayWin
-704509,"15:00, 01.02.25",ENG1,13,Everton,WLLDW,-5,1.17,19,Leicester City,DLLWD,-47,0.61,HomeWin
-704510,"15:00, 01.02.25",ENG1,18,Ipswich Town,DLLDL,-42,0.61,20,Southampton,LDLLD,-57,0.33,AwayWin
-704511,"15:00, 01.02.25",ENG1,10,AFC Bournemouth,WDDWL,12,1.47,1,Liverpool,WWWLD,46,2.31,AwayWin
-704517,"15:00, 01.02.25",ENG1,3,Newcastle United,WLWDW,23,1.83,11,Fulham,LLWLL,1,1.42,AwayWin
-704550,"15:00, 08.03.25",ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,11,Fulham,LLWLL,1,1.42,HomeWin
-704556,"15:00, 08.03.25",ENG1,1,Liverpool,WWWLD,46,2.31,20,Southampton,LDLLD,-57,0.33,HomeWin
-704557,"15:00, 08.03.25",ENG1,12,Crystal Palace,LDDDW,-2,1.36,18,Ipswich Town,DLLDL,-42,0.61,HomeWin
-704519,"15:00, 15.02.25",ENG1,11,Fulham,LLWLL,1,1.42,7,Nottingham Forest,LWLDD,12,1.72,HomeWin
-704522,"15:00, 15.02.25",ENG1,6,Manchester City,WWWWD,24,1.81,3,Newcastle United,WLWDW,23,1.83,HomeWin
-704523,"15:00, 15.02.25",ENG1,15,West Ham United,LDLDW,-17,1.11,8,Brentford,DWWWW,10,1.53,AwayWin
-704527,"15:00, 15.02.25",ENG1,5,Aston Villa,WLWWW,9,1.78,18,Ipswich Town,DLLDL,-42,0.61,Draw
-704528,"15:00, 15.02.25",ENG1,20,Southampton,LDLLD,-57,0.33,10,AFC Bournemouth,WDDWL,12,1.47,AwayWin
-704565,"15:00, 15.03.25",ENG1,13,Everton,WLLDW,-5,1.17,15,West Ham United,LDLDW,-17,1.11,Draw
-704561,"15:00, 15.03.25",ENG1,6,Manchester City,WWWWD,24,1.81,9,Brighton & Hove Albion,DLWDW,3,1.53,Draw
-704563,"15:00, 15.03.25",ENG1,20,Southampton,LDLLD,-57,0.33,14,Wolverhampton Wanderers,WWWLL,-13,1.14,AwayWin
-704568,"15:00, 15.03.25",ENG1,18,Ipswich Town,DLLDL,-42,0.61,7,Nottingham Forest,LWLDD,12,1.72,AwayWin
-712399,"15:00, 16.03.25",ITA1,6,AS Roma,DWWWL,17,1.75,14,Cagliari,LLWLL,-17,0.92,HomeWin
-704529,"15:00, 22.02.25",ENG1,10,AFC Bournemouth,WDDWL,12,1.47,14,Wolverhampton Wanderers,WWWLL,-13,1.14,AwayWin
-704531,"15:00, 22.02.25",ENG1,11,Fulham,LLWLL,1,1.42,12,Crystal Palace,LDDDW,-2,1.36,AwayWin
-704532,"15:00, 22.02.25",ENG1,18,Ipswich Town,DLLDL,-42,0.61,17,Tottenham Hotspur,LLDLL,2,1.03,AwayWin
-704536,"15:00, 22.02.25",ENG1,20,Southampton,LDLLD,-57,0.33,9,Brighton & Hove Albion,DLWDW,3,1.53,AwayWin
-704538,"15:00, 22.02.25",ENG1,2,Arsenal,DWDLD,33,1.89,15,West Ham United,LDLDW,-17,1.11,AwayWin
-704654,"15:00, 25.05.25",ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,8,Brentford,DWWWW,10,1.53,Draw
-704649,"15:00, 25.05.25",ENG1,10,AFC Bournemouth,WDDWL,12,1.47,19,Leicester City,DLLWD,-47,0.61,Draw
-704650,"15:00, 25.05.25",ENG1,11,Fulham,LLWLL,1,1.42,6,Manchester City,WWWWD,24,1.81,Draw
-704651,"15:00, 25.05.25",ENG1,18,Ipswich Town,DLLDL,-42,0.61,15,West Ham United,LDLDW,-17,1.11,Draw
-704652,"15:00, 25.05.25",ENG1,1,Liverpool,WWWLD,46,2.31,12,Crystal Palace,LDDDW,-2,1.36,Draw
-704655,"15:00, 25.05.25",ENG1,7,Nottingham Forest,LWLDD,12,1.72,4,Chelsea,WWWLW,20,1.78,Draw
-704656,"15:00, 25.05.25",ENG1,20,Southampton,LDLLD,-57,0.33,2,Arsenal,DWDLD,33,1.89,Draw
-704653,"15:00, 25.05.25",ENG1,3,Newcastle United,WLWDW,23,1.83,13,Everton,WLLDW,-5,1.17,Draw
-704658,"15:00, 25.05.25",ENG1,16,Manchester United,LDLLL,-12,1.05,5,Aston Villa,WLWWW,9,1.78,Draw
-704657,"15:00, 25.05.25",ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,9,Brighton & Hove Albion,DLWDW,3,1.53,Draw
-704879,"15:15, 01.02.25",ESP1,5,Villarreal,LWWWW,17,1.78,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
-704916,"15:15, 01.03.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,14,Sevilla,DLDLW,-9,1.14,Draw
-704878,"15:15, 02.02.25",ESP1,11,Valencia,DDWWL,-9,1.25,7,Celta Vigo,LWLWW,2,1.44,HomeWin
-704911,"15:15, 02.03.25",ESP1,1,Barcelona,WWWWW,61,2.36,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
-704881,"15:15, 08.02.25",ESP1,4,Athletic Club,LWDWW,27,1.86,13,Girona,LDWLW,-11,1.14,HomeWin
-704920,"15:15, 08.03.25",ESP1,17,Alavés,DWDLW,-11,1.06,5,Villarreal,LWWWW,17,1.78,HomeWin
-704889,"15:15, 09.02.25",ESP1,11,Valencia,DDWWL,-9,1.25,18,Leganés,DDDWL,-21,0.94,HomeWin
-704926,"15:15, 09.03.25",ESP1,2,Real Madrid,WWWLW,36,2.17,8,Rayo Vallecano,DLWWD,-5,1.33,HomeWin
-704895,"15:15, 15.02.25",ESP1,9,Osasuna,WWLDW,-6,1.33,2,Real Madrid,WWWLW,36,2.17,Draw
-704934,"15:15, 15.03.25",ESP1,10,Mallorca,DLLWL,-8,1.31,16,Espanyol,DLLLL,-11,1.08,HomeWin
-704897,"15:15, 16.02.25",ESP1,20,Real Valladolid,LLLLL,-60,0.44,14,Sevilla,DLDLW,-9,1.14,AwayWin
-704938,"15:15, 16.03.25",ESP1,14,Sevilla,DLDLW,-9,1.14,4,Athletic Club,LWDWW,27,1.86,AwayWin
-704904,"15:15, 22.02.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,5,Villarreal,LWWWW,17,1.78,AwayWin
-704906,"15:15, 23.02.25",ESP1,2,Real Madrid,WWWLW,36,2.17,13,Girona,LDWLW,-11,1.14,HomeWin
-704948,"15:15, 29.03.25",ESP1,16,Espanyol,DLLLL,-11,1.08,3,Atlético Madrid,LWDWL,31,1.94,Draw
-711715,"15:30, 04.05.25",GER1,4,SC Freiburg,WWWDW,-2,1.67,2,Bayer Leverkusen,DDWDL,29,2.06,Draw
-704623,"15:30, 04.05.25",ENG1,4,Chelsea,WWWLW,20,1.78,1,Liverpool,WWWLD,46,2.31,HomeWin
-711681,"15:30, 06.04.25",GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,12,VfL Wolfsburg,LDLLD,1,1.21,HomeWin
-704581,"15:30, 06.04.25",ENG1,16,Manchester United,LDLLL,-12,1.05,6,Manchester City,WWWWD,24,1.81,Draw
-711721,"15:30, 11.05.25",GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,14,St. Pauli,WDDLD,-11,0.97,Draw
-704632,"15:30, 11.05.25",ENG1,1,Liverpool,WWWLD,46,2.31,2,Arsenal,DWDLD,33,1.89,Draw
-711689,"15:30, 13.04.25",GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,HomeWin
-704590,"15:30, 13.04.25",ENG1,3,Newcastle United,WLWDW,23,1.83,16,Manchester United,LDLLL,-12,1.05,HomeWin
-704639,"15:30, 18.05.25",ENG1,2,Arsenal,DWDLD,33,1.89,3,Newcastle United,WLWDW,23,1.83,Draw
-711700,"15:30, 20.04.25",GER1,5,Borussia Dortmund,DWWWW,17,1.64,10,Borussia Monchengladbach,LLLDL,-1,1.36,HomeWin
-704601,"15:30, 20.04.25",ENG1,19,Leicester City,DLLWD,-47,0.61,1,Liverpool,WWWLD,46,2.31,AwayWin
-711710,"15:30, 27.04.25",GER1,8,Werder Bremen,WWDDD,-6,1.45,14,St. Pauli,WDDLD,-11,0.97,Draw
-704617,"15:30, 27.04.25",ENG1,1,Liverpool,WWWLD,46,2.31,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
-711673,"15:30, 30.03.25",GER1,5,Borussia Dortmund,DWWWW,17,1.64,6,Mainz,LDLDW,12,1.55,HomeWin
-712456,"16:00, 03.05.25",ITA1,18,Lecce,LLDLD,-33,0.78,1,Napoli,WWWWD,30,2.17,AwayWin
-712459,"16:00, 04.05.25",ITA1,6,AS Roma,DWWWL,17,1.75,9,Fiorentina,DWWLL,17,1.64,HomeWin
-712420,"16:00, 05.04.25",ITA1,16,Parma,DWDLL,-15,0.89,2,Internazionale,WLLWW,42,2.14,Draw
-712417,"16:00, 06.04.25",ITA1,3,Atalanta,WWDWW,41,1.97,5,Lazio,DWDWD,13,1.78,AwayWin
-712468,"16:00, 10.05.25",ITA1,5,Lazio,DWDWD,13,1.78,4,Juventus,WLWDD,20,1.78,Draw
-712465,"16:00, 11.05.25",ITA1,11,Torino,LWLDL,-3,1.22,2,Internazionale,WLLWW,42,2.14,AwayWin
-712425,"16:00, 12.04.25",ITA1,2,Internazionale,WLLWW,42,2.14,14,Cagliari,LLWLL,-17,0.92,HomeWin
-712428,"16:00, 13.04.25",ITA1,10,Como,WWWWW,-1,1.33,11,Torino,LWLDL,-3,1.22,HomeWin
-712436,"16:00, 19.04.25",ITA1,20,Monza,LLLLW,-37,0.5,1,Napoli,WWWWD,30,2.17,AwayWin
-712434,"16:00, 20.04.25",ITA1,7,Bologna,LWDDL,13,1.72,2,Internazionale,WLLWW,42,2.14,HomeWin
-712447,"16:00, 27.04.25",ITA1,4,Juventus,WLWDD,20,1.78,20,Monza,LLLLW,-37,0.5,HomeWin
-712412,"16:00, 30.03.25",ITA1,2,Internazionale,WLLWW,42,2.14,12,Udinese,LLDWL,-12,1.22,HomeWin
-704515,"16:30, 02.02.25",ENG1,2,Arsenal,DWDLD,33,1.89,6,Manchester City,WWWWD,24,1.81,HomeWin
-711604,"16:30, 02.02.25",GER1,2,Bayer Leverkusen,DDWDL,29,2.06,15,TSG Hoffenheim,WLLDD,-18,0.97,HomeWin
-711647,"16:30, 02.03.25",GER1,11,FC Augsburg,WDLLL,-15,1.3,4,SC Freiburg,WWWDW,-2,1.67,Draw
-704999,"16:30, 03.05.25",ESP1,19,Las Palmas,WLLLL,-18,0.89,11,Valencia,DDWWL,-9,1.25,AwayWin
-704619,"16:30, 03.05.25",ENG1,2,Arsenal,DWDLD,33,1.89,10,AFC Bournemouth,WDDWL,12,1.47,AwayWin
-711711,"16:30, 03.05.25",GER1,5,Borussia Dortmund,DWWWW,17,1.64,12,VfL Wolfsburg,LDLLD,1,1.21,HomeWin
-704990,"16:30, 04.05.25",ESP1,16,Espanyol,DLLLL,-11,1.08,6,Real Betis,WWWDD,10,1.64,AwayWin
-704580,"16:30, 05.04.25",ENG1,5,Aston Villa,WLWWW,9,1.78,7,Nottingham Forest,LWLDD,12,1.72,HomeWin
-711675,"16:30, 05.04.25",GER1,8,Werder Bremen,WWDDD,-6,1.45,3,Eintracht Frankfurt,WDWDD,20,1.73,HomeWin
-704954,"16:30, 05.04.25",ESP1,10,Mallorca,DLLWL,-8,1.31,7,Celta Vigo,LWLWW,2,1.44,AwayWin
-704959,"16:30, 06.04.25",ESP1,20,Real Valladolid,LLLLL,-60,0.44,15,Getafe,LLLLL,-5,1.08,AwayWin
-711618,"16:30, 09.02.25",GER1,7,RB Leipzig,WDLDD,6,1.55,14,St. Pauli,WDDLD,-11,0.97,HomeWin
-704555,"16:30, 09.03.25",ENG1,16,Manchester United,LDLLL,-12,1.05,2,Arsenal,DWDLD,33,1.89,Draw
-711648,"16:30, 09.03.25",GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,Draw
-704629,"16:30, 10.05.25",ENG1,10,AFC Bournemouth,WDDWL,12,1.47,5,Aston Villa,WLWWW,9,1.78,AwayWin
-705009,"16:30, 10.05.25",ESP1,13,Girona,LDWLW,-11,1.14,5,Villarreal,LWWWW,17,1.78,AwayWin
-711720,"16:30, 10.05.25",GER1,1,Bayern Munich,DWWDW,63,2.39,10,Borussia Monchengladbach,LLLDL,-1,1.36,HomeWin
-705007,"16:30, 10.05.25",ESP1,10,Mallorca,DLLWL,-8,1.31,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
-705000,"16:30, 11.05.25",ESP1,4,Athletic Club,LWDWW,27,1.86,17,Alavés,DWDLW,-11,1.06,HomeWin
-704960,"16:30, 12.04.25",ESP1,7,Celta Vigo,LWLWW,2,1.44,16,Espanyol,DLLLL,-11,1.08,AwayWin
-704595,"16:30, 12.04.25",ENG1,2,Arsenal,DWDLD,33,1.89,8,Brentford,DWWWW,10,1.53,Draw
-711688,"16:30, 12.04.25",GER1,1,Bayern Munich,DWWDW,63,2.39,5,Borussia Dortmund,DWWWW,17,1.64,Draw
-712472,"16:30, 12.05.25",ITA1,17,Venezia,WDLDW,-20,0.81,9,Fiorentina,DWWLL,17,1.64,HomeWin
-704964,"16:30, 13.04.25",ESP1,6,Real Betis,WWWDD,10,1.64,5,Villarreal,LWWWW,17,1.78,AwayWin
-704524,"16:30, 16.02.25",ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,16,Manchester United,LDLLL,-12,1.05,HomeWin
-711625,"16:30, 16.02.25",GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,17,Holstein Kiel,LDWWL,-28,0.76,HomeWin
-711657,"16:30, 16.03.25",GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,17,Holstein Kiel,LDWWL,-28,0.76,HomeWin
-704606,"16:30, 19.04.25",ENG1,5,Aston Villa,WLWWW,9,1.78,3,Newcastle United,WLWDW,23,1.83,HomeWin
-711694,"16:30, 19.04.25",GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,9,VfB Stuttgart,LDLWW,10,1.42,Draw
-704972,"16:30, 19.04.25",ESP1,10,Mallorca,DLLWL,-8,1.31,18,Leganés,DDDWL,-21,0.94,Draw
-704976,"16:30, 20.04.25",ESP1,14,Sevilla,DLDLW,-9,1.14,17,Alavés,DWDLW,-11,1.06,Draw
-711633,"16:30, 23.02.25",GER1,1,Bayern Munich,DWWDW,63,2.39,3,Eintracht Frankfurt,WDWDD,20,1.73,HomeWin
-704534,"16:30, 23.02.25",ENG1,6,Manchester City,WWWWD,24,1.81,1,Liverpool,WWWLD,46,2.31,AwayWin
-712439,"16:30, 23.04.25",ITA1,13,Genoa,DLLLD,-13,1.11,5,Lazio,DWDWD,13,1.78,AwayWin
-712435,"16:30, 23.04.25",ITA1,16,Parma,DWDLL,-15,0.89,4,Juventus,WLWDD,20,1.78,HomeWin
-712442,"16:30, 23.04.25",ITA1,11,Torino,LWLDL,-3,1.22,12,Udinese,LLDWL,-12,1.22,HomeWin
-712441,"16:30, 23.04.25",ITA1,14,Cagliari,LLWLL,-17,0.92,9,Fiorentina,DWWLL,17,1.64,AwayWin
-711709,"16:30, 26.04.25",GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,7,RB Leipzig,WDLDD,6,1.55,HomeWin
-712443,"16:30, 28.04.25",ITA1,12,Udinese,LLDWL,-12,1.22,7,Bologna,LWDDL,13,1.72,Draw
-704945,"16:30, 30.03.25",ESP1,11,Valencia,DDWWL,-9,1.25,10,Mallorca,DLLWL,-8,1.31,HomeWin
-704941,"16:30, 30.03.25",ESP1,4,Athletic Club,LWDWW,27,1.86,9,Osasuna,WWLDW,-6,1.33,Draw
-712406,"16:30, 31.03.25",ITA1,15,Hellas Verona,DLLLD,-33,0.92,16,Parma,DWDLL,-15,0.89,Draw
-712337,"17:00, 01.02.25",ITA1,3,Atalanta,WWDWW,41,1.97,11,Torino,LWLDL,-3,1.22,Draw
-712374,"17:00, 01.03.25",ITA1,1,Napoli,WWWWD,30,2.17,2,Internazionale,WLLWW,42,2.14,Draw
-712342,"17:00, 02.02.25",ITA1,8,AC Milan,WLWWW,18,1.67,2,Internazionale,WLLWW,42,2.14,Draw
-712373,"17:00, 02.03.25",ITA1,6,AS Roma,DWWWL,17,1.75,10,Como,WWWWW,-1,1.33,HomeWin
-712348,"17:00, 08.02.25",ITA1,19,Empoli,LDLLW,-27,0.78,8,AC Milan,WLWWW,18,1.67,AwayWin
-712384,"17:00, 08.03.25",ITA1,18,Lecce,LLDLD,-33,0.78,8,AC Milan,WLWWW,18,1.67,AwayWin
-712345,"17:00, 09.02.25",ITA1,18,Lecce,LLDLD,-33,0.78,7,Bologna,LWDDL,13,1.72,Draw
-712389,"17:00, 09.03.25",ITA1,19,Empoli,LDLLW,-27,0.78,6,AS Roma,DWWWL,17,1.75,AwayWin
-705016,"17:00, 13.05.25",ESP1,20,Real Valladolid,LLLLL,-60,0.44,13,Girona,LDWLW,-11,1.14,AwayWin
-705019,"17:00, 14.05.25",ESP1,5,Villarreal,LWWWW,17,1.78,18,Leganés,DDDWL,-21,0.94,HomeWin
-705010,"17:00, 14.05.25",ESP1,17,Alavés,DWDLW,-11,1.06,11,Valencia,DDWWL,-9,1.25,HomeWin
-712358,"17:00, 15.02.25",ITA1,5,Lazio,DWDWD,13,1.78,1,Napoli,WWWWD,30,2.17,Draw
-712397,"17:00, 15.03.25",ITA1,8,AC Milan,WLWWW,18,1.67,10,Como,WWWWW,-1,1.33,HomeWin
-705013,"17:00, 15.05.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,6,Real Betis,WWWDD,10,1.64,Draw
-705012,"17:00, 15.05.25",ESP1,9,Osasuna,WWLDW,-6,1.33,3,Atlético Madrid,LWDWL,31,1.94,HomeWin
-712354,"17:00, 16.02.25",ITA1,16,Parma,DWDLL,-15,0.89,6,AS Roma,DWWWL,17,1.75,AwayWin
-712395,"17:00, 16.03.25",ITA1,9,Fiorentina,DWWLL,17,1.64,4,Juventus,WLWDD,20,1.78,HomeWin
-705020,"17:00, 18.05.25",ESP1,3,Atlético Madrid,LWDWL,31,1.94,6,Real Betis,WWWDD,10,1.64,Draw
-705021,"17:00, 18.05.25",ESP1,1,Barcelona,WWWWW,61,2.36,5,Villarreal,LWWWW,17,1.78,Draw
-705029,"17:00, 18.05.25",ESP1,11,Valencia,DDWWL,-9,1.25,4,Athletic Club,LWDWW,27,1.86,Draw
-705022,"17:00, 18.05.25",ESP1,7,Celta Vigo,LWLWW,2,1.44,8,Rayo Vallecano,DLWWD,-5,1.33,Draw
-705023,"17:00, 18.05.25",ESP1,19,Las Palmas,WLLLL,-18,0.89,18,Leganés,DDDWL,-21,0.94,Draw
-705024,"17:00, 18.05.25",ESP1,10,Mallorca,DLLWL,-8,1.31,15,Getafe,LLLLL,-5,1.08,Draw
-705028,"17:00, 18.05.25",ESP1,14,Sevilla,DLDLW,-9,1.14,2,Real Madrid,WWWLW,36,2.17,Draw
-705027,"17:00, 18.05.25",ESP1,20,Real Valladolid,LLLLL,-60,0.44,17,Alavés,DWDLW,-11,1.06,Draw
-705026,"17:00, 18.05.25",ESP1,12,Real Sociedad,DLDLL,-10,1.19,13,Girona,LDWLW,-11,1.14,Draw
-705025,"17:00, 18.05.25",ESP1,9,Osasuna,WWLDW,-6,1.33,16,Espanyol,DLLLL,-11,1.08,Draw
-712364,"17:00, 22.02.25",ITA1,11,Torino,LWLDL,-3,1.22,8,AC Milan,WLWWW,18,1.67,HomeWin
-704982,"17:00, 22.04.25",ESP1,11,Valencia,DDWWL,-9,1.25,16,Espanyol,DLLLL,-11,1.08,Draw
-712369,"17:00, 23.02.25",ITA1,19,Empoli,LDLLW,-27,0.78,3,Atalanta,WWDWW,41,1.97,AwayWin
-704987,"17:00, 23.04.25",ESP1,7,Celta Vigo,LWLWW,2,1.44,5,Villarreal,LWWWW,17,1.78,HomeWin
-704984,"17:00, 23.04.25",ESP1,4,Athletic Club,LWDWW,27,1.86,19,Las Palmas,WLLLL,-18,0.89,HomeWin
-704989,"17:00, 24.04.25",ESP1,9,Osasuna,WWLDW,-6,1.33,14,Sevilla,DLDLW,-9,1.14,HomeWin
-704983,"17:00, 24.04.25",ESP1,18,Leganés,DDDWL,-21,0.94,13,Girona,LDWLW,-11,1.14,Draw
-712407,"17:00, 29.03.25",ITA1,4,Juventus,WLWDD,20,1.78,13,Genoa,DLLLD,-13,1.11,HomeWin
-711605,"17:30, 01.02.25",GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,7,RB Leipzig,WDLDD,6,1.55,Draw
-704870,"17:30, 01.02.25",ESP1,3,Atlético Madrid,LWDWL,31,1.94,10,Mallorca,DLLWL,-8,1.31,HomeWin
-704514,"17:30, 01.02.25",ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,5,Aston Villa,WLWWW,9,1.78,HomeWin
-711644,"17:30, 01.03.25",GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,2,Bayer Leverkusen,DDWDL,29,2.06,AwayWin
-704917,"17:30, 01.03.25",ESP1,6,Real Betis,WWWDD,10,1.64,2,Real Madrid,WWWLW,36,2.17,HomeWin
-704875,"17:30, 02.02.25",ESP1,9,Osasuna,WWLDW,-6,1.33,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
-704914,"17:30, 02.03.25",ESP1,10,Mallorca,DLLWL,-8,1.31,17,Alavés,DWDLW,-11,1.06,Draw
-711712,"17:30, 04.05.25",GER1,6,Mainz,LDLDW,12,1.55,3,Eintracht Frankfurt,WDWDD,20,1.73,Draw
-711614,"17:30, 08.02.25",GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,3,Eintracht Frankfurt,WDWDD,20,1.73,Draw
-704883,"17:30, 08.02.25",ESP1,19,Las Palmas,WLLLL,-18,0.89,5,Villarreal,LWWWW,17,1.78,AwayWin
-704549,"17:30, 08.03.25",ENG1,8,Brentford,DWWWW,10,1.53,5,Aston Villa,WLWWW,9,1.78,AwayWin
-704929,"17:30, 08.03.25",ESP1,11,Valencia,DDWWL,-9,1.25,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
-711649,"17:30, 08.03.25",GER1,4,SC Freiburg,WWWDW,-2,1.67,7,RB Leipzig,WDLDD,6,1.55,Draw
-704887,"17:30, 09.02.25",ESP1,12,Real Sociedad,DLDLL,-10,1.19,16,Espanyol,DLLLL,-11,1.08,HomeWin
-704921,"17:30, 09.03.25",ESP1,4,Athletic Club,LWDWW,27,1.86,10,Mallorca,DLLWL,-8,1.31,Draw
-704925,"17:30, 09.03.25",ESP1,6,Real Betis,WWWDD,10,1.64,19,Las Palmas,WLLLL,-18,0.89,HomeWin
-711727,"17:30, 11.05.25",GER1,9,VfB Stuttgart,LDLWW,10,1.42,11,FC Augsburg,WDLLL,-15,1.3,HomeWin
-704890,"17:30, 15.02.25",ESP1,3,Atlético Madrid,LWDWL,31,1.94,7,Celta Vigo,LWLWW,2,1.44,Draw
-711624,"17:30, 15.02.25",GER1,2,Bayer Leverkusen,DDWDL,29,2.06,1,Bayern Munich,DWWDW,63,2.39,Draw
-704525,"17:30, 15.02.25",ENG1,12,Crystal Palace,LDDDW,-2,1.36,13,Everton,WLLDW,-5,1.17,AwayWin
-704939,"17:30, 15.03.25",ESP1,5,Villarreal,LWWWW,17,1.78,2,Real Madrid,WWWLW,36,2.17,AwayWin
-704566,"17:30, 15.03.25",ENG1,10,AFC Bournemouth,WDDWL,12,1.47,8,Brentford,DWWWW,10,1.53,AwayWin
-711662,"17:30, 15.03.25",GER1,7,RB Leipzig,WDLDD,6,1.55,5,Borussia Dortmund,DWWWW,17,1.64,HomeWin
-704894,"17:30, 16.02.25",ESP1,10,Mallorca,DLLWL,-8,1.31,19,Las Palmas,WLLLL,-18,0.89,HomeWin
-704935,"17:30, 16.03.25",ESP1,9,Osasuna,WWLDW,-6,1.33,15,Getafe,LLLLL,-5,1.08,AwayWin
-704936,"17:30, 16.03.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,12,Real Sociedad,DLDLL,-10,1.19,Draw
-711698,"17:30, 20.04.25",GER1,14,St. Pauli,WDDLD,-11,0.97,2,Bayer Leverkusen,DDWDL,29,2.06,Draw
-711631,"17:30, 22.02.25",GER1,5,Borussia Dortmund,DWWWW,17,1.64,13,1. FC Union Berlin,DDDDL,-17,1.12,HomeWin
-704905,"17:30, 22.02.25",ESP1,11,Valencia,DDWWL,-9,1.25,3,Atlético Madrid,LWDWL,31,1.94,AwayWin
-704537,"17:30, 22.02.25",ENG1,5,Aston Villa,WLWWW,9,1.78,4,Chelsea,WWWLW,20,1.78,HomeWin
-704903,"17:30, 23.02.25",ESP1,15,Getafe,LLLLL,-5,1.08,6,Real Betis,WWWDD,10,1.64,AwayWin
-704940,"17:30, 29.03.25",ESP1,17,Alavés,DWDLW,-11,1.06,8,Rayo Vallecano,DLWWD,-5,1.33,AwayWin
-711671,"17:30, 29.03.25",GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,9,VfB Stuttgart,LDLWW,10,1.42,HomeWin
-705015,"18:00, 13.05.25",ESP1,12,Real Sociedad,DLDLL,-10,1.19,7,Celta Vigo,LWLWW,2,1.44,AwayWin
-705034,"18:00, 25.05.25",ESP1,2,Real Madrid,WWWLW,36,2.17,12,Real Sociedad,DLDLL,-10,1.19,Draw
-705030,"18:00, 25.05.25",ESP1,17,Alavés,DWDLW,-11,1.06,9,Osasuna,WWLDW,-6,1.33,Draw
-705031,"18:00, 25.05.25",ESP1,5,Villarreal,LWWWW,17,1.78,14,Sevilla,DLDLW,-9,1.14,Draw
-705032,"18:00, 25.05.25",ESP1,16,Espanyol,DLLLL,-11,1.08,19,Las Palmas,WLLLL,-18,0.89,Draw
-705033,"18:00, 25.05.25",ESP1,13,Girona,LDWLW,-11,1.14,3,Atlético Madrid,LWDWL,31,1.94,Draw
-705035,"18:00, 25.05.25",ESP1,4,Athletic Club,LWDWW,27,1.86,1,Barcelona,WWWWW,61,2.36,Draw
-705036,"18:00, 25.05.25",ESP1,6,Real Betis,WWWDD,10,1.64,11,Valencia,DDWWL,-9,1.25,Draw
-705037,"18:00, 25.05.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,10,Mallorca,DLLWL,-8,1.31,Draw
-705038,"18:00, 25.05.25",ESP1,18,Leganés,DDDWL,-21,0.94,20,Real Valladolid,LLLLL,-60,0.44,Draw
-705039,"18:00, 25.05.25",ESP1,15,Getafe,LLLLL,-5,1.08,7,Celta Vigo,LWLWW,2,1.44,Draw
-704616,"18:30, 01.05.25",ENG1,7,Nottingham Forest,LWLDD,12,1.72,8,Brentford,DWWWW,10,1.53,AwayWin
-711714,"18:30, 02.05.25",GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,18,VfL Bochum,LLDDL,-36,0.67,Draw
-711683,"18:30, 04.04.25",GER1,11,FC Augsburg,WDLLL,-15,1.3,1,Bayern Munich,DWWDW,63,2.39,AwayWin
-711725,"18:30, 09.05.25",GER1,12,VfL Wolfsburg,LDLLD,1,1.21,15,TSG Hoffenheim,WLLDD,-18,0.97,Draw
-711692,"18:30, 11.04.25",GER1,12,VfL Wolfsburg,LDLLD,1,1.21,7,RB Leipzig,WDLDD,6,1.55,AwayWin
-711622,"18:30, 16.02.25",GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,6,Mainz,LDLDW,12,1.55,AwayWin
-711660,"18:30, 16.03.25",GER1,9,VfB Stuttgart,LDLWW,10,1.42,2,Bayer Leverkusen,DDWDL,29,2.06,AwayWin
-704560,"18:30, 16.04.25",ENG1,3,Newcastle United,WLWDW,23,1.83,12,Crystal Palace,LDDDW,-2,1.36,HomeWin
-704640,"18:30, 16.05.25",ENG1,5,Aston Villa,WLWWW,9,1.78,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
-711637,"18:30, 23.02.25",GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,9,VfB Stuttgart,LDLWW,10,1.42,Draw
-711704,"18:30, 25.04.25",GER1,9,VfB Stuttgart,LDLWW,10,1.42,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,AwayWin
-704573,"18:45, 01.04.25",ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,15,West Ham United,LDLDW,-17,1.11,HomeWin
-704572,"18:45, 01.04.25",ENG1,2,Arsenal,DWDLD,33,1.89,11,Fulham,LLWLL,1,1.42,HomeWin
-704570,"18:45, 02.04.25",ENG1,10,AFC Bournemouth,WDDWL,12,1.47,18,Ipswich Town,DLLDL,-42,0.61,AwayWin
-704574,"18:45, 02.04.25",ENG1,6,Manchester City,WWWWD,24,1.81,19,Leicester City,DLLWD,-47,0.61,HomeWin
-704577,"18:45, 02.04.25",ENG1,20,Southampton,LDLLD,-57,0.33,12,Crystal Palace,LDDDW,-2,1.36,Draw
-704578,"18:45, 02.04.25",ENG1,3,Newcastle United,WLWDW,23,1.83,8,Brentford,DWWWW,10,1.53,HomeWin
-704571,"18:45, 02.04.25",ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,5,Aston Villa,WLWWW,9,1.78,AwayWin
-712460,"18:45, 02.05.25",ITA1,11,Torino,LWLDL,-3,1.22,17,Venezia,WDLDW,-20,0.81,Draw
-712455,"18:45, 03.05.25",ITA1,2,Internazionale,WLLWW,42,2.14,15,Hellas Verona,DLLLD,-33,0.92,HomeWin
-712415,"18:45, 04.04.25",ITA1,13,Genoa,DLLLD,-13,1.11,12,Udinese,LLDWL,-12,1.22,HomeWin
-712461,"18:45, 04.05.25",ITA1,7,Bologna,LWDDL,13,1.72,4,Juventus,WLWDD,20,1.78,Draw
-712422,"18:45, 05.04.25",ITA1,8,AC Milan,WLWWW,18,1.67,9,Fiorentina,DWWLL,17,1.64,Draw
-712454,"18:45, 05.05.25",ITA1,13,Genoa,DLLLD,-13,1.11,8,AC Milan,WLWWW,18,1.67,AwayWin
-712421,"18:45, 06.04.25",ITA1,6,AS Roma,DWWWL,17,1.75,4,Juventus,WLWDD,20,1.78,Draw
-712413,"18:45, 07.04.25",ITA1,7,Bologna,LWDDL,13,1.72,1,Napoli,WWWWD,30,2.17,Draw
-712467,"18:45, 09.05.25",ITA1,8,AC Milan,WLWWW,18,1.67,7,Bologna,LWDDL,13,1.72,HomeWin
-712470,"18:45, 10.05.25",ITA1,19,Empoli,LDLLW,-27,0.78,16,Parma,DWDLL,-15,0.89,HomeWin
-712431,"18:45, 11.04.25",ITA1,12,Udinese,LLDWL,-12,1.22,8,AC Milan,WLWWW,18,1.67,AwayWin
-712466,"18:45, 11.05.25",ITA1,1,Napoli,WWWWD,30,2.17,13,Genoa,DLLLD,-13,1.11,Draw
-712424,"18:45, 12.04.25",ITA1,4,Juventus,WLWDD,20,1.78,18,Lecce,LLDLD,-33,0.78,HomeWin
-712471,"18:45, 12.05.25",ITA1,3,Atalanta,WWDWW,41,1.97,6,AS Roma,DWWWL,17,1.75,HomeWin
-712423,"18:45, 13.04.25",ITA1,5,Lazio,DWDWD,13,1.78,6,AS Roma,DWWWL,17,1.75,Draw
-712432,"18:45, 14.04.25",ITA1,1,Napoli,WWWWD,30,2.17,19,Empoli,LDLLW,-27,0.78,HomeWin
-712474,"18:45, 17.05.25",ITA1,13,Genoa,DLLLD,-13,1.11,3,Atalanta,WWDWW,41,1.97,Draw
-712480,"18:45, 18.05.25",ITA1,4,Juventus,WLWDD,20,1.78,12,Udinese,LLDWL,-12,1.22,Draw
-712477,"18:45, 18.05.25",ITA1,16,Parma,DWDLL,-15,0.89,1,Napoli,WWWWD,30,2.17,Draw
-712482,"18:45, 18.05.25",ITA1,15,Hellas Verona,DLLLD,-33,0.92,10,Como,WWWWW,-1,1.33,Draw
-712481,"18:45, 18.05.25",ITA1,2,Internazionale,WLLWW,42,2.14,5,Lazio,DWDWD,13,1.78,Draw
-712473,"18:45, 18.05.25",ITA1,14,Cagliari,LLWLL,-17,0.92,17,Venezia,WDLDW,-20,0.81,Draw
-712475,"18:45, 18.05.25",ITA1,6,AS Roma,DWWWL,17,1.75,8,AC Milan,WLWWW,18,1.67,Draw
-712476,"18:45, 18.05.25",ITA1,9,Fiorentina,DWWLL,17,1.64,7,Bologna,LWDDL,13,1.72,Draw
-712478,"18:45, 18.05.25",ITA1,20,Monza,LLLLW,-37,0.5,19,Empoli,LDLLW,-27,0.78,Draw
-712479,"18:45, 18.05.25",ITA1,18,Lecce,LLDLD,-33,0.78,11,Torino,LWLDL,-3,1.22,Draw
-712433,"18:45, 19.04.25",ITA1,6,AS Roma,DWWWL,17,1.75,15,Hellas Verona,DLLLD,-33,0.92,HomeWin
-712437,"18:45, 20.04.25",ITA1,8,AC Milan,WLWWW,18,1.67,3,Atalanta,WWDWW,41,1.97,AwayWin
-712450,"18:45, 27.04.25",ITA1,1,Napoli,WWWWD,30,2.17,11,Torino,LWLDL,-3,1.22,HomeWin
-712448,"18:45, 27.04.25",ITA1,3,Atalanta,WWDWW,41,1.97,18,Lecce,LLDLD,-33,0.78,Draw
-712449,"18:45, 28.04.25",ITA1,5,Lazio,DWDWD,13,1.78,16,Parma,DWDLL,-15,0.89,Draw
-712446,"18:45, 28.04.25",ITA1,15,Hellas Verona,DLLLD,-33,0.92,14,Cagliari,LLWLL,-17,0.92,AwayWin
-712411,"18:45, 30.03.25",ITA1,1,Napoli,WWWWD,30,2.17,8,AC Milan,WLWWW,18,1.67,HomeWin
-712409,"18:45, 31.03.25",ITA1,5,Lazio,DWDWD,13,1.78,11,Torino,LWLDL,-3,1.22,Draw
-704569,"19:00, 01.04.25",ENG1,7,Nottingham Forest,LWLDD,12,1.72,16,Manchester United,LDLLL,-12,1.05,HomeWin
-704575,"19:00, 02.04.25",ENG1,1,Liverpool,WWWLD,46,2.31,13,Everton,WLLDW,-5,1.17,HomeWin
-704627,"19:00, 02.05.25",ENG1,6,Manchester City,WWWWD,24,1.81,14,Wolverhampton Wanderers,WWWLL,-13,1.14,HomeWin
-704998,"19:00, 02.05.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,15,Getafe,LLLLL,-5,1.08,HomeWin
-704576,"19:00, 03.04.25",ENG1,4,Chelsea,WWWLW,20,1.78,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
-704996,"19:00, 03.05.25",ESP1,20,Real Valladolid,LLLLL,-60,0.44,1,Barcelona,WWWWW,61,2.36,AwayWin
-704952,"19:00, 04.04.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,16,Espanyol,DLLLL,-11,1.08,AwayWin
-704995,"19:00, 04.05.25",ESP1,12,Real Sociedad,DLDLL,-10,1.19,4,Athletic Club,LWDWW,27,1.86,Draw
-704958,"19:00, 05.04.25",ESP1,1,Barcelona,WWWWW,61,2.36,6,Real Betis,WWWDD,10,1.64,Draw
-704624,"19:00, 05.05.25",ENG1,12,Crystal Palace,LDDDW,-2,1.36,7,Nottingham Forest,LWLDD,12,1.72,Draw
-704992,"19:00, 05.05.25",ESP1,13,Girona,LDWLW,-11,1.14,10,Mallorca,DLLWL,-8,1.31,HomeWin
-704951,"19:00, 06.04.25",ESP1,5,Villarreal,LWWWW,17,1.78,4,Athletic Club,LWDWW,27,1.86,Draw
-704950,"19:00, 07.04.25",ESP1,18,Leganés,DDDWL,-21,0.94,9,Osasuna,WWLDW,-6,1.33,Draw
-704588,"19:00, 07.04.25",ENG1,19,Leicester City,DLLWD,-47,0.61,3,Newcastle United,WLWDW,23,1.83,AwayWin
-705004,"19:00, 09.05.25",ESP1,19,Las Palmas,WLLLL,-18,0.89,8,Rayo Vallecano,DLWWD,-5,1.33,AwayWin
-705001,"19:00, 10.05.25",ESP1,3,Atlético Madrid,LWDWL,31,1.94,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
-704967,"19:00, 11.04.25",ESP1,11,Valencia,DDWWL,-9,1.25,14,Sevilla,DLDLW,-9,1.14,HomeWin
-705008,"19:00, 11.05.25",ESP1,6,Real Betis,WWWDD,10,1.64,9,Osasuna,WWLDW,-6,1.33,Draw
-704962,"19:00, 12.04.25",ESP1,18,Leganés,DDDWL,-21,0.94,1,Barcelona,WWWWW,61,2.36,AwayWin
-704968,"19:00, 13.04.25",ESP1,4,Athletic Club,LWDWW,27,1.86,8,Rayo Vallecano,DLWWD,-5,1.33,HomeWin
-704969,"19:00, 14.04.25",ESP1,3,Atlético Madrid,LWDWL,31,1.94,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
-704596,"19:00, 14.04.25",ENG1,10,AFC Bournemouth,WDDWL,12,1.47,11,Fulham,LLWLL,1,1.42,HomeWin
-704562,"19:00, 16.03.25",ENG1,19,Leicester City,DLLWD,-47,0.61,16,Manchester United,LDLLL,-12,1.05,AwayWin
-704977,"19:00, 18.04.25",ESP1,16,Espanyol,DLLLL,-11,1.08,15,Getafe,LLLLL,-5,1.08,HomeWin
-704971,"19:00, 19.04.25",ESP1,19,Las Palmas,WLLLL,-18,0.89,3,Atlético Madrid,LWDWL,31,1.94,HomeWin
-704642,"19:00, 19.05.25",ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,1,Liverpool,WWWLD,46,2.31,Draw
-704974,"19:00, 20.04.25",ESP1,2,Real Madrid,WWWLW,36,2.17,4,Athletic Club,LWDWW,27,1.86,HomeWin
-704644,"19:00, 20.05.25",ENG1,12,Crystal Palace,LDDDW,-2,1.36,14,Wolverhampton Wanderers,WWWLL,-13,1.14,Draw
-704647,"19:00, 20.05.25",ENG1,6,Manchester City,WWWWD,24,1.81,10,AFC Bournemouth,WDDWL,12,1.47,Draw
-704979,"19:00, 21.04.25",ESP1,13,Girona,LDWLW,-11,1.14,6,Real Betis,WWWDD,10,1.64,AwayWin
-704599,"19:00, 21.04.25",ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,7,Nottingham Forest,LWLDD,12,1.72,AwayWin
-704615,"19:00, 22.04.25",ENG1,6,Manchester City,WWWWD,24,1.81,5,Aston Villa,WLWWW,9,1.78,HomeWin
-704618,"19:00, 23.04.25",ENG1,2,Arsenal,DWDLD,33,1.89,12,Crystal Palace,LDDDW,-2,1.36,Draw
-704944,"19:00, 30.03.25",ESP1,6,Real Betis,WWWDD,10,1.64,14,Sevilla,DLDLW,-9,1.14,HomeWin
-704943,"19:00, 31.03.25",ESP1,7,Celta Vigo,LWLWW,2,1.44,19,Las Palmas,WLLLL,-18,0.89,Draw
-704643,"19:15, 16.05.25",ENG1,4,Chelsea,WWWLW,20,1.78,16,Manchester United,LDLLL,-12,1.05,HomeWin
-711615,"19:30, 07.02.25",GER1,1,Bayern Munich,DWWDW,63,2.39,8,Werder Bremen,WWDDD,-6,1.45,HomeWin
-711653,"19:30, 07.03.25",GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,6,Mainz,LDLDW,12,1.55,AwayWin
-704425,"19:30, 12.02.25",ENG1,13,Everton,WLLDW,-5,1.17,1,Liverpool,WWWLD,46,2.31,Draw
-705017,"19:30, 13.05.25",ESP1,14,Sevilla,DLDLW,-9,1.14,19,Las Palmas,WLLLL,-18,0.89,HomeWin
-711626,"19:30, 14.02.25",GER1,11,FC Augsburg,WDLLL,-15,1.3,7,RB Leipzig,WDLDD,6,1.55,Draw
-711663,"19:30, 14.03.25",GER1,14,St. Pauli,WDDLD,-11,0.97,15,TSG Hoffenheim,WLLDD,-18,0.97,HomeWin
-705014,"19:30, 14.05.25",ESP1,2,Real Madrid,WWWLW,36,2.17,10,Mallorca,DLLWL,-8,1.31,HomeWin
-705011,"19:30, 15.05.25",ESP1,15,Getafe,LLLLL,-5,1.08,4,Athletic Club,LWDWW,27,1.86,AwayWin
-705018,"19:30, 15.05.25",ESP1,16,Espanyol,DLLLL,-11,1.08,1,Barcelona,WWWWW,61,2.36,AwayWin
-704567,"19:30, 19.02.25",ENG1,5,Aston Villa,WLWWW,9,1.78,1,Liverpool,WWWLD,46,2.31,Draw
-711636,"19:30, 21.02.25",GER1,4,SC Freiburg,WWWDW,-2,1.67,8,Werder Bremen,WWDDD,-6,1.45,HomeWin
-704988,"19:30, 22.04.25",ESP1,1,Barcelona,WWWWW,61,2.36,10,Mallorca,DLLWL,-8,1.31,HomeWin
-704986,"19:30, 23.04.25",ESP1,17,Alavés,DWDLW,-11,1.06,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
-704981,"19:30, 23.04.25",ESP1,15,Getafe,LLLLL,-5,1.08,2,Real Madrid,WWWLW,36,2.17,AwayWin
-704985,"19:30, 24.04.25",ESP1,6,Real Betis,WWWDD,10,1.64,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
-704980,"19:30, 24.04.25",ESP1,3,Atlético Madrid,LWDWL,31,1.94,8,Rayo Vallecano,DLWWD,-5,1.33,HomeWin
-704544,"19:30, 25.02.25",ENG1,12,Crystal Palace,LDDDW,-2,1.36,5,Aston Villa,WLWWW,9,1.78,HomeWin
-704539,"19:30, 25.02.25",ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,11,Fulham,LLWLL,1,1.42,AwayWin
-704542,"19:30, 25.02.25",ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,10,AFC Bournemouth,WDDWL,12,1.47,HomeWin
-704541,"19:30, 26.02.25",ENG1,7,Nottingham Forest,LWLDD,12,1.72,2,Arsenal,DWDLD,33,1.89,Draw
-704545,"19:30, 26.02.25",ENG1,8,Brentford,DWWWW,10,1.53,13,Everton,WLLDW,-5,1.17,Draw
-704546,"19:30, 26.02.25",ENG1,16,Manchester United,LDLLL,-12,1.05,18,Ipswich Town,DLLDL,-42,0.61,HomeWin
-704540,"19:30, 26.02.25",ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,6,Manchester City,WWWWD,24,1.81,AwayWin
-711639,"19:30, 28.02.25",GER1,9,VfB Stuttgart,LDLWW,10,1.42,1,Bayern Munich,DWWDW,63,2.39,AwayWin
-711666,"19:30, 28.03.25",GER1,2,Bayer Leverkusen,DDWDL,29,2.06,18,VfL Bochum,LLDDL,-36,0.67,HomeWin
-711610,"19:30, 31.01.25",GER1,8,Werder Bremen,WWDDD,-6,1.45,6,Mainz,LDLDW,12,1.55,HomeWin
-712333,"19:45, 01.02.25",ITA1,7,Bologna,LWDDL,13,1.72,10,Como,WWWWW,-1,1.33,HomeWin
-712382,"19:45, 01.03.25",ITA1,12,Udinese,LLDWL,-12,1.22,16,Parma,DWDLL,-15,0.89,HomeWin
-712335,"19:45, 02.02.25",ITA1,6,AS Roma,DWWWL,17,1.75,1,Napoli,WWWWD,30,2.17,Draw
-712376,"19:45, 02.03.25",ITA1,8,AC Milan,WLWWW,18,1.67,5,Lazio,DWDWD,13,1.78,AwayWin
-712334,"19:45, 03.02.25",ITA1,14,Cagliari,LLWLL,-17,0.92,5,Lazio,DWDWD,13,1.78,AwayWin
-712377,"19:45, 03.03.25",ITA1,4,Juventus,WLWDD,20,1.78,15,Hellas Verona,DLLLD,-33,0.92,HomeWin
-712244,"19:45, 06.02.25",ITA1,9,Fiorentina,DWWLL,17,1.64,2,Internazionale,WLLWW,42,2.14,HomeWin
-712352,"19:45, 07.02.25",ITA1,10,Como,WWWWW,-1,1.33,4,Juventus,WLWDD,20,1.78,AwayWin
-712391,"19:45, 07.03.25",ITA1,14,Cagliari,LLWLL,-17,0.92,13,Genoa,DLLLD,-13,1.11,Draw
-712343,"19:45, 08.02.25",ITA1,11,Torino,LWLDL,-3,1.22,13,Genoa,DLLLD,-13,1.11,Draw
-712387,"19:45, 08.03.25",ITA1,2,Internazionale,WLLWW,42,2.14,20,Monza,LLLLW,-37,0.5,HomeWin
-712344,"19:45, 09.02.25",ITA1,1,Napoli,WWWWD,30,2.17,12,Udinese,LLDWL,-12,1.22,Draw
-712386,"19:45, 09.03.25",ITA1,4,Juventus,WLWDD,20,1.78,3,Atalanta,WWDWW,41,1.97,AwayWin
-712350,"19:45, 10.02.25",ITA1,2,Internazionale,WLLWW,42,2.14,9,Fiorentina,DWWLL,17,1.64,HomeWin
-712385,"19:45, 10.03.25",ITA1,5,Lazio,DWDWD,13,1.78,12,Udinese,LLDWL,-12,1.22,Draw
-712356,"19:45, 14.02.25",ITA1,7,Bologna,LWDDL,13,1.72,11,Torino,LWLDL,-3,1.22,HomeWin
-712396,"19:45, 14.03.25",ITA1,13,Genoa,DLLLD,-13,1.11,18,Lecce,LLDLD,-33,0.78,HomeWin
-712361,"19:45, 15.02.25",ITA1,8,AC Milan,WLWWW,18,1.67,15,Hellas Verona,DLLLD,-33,0.92,HomeWin
-712400,"19:45, 15.03.25",ITA1,11,Torino,LWLDL,-3,1.22,19,Empoli,LDLLW,-27,0.78,HomeWin
-712359,"19:45, 16.02.25",ITA1,4,Juventus,WLWDD,20,1.78,2,Internazionale,WLLWW,42,2.14,HomeWin
-712393,"19:45, 16.03.25",ITA1,3,Atalanta,WWDWW,41,1.97,2,Internazionale,WLLWW,42,2.14,AwayWin
-712360,"19:45, 17.02.25",ITA1,13,Genoa,DLLLD,-13,1.11,17,Venezia,WDLDW,-20,0.81,HomeWin
-712363,"19:45, 21.02.25",ITA1,18,Lecce,LLDLD,-33,0.78,12,Udinese,LLDWL,-12,1.22,AwayWin
-712371,"19:45, 22.02.25",ITA1,2,Internazionale,WLLWW,42,2.14,13,Genoa,DLLLD,-13,1.11,HomeWin
-712372,"19:45, 23.02.25",ITA1,14,Cagliari,LLWLL,-17,0.92,4,Juventus,WLWDD,20,1.78,AwayWin
-712365,"19:45, 24.02.25",ITA1,6,AS Roma,DWWWL,17,1.75,20,Monza,LLLLW,-37,0.5,HomeWin
-712200,"19:45, 27.02.25",ITA1,7,Bologna,LWDDL,13,1.72,8,AC Milan,WLWWW,18,1.67,HomeWin
-712379,"19:45, 28.02.25",ITA1,9,Fiorentina,DWWLL,17,1.64,18,Lecce,LLDLD,-33,0.78,HomeWin
-712410,"19:45, 29.03.25",ITA1,18,Lecce,LLDLD,-33,0.78,6,AS Roma,DWWWL,17,1.75,AwayWin
-712339,"19:45, 31.01.25",ITA1,16,Parma,DWDLL,-15,0.89,18,Lecce,LLDLD,-33,0.78,AwayWin
-704877,"20:00, 01.02.25",ESP1,16,Espanyol,DLLLL,-11,1.08,2,Real Madrid,WWWLW,36,2.17,HomeWin
-704910,"20:00, 01.03.25",ESP1,3,Atlético Madrid,LWDWL,31,1.94,4,Athletic Club,LWDWW,27,1.86,HomeWin
-704876,"20:00, 02.02.25",ESP1,6,Real Betis,WWWDD,10,1.64,4,Athletic Club,LWDWW,27,1.86,Draw
-704915,"20:00, 02.03.25",ESP1,9,Osasuna,WWLDW,-6,1.33,11,Valencia,DDWWL,-9,1.25,Draw
-704513,"20:00, 03.02.25",ENG1,4,Chelsea,WWWLW,20,1.78,15,West Ham United,LDLDW,-17,1.11,HomeWin
-704873,"20:00, 03.02.25",ESP1,13,Girona,LDWLW,-11,1.14,19,Las Palmas,WLLLL,-18,0.89,HomeWin
-704885,"20:00, 07.02.25",ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
-704886,"20:00, 08.02.25",ESP1,2,Real Madrid,WWWLW,36,2.17,3,Atlético Madrid,LWDWL,31,1.94,Draw
-704551,"20:00, 08.03.25",ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,13,Everton,WLLDW,-5,1.17,Draw
-704888,"20:00, 09.02.25",ESP1,14,Sevilla,DLDLW,-9,1.14,1,Barcelona,WWWWW,61,2.36,AwayWin
-704927,"20:00, 09.03.25",ESP1,12,Real Sociedad,DLDLL,-10,1.19,14,Sevilla,DLDLW,-9,1.14,AwayWin
-704884,"20:00, 10.02.25",ESP1,10,Mallorca,DLLWL,-8,1.31,9,Osasuna,WWLDW,-6,1.33,Draw
-704928,"20:00, 10.03.25",ESP1,16,Espanyol,DLLLL,-11,1.08,13,Girona,LDWLW,-11,1.14,Draw
-704552,"20:00, 10.03.25",ENG1,15,West Ham United,LDLDW,-17,1.11,3,Newcastle United,WLWDW,23,1.83,AwayWin
-704892,"20:00, 14.02.25",ESP1,13,Girona,LDWLW,-11,1.14,15,Getafe,LLLLL,-5,1.08,AwayWin
-704526,"20:00, 14.02.25",ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,4,Chelsea,WWWLW,20,1.78,HomeWin
-704932,"20:00, 14.03.25",ESP1,19,Las Palmas,WLLLL,-18,0.89,17,Alavés,DWDLW,-11,1.06,Draw
-704899,"20:00, 15.02.25",ESP1,5,Villarreal,LWWWW,17,1.78,11,Valencia,DDWWL,-9,1.25,Draw
-704931,"20:00, 15.03.25",ESP1,13,Girona,LDWLW,-11,1.14,11,Valencia,DDWWL,-9,1.25,Draw
-704896,"20:00, 16.02.25",ESP1,6,Real Betis,WWWDD,10,1.64,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
-704930,"20:00, 16.03.25",ESP1,3,Atlético Madrid,LWDWL,31,1.94,1,Barcelona,WWWWW,61,2.36,AwayWin
-704891,"20:00, 17.02.25",ESP1,1,Barcelona,WWWWW,61,2.36,8,Rayo Vallecano,DLWWD,-5,1.33,HomeWin
-704902,"20:00, 21.02.25",ESP1,7,Celta Vigo,LWLWW,2,1.44,9,Osasuna,WWLDW,-6,1.33,HomeWin
-704535,"20:00, 21.02.25",ENG1,19,Leicester City,DLLWD,-47,0.61,8,Brentford,DWWWW,10,1.53,AwayWin
-704909,"20:00, 22.02.25",ESP1,19,Las Palmas,WLLLL,-18,0.89,1,Barcelona,WWWWW,61,2.36,AwayWin
-704907,"20:00, 23.02.25",ESP1,12,Real Sociedad,DLDLL,-10,1.19,18,Leganés,DDDWL,-21,0.94,HomeWin
-704908,"20:00, 24.02.25",ESP1,14,Sevilla,DLDLW,-9,1.14,10,Mallorca,DLLWL,-8,1.31,Draw
-704543,"20:00, 27.02.25",ENG1,15,West Ham United,LDLDW,-17,1.11,19,Leicester City,DLLWD,-47,0.61,HomeWin
-704922,"20:00, 27.03.25",ESP1,1,Barcelona,WWWWW,61,2.36,9,Osasuna,WWLDW,-6,1.33,HomeWin
-704918,"20:00, 28.02.25",ESP1,20,Real Valladolid,LLLLL,-60,0.44,19,Las Palmas,WLLLL,-18,0.89,Draw
-704946,"20:00, 29.03.25",ESP1,2,Real Madrid,WWWLW,36,2.17,18,Leganés,DDDWL,-21,0.94,HomeWin
-704874,"20:00, 31.01.25",ESP1,18,Leganés,DDDWL,-21,0.94,8,Rayo Vallecano,DLWWD,-5,1.33,AwayWin
-704547,"20:15, 25.02.25",ENG1,4,Chelsea,WWWLW,20,1.78,20,Southampton,LDLLD,-57,0.33,HomeWin
-704548,"20:15, 26.02.25",ENG1,1,Liverpool,WWWLD,46,2.31,3,Newcastle United,WLWDW,23,1.83,HomeWin
+711610,2025-01-31 19:30:00,GER1,8,Werder Bremen,WWDDD,-6,1.45,6,Mainz,LDLDW,12,1.55,HomeWin
+712339,2025-01-31 19:45:00,ITA1,16,Parma,DWDLL,-15,0.89,18,Lecce,LLDLD,-33,0.78,AwayWin
+704874,2025-01-31 20:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,8,Rayo Vallecano,DLWWD,-5,1.33,AwayWin
+704518,2025-02-01 12:30:00,ENG1,7,Nottingham Forest,LWLDD,12,1.72,9,Brighton & Hove Albion,DLWDW,3,1.53,HomeWin
+704872,2025-02-01 13:00:00,ESP1,15,Getafe,LLLLL,-5,1.08,14,Sevilla,DLDLW,-9,1.14,Draw
+712338,2025-02-01 14:00:00,ITA1,20,Monza,LLLLW,-37,0.5,15,Hellas Verona,DLLLD,-33,0.92,AwayWin
+712341,2025-02-01 14:00:00,ITA1,12,Udinese,LLDWL,-12,1.22,17,Venezia,WDLDW,-20,0.81,HomeWin
+711611,2025-02-01 14:30:00,GER1,14,St. Pauli,WDDLD,-11,0.97,11,FC Augsburg,WDLLL,-15,1.3,Draw
+711608,2025-02-01 14:30:00,GER1,18,VfL Bochum,LLDDL,-36,0.67,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
+711606,2025-02-01 14:30:00,GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
+711607,2025-02-01 14:30:00,GER1,1,Bayern Munich,DWWDW,63,2.39,17,Holstein Kiel,LDWWL,-28,0.76,HomeWin
+711609,2025-02-01 14:30:00,GER1,9,VfB Stuttgart,LDLWW,10,1.42,10,Borussia Monchengladbach,LLLDL,-1,1.36,AwayWin
+704517,2025-02-01 15:00:00,ENG1,3,Newcastle United,WLWDW,23,1.83,11,Fulham,LLWLL,1,1.42,AwayWin
+704511,2025-02-01 15:00:00,ENG1,10,AFC Bournemouth,WDDWL,12,1.47,1,Liverpool,WWWLD,46,2.31,AwayWin
+704510,2025-02-01 15:00:00,ENG1,18,Ipswich Town,DLLDL,-42,0.61,20,Southampton,LDLLD,-57,0.33,AwayWin
+704509,2025-02-01 15:00:00,ENG1,13,Everton,WLLDW,-5,1.17,19,Leicester City,DLLWD,-47,0.61,HomeWin
+704879,2025-02-01 15:15:00,ESP1,5,Villarreal,LWWWW,17,1.78,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
+712337,2025-02-01 17:00:00,ITA1,3,Atalanta,WWDWW,41,1.97,11,Torino,LWLDL,-3,1.22,Draw
+711605,2025-02-01 17:30:00,GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,7,RB Leipzig,WDLDD,6,1.55,Draw
+704870,2025-02-01 17:30:00,ESP1,3,Atlético Madrid,LWDWL,31,1.94,10,Mallorca,DLLWL,-8,1.31,HomeWin
+704514,2025-02-01 17:30:00,ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,5,Aston Villa,WLWWW,9,1.78,HomeWin
+712333,2025-02-01 19:45:00,ITA1,7,Bologna,LWDDL,13,1.72,10,Como,WWWWW,-1,1.33,HomeWin
+704877,2025-02-01 20:00:00,ESP1,16,Espanyol,DLLLL,-11,1.08,2,Real Madrid,WWWLW,36,2.17,HomeWin
+712336,2025-02-02 11:30:00,ITA1,4,Juventus,WLWDD,20,1.78,19,Empoli,LDLLW,-27,0.78,HomeWin
+704871,2025-02-02 13:00:00,ESP1,1,Barcelona,WWWWW,61,2.36,17,Alavés,DWDLW,-11,1.06,HomeWin
+712340,2025-02-02 14:00:00,ITA1,9,Fiorentina,DWWLL,17,1.64,13,Genoa,DLLLD,-13,1.11,HomeWin
+704512,2025-02-02 14:00:00,ENG1,8,Brentford,DWWWW,10,1.53,17,Tottenham Hotspur,LLDLL,2,1.03,AwayWin
+704516,2025-02-02 14:00:00,ENG1,16,Manchester United,LDLLL,-12,1.05,12,Crystal Palace,LDDDW,-2,1.36,AwayWin
+711603,2025-02-02 14:30:00,GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,12,VfL Wolfsburg,LDLLD,1,1.21,Draw
+704878,2025-02-02 15:15:00,ESP1,11,Valencia,DDWWL,-9,1.25,7,Celta Vigo,LWLWW,2,1.44,HomeWin
+711604,2025-02-02 16:30:00,GER1,2,Bayer Leverkusen,DDWDL,29,2.06,15,TSG Hoffenheim,WLLDD,-18,0.97,HomeWin
+704515,2025-02-02 16:30:00,ENG1,2,Arsenal,DWDLD,33,1.89,6,Manchester City,WWWWD,24,1.81,HomeWin
+712342,2025-02-02 17:00:00,ITA1,8,AC Milan,WLWWW,18,1.67,2,Internazionale,WLLWW,42,2.14,Draw
+704875,2025-02-02 17:30:00,ESP1,9,Osasuna,WWLDW,-6,1.33,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
+712335,2025-02-02 19:45:00,ITA1,6,AS Roma,DWWWL,17,1.75,1,Napoli,WWWWD,30,2.17,Draw
+704876,2025-02-02 20:00:00,ESP1,6,Real Betis,WWWDD,10,1.64,4,Athletic Club,LWDWW,27,1.86,Draw
+712334,2025-02-03 19:45:00,ITA1,14,Cagliari,LLWLL,-17,0.92,5,Lazio,DWDWD,13,1.78,AwayWin
+704873,2025-02-03 20:00:00,ESP1,13,Girona,LDWLW,-11,1.14,19,Las Palmas,WLLLL,-18,0.89,HomeWin
+704513,2025-02-03 20:00:00,ENG1,4,Chelsea,WWWLW,20,1.78,15,West Ham United,LDLDW,-17,1.11,HomeWin
+712244,2025-02-06 19:45:00,ITA1,9,Fiorentina,DWWLL,17,1.64,2,Internazionale,WLLWW,42,2.14,HomeWin
+711615,2025-02-07 19:30:00,GER1,1,Bayern Munich,DWWDW,63,2.39,8,Werder Bremen,WWDDD,-6,1.45,HomeWin
+712352,2025-02-07 19:45:00,ITA1,10,Como,WWWWW,-1,1.33,4,Juventus,WLWDD,20,1.78,AwayWin
+704885,2025-02-07 20:00:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
+704882,2025-02-08 13:00:00,ESP1,7,Celta Vigo,LWLWW,2,1.44,6,Real Betis,WWWDD,10,1.64,HomeWin
+712349,2025-02-08 14:00:00,ITA1,15,Hellas Verona,DLLLD,-33,0.92,3,Atalanta,WWDWW,41,1.97,AwayWin
+711613,2025-02-08 14:30:00,GER1,5,Borussia Dortmund,DWWWW,17,1.64,9,VfB Stuttgart,LDLWW,10,1.42,AwayWin
+711616,2025-02-08 14:30:00,GER1,12,VfL Wolfsburg,LDLLD,1,1.21,2,Bayer Leverkusen,DDWDL,29,2.06,Draw
+711620,2025-02-08 14:30:00,GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,13,1. FC Union Berlin,DDDDL,-17,1.12,AwayWin
+711612,2025-02-08 14:30:00,GER1,6,Mainz,LDLDW,12,1.55,11,FC Augsburg,WDLLL,-15,1.3,Draw
+711617,2025-02-08 14:30:00,GER1,4,SC Freiburg,WWWDW,-2,1.67,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,HomeWin
+704881,2025-02-08 15:15:00,ESP1,4,Athletic Club,LWDWW,27,1.86,13,Girona,LDWLW,-11,1.14,HomeWin
+712348,2025-02-08 17:00:00,ITA1,19,Empoli,LDLLW,-27,0.78,8,AC Milan,WLWWW,18,1.67,AwayWin
+711614,2025-02-08 17:30:00,GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,3,Eintracht Frankfurt,WDWDD,20,1.73,Draw
+704883,2025-02-08 17:30:00,ESP1,19,Las Palmas,WLLLL,-18,0.89,5,Villarreal,LWWWW,17,1.78,AwayWin
+712343,2025-02-08 19:45:00,ITA1,11,Torino,LWLDL,-3,1.22,13,Genoa,DLLLD,-13,1.11,Draw
+704886,2025-02-08 20:00:00,ESP1,2,Real Madrid,WWWLW,36,2.17,3,Atlético Madrid,LWDWL,31,1.94,Draw
+712347,2025-02-09 11:30:00,ITA1,17,Venezia,WDLDW,-20,0.81,6,AS Roma,DWWWL,17,1.75,AwayWin
+704880,2025-02-09 13:00:00,ESP1,17,Alavés,DWDLW,-11,1.06,15,Getafe,LLLLL,-5,1.08,AwayWin
+712351,2025-02-09 14:00:00,ITA1,5,Lazio,DWDWD,13,1.78,20,Monza,LLLLW,-37,0.5,HomeWin
+712346,2025-02-09 14:00:00,ITA1,14,Cagliari,LLWLL,-17,0.92,16,Parma,DWDLL,-15,0.89,HomeWin
+711619,2025-02-09 14:30:00,GER1,17,Holstein Kiel,LDWWL,-28,0.76,18,VfL Bochum,LLDDL,-36,0.67,Draw
+704889,2025-02-09 15:15:00,ESP1,11,Valencia,DDWWL,-9,1.25,18,Leganés,DDDWL,-21,0.94,HomeWin
+711618,2025-02-09 16:30:00,GER1,7,RB Leipzig,WDLDD,6,1.55,14,St. Pauli,WDDLD,-11,0.97,HomeWin
+712345,2025-02-09 17:00:00,ITA1,18,Lecce,LLDLD,-33,0.78,7,Bologna,LWDDL,13,1.72,Draw
+704887,2025-02-09 17:30:00,ESP1,12,Real Sociedad,DLDLL,-10,1.19,16,Espanyol,DLLLL,-11,1.08,HomeWin
+712344,2025-02-09 19:45:00,ITA1,1,Napoli,WWWWD,30,2.17,12,Udinese,LLDWL,-12,1.22,Draw
+704888,2025-02-09 20:00:00,ESP1,14,Sevilla,DLDLW,-9,1.14,1,Barcelona,WWWWW,61,2.36,AwayWin
+712350,2025-02-10 19:45:00,ITA1,2,Internazionale,WLLWW,42,2.14,9,Fiorentina,DWWLL,17,1.64,HomeWin
+704884,2025-02-10 20:00:00,ESP1,10,Mallorca,DLLWL,-8,1.31,9,Osasuna,WWLDW,-6,1.33,Draw
+704425,2025-02-12 19:30:00,ENG1,13,Everton,WLLDW,-5,1.17,1,Liverpool,WWWLD,46,2.31,Draw
+711626,2025-02-14 19:30:00,GER1,11,FC Augsburg,WDLLL,-15,1.3,7,RB Leipzig,WDLDD,6,1.55,Draw
+712356,2025-02-14 19:45:00,ITA1,7,Bologna,LWDDL,13,1.72,11,Torino,LWLDL,-3,1.22,HomeWin
+704892,2025-02-14 20:00:00,ESP1,13,Girona,LDWLW,-11,1.14,15,Getafe,LLLLL,-5,1.08,AwayWin
+704526,2025-02-14 20:00:00,ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,4,Chelsea,WWWLW,20,1.78,HomeWin
+704520,2025-02-15 12:30:00,ENG1,19,Leicester City,DLLWD,-47,0.61,2,Arsenal,DWDLD,33,1.89,AwayWin
+704893,2025-02-15 13:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,17,Alavés,DWDLW,-11,1.06,Draw
+712355,2025-02-15 14:00:00,ITA1,3,Atalanta,WWDWW,41,1.97,14,Cagliari,LLWLL,-17,0.92,Draw
+711629,2025-02-15 14:30:00,GER1,9,VfB Stuttgart,LDLWW,10,1.42,12,VfL Wolfsburg,LDLLD,1,1.21,AwayWin
+711623,2025-02-15 14:30:00,GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,10,Borussia Monchengladbach,LLLDL,-1,1.36,AwayWin
+711621,2025-02-15 14:30:00,GER1,18,VfL Bochum,LLDDL,-36,0.67,5,Borussia Dortmund,DWWWW,17,1.64,HomeWin
+711627,2025-02-15 14:30:00,GER1,14,St. Pauli,WDDLD,-11,0.97,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
+704519,2025-02-15 15:00:00,ENG1,11,Fulham,LLWLL,1,1.42,7,Nottingham Forest,LWLDD,12,1.72,HomeWin
+704522,2025-02-15 15:00:00,ENG1,6,Manchester City,WWWWD,24,1.81,3,Newcastle United,WLWDW,23,1.83,HomeWin
+704523,2025-02-15 15:00:00,ENG1,15,West Ham United,LDLDW,-17,1.11,8,Brentford,DWWWW,10,1.53,AwayWin
+704527,2025-02-15 15:00:00,ENG1,5,Aston Villa,WLWWW,9,1.78,18,Ipswich Town,DLLDL,-42,0.61,Draw
+704528,2025-02-15 15:00:00,ENG1,20,Southampton,LDLLD,-57,0.33,10,AFC Bournemouth,WDDWL,12,1.47,AwayWin
+704895,2025-02-15 15:15:00,ESP1,9,Osasuna,WWLDW,-6,1.33,2,Real Madrid,WWWLW,36,2.17,Draw
+712358,2025-02-15 17:00:00,ITA1,5,Lazio,DWDWD,13,1.78,1,Napoli,WWWWD,30,2.17,Draw
+704890,2025-02-15 17:30:00,ESP1,3,Atlético Madrid,LWDWL,31,1.94,7,Celta Vigo,LWLWW,2,1.44,Draw
+711624,2025-02-15 17:30:00,GER1,2,Bayer Leverkusen,DDWDL,29,2.06,1,Bayern Munich,DWWDW,63,2.39,Draw
+704525,2025-02-15 17:30:00,ENG1,12,Crystal Palace,LDDDW,-2,1.36,13,Everton,WLLDW,-5,1.17,AwayWin
+712361,2025-02-15 19:45:00,ITA1,8,AC Milan,WLWWW,18,1.67,15,Hellas Verona,DLLLD,-33,0.92,HomeWin
+704899,2025-02-15 20:00:00,ESP1,5,Villarreal,LWWWW,17,1.78,11,Valencia,DDWWL,-9,1.25,Draw
+712357,2025-02-16 11:30:00,ITA1,9,Fiorentina,DWWLL,17,1.64,10,Como,WWWWW,-1,1.33,AwayWin
+704898,2025-02-16 13:00:00,ESP1,16,Espanyol,DLLLL,-11,1.08,4,Athletic Club,LWDWW,27,1.86,Draw
+712362,2025-02-16 14:00:00,ITA1,20,Monza,LLLLW,-37,0.5,18,Lecce,LLDLD,-33,0.78,Draw
+712353,2025-02-16 14:00:00,ITA1,12,Udinese,LLDWL,-12,1.22,19,Empoli,LDLLW,-27,0.78,HomeWin
+704521,2025-02-16 14:00:00,ENG1,1,Liverpool,WWWLD,46,2.31,14,Wolverhampton Wanderers,WWWLL,-13,1.14,HomeWin
+711628,2025-02-16 14:30:00,GER1,8,Werder Bremen,WWDDD,-6,1.45,15,TSG Hoffenheim,WLLDD,-18,0.97,AwayWin
+704897,2025-02-16 15:15:00,ESP1,20,Real Valladolid,LLLLL,-60,0.44,14,Sevilla,DLDLW,-9,1.14,AwayWin
+704524,2025-02-16 16:30:00,ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,16,Manchester United,LDLLL,-12,1.05,HomeWin
+711625,2025-02-16 16:30:00,GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,17,Holstein Kiel,LDWWL,-28,0.76,HomeWin
+712354,2025-02-16 17:00:00,ITA1,16,Parma,DWDLL,-15,0.89,6,AS Roma,DWWWL,17,1.75,AwayWin
+704894,2025-02-16 17:30:00,ESP1,10,Mallorca,DLLWL,-8,1.31,19,Las Palmas,WLLLL,-18,0.89,HomeWin
+711622,2025-02-16 18:30:00,GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,6,Mainz,LDLDW,12,1.55,AwayWin
+712359,2025-02-16 19:45:00,ITA1,4,Juventus,WLWDD,20,1.78,2,Internazionale,WLLWW,42,2.14,HomeWin
+704896,2025-02-16 20:00:00,ESP1,6,Real Betis,WWWDD,10,1.64,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
+712360,2025-02-17 19:45:00,ITA1,13,Genoa,DLLLD,-13,1.11,17,Venezia,WDLDW,-20,0.81,HomeWin
+704891,2025-02-17 20:00:00,ESP1,1,Barcelona,WWWWW,61,2.36,8,Rayo Vallecano,DLWWD,-5,1.33,HomeWin
+704567,2025-02-19 19:30:00,ENG1,5,Aston Villa,WLWWW,9,1.78,1,Liverpool,WWWLD,46,2.31,Draw
+711636,2025-02-21 19:30:00,GER1,4,SC Freiburg,WWWDW,-2,1.67,8,Werder Bremen,WWDDD,-6,1.45,HomeWin
+712363,2025-02-21 19:45:00,ITA1,18,Lecce,LLDLD,-33,0.78,12,Udinese,LLDWL,-12,1.22,AwayWin
+704902,2025-02-21 20:00:00,ESP1,7,Celta Vigo,LWLWW,2,1.44,9,Osasuna,WWLDW,-6,1.33,HomeWin
+704535,2025-02-21 20:00:00,ENG1,19,Leicester City,DLLWD,-47,0.61,8,Brentford,DWWWW,10,1.53,AwayWin
+704530,2025-02-22 12:30:00,ENG1,13,Everton,WLLDW,-5,1.17,16,Manchester United,LDLLL,-12,1.05,Draw
+704900,2025-02-22 13:00:00,ESP1,17,Alavés,DWDLW,-11,1.06,16,Espanyol,DLLLL,-11,1.08,AwayWin
+712368,2025-02-22 14:00:00,ITA1,17,Venezia,WDLDW,-20,0.81,5,Lazio,DWDWD,13,1.78,Draw
+712366,2025-02-22 14:00:00,ITA1,16,Parma,DWDLL,-15,0.89,7,Bologna,LWDDL,13,1.72,HomeWin
+711634,2025-02-22 14:30:00,GER1,12,VfL Wolfsburg,LDLLD,1,1.21,18,VfL Bochum,LLDDL,-36,0.67,Draw
+711632,2025-02-22 14:30:00,GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,11,FC Augsburg,WDLLL,-15,1.3,AwayWin
+711630,2025-02-22 14:30:00,GER1,6,Mainz,LDLDW,12,1.55,14,St. Pauli,WDDLD,-11,0.97,HomeWin
+711638,2025-02-22 14:30:00,GER1,17,Holstein Kiel,LDWWL,-28,0.76,2,Bayer Leverkusen,DDWDL,29,2.06,AwayWin
+704536,2025-02-22 15:00:00,ENG1,20,Southampton,LDLLD,-57,0.33,9,Brighton & Hove Albion,DLWDW,3,1.53,AwayWin
+704531,2025-02-22 15:00:00,ENG1,11,Fulham,LLWLL,1,1.42,12,Crystal Palace,LDDDW,-2,1.36,AwayWin
+704532,2025-02-22 15:00:00,ENG1,18,Ipswich Town,DLLDL,-42,0.61,17,Tottenham Hotspur,LLDLL,2,1.03,AwayWin
+704538,2025-02-22 15:00:00,ENG1,2,Arsenal,DWDLD,33,1.89,15,West Ham United,LDLDW,-17,1.11,AwayWin
+704529,2025-02-22 15:00:00,ENG1,10,AFC Bournemouth,WDDWL,12,1.47,14,Wolverhampton Wanderers,WWWLL,-13,1.14,AwayWin
+704904,2025-02-22 15:15:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,5,Villarreal,LWWWW,17,1.78,AwayWin
+712364,2025-02-22 17:00:00,ITA1,11,Torino,LWLDL,-3,1.22,8,AC Milan,WLWWW,18,1.67,HomeWin
+704905,2025-02-22 17:30:00,ESP1,11,Valencia,DDWWL,-9,1.25,3,Atlético Madrid,LWDWL,31,1.94,AwayWin
+704537,2025-02-22 17:30:00,ENG1,5,Aston Villa,WLWWW,9,1.78,4,Chelsea,WWWLW,20,1.78,HomeWin
+711631,2025-02-22 17:30:00,GER1,5,Borussia Dortmund,DWWWW,17,1.64,13,1. FC Union Berlin,DDDDL,-17,1.12,HomeWin
+712371,2025-02-22 19:45:00,ITA1,2,Internazionale,WLLWW,42,2.14,13,Genoa,DLLLD,-13,1.11,HomeWin
+704909,2025-02-22 20:00:00,ESP1,19,Las Palmas,WLLLL,-18,0.89,1,Barcelona,WWWWW,61,2.36,AwayWin
+712367,2025-02-23 11:30:00,ITA1,10,Como,WWWWW,-1,1.33,1,Napoli,WWWWD,30,2.17,HomeWin
+704901,2025-02-23 13:00:00,ESP1,4,Athletic Club,LWDWW,27,1.86,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
+712370,2025-02-23 14:00:00,ITA1,15,Hellas Verona,DLLLD,-33,0.92,9,Fiorentina,DWWLL,17,1.64,HomeWin
+704533,2025-02-23 14:00:00,ENG1,3,Newcastle United,WLWDW,23,1.83,7,Nottingham Forest,LWLDD,12,1.72,HomeWin
+711635,2025-02-23 14:30:00,GER1,7,RB Leipzig,WDLDD,6,1.55,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,Draw
+704906,2025-02-23 15:15:00,ESP1,2,Real Madrid,WWWLW,36,2.17,13,Girona,LDWLW,-11,1.14,HomeWin
+704534,2025-02-23 16:30:00,ENG1,6,Manchester City,WWWWD,24,1.81,1,Liverpool,WWWLD,46,2.31,AwayWin
+711633,2025-02-23 16:30:00,GER1,1,Bayern Munich,DWWDW,63,2.39,3,Eintracht Frankfurt,WDWDD,20,1.73,HomeWin
+712369,2025-02-23 17:00:00,ITA1,19,Empoli,LDLLW,-27,0.78,3,Atalanta,WWDWW,41,1.97,AwayWin
+704903,2025-02-23 17:30:00,ESP1,15,Getafe,LLLLL,-5,1.08,6,Real Betis,WWWDD,10,1.64,AwayWin
+711637,2025-02-23 18:30:00,GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,9,VfB Stuttgart,LDLWW,10,1.42,Draw
+712372,2025-02-23 19:45:00,ITA1,14,Cagliari,LLWLL,-17,0.92,4,Juventus,WLWDD,20,1.78,AwayWin
+704907,2025-02-23 20:00:00,ESP1,12,Real Sociedad,DLDLL,-10,1.19,18,Leganés,DDDWL,-21,0.94,HomeWin
+712365,2025-02-24 19:45:00,ITA1,6,AS Roma,DWWWL,17,1.75,20,Monza,LLLLW,-37,0.5,HomeWin
+704908,2025-02-24 20:00:00,ESP1,14,Sevilla,DLDLW,-9,1.14,10,Mallorca,DLLWL,-8,1.31,Draw
+704544,2025-02-25 19:30:00,ENG1,12,Crystal Palace,LDDDW,-2,1.36,5,Aston Villa,WLWWW,9,1.78,HomeWin
+704542,2025-02-25 19:30:00,ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,10,AFC Bournemouth,WDDWL,12,1.47,HomeWin
+704539,2025-02-25 19:30:00,ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,11,Fulham,LLWLL,1,1.42,AwayWin
+704547,2025-02-25 20:15:00,ENG1,4,Chelsea,WWWLW,20,1.78,20,Southampton,LDLLD,-57,0.33,HomeWin
+704541,2025-02-26 19:30:00,ENG1,7,Nottingham Forest,LWLDD,12,1.72,2,Arsenal,DWDLD,33,1.89,Draw
+704546,2025-02-26 19:30:00,ENG1,16,Manchester United,LDLLL,-12,1.05,18,Ipswich Town,DLLDL,-42,0.61,HomeWin
+704540,2025-02-26 19:30:00,ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,6,Manchester City,WWWWD,24,1.81,AwayWin
+704545,2025-02-26 19:30:00,ENG1,8,Brentford,DWWWW,10,1.53,13,Everton,WLLDW,-5,1.17,Draw
+704548,2025-02-26 20:15:00,ENG1,1,Liverpool,WWWLD,46,2.31,3,Newcastle United,WLWDW,23,1.83,HomeWin
+712200,2025-02-27 19:45:00,ITA1,7,Bologna,LWDDL,13,1.72,8,AC Milan,WLWWW,18,1.67,HomeWin
+704543,2025-02-27 20:00:00,ENG1,15,West Ham United,LDLDW,-17,1.11,19,Leicester City,DLLWD,-47,0.61,HomeWin
+711639,2025-02-28 19:30:00,GER1,9,VfB Stuttgart,LDLWW,10,1.42,1,Bayern Munich,DWWDW,63,2.39,AwayWin
+712379,2025-02-28 19:45:00,ITA1,9,Fiorentina,DWWLL,17,1.64,18,Lecce,LLDLD,-33,0.78,HomeWin
+704918,2025-02-28 20:00:00,ESP1,20,Real Valladolid,LLLLL,-60,0.44,19,Las Palmas,WLLLL,-18,0.89,Draw
+704912,2025-03-01 13:00:00,ESP1,13,Girona,LDWLW,-11,1.14,7,Celta Vigo,LWLWW,2,1.44,Draw
+712381,2025-03-01 14:00:00,ITA1,3,Atalanta,WWDWW,41,1.97,17,Venezia,WDLDW,-20,0.81,Draw
+711641,2025-03-01 14:30:00,GER1,7,RB Leipzig,WDLDD,6,1.55,6,Mainz,LDLDW,12,1.55,AwayWin
+711640,2025-03-01 14:30:00,GER1,8,Werder Bremen,WWDDD,-6,1.45,12,VfL Wolfsburg,LDLLD,1,1.21,AwayWin
+711642,2025-03-01 14:30:00,GER1,14,St. Pauli,WDDLD,-11,0.97,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
+711643,2025-03-01 14:30:00,GER1,18,VfL Bochum,LLDDL,-36,0.67,15,TSG Hoffenheim,WLLDD,-18,0.97,AwayWin
+711646,2025-03-01 14:30:00,GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,10,Borussia Monchengladbach,LLLDL,-1,1.36,AwayWin
+704916,2025-03-01 15:15:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,14,Sevilla,DLDLW,-9,1.14,Draw
+712374,2025-03-01 17:00:00,ITA1,1,Napoli,WWWWD,30,2.17,2,Internazionale,WLLWW,42,2.14,Draw
+711644,2025-03-01 17:30:00,GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,2,Bayer Leverkusen,DDWDL,29,2.06,AwayWin
+704917,2025-03-01 17:30:00,ESP1,6,Real Betis,WWWDD,10,1.64,2,Real Madrid,WWWLW,36,2.17,HomeWin
+712382,2025-03-01 19:45:00,ITA1,12,Udinese,LLDWL,-12,1.22,16,Parma,DWDLL,-15,0.89,HomeWin
+704910,2025-03-01 20:00:00,ESP1,3,Atlético Madrid,LWDWL,31,1.94,4,Athletic Club,LWDWW,27,1.86,HomeWin
+712375,2025-03-02 11:30:00,ITA1,20,Monza,LLLLW,-37,0.5,11,Torino,LWLDL,-3,1.22,AwayWin
+704913,2025-03-02 13:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,15,Getafe,LLLLL,-5,1.08,HomeWin
+712380,2025-03-02 14:00:00,ITA1,7,Bologna,LWDDL,13,1.72,14,Cagliari,LLWLL,-17,0.92,HomeWin
+712378,2025-03-02 14:00:00,ITA1,13,Genoa,DLLLD,-13,1.11,19,Empoli,LDLLW,-27,0.78,Draw
+711645,2025-03-02 14:30:00,GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,17,Holstein Kiel,LDWWL,-28,0.76,AwayWin
+704911,2025-03-02 15:15:00,ESP1,1,Barcelona,WWWWW,61,2.36,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
+711647,2025-03-02 16:30:00,GER1,11,FC Augsburg,WDLLL,-15,1.3,4,SC Freiburg,WWWDW,-2,1.67,Draw
+712373,2025-03-02 17:00:00,ITA1,6,AS Roma,DWWWL,17,1.75,10,Como,WWWWW,-1,1.33,HomeWin
+704914,2025-03-02 17:30:00,ESP1,10,Mallorca,DLLWL,-8,1.31,17,Alavés,DWDLW,-11,1.06,Draw
+712376,2025-03-02 19:45:00,ITA1,8,AC Milan,WLWWW,18,1.67,5,Lazio,DWDWD,13,1.78,AwayWin
+704915,2025-03-02 20:00:00,ESP1,9,Osasuna,WWLDW,-6,1.33,11,Valencia,DDWWL,-9,1.25,Draw
+712377,2025-03-03 19:45:00,ITA1,4,Juventus,WLWDD,20,1.78,15,Hellas Verona,DLLLD,-33,0.92,HomeWin
+711653,2025-03-07 19:30:00,GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,6,Mainz,LDLDW,12,1.55,AwayWin
+712391,2025-03-07 19:45:00,ITA1,14,Cagliari,LLWLL,-17,0.92,13,Genoa,DLLLD,-13,1.11,Draw
+704554,2025-03-08 12:30:00,ENG1,7,Nottingham Forest,LWLDD,12,1.72,6,Manchester City,WWWWD,24,1.81,HomeWin
+704923,2025-03-08 13:00:00,ESP1,7,Celta Vigo,LWLWW,2,1.44,18,Leganés,DDDWL,-21,0.94,HomeWin
+712390,2025-03-08 14:00:00,ITA1,10,Como,WWWWW,-1,1.33,17,Venezia,WDLDW,-20,0.81,Draw
+712392,2025-03-08 14:00:00,ITA1,16,Parma,DWDLL,-15,0.89,11,Torino,LWLDL,-3,1.22,Draw
+711655,2025-03-08 14:30:00,GER1,2,Bayer Leverkusen,DDWDL,29,2.06,8,Werder Bremen,WWDDD,-6,1.45,AwayWin
+711650,2025-03-08 14:30:00,GER1,17,Holstein Kiel,LDWWL,-28,0.76,9,VfB Stuttgart,LDLWW,10,1.42,Draw
+711651,2025-03-08 14:30:00,GER1,1,Bayern Munich,DWWDW,63,2.39,18,VfL Bochum,LLDDL,-36,0.67,AwayWin
+711654,2025-03-08 14:30:00,GER1,5,Borussia Dortmund,DWWWW,17,1.64,11,FC Augsburg,WDLLL,-15,1.3,AwayWin
+711656,2025-03-08 14:30:00,GER1,12,VfL Wolfsburg,LDLLD,1,1.21,14,St. Pauli,WDDLD,-11,0.97,Draw
+704557,2025-03-08 15:00:00,ENG1,12,Crystal Palace,LDDDW,-2,1.36,18,Ipswich Town,DLLDL,-42,0.61,HomeWin
+704550,2025-03-08 15:00:00,ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,11,Fulham,LLWLL,1,1.42,HomeWin
+704556,2025-03-08 15:00:00,ENG1,1,Liverpool,WWWLD,46,2.31,20,Southampton,LDLLD,-57,0.33,HomeWin
+704920,2025-03-08 15:15:00,ESP1,17,Alavés,DWDLW,-11,1.06,5,Villarreal,LWWWW,17,1.78,HomeWin
+712384,2025-03-08 17:00:00,ITA1,18,Lecce,LLDLD,-33,0.78,8,AC Milan,WLWWW,18,1.67,AwayWin
+711649,2025-03-08 17:30:00,GER1,4,SC Freiburg,WWWDW,-2,1.67,7,RB Leipzig,WDLDD,6,1.55,Draw
+704929,2025-03-08 17:30:00,ESP1,11,Valencia,DDWWL,-9,1.25,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
+704549,2025-03-08 17:30:00,ENG1,8,Brentford,DWWWW,10,1.53,5,Aston Villa,WLWWW,9,1.78,AwayWin
+712387,2025-03-08 19:45:00,ITA1,2,Internazionale,WLLWW,42,2.14,20,Monza,LLLLW,-37,0.5,HomeWin
+704551,2025-03-08 20:00:00,ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,13,Everton,WLLDW,-5,1.17,Draw
+712388,2025-03-09 11:30:00,ITA1,15,Hellas Verona,DLLLD,-33,0.92,7,Bologna,LWDDL,13,1.72,AwayWin
+704924,2025-03-09 13:00:00,ESP1,15,Getafe,LLLLL,-5,1.08,3,Atlético Madrid,LWDWL,31,1.94,HomeWin
+712383,2025-03-09 14:00:00,ITA1,1,Napoli,WWWWD,30,2.17,9,Fiorentina,DWWLL,17,1.64,HomeWin
+704553,2025-03-09 14:00:00,ENG1,4,Chelsea,WWWLW,20,1.78,19,Leicester City,DLLWD,-47,0.61,HomeWin
+704558,2025-03-09 14:00:00,ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,10,AFC Bournemouth,WDDWL,12,1.47,Draw
+711652,2025-03-09 14:30:00,GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,13,1. FC Union Berlin,DDDDL,-17,1.12,AwayWin
+704926,2025-03-09 15:15:00,ESP1,2,Real Madrid,WWWLW,36,2.17,8,Rayo Vallecano,DLWWD,-5,1.33,HomeWin
+704555,2025-03-09 16:30:00,ENG1,16,Manchester United,LDLLL,-12,1.05,2,Arsenal,DWDLD,33,1.89,Draw
+711648,2025-03-09 16:30:00,GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,Draw
+712389,2025-03-09 17:00:00,ITA1,19,Empoli,LDLLW,-27,0.78,6,AS Roma,DWWWL,17,1.75,AwayWin
+704925,2025-03-09 17:30:00,ESP1,6,Real Betis,WWWDD,10,1.64,19,Las Palmas,WLLLL,-18,0.89,HomeWin
+704921,2025-03-09 17:30:00,ESP1,4,Athletic Club,LWDWW,27,1.86,10,Mallorca,DLLWL,-8,1.31,Draw
+712386,2025-03-09 19:45:00,ITA1,4,Juventus,WLWDD,20,1.78,3,Atalanta,WWDWW,41,1.97,AwayWin
+704927,2025-03-09 20:00:00,ESP1,12,Real Sociedad,DLDLL,-10,1.19,14,Sevilla,DLDLW,-9,1.14,AwayWin
+712385,2025-03-10 19:45:00,ITA1,5,Lazio,DWDWD,13,1.78,12,Udinese,LLDWL,-12,1.22,Draw
+704552,2025-03-10 20:00:00,ENG1,15,West Ham United,LDLDW,-17,1.11,3,Newcastle United,WLWDW,23,1.83,AwayWin
+704928,2025-03-10 20:00:00,ESP1,16,Espanyol,DLLLL,-11,1.08,13,Girona,LDWLW,-11,1.14,Draw
+711663,2025-03-14 19:30:00,GER1,14,St. Pauli,WDDLD,-11,0.97,15,TSG Hoffenheim,WLLDD,-18,0.97,HomeWin
+712396,2025-03-14 19:45:00,ITA1,13,Genoa,DLLLD,-13,1.11,18,Lecce,LLDLD,-33,0.78,HomeWin
+704932,2025-03-14 20:00:00,ESP1,19,Las Palmas,WLLLL,-18,0.89,17,Alavés,DWDLW,-11,1.06,Draw
+704937,2025-03-15 13:00:00,ESP1,20,Real Valladolid,LLLLL,-60,0.44,7,Celta Vigo,LWLWW,2,1.44,AwayWin
+712401,2025-03-15 14:00:00,ITA1,12,Udinese,LLDWL,-12,1.22,15,Hellas Verona,DLLLD,-33,0.92,AwayWin
+712398,2025-03-15 14:00:00,ITA1,20,Monza,LLLLW,-37,0.5,16,Parma,DWDLL,-15,0.89,Draw
+711664,2025-03-15 14:30:00,GER1,11,FC Augsburg,WDLLL,-15,1.3,12,VfL Wolfsburg,LDLLD,1,1.21,HomeWin
+711665,2025-03-15 14:30:00,GER1,6,Mainz,LDLDW,12,1.55,4,SC Freiburg,WWWDW,-2,1.67,Draw
+711658,2025-03-15 14:30:00,GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,1,Bayern Munich,DWWDW,63,2.39,Draw
+711661,2025-03-15 14:30:00,GER1,8,Werder Bremen,WWDDD,-6,1.45,10,Borussia Monchengladbach,LLLDL,-1,1.36,AwayWin
+704563,2025-03-15 15:00:00,ENG1,20,Southampton,LDLLD,-57,0.33,14,Wolverhampton Wanderers,WWWLL,-13,1.14,AwayWin
+704568,2025-03-15 15:00:00,ENG1,18,Ipswich Town,DLLDL,-42,0.61,7,Nottingham Forest,LWLDD,12,1.72,AwayWin
+704565,2025-03-15 15:00:00,ENG1,13,Everton,WLLDW,-5,1.17,15,West Ham United,LDLDW,-17,1.11,Draw
+704561,2025-03-15 15:00:00,ENG1,6,Manchester City,WWWWD,24,1.81,9,Brighton & Hove Albion,DLWDW,3,1.53,Draw
+704934,2025-03-15 15:15:00,ESP1,10,Mallorca,DLLWL,-8,1.31,16,Espanyol,DLLLL,-11,1.08,HomeWin
+712397,2025-03-15 17:00:00,ITA1,8,AC Milan,WLWWW,18,1.67,10,Como,WWWWW,-1,1.33,HomeWin
+704939,2025-03-15 17:30:00,ESP1,5,Villarreal,LWWWW,17,1.78,2,Real Madrid,WWWLW,36,2.17,AwayWin
+704566,2025-03-15 17:30:00,ENG1,10,AFC Bournemouth,WDDWL,12,1.47,8,Brentford,DWWWW,10,1.53,AwayWin
+711662,2025-03-15 17:30:00,GER1,7,RB Leipzig,WDLDD,6,1.55,5,Borussia Dortmund,DWWWW,17,1.64,HomeWin
+712400,2025-03-15 19:45:00,ITA1,11,Torino,LWLDL,-3,1.22,19,Empoli,LDLLW,-27,0.78,HomeWin
+704931,2025-03-15 20:00:00,ESP1,13,Girona,LDWLW,-11,1.14,11,Valencia,DDWWL,-9,1.25,Draw
+712402,2025-03-16 11:30:00,ITA1,17,Venezia,WDLDW,-20,0.81,1,Napoli,WWWWD,30,2.17,Draw
+704933,2025-03-16 13:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,6,Real Betis,WWWDD,10,1.64,AwayWin
+704564,2025-03-16 13:30:00,ENG1,11,Fulham,LLWLL,1,1.42,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
+704559,2025-03-16 13:30:00,ENG1,2,Arsenal,DWDLD,33,1.89,4,Chelsea,WWWLW,20,1.78,HomeWin
+712394,2025-03-16 14:00:00,ITA1,7,Bologna,LWDDL,13,1.72,5,Lazio,DWDWD,13,1.78,HomeWin
+711659,2025-03-16 14:30:00,GER1,18,VfL Bochum,LLDDL,-36,0.67,3,Eintracht Frankfurt,WDWDD,20,1.73,AwayWin
+712399,2025-03-16 15:00:00,ITA1,6,AS Roma,DWWWL,17,1.75,14,Cagliari,LLWLL,-17,0.92,HomeWin
+704938,2025-03-16 15:15:00,ESP1,14,Sevilla,DLDLW,-9,1.14,4,Athletic Club,LWDWW,27,1.86,AwayWin
+711657,2025-03-16 16:30:00,GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,17,Holstein Kiel,LDWWL,-28,0.76,HomeWin
+712395,2025-03-16 17:00:00,ITA1,9,Fiorentina,DWWLL,17,1.64,4,Juventus,WLWDD,20,1.78,HomeWin
+704936,2025-03-16 17:30:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,12,Real Sociedad,DLDLL,-10,1.19,Draw
+704935,2025-03-16 17:30:00,ESP1,9,Osasuna,WWLDW,-6,1.33,15,Getafe,LLLLL,-5,1.08,AwayWin
+711660,2025-03-16 18:30:00,GER1,9,VfB Stuttgart,LDLWW,10,1.42,2,Bayer Leverkusen,DDWDL,29,2.06,AwayWin
+704562,2025-03-16 19:00:00,ENG1,19,Leicester City,DLLWD,-47,0.61,16,Manchester United,LDLLL,-12,1.05,AwayWin
+712393,2025-03-16 19:45:00,ITA1,3,Atalanta,WWDWW,41,1.97,2,Internazionale,WLLWW,42,2.14,AwayWin
+704930,2025-03-16 20:00:00,ESP1,3,Atlético Madrid,LWDWL,31,1.94,1,Barcelona,WWWWW,61,2.36,AwayWin
+704922,2025-03-27 20:00:00,ESP1,1,Barcelona,WWWWW,61,2.36,9,Osasuna,WWLDW,-6,1.33,HomeWin
+711666,2025-03-28 19:30:00,GER1,2,Bayer Leverkusen,DDWDL,29,2.06,18,VfL Bochum,LLDDL,-36,0.67,HomeWin
+704947,2025-03-29 13:00:00,ESP1,12,Real Sociedad,DLDLL,-10,1.19,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
+712408,2025-03-29 14:00:00,ITA1,17,Venezia,WDLDW,-20,0.81,7,Bologna,LWDDL,13,1.72,AwayWin
+712404,2025-03-29 14:00:00,ITA1,10,Como,WWWWW,-1,1.33,19,Empoli,LDLLW,-27,0.78,Draw
+711674,2025-03-29 14:30:00,GER1,1,Bayern Munich,DWWDW,63,2.39,14,St. Pauli,WDDLD,-11,0.97,HomeWin
+711667,2025-03-29 14:30:00,GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,11,FC Augsburg,WDLLL,-15,1.3,Draw
+711669,2025-03-29 14:30:00,GER1,17,Holstein Kiel,LDWWL,-28,0.76,8,Werder Bremen,WWDDD,-6,1.45,AwayWin
+711672,2025-03-29 14:30:00,GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,7,RB Leipzig,WDLDD,6,1.55,HomeWin
+711670,2025-03-29 14:30:00,GER1,12,VfL Wolfsburg,LDLLD,1,1.21,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,AwayWin
+704948,2025-03-29 15:15:00,ESP1,16,Espanyol,DLLLL,-11,1.08,3,Atlético Madrid,LWDWL,31,1.94,Draw
+712407,2025-03-29 17:00:00,ITA1,4,Juventus,WLWDD,20,1.78,13,Genoa,DLLLD,-13,1.11,HomeWin
+711671,2025-03-29 17:30:00,GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,9,VfB Stuttgart,LDLWW,10,1.42,HomeWin
+704940,2025-03-29 17:30:00,ESP1,17,Alavés,DWDLW,-11,1.06,8,Rayo Vallecano,DLWWD,-5,1.33,AwayWin
+712410,2025-03-29 19:45:00,ITA1,18,Lecce,LLDLD,-33,0.78,6,AS Roma,DWWWL,17,1.75,AwayWin
+704946,2025-03-29 20:00:00,ESP1,2,Real Madrid,WWWLW,36,2.17,18,Leganés,DDDWL,-21,0.94,HomeWin
+712403,2025-03-30 10:30:00,ITA1,14,Cagliari,LLWLL,-17,0.92,20,Monza,LLLLW,-37,0.5,HomeWin
+704949,2025-03-30 12:00:00,ESP1,15,Getafe,LLLLL,-5,1.08,5,Villarreal,LWWWW,17,1.78,AwayWin
+712405,2025-03-30 13:00:00,ITA1,9,Fiorentina,DWWLL,17,1.64,3,Atalanta,WWDWW,41,1.97,HomeWin
+711668,2025-03-30 13:30:00,GER1,4,SC Freiburg,WWWDW,-2,1.67,13,1. FC Union Berlin,DDDDL,-17,1.12,AwayWin
+704942,2025-03-30 14:15:00,ESP1,1,Barcelona,WWWWW,61,2.36,13,Girona,LDWLW,-11,1.14,HomeWin
+711673,2025-03-30 15:30:00,GER1,5,Borussia Dortmund,DWWWW,17,1.64,6,Mainz,LDLDW,12,1.55,HomeWin
+712412,2025-03-30 16:00:00,ITA1,2,Internazionale,WLLWW,42,2.14,12,Udinese,LLDWL,-12,1.22,HomeWin
+704941,2025-03-30 16:30:00,ESP1,4,Athletic Club,LWDWW,27,1.86,9,Osasuna,WWLDW,-6,1.33,Draw
+704945,2025-03-30 16:30:00,ESP1,11,Valencia,DDWWL,-9,1.25,10,Mallorca,DLLWL,-8,1.31,HomeWin
+712411,2025-03-30 18:45:00,ITA1,1,Napoli,WWWWD,30,2.17,8,AC Milan,WLWWW,18,1.67,HomeWin
+704944,2025-03-30 19:00:00,ESP1,6,Real Betis,WWWDD,10,1.64,14,Sevilla,DLDLW,-9,1.14,HomeWin
+712406,2025-03-31 16:30:00,ITA1,15,Hellas Verona,DLLLD,-33,0.92,16,Parma,DWDLL,-15,0.89,Draw
+712409,2025-03-31 18:45:00,ITA1,5,Lazio,DWDWD,13,1.78,11,Torino,LWLDL,-3,1.22,Draw
+704943,2025-03-31 19:00:00,ESP1,7,Celta Vigo,LWLWW,2,1.44,19,Las Palmas,WLLLL,-18,0.89,Draw
+704572,2025-04-01 18:45:00,ENG1,2,Arsenal,DWDLD,33,1.89,11,Fulham,LLWLL,1,1.42,HomeWin
+704573,2025-04-01 18:45:00,ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,15,West Ham United,LDLDW,-17,1.11,HomeWin
+704569,2025-04-01 19:00:00,ENG1,7,Nottingham Forest,LWLDD,12,1.72,16,Manchester United,LDLLL,-12,1.05,HomeWin
+704574,2025-04-02 18:45:00,ENG1,6,Manchester City,WWWWD,24,1.81,19,Leicester City,DLLWD,-47,0.61,HomeWin
+704578,2025-04-02 18:45:00,ENG1,3,Newcastle United,WLWDW,23,1.83,8,Brentford,DWWWW,10,1.53,HomeWin
+704571,2025-04-02 18:45:00,ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,5,Aston Villa,WLWWW,9,1.78,AwayWin
+704570,2025-04-02 18:45:00,ENG1,10,AFC Bournemouth,WDDWL,12,1.47,18,Ipswich Town,DLLDL,-42,0.61,AwayWin
+704577,2025-04-02 18:45:00,ENG1,20,Southampton,LDLLD,-57,0.33,12,Crystal Palace,LDDDW,-2,1.36,Draw
+704575,2025-04-02 19:00:00,ENG1,1,Liverpool,WWWLD,46,2.31,13,Everton,WLLDW,-5,1.17,HomeWin
+704576,2025-04-03 19:00:00,ENG1,4,Chelsea,WWWLW,20,1.78,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
+711683,2025-04-04 18:30:00,GER1,11,FC Augsburg,WDLLL,-15,1.3,1,Bayern Munich,DWWDW,63,2.39,AwayWin
+712415,2025-04-04 18:45:00,ITA1,13,Genoa,DLLLD,-13,1.11,12,Udinese,LLDWL,-12,1.22,HomeWin
+704952,2025-04-04 19:00:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,16,Espanyol,DLLLL,-11,1.08,AwayWin
+704584,2025-04-05 11:30:00,ENG1,13,Everton,WLLDW,-5,1.17,2,Arsenal,DWDLD,33,1.89,Draw
+704957,2025-04-05 12:00:00,ESP1,13,Girona,LDWLW,-11,1.14,17,Alavés,DWDLW,-11,1.06,AwayWin
+712418,2025-04-05 13:00:00,ITA1,20,Monza,LLLLW,-37,0.5,10,Como,WWWWW,-1,1.33,AwayWin
+711677,2025-04-05 13:30:00,GER1,7,RB Leipzig,WDLDD,6,1.55,15,TSG Hoffenheim,WLLDD,-18,0.97,HomeWin
+711682,2025-04-05 13:30:00,GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,2,Bayer Leverkusen,DDWDL,29,2.06,AwayWin
+711676,2025-04-05 13:30:00,GER1,4,SC Freiburg,WWWDW,-2,1.67,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
+711679,2025-04-05 13:30:00,GER1,18,VfL Bochum,LLDDL,-36,0.67,9,VfB Stuttgart,LDLWW,10,1.42,AwayWin
+711680,2025-04-05 13:30:00,GER1,6,Mainz,LDLDW,12,1.55,17,Holstein Kiel,LDWWL,-28,0.76,Draw
+704583,2025-04-05 14:00:00,ENG1,12,Crystal Palace,LDDDW,-2,1.36,9,Brighton & Hove Albion,DLWDW,3,1.53,HomeWin
+704585,2025-04-05 14:00:00,ENG1,18,Ipswich Town,DLLDL,-42,0.61,14,Wolverhampton Wanderers,WWWLL,-13,1.14,AwayWin
+704582,2025-04-05 14:00:00,ENG1,15,West Ham United,LDLDW,-17,1.11,10,AFC Bournemouth,WDDWL,12,1.47,Draw
+704953,2025-04-05 14:15:00,ESP1,2,Real Madrid,WWWLW,36,2.17,11,Valencia,DDWWL,-9,1.25,AwayWin
+712420,2025-04-05 16:00:00,ITA1,16,Parma,DWDLL,-15,0.89,2,Internazionale,WLLWW,42,2.14,Draw
+704954,2025-04-05 16:30:00,ESP1,10,Mallorca,DLLWL,-8,1.31,7,Celta Vigo,LWLWW,2,1.44,AwayWin
+711675,2025-04-05 16:30:00,GER1,8,Werder Bremen,WWDDD,-6,1.45,3,Eintracht Frankfurt,WDWDD,20,1.73,HomeWin
+704580,2025-04-05 16:30:00,ENG1,5,Aston Villa,WLWWW,9,1.78,7,Nottingham Forest,LWLDD,12,1.72,HomeWin
+712422,2025-04-05 18:45:00,ITA1,8,AC Milan,WLWWW,18,1.67,9,Fiorentina,DWWLL,17,1.64,Draw
+704958,2025-04-05 19:00:00,ESP1,1,Barcelona,WWWWW,61,2.36,6,Real Betis,WWWDD,10,1.64,Draw
+712416,2025-04-06 10:30:00,ITA1,18,Lecce,LLDLD,-33,0.78,17,Venezia,WDLDW,-20,0.81,Draw
+704956,2025-04-06 12:00:00,ESP1,19,Las Palmas,WLLLL,-18,0.89,12,Real Sociedad,DLDLL,-10,1.19,AwayWin
+712419,2025-04-06 13:00:00,ITA1,11,Torino,LWLDL,-3,1.22,15,Hellas Verona,DLLLD,-33,0.92,Draw
+704587,2025-04-06 13:00:00,ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,20,Southampton,LDLLD,-57,0.33,HomeWin
+704586,2025-04-06 13:00:00,ENG1,11,Fulham,LLWLL,1,1.42,1,Liverpool,WWWLD,46,2.31,HomeWin
+704579,2025-04-06 13:00:00,ENG1,8,Brentford,DWWWW,10,1.53,4,Chelsea,WWWLW,20,1.78,Draw
+712414,2025-04-06 13:00:00,ITA1,19,Empoli,LDLLW,-27,0.78,14,Cagliari,LLWLL,-17,0.92,Draw
+711678,2025-04-06 13:30:00,GER1,14,St. Pauli,WDDLD,-11,0.97,10,Borussia Monchengladbach,LLLDL,-1,1.36,Draw
+704955,2025-04-06 14:15:00,ESP1,14,Sevilla,DLDLW,-9,1.14,3,Atlético Madrid,LWDWL,31,1.94,AwayWin
+704581,2025-04-06 15:30:00,ENG1,16,Manchester United,LDLLL,-12,1.05,6,Manchester City,WWWWD,24,1.81,Draw
+711681,2025-04-06 15:30:00,GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,12,VfL Wolfsburg,LDLLD,1,1.21,HomeWin
+712417,2025-04-06 16:00:00,ITA1,3,Atalanta,WWDWW,41,1.97,5,Lazio,DWDWD,13,1.78,AwayWin
+704959,2025-04-06 16:30:00,ESP1,20,Real Valladolid,LLLLL,-60,0.44,15,Getafe,LLLLL,-5,1.08,AwayWin
+712421,2025-04-06 18:45:00,ITA1,6,AS Roma,DWWWL,17,1.75,4,Juventus,WLWDD,20,1.78,Draw
+704951,2025-04-06 19:00:00,ESP1,5,Villarreal,LWWWW,17,1.78,4,Athletic Club,LWDWW,27,1.86,Draw
+712413,2025-04-07 18:45:00,ITA1,7,Bologna,LWDDL,13,1.72,1,Napoli,WWWWD,30,2.17,Draw
+704588,2025-04-07 19:00:00,ENG1,19,Leicester City,DLLWD,-47,0.61,3,Newcastle United,WLWDW,23,1.83,AwayWin
+704950,2025-04-07 19:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,9,Osasuna,WWLDW,-6,1.33,Draw
+711692,2025-04-11 18:30:00,GER1,12,VfL Wolfsburg,LDLLD,1,1.21,7,RB Leipzig,WDLDD,6,1.55,AwayWin
+712431,2025-04-11 18:45:00,ITA1,12,Udinese,LLDWL,-12,1.22,8,AC Milan,WLWWW,18,1.67,AwayWin
+704967,2025-04-11 19:00:00,ESP1,11,Valencia,DDWWL,-9,1.25,14,Sevilla,DLDLW,-9,1.14,HomeWin
+704591,2025-04-12 11:30:00,ENG1,6,Manchester City,WWWWD,24,1.81,12,Crystal Palace,LDDDW,-2,1.36,HomeWin
+704965,2025-04-12 12:00:00,ESP1,12,Real Sociedad,DLDLL,-10,1.19,10,Mallorca,DLLWL,-8,1.31,AwayWin
+712429,2025-04-12 13:00:00,ITA1,17,Venezia,WDLDW,-20,0.81,20,Monza,LLLLW,-37,0.5,HomeWin
+711684,2025-04-12 13:30:00,GER1,18,VfL Bochum,LLDDL,-36,0.67,11,FC Augsburg,WDLLL,-15,1.3,AwayWin
+711691,2025-04-12 13:30:00,GER1,2,Bayer Leverkusen,DDWDL,29,2.06,13,1. FC Union Berlin,DDDDL,-17,1.12,Draw
+711690,2025-04-12 13:30:00,GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
+711686,2025-04-12 13:30:00,GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,6,Mainz,LDLDW,12,1.55,HomeWin
+711687,2025-04-12 13:30:00,GER1,17,Holstein Kiel,LDWWL,-28,0.76,14,St. Pauli,WDDLD,-11,0.97,AwayWin
+704597,2025-04-12 14:00:00,ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,19,Leicester City,DLLWD,-47,0.61,Draw
+704592,2025-04-12 14:00:00,ENG1,20,Southampton,LDLLD,-57,0.33,5,Aston Villa,WLWWW,9,1.78,AwayWin
+704589,2025-04-12 14:00:00,ENG1,7,Nottingham Forest,LWLDD,12,1.72,13,Everton,WLLDW,-5,1.17,AwayWin
+704961,2025-04-12 14:15:00,ESP1,15,Getafe,LLLLL,-5,1.08,19,Las Palmas,WLLLL,-18,0.89,AwayWin
+712425,2025-04-12 16:00:00,ITA1,2,Internazionale,WLLWW,42,2.14,14,Cagliari,LLWLL,-17,0.92,HomeWin
+704595,2025-04-12 16:30:00,ENG1,2,Arsenal,DWDLD,33,1.89,8,Brentford,DWWWW,10,1.53,Draw
+704960,2025-04-12 16:30:00,ESP1,7,Celta Vigo,LWLWW,2,1.44,16,Espanyol,DLLLL,-11,1.08,AwayWin
+711688,2025-04-12 16:30:00,GER1,1,Bayern Munich,DWWDW,63,2.39,5,Borussia Dortmund,DWWWW,17,1.64,Draw
+712424,2025-04-12 18:45:00,ITA1,4,Juventus,WLWDD,20,1.78,18,Lecce,LLDLD,-33,0.78,HomeWin
+704962,2025-04-12 19:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,1,Barcelona,WWWWW,61,2.36,AwayWin
+712430,2025-04-13 10:30:00,ITA1,3,Atalanta,WWDWW,41,1.97,7,Bologna,LWDDL,13,1.72,HomeWin
+704963,2025-04-13 12:00:00,ESP1,9,Osasuna,WWLDW,-6,1.33,13,Girona,LDWLW,-11,1.14,HomeWin
+704593,2025-04-13 13:00:00,ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
+712426,2025-04-13 13:00:00,ITA1,15,Hellas Verona,DLLLD,-33,0.92,13,Genoa,DLLLD,-13,1.11,Draw
+712427,2025-04-13 13:00:00,ITA1,9,Fiorentina,DWWLL,17,1.64,16,Parma,DWDLL,-15,0.89,Draw
+704594,2025-04-13 13:00:00,ENG1,1,Liverpool,WWWLD,46,2.31,15,West Ham United,LDLDW,-17,1.11,HomeWin
+704598,2025-04-13 13:00:00,ENG1,4,Chelsea,WWWLW,20,1.78,18,Ipswich Town,DLLDL,-42,0.61,Draw
+711685,2025-04-13 13:30:00,GER1,9,VfB Stuttgart,LDLWW,10,1.42,8,Werder Bremen,WWDDD,-6,1.45,AwayWin
+704966,2025-04-13 14:15:00,ESP1,17,Alavés,DWDLW,-11,1.06,2,Real Madrid,WWWLW,36,2.17,AwayWin
+704590,2025-04-13 15:30:00,ENG1,3,Newcastle United,WLWDW,23,1.83,16,Manchester United,LDLLL,-12,1.05,HomeWin
+711689,2025-04-13 15:30:00,GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,HomeWin
+712428,2025-04-13 16:00:00,ITA1,10,Como,WWWWW,-1,1.33,11,Torino,LWLDL,-3,1.22,HomeWin
+704964,2025-04-13 16:30:00,ESP1,6,Real Betis,WWWDD,10,1.64,5,Villarreal,LWWWW,17,1.78,AwayWin
+712423,2025-04-13 18:45:00,ITA1,5,Lazio,DWDWD,13,1.78,6,AS Roma,DWWWL,17,1.75,Draw
+704968,2025-04-13 19:00:00,ESP1,4,Athletic Club,LWDWW,27,1.86,8,Rayo Vallecano,DLWWD,-5,1.33,HomeWin
+712432,2025-04-14 18:45:00,ITA1,1,Napoli,WWWWD,30,2.17,19,Empoli,LDLLW,-27,0.78,HomeWin
+704969,2025-04-14 19:00:00,ESP1,3,Atlético Madrid,LWDWL,31,1.94,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
+704596,2025-04-14 19:00:00,ENG1,10,AFC Bournemouth,WDDWL,12,1.47,11,Fulham,LLWLL,1,1.42,HomeWin
+704560,2025-04-16 18:30:00,ENG1,3,Newcastle United,WLWDW,23,1.83,12,Crystal Palace,LDDDW,-2,1.36,HomeWin
+704977,2025-04-18 19:00:00,ESP1,16,Espanyol,DLLLL,-11,1.08,15,Getafe,LLLLL,-5,1.08,HomeWin
+704973,2025-04-19 12:00:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,11,Valencia,DDWWL,-9,1.25,Draw
+712438,2025-04-19 13:00:00,ITA1,18,Lecce,LLDLD,-33,0.78,10,Como,WWWWW,-1,1.33,AwayWin
+711695,2025-04-19 13:30:00,GER1,8,Werder Bremen,WWDDD,-6,1.45,18,VfL Bochum,LLDDL,-36,0.67,HomeWin
+711696,2025-04-19 13:30:00,GER1,4,SC Freiburg,WWWDW,-2,1.67,15,TSG Hoffenheim,WLLDD,-18,0.97,HomeWin
+711697,2025-04-19 13:30:00,GER1,7,RB Leipzig,WDLDD,6,1.55,17,Holstein Kiel,LDWWL,-28,0.76,Draw
+711693,2025-04-19 13:30:00,GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,1,Bayern Munich,DWWDW,63,2.39,AwayWin
+711701,2025-04-19 13:30:00,GER1,6,Mainz,LDLDW,12,1.55,12,VfL Wolfsburg,LDLLD,1,1.21,Draw
+704604,2025-04-19 14:00:00,ENG1,13,Everton,WLLDW,-5,1.17,6,Manchester City,WWWWD,24,1.81,AwayWin
+704605,2025-04-19 14:00:00,ENG1,12,Crystal Palace,LDDDW,-2,1.36,10,AFC Bournemouth,WDDWL,12,1.47,Draw
+704607,2025-04-19 14:00:00,ENG1,8,Brentford,DWWWW,10,1.53,9,Brighton & Hove Albion,DLWDW,3,1.53,HomeWin
+704603,2025-04-19 14:00:00,ENG1,15,West Ham United,LDLDW,-17,1.11,20,Southampton,LDLLD,-57,0.33,Draw
+704970,2025-04-19 14:15:00,ESP1,1,Barcelona,WWWWW,61,2.36,7,Celta Vigo,LWLWW,2,1.44,HomeWin
+712436,2025-04-19 16:00:00,ITA1,20,Monza,LLLLW,-37,0.5,1,Napoli,WWWWD,30,2.17,AwayWin
+704606,2025-04-19 16:30:00,ENG1,5,Aston Villa,WLWWW,9,1.78,3,Newcastle United,WLWDW,23,1.83,HomeWin
+704972,2025-04-19 16:30:00,ESP1,10,Mallorca,DLLWL,-8,1.31,18,Leganés,DDDWL,-21,0.94,Draw
+711694,2025-04-19 16:30:00,GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,9,VfB Stuttgart,LDLWW,10,1.42,Draw
+712433,2025-04-19 18:45:00,ITA1,6,AS Roma,DWWWL,17,1.75,15,Hellas Verona,DLLLD,-33,0.92,HomeWin
+704971,2025-04-19 19:00:00,ESP1,19,Las Palmas,WLLLL,-18,0.89,3,Atlético Madrid,LWDWL,31,1.94,HomeWin
+704975,2025-04-20 12:00:00,ESP1,20,Real Valladolid,LLLLL,-60,0.44,9,Osasuna,WWLDW,-6,1.33,AwayWin
+704600,2025-04-20 13:00:00,ENG1,16,Manchester United,LDLLL,-12,1.05,14,Wolverhampton Wanderers,WWWLL,-13,1.14,AwayWin
+704602,2025-04-20 13:00:00,ENG1,18,Ipswich Town,DLLDL,-42,0.61,2,Arsenal,DWDLD,33,1.89,AwayWin
+704608,2025-04-20 13:00:00,ENG1,11,Fulham,LLWLL,1,1.42,4,Chelsea,WWWLW,20,1.78,AwayWin
+712440,2025-04-20 13:00:00,ITA1,19,Empoli,LDLLW,-27,0.78,17,Venezia,WDLDW,-20,0.81,Draw
+711699,2025-04-20 13:30:00,GER1,11,FC Augsburg,WDLLL,-15,1.3,3,Eintracht Frankfurt,WDWDD,20,1.73,Draw
+704978,2025-04-20 14:15:00,ESP1,5,Villarreal,LWWWW,17,1.78,12,Real Sociedad,DLDLL,-10,1.19,Draw
+711700,2025-04-20 15:30:00,GER1,5,Borussia Dortmund,DWWWW,17,1.64,10,Borussia Monchengladbach,LLLDL,-1,1.36,HomeWin
+704601,2025-04-20 15:30:00,ENG1,19,Leicester City,DLLWD,-47,0.61,1,Liverpool,WWWLD,46,2.31,AwayWin
+712434,2025-04-20 16:00:00,ITA1,7,Bologna,LWDDL,13,1.72,2,Internazionale,WLLWW,42,2.14,HomeWin
+704976,2025-04-20 16:30:00,ESP1,14,Sevilla,DLDLW,-9,1.14,17,Alavés,DWDLW,-11,1.06,Draw
+711698,2025-04-20 17:30:00,GER1,14,St. Pauli,WDDLD,-11,0.97,2,Bayer Leverkusen,DDWDL,29,2.06,Draw
+712437,2025-04-20 18:45:00,ITA1,8,AC Milan,WLWWW,18,1.67,3,Atalanta,WWDWW,41,1.97,AwayWin
+704974,2025-04-20 19:00:00,ESP1,2,Real Madrid,WWWLW,36,2.17,4,Athletic Club,LWDWW,27,1.86,HomeWin
+704979,2025-04-21 19:00:00,ESP1,13,Girona,LDWLW,-11,1.14,6,Real Betis,WWWDD,10,1.64,AwayWin
+704599,2025-04-21 19:00:00,ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,7,Nottingham Forest,LWLDD,12,1.72,AwayWin
+704982,2025-04-22 17:00:00,ESP1,11,Valencia,DDWWL,-9,1.25,16,Espanyol,DLLLL,-11,1.08,Draw
+704615,2025-04-22 19:00:00,ENG1,6,Manchester City,WWWWD,24,1.81,5,Aston Villa,WLWWW,9,1.78,HomeWin
+704988,2025-04-22 19:30:00,ESP1,1,Barcelona,WWWWW,61,2.36,10,Mallorca,DLLWL,-8,1.31,HomeWin
+712441,2025-04-23 16:30:00,ITA1,14,Cagliari,LLWLL,-17,0.92,9,Fiorentina,DWWLL,17,1.64,AwayWin
+712442,2025-04-23 16:30:00,ITA1,11,Torino,LWLDL,-3,1.22,12,Udinese,LLDWL,-12,1.22,HomeWin
+712435,2025-04-23 16:30:00,ITA1,16,Parma,DWDLL,-15,0.89,4,Juventus,WLWDD,20,1.78,HomeWin
+712439,2025-04-23 16:30:00,ITA1,13,Genoa,DLLLD,-13,1.11,5,Lazio,DWDWD,13,1.78,AwayWin
+704987,2025-04-23 17:00:00,ESP1,7,Celta Vigo,LWLWW,2,1.44,5,Villarreal,LWWWW,17,1.78,HomeWin
+704984,2025-04-23 17:00:00,ESP1,4,Athletic Club,LWDWW,27,1.86,19,Las Palmas,WLLLL,-18,0.89,HomeWin
+704618,2025-04-23 19:00:00,ENG1,2,Arsenal,DWDLD,33,1.89,12,Crystal Palace,LDDDW,-2,1.36,Draw
+704986,2025-04-23 19:30:00,ESP1,17,Alavés,DWDLW,-11,1.06,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
+704981,2025-04-23 19:30:00,ESP1,15,Getafe,LLLLL,-5,1.08,2,Real Madrid,WWWLW,36,2.17,AwayWin
+704983,2025-04-24 17:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,13,Girona,LDWLW,-11,1.14,Draw
+704989,2025-04-24 17:00:00,ESP1,9,Osasuna,WWLDW,-6,1.33,14,Sevilla,DLDLW,-9,1.14,HomeWin
+704980,2025-04-24 19:30:00,ESP1,3,Atlético Madrid,LWDWL,31,1.94,8,Rayo Vallecano,DLWWD,-5,1.33,HomeWin
+704985,2025-04-24 19:30:00,ESP1,6,Real Betis,WWWDD,10,1.64,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
+711704,2025-04-25 18:30:00,GER1,9,VfB Stuttgart,LDLWW,10,1.42,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,AwayWin
+704611,2025-04-26 11:30:00,ENG1,4,Chelsea,WWWLW,20,1.78,13,Everton,WLLDW,-5,1.17,HomeWin
+711708,2025-04-26 13:30:00,GER1,1,Bayern Munich,DWWDW,63,2.39,6,Mainz,LDLDW,12,1.55,HomeWin
+711705,2025-04-26 13:30:00,GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
+711707,2025-04-26 13:30:00,GER1,17,Holstein Kiel,LDWWL,-28,0.76,10,Borussia Monchengladbach,LLLDL,-1,1.36,HomeWin
+711706,2025-04-26 13:30:00,GER1,12,VfL Wolfsburg,LDLLD,1,1.21,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
+711702,2025-04-26 13:30:00,GER1,2,Bayer Leverkusen,DDWDL,29,2.06,11,FC Augsburg,WDLLL,-15,1.3,HomeWin
+704614,2025-04-26 14:00:00,ENG1,3,Newcastle United,WLWDW,23,1.83,18,Ipswich Town,DLLDL,-42,0.61,HomeWin
+704613,2025-04-26 14:00:00,ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,19,Leicester City,DLLWD,-47,0.61,HomeWin
+704612,2025-04-26 14:00:00,ENG1,20,Southampton,LDLLD,-57,0.33,11,Fulham,LLWLL,1,1.42,AwayWin
+704610,2025-04-26 14:00:00,ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,15,West Ham United,LDLDW,-17,1.11,HomeWin
+711709,2025-04-26 16:30:00,GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,7,RB Leipzig,WDLDD,6,1.55,HomeWin
+712444,2025-04-27 10:30:00,ITA1,10,Como,WWWWW,-1,1.33,13,Genoa,DLLLD,-13,1.11,HomeWin
+712451,2025-04-27 10:30:00,ITA1,17,Venezia,WDLDW,-20,0.81,8,AC Milan,WLWWW,18,1.67,AwayWin
+704609,2025-04-27 13:00:00,ENG1,10,AFC Bournemouth,WDDWL,12,1.47,16,Manchester United,LDLLL,-12,1.05,Draw
+712445,2025-04-27 13:00:00,ITA1,9,Fiorentina,DWWLL,17,1.64,19,Empoli,LDLLW,-27,0.78,HomeWin
+712452,2025-04-27 13:00:00,ITA1,2,Internazionale,WLLWW,42,2.14,6,AS Roma,DWWWL,17,1.75,AwayWin
+711703,2025-04-27 13:30:00,GER1,18,VfL Bochum,LLDDL,-36,0.67,13,1. FC Union Berlin,DDDDL,-17,1.12,Draw
+704919,2025-04-27 14:15:00,ESP1,5,Villarreal,LWWWW,17,1.78,16,Espanyol,DLLLL,-11,1.08,HomeWin
+704617,2025-04-27 15:30:00,ENG1,1,Liverpool,WWWLD,46,2.31,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
+711710,2025-04-27 15:30:00,GER1,8,Werder Bremen,WWDDD,-6,1.45,14,St. Pauli,WDDLD,-11,0.97,Draw
+712447,2025-04-27 16:00:00,ITA1,4,Juventus,WLWDD,20,1.78,20,Monza,LLLLW,-37,0.5,HomeWin
+712450,2025-04-27 18:45:00,ITA1,1,Napoli,WWWWD,30,2.17,11,Torino,LWLDL,-3,1.22,HomeWin
+712448,2025-04-27 18:45:00,ITA1,3,Atalanta,WWDWW,41,1.97,18,Lecce,LLDLD,-33,0.78,Draw
+712443,2025-04-28 16:30:00,ITA1,12,Udinese,LLDWL,-12,1.22,7,Bologna,LWDDL,13,1.72,Draw
+712449,2025-04-28 18:45:00,ITA1,5,Lazio,DWDWD,13,1.78,16,Parma,DWDLL,-15,0.89,Draw
+712446,2025-04-28 18:45:00,ITA1,15,Hellas Verona,DLLLD,-33,0.92,14,Cagliari,LLWLL,-17,0.92,AwayWin
+704616,2025-05-01 18:30:00,ENG1,7,Nottingham Forest,LWLDD,12,1.72,8,Brentford,DWWWW,10,1.53,AwayWin
+711714,2025-05-02 18:30:00,GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,18,VfL Bochum,LLDDL,-36,0.67,Draw
+712460,2025-05-02 18:45:00,ITA1,11,Torino,LWLDL,-3,1.22,17,Venezia,WDLDW,-20,0.81,Draw
+704998,2025-05-02 19:00:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,15,Getafe,LLLLL,-5,1.08,HomeWin
+704627,2025-05-02 19:00:00,ENG1,6,Manchester City,WWWWD,24,1.81,14,Wolverhampton Wanderers,WWWLL,-13,1.14,HomeWin
+704620,2025-05-03 11:30:00,ENG1,5,Aston Villa,WLWWW,9,1.78,11,Fulham,LLWLL,1,1.42,HomeWin
+704993,2025-05-03 12:00:00,ESP1,17,Alavés,DWDLW,-11,1.06,3,Atlético Madrid,LWDWL,31,1.94,Draw
+712462,2025-05-03 13:00:00,ITA1,14,Cagliari,LLWLL,-17,0.92,12,Udinese,LLDWL,-12,1.22,AwayWin
+712458,2025-05-03 13:00:00,ITA1,16,Parma,DWDLL,-15,0.89,10,Como,WWWWW,-1,1.33,AwayWin
+711719,2025-05-03 13:30:00,GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,15,TSG Hoffenheim,WLLDD,-18,0.97,Draw
+711718,2025-05-03 13:30:00,GER1,7,RB Leipzig,WDLDD,6,1.55,1,Bayern Munich,DWWDW,63,2.39,Draw
+711713,2025-05-03 13:30:00,GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,8,Werder Bremen,WWDDD,-6,1.45,Draw
+711717,2025-05-03 13:30:00,GER1,14,St. Pauli,WDDLD,-11,0.97,9,VfB Stuttgart,LDLWW,10,1.42,AwayWin
+704625,2025-05-03 14:00:00,ENG1,13,Everton,WLLDW,-5,1.17,18,Ipswich Town,DLLDL,-42,0.61,Draw
+704626,2025-05-03 14:00:00,ENG1,19,Leicester City,DLLWD,-47,0.61,20,Southampton,LDLLD,-57,0.33,HomeWin
+704991,2025-05-03 14:15:00,ESP1,5,Villarreal,LWWWW,17,1.78,9,Osasuna,WWLDW,-6,1.33,HomeWin
+712456,2025-05-03 16:00:00,ITA1,18,Lecce,LLDLD,-33,0.78,1,Napoli,WWWWD,30,2.17,AwayWin
+704619,2025-05-03 16:30:00,ENG1,2,Arsenal,DWDLD,33,1.89,10,AFC Bournemouth,WDDWL,12,1.47,AwayWin
+704999,2025-05-03 16:30:00,ESP1,19,Las Palmas,WLLLL,-18,0.89,11,Valencia,DDWWL,-9,1.25,AwayWin
+711711,2025-05-03 16:30:00,GER1,5,Borussia Dortmund,DWWWW,17,1.64,12,VfL Wolfsburg,LDLLD,1,1.21,HomeWin
+712455,2025-05-03 18:45:00,ITA1,2,Internazionale,WLLWW,42,2.14,15,Hellas Verona,DLLLD,-33,0.92,HomeWin
+704996,2025-05-03 19:00:00,ESP1,20,Real Valladolid,LLLLL,-60,0.44,1,Barcelona,WWWWW,61,2.36,AwayWin
+712453,2025-05-04 10:30:00,ITA1,19,Empoli,LDLLW,-27,0.78,5,Lazio,DWDWD,13,1.78,AwayWin
+704994,2025-05-04 12:00:00,ESP1,2,Real Madrid,WWWLW,36,2.17,7,Celta Vigo,LWLWW,2,1.44,HomeWin
+704628,2025-05-04 13:00:00,ENG1,15,West Ham United,LDLDW,-17,1.11,17,Tottenham Hotspur,LLDLL,2,1.03,Draw
+704622,2025-05-04 13:00:00,ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,3,Newcastle United,WLWDW,23,1.83,Draw
+704621,2025-05-04 13:00:00,ENG1,8,Brentford,DWWWW,10,1.53,16,Manchester United,LDLLL,-12,1.05,HomeWin
+712457,2025-05-04 13:00:00,ITA1,20,Monza,LLLLW,-37,0.5,3,Atalanta,WWDWW,41,1.97,AwayWin
+711716,2025-05-04 13:30:00,GER1,11,FC Augsburg,WDLLL,-15,1.3,17,Holstein Kiel,LDWWL,-28,0.76,AwayWin
+704997,2025-05-04 14:15:00,ESP1,14,Sevilla,DLDLW,-9,1.14,18,Leganés,DDDWL,-21,0.94,Draw
+704623,2025-05-04 15:30:00,ENG1,4,Chelsea,WWWLW,20,1.78,1,Liverpool,WWWLD,46,2.31,HomeWin
+711715,2025-05-04 15:30:00,GER1,4,SC Freiburg,WWWDW,-2,1.67,2,Bayer Leverkusen,DDWDL,29,2.06,Draw
+712459,2025-05-04 16:00:00,ITA1,6,AS Roma,DWWWL,17,1.75,9,Fiorentina,DWWLL,17,1.64,HomeWin
+704990,2025-05-04 16:30:00,ESP1,16,Espanyol,DLLLL,-11,1.08,6,Real Betis,WWWDD,10,1.64,AwayWin
+711712,2025-05-04 17:30:00,GER1,6,Mainz,LDLDW,12,1.55,3,Eintracht Frankfurt,WDWDD,20,1.73,Draw
+712461,2025-05-04 18:45:00,ITA1,7,Bologna,LWDDL,13,1.72,4,Juventus,WLWDD,20,1.78,Draw
+704995,2025-05-04 19:00:00,ESP1,12,Real Sociedad,DLDLL,-10,1.19,4,Athletic Club,LWDWW,27,1.86,Draw
+712454,2025-05-05 18:45:00,ITA1,13,Genoa,DLLLD,-13,1.11,8,AC Milan,WLWWW,18,1.67,AwayWin
+704624,2025-05-05 19:00:00,ENG1,12,Crystal Palace,LDDDW,-2,1.36,7,Nottingham Forest,LWLDD,12,1.72,Draw
+704992,2025-05-05 19:00:00,ESP1,13,Girona,LDWLW,-11,1.14,10,Mallorca,DLLWL,-8,1.31,HomeWin
+711725,2025-05-09 18:30:00,GER1,12,VfL Wolfsburg,LDLLD,1,1.21,15,TSG Hoffenheim,WLLDD,-18,0.97,Draw
+712467,2025-05-09 18:45:00,ITA1,8,AC Milan,WLWWW,18,1.67,7,Bologna,LWDDL,13,1.72,HomeWin
+705004,2025-05-09 19:00:00,ESP1,19,Las Palmas,WLLLL,-18,0.89,8,Rayo Vallecano,DLWWD,-5,1.33,AwayWin
+705005,2025-05-10 12:00:00,ESP1,11,Valencia,DDWWL,-9,1.25,15,Getafe,LLLLL,-5,1.08,HomeWin
+712463,2025-05-10 13:00:00,ITA1,10,Como,WWWWW,-1,1.33,14,Cagliari,LLWLL,-17,0.92,HomeWin
+711723,2025-05-10 13:30:00,GER1,13,1. FC Union Berlin,DDDDL,-17,1.12,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,AwayWin
+711728,2025-05-10 13:30:00,GER1,8,Werder Bremen,WWDDD,-6,1.45,7,RB Leipzig,WDLDD,6,1.55,Draw
+711726,2025-05-10 13:30:00,GER1,18,VfL Bochum,LLDDL,-36,0.67,6,Mainz,LDLDW,12,1.55,AwayWin
+711724,2025-05-10 13:30:00,GER1,17,Holstein Kiel,LDWWL,-28,0.76,4,SC Freiburg,WWWDW,-2,1.67,AwayWin
+704636,2025-05-10 14:00:00,ENG1,20,Southampton,LDLLD,-57,0.33,6,Manchester City,WWWWD,24,1.81,Draw
+704631,2025-05-10 14:00:00,ENG1,18,Ipswich Town,DLLDL,-42,0.61,8,Brentford,DWWWW,10,1.53,AwayWin
+704638,2025-05-10 14:00:00,ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,9,Brighton & Hove Albion,DLWDW,3,1.53,AwayWin
+704630,2025-05-10 14:00:00,ENG1,11,Fulham,LLWLL,1,1.42,13,Everton,WLLDW,-5,1.17,AwayWin
+705003,2025-05-10 14:15:00,ESP1,7,Celta Vigo,LWLWW,2,1.44,14,Sevilla,DLDLW,-9,1.14,HomeWin
+712468,2025-05-10 16:00:00,ITA1,5,Lazio,DWDWD,13,1.78,4,Juventus,WLWDD,20,1.78,Draw
+704629,2025-05-10 16:30:00,ENG1,10,AFC Bournemouth,WDDWL,12,1.47,5,Aston Villa,WLWWW,9,1.78,AwayWin
+705009,2025-05-10 16:30:00,ESP1,13,Girona,LDWLW,-11,1.14,5,Villarreal,LWWWW,17,1.78,AwayWin
+711720,2025-05-10 16:30:00,GER1,1,Bayern Munich,DWWDW,63,2.39,10,Borussia Monchengladbach,LLLDL,-1,1.36,HomeWin
+705007,2025-05-10 16:30:00,ESP1,10,Mallorca,DLLWL,-8,1.31,20,Real Valladolid,LLLLL,-60,0.44,HomeWin
+712470,2025-05-10 18:45:00,ITA1,19,Empoli,LDLLW,-27,0.78,16,Parma,DWDLL,-15,0.89,HomeWin
+705001,2025-05-10 19:00:00,ESP1,3,Atlético Madrid,LWDWL,31,1.94,12,Real Sociedad,DLDLL,-10,1.19,HomeWin
+712464,2025-05-11 10:30:00,ITA1,12,Udinese,LLDWL,-12,1.22,20,Monza,LLLLW,-37,0.5,AwayWin
+704634,2025-05-11 11:00:00,ENG1,3,Newcastle United,WLWDW,23,1.83,4,Chelsea,WWWLW,20,1.78,HomeWin
+705006,2025-05-11 12:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,16,Espanyol,DLLLL,-11,1.08,HomeWin
+712469,2025-05-11 13:00:00,ITA1,15,Hellas Verona,DLLLD,-33,0.92,18,Lecce,LLDLD,-33,0.78,Draw
+704635,2025-05-11 13:15:00,ENG1,7,Nottingham Forest,LWLDD,12,1.72,19,Leicester City,DLLWD,-47,0.61,Draw
+704637,2025-05-11 13:15:00,ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,12,Crystal Palace,LDDDW,-2,1.36,AwayWin
+704633,2025-05-11 13:15:00,ENG1,16,Manchester United,LDLLL,-12,1.05,15,West Ham United,LDLDW,-17,1.11,AwayWin
+711722,2025-05-11 13:30:00,GER1,2,Bayer Leverkusen,DDWDL,29,2.06,5,Borussia Dortmund,DWWWW,17,1.64,AwayWin
+705002,2025-05-11 14:15:00,ESP1,1,Barcelona,WWWWW,61,2.36,2,Real Madrid,WWWLW,36,2.17,HomeWin
+704632,2025-05-11 15:30:00,ENG1,1,Liverpool,WWWLD,46,2.31,2,Arsenal,DWDLD,33,1.89,Draw
+711721,2025-05-11 15:30:00,GER1,3,Eintracht Frankfurt,WDWDD,20,1.73,14,St. Pauli,WDDLD,-11,0.97,Draw
+712465,2025-05-11 16:00:00,ITA1,11,Torino,LWLDL,-3,1.22,2,Internazionale,WLLWW,42,2.14,AwayWin
+705000,2025-05-11 16:30:00,ESP1,4,Athletic Club,LWDWW,27,1.86,17,Alavés,DWDLW,-11,1.06,HomeWin
+711727,2025-05-11 17:30:00,GER1,9,VfB Stuttgart,LDLWW,10,1.42,11,FC Augsburg,WDLLL,-15,1.3,HomeWin
+712466,2025-05-11 18:45:00,ITA1,1,Napoli,WWWWD,30,2.17,13,Genoa,DLLLD,-13,1.11,Draw
+705008,2025-05-11 19:00:00,ESP1,6,Real Betis,WWWDD,10,1.64,9,Osasuna,WWLDW,-6,1.33,Draw
+712472,2025-05-12 16:30:00,ITA1,17,Venezia,WDLDW,-20,0.81,9,Fiorentina,DWWLL,17,1.64,HomeWin
+712471,2025-05-12 18:45:00,ITA1,3,Atalanta,WWDWW,41,1.97,6,AS Roma,DWWWL,17,1.75,HomeWin
+705016,2025-05-13 17:00:00,ESP1,20,Real Valladolid,LLLLL,-60,0.44,13,Girona,LDWLW,-11,1.14,AwayWin
+705015,2025-05-13 18:00:00,ESP1,12,Real Sociedad,DLDLL,-10,1.19,7,Celta Vigo,LWLWW,2,1.44,AwayWin
+705017,2025-05-13 19:30:00,ESP1,14,Sevilla,DLDLW,-9,1.14,19,Las Palmas,WLLLL,-18,0.89,HomeWin
+705010,2025-05-14 17:00:00,ESP1,17,Alavés,DWDLW,-11,1.06,11,Valencia,DDWWL,-9,1.25,HomeWin
+705019,2025-05-14 17:00:00,ESP1,5,Villarreal,LWWWW,17,1.78,18,Leganés,DDDWL,-21,0.94,HomeWin
+705014,2025-05-14 19:30:00,ESP1,2,Real Madrid,WWWLW,36,2.17,10,Mallorca,DLLWL,-8,1.31,HomeWin
+705012,2025-05-15 17:00:00,ESP1,9,Osasuna,WWLDW,-6,1.33,3,Atlético Madrid,LWDWL,31,1.94,HomeWin
+705013,2025-05-15 17:00:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,6,Real Betis,WWWDD,10,1.64,Draw
+705018,2025-05-15 19:30:00,ESP1,16,Espanyol,DLLLL,-11,1.08,1,Barcelona,WWWWW,61,2.36,AwayWin
+705011,2025-05-15 19:30:00,ESP1,15,Getafe,LLLLL,-5,1.08,4,Athletic Club,LWDWW,27,1.86,AwayWin
+704640,2025-05-16 18:30:00,ENG1,5,Aston Villa,WLWWW,9,1.78,17,Tottenham Hotspur,LLDLL,2,1.03,HomeWin
+704643,2025-05-16 19:15:00,ENG1,4,Chelsea,WWWLW,20,1.78,16,Manchester United,LDLLL,-12,1.05,HomeWin
+711731,2025-05-17 13:30:00,GER1,6,Mainz,LDLDW,12,1.55,2,Bayer Leverkusen,DDWDL,29,2.06,Draw
+711736,2025-05-17 13:30:00,GER1,7,RB Leipzig,WDLDD,6,1.55,9,VfB Stuttgart,LDLWW,10,1.42,Draw
+711733,2025-05-17 13:30:00,GER1,10,Borussia Monchengladbach,LLLDL,-1,1.36,12,VfL Wolfsburg,LDLLD,1,1.21,Draw
+711732,2025-05-17 13:30:00,GER1,5,Borussia Dortmund,DWWWW,17,1.64,17,Holstein Kiel,LDWWL,-28,0.76,Draw
+711730,2025-05-17 13:30:00,GER1,16,1. FC Heidenheim 1846,LLWDW,-24,0.88,8,Werder Bremen,WWDDD,-6,1.45,Draw
+711734,2025-05-17 13:30:00,GER1,4,SC Freiburg,WWWDW,-2,1.67,3,Eintracht Frankfurt,WDWDD,20,1.73,Draw
+711735,2025-05-17 13:30:00,GER1,14,St. Pauli,WDDLD,-11,0.97,18,VfL Bochum,LLDDL,-36,0.67,Draw
+711738,2025-05-17 13:30:00,GER1,11,FC Augsburg,WDLLL,-15,1.3,13,1. FC Union Berlin,DDDDL,-17,1.12,Draw
+711737,2025-05-17 13:30:00,GER1,15,TSG Hoffenheim,WLLDD,-18,0.97,1,Bayern Munich,DWWDW,63,2.39,Draw
+712474,2025-05-17 18:45:00,ITA1,13,Genoa,DLLLD,-13,1.11,3,Atalanta,WWDWW,41,1.97,Draw
+704645,2025-05-18 11:00:00,ENG1,13,Everton,WLLDW,-5,1.17,20,Southampton,LDLLD,-57,0.33,Draw
+704648,2025-05-18 13:15:00,ENG1,15,West Ham United,LDLDW,-17,1.11,7,Nottingham Forest,LWLDD,12,1.72,Draw
+704641,2025-05-18 14:00:00,ENG1,8,Brentford,DWWWW,10,1.53,11,Fulham,LLWLL,1,1.42,Draw
+704646,2025-05-18 14:00:00,ENG1,19,Leicester City,DLLWD,-47,0.61,18,Ipswich Town,DLLDL,-42,0.61,Draw
+704639,2025-05-18 15:30:00,ENG1,2,Arsenal,DWDLD,33,1.89,3,Newcastle United,WLWDW,23,1.83,Draw
+705024,2025-05-18 17:00:00,ESP1,10,Mallorca,DLLWL,-8,1.31,15,Getafe,LLLLL,-5,1.08,Draw
+705023,2025-05-18 17:00:00,ESP1,19,Las Palmas,WLLLL,-18,0.89,18,Leganés,DDDWL,-21,0.94,Draw
+705022,2025-05-18 17:00:00,ESP1,7,Celta Vigo,LWLWW,2,1.44,8,Rayo Vallecano,DLWWD,-5,1.33,Draw
+705029,2025-05-18 17:00:00,ESP1,11,Valencia,DDWWL,-9,1.25,4,Athletic Club,LWDWW,27,1.86,Draw
+705020,2025-05-18 17:00:00,ESP1,3,Atlético Madrid,LWDWL,31,1.94,6,Real Betis,WWWDD,10,1.64,Draw
+705021,2025-05-18 17:00:00,ESP1,1,Barcelona,WWWWW,61,2.36,5,Villarreal,LWWWW,17,1.78,Draw
+705028,2025-05-18 17:00:00,ESP1,14,Sevilla,DLDLW,-9,1.14,2,Real Madrid,WWWLW,36,2.17,Draw
+705025,2025-05-18 17:00:00,ESP1,9,Osasuna,WWLDW,-6,1.33,16,Espanyol,DLLLL,-11,1.08,Draw
+705026,2025-05-18 17:00:00,ESP1,12,Real Sociedad,DLDLL,-10,1.19,13,Girona,LDWLW,-11,1.14,Draw
+705027,2025-05-18 17:00:00,ESP1,20,Real Valladolid,LLLLL,-60,0.44,17,Alavés,DWDLW,-11,1.06,Draw
+712476,2025-05-18 18:45:00,ITA1,9,Fiorentina,DWWLL,17,1.64,7,Bologna,LWDDL,13,1.72,Draw
+712477,2025-05-18 18:45:00,ITA1,16,Parma,DWDLL,-15,0.89,1,Napoli,WWWWD,30,2.17,Draw
+712473,2025-05-18 18:45:00,ITA1,14,Cagliari,LLWLL,-17,0.92,17,Venezia,WDLDW,-20,0.81,Draw
+712481,2025-05-18 18:45:00,ITA1,2,Internazionale,WLLWW,42,2.14,5,Lazio,DWDWD,13,1.78,Draw
+712482,2025-05-18 18:45:00,ITA1,15,Hellas Verona,DLLLD,-33,0.92,10,Como,WWWWW,-1,1.33,Draw
+712480,2025-05-18 18:45:00,ITA1,4,Juventus,WLWDD,20,1.78,12,Udinese,LLDWL,-12,1.22,Draw
+712475,2025-05-18 18:45:00,ITA1,6,AS Roma,DWWWL,17,1.75,8,AC Milan,WLWWW,18,1.67,Draw
+712479,2025-05-18 18:45:00,ITA1,18,Lecce,LLDLD,-33,0.78,11,Torino,LWLDL,-3,1.22,Draw
+712478,2025-05-18 18:45:00,ITA1,20,Monza,LLLLW,-37,0.5,19,Empoli,LDLLW,-27,0.78,Draw
+704642,2025-05-19 19:00:00,ENG1,9,Brighton & Hove Albion,DLWDW,3,1.53,1,Liverpool,WWWLD,46,2.31,Draw
+704644,2025-05-20 19:00:00,ENG1,12,Crystal Palace,LDDDW,-2,1.36,14,Wolverhampton Wanderers,WWWLL,-13,1.14,Draw
+704647,2025-05-20 19:00:00,ENG1,6,Manchester City,WWWWD,24,1.81,10,AFC Bournemouth,WDDWL,12,1.47,Draw
+712489,2025-05-25 13:00:00,ITA1,11,Torino,LWLDL,-3,1.22,6,AS Roma,DWWWL,17,1.75,Draw
+712485,2025-05-25 13:00:00,ITA1,7,Bologna,LWDDL,13,1.72,13,Genoa,DLLLD,-13,1.11,Draw
+712484,2025-05-25 13:00:00,ITA1,10,Como,WWWWW,-1,1.33,2,Internazionale,WLLWW,42,2.14,Draw
+712487,2025-05-25 13:00:00,ITA1,19,Empoli,LDLLW,-27,0.78,15,Hellas Verona,DLLLD,-33,0.92,Draw
+712492,2025-05-25 13:00:00,ITA1,8,AC Milan,WLWWW,18,1.67,20,Monza,LLLLW,-37,0.5,Draw
+712491,2025-05-25 13:00:00,ITA1,17,Venezia,WDLDW,-20,0.81,4,Juventus,WLWDD,20,1.78,Draw
+712483,2025-05-25 13:00:00,ITA1,3,Atalanta,WWDWW,41,1.97,16,Parma,DWDLL,-15,0.89,Draw
+712488,2025-05-25 13:00:00,ITA1,1,Napoli,WWWWD,30,2.17,14,Cagliari,LLWLL,-17,0.92,Draw
+712490,2025-05-25 13:00:00,ITA1,12,Udinese,LLDWL,-12,1.22,9,Fiorentina,DWWLL,17,1.64,Draw
+712486,2025-05-25 13:00:00,ITA1,5,Lazio,DWDWD,13,1.78,18,Lecce,LLDLD,-33,0.78,Draw
+704655,2025-05-25 15:00:00,ENG1,7,Nottingham Forest,LWLDD,12,1.72,4,Chelsea,WWWLW,20,1.78,Draw
+704652,2025-05-25 15:00:00,ENG1,1,Liverpool,WWWLD,46,2.31,12,Crystal Palace,LDDDW,-2,1.36,Draw
+704651,2025-05-25 15:00:00,ENG1,18,Ipswich Town,DLLDL,-42,0.61,15,West Ham United,LDLDW,-17,1.11,Draw
+704650,2025-05-25 15:00:00,ENG1,11,Fulham,LLWLL,1,1.42,6,Manchester City,WWWWD,24,1.81,Draw
+704649,2025-05-25 15:00:00,ENG1,10,AFC Bournemouth,WDDWL,12,1.47,19,Leicester City,DLLWD,-47,0.61,Draw
+704654,2025-05-25 15:00:00,ENG1,14,Wolverhampton Wanderers,WWWLL,-13,1.14,8,Brentford,DWWWW,10,1.53,Draw
+704656,2025-05-25 15:00:00,ENG1,20,Southampton,LDLLD,-57,0.33,2,Arsenal,DWDLD,33,1.89,Draw
+704653,2025-05-25 15:00:00,ENG1,3,Newcastle United,WLWDW,23,1.83,13,Everton,WLLDW,-5,1.17,Draw
+704658,2025-05-25 15:00:00,ENG1,16,Manchester United,LDLLL,-12,1.05,5,Aston Villa,WLWWW,9,1.78,Draw
+704657,2025-05-25 15:00:00,ENG1,17,Tottenham Hotspur,LLDLL,2,1.03,9,Brighton & Hove Albion,DLWDW,3,1.53,Draw
+705032,2025-05-25 18:00:00,ESP1,16,Espanyol,DLLLL,-11,1.08,19,Las Palmas,WLLLL,-18,0.89,Draw
+705031,2025-05-25 18:00:00,ESP1,5,Villarreal,LWWWW,17,1.78,14,Sevilla,DLDLW,-9,1.14,Draw
+705038,2025-05-25 18:00:00,ESP1,18,Leganés,DDDWL,-21,0.94,20,Real Valladolid,LLLLL,-60,0.44,Draw
+705035,2025-05-25 18:00:00,ESP1,4,Athletic Club,LWDWW,27,1.86,1,Barcelona,WWWWW,61,2.36,Draw
+705039,2025-05-25 18:00:00,ESP1,15,Getafe,LLLLL,-5,1.08,7,Celta Vigo,LWLWW,2,1.44,Draw
+705030,2025-05-25 18:00:00,ESP1,17,Alavés,DWDLW,-11,1.06,9,Osasuna,WWLDW,-6,1.33,Draw
+705036,2025-05-25 18:00:00,ESP1,6,Real Betis,WWWDD,10,1.64,11,Valencia,DDWWL,-9,1.25,Draw
+705037,2025-05-25 18:00:00,ESP1,8,Rayo Vallecano,DLWWD,-5,1.33,10,Mallorca,DLLWL,-8,1.31,Draw
+705033,2025-05-25 18:00:00,ESP1,13,Girona,LDWLW,-11,1.14,3,Atlético Madrid,LWDWL,31,1.94,Draw
+705034,2025-05-25 18:00:00,ESP1,2,Real Madrid,WWWLW,36,2.17,12,Real Sociedad,DLDLL,-10,1.19,Draw
