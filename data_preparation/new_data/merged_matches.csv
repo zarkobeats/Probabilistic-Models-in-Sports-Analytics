@@ -1,298 +1,298 @@
 eventId,date,home_League,home_Team,home_Form,away_Team,away_Form,Result,home_Rank_binned,away_Rank_binned,home_AvgPts_binned,away_AvgPts_binned,home_GD_binned,away_GD_binned,home_Strength,away_Strength
-711448,2024-08-30 18:30:00,GER1,1. FC Union Berlin,low,St. Pauli,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711443,2024-08-31 13:30:00,GER1,Werder Bremen,medium,Borussia Dortmund,high,Draw,Mid,Mid,Mid,Mid,Low,High,Weak,Average
-711442,2024-08-31 13:30:00,GER1,VfB Stuttgart,medium,Mainz,medium,Draw,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
-711444,2024-08-31 13:30:00,GER1,Holstein Kiel,medium,VfL Wolfsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
-711445,2024-08-31 13:30:00,GER1,VfL Bochum,low,Borussia Monchengladbach,low,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711446,2024-08-31 13:30:00,GER1,Eintracht Frankfurt,medium,TSG Hoffenheim,low,HomeWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
-711447,2024-08-31 16:30:00,GER1,Bayer Leverkusen,medium,RB Leipzig,medium,AwayWin,Top,Mid,High,Mid,High,Mid,Strong,Average
-711441,2024-09-01 13:30:00,GER1,1. FC Heidenheim 1846,medium,FC Augsburg,low,HomeWin,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
-711449,2024-09-01 15:30:00,GER1,Bayern Munich,high,SC Freiburg,high,HomeWin,Top,Top,High,Mid,High,Low,Strong,Average
-711452,2024-09-13 18:30:00,GER1,Borussia Dortmund,high,1. FC Heidenheim 1846,medium,HomeWin,Mid,Bottom,Mid,Low,High,Low,Average,Weak
-711451,2024-09-14 13:30:00,GER1,Borussia Monchengladbach,low,VfB Stuttgart,medium,AwayWin,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
-711456,2024-09-14 13:30:00,GER1,SC Freiburg,high,VfL Bochum,low,HomeWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
-711457,2024-09-14 13:30:00,GER1,TSG Hoffenheim,low,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
-711454,2024-09-14 13:30:00,GER1,VfL Wolfsburg,low,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Mid,Mid,Mid,High,Weak,Average
-711455,2024-09-14 13:30:00,GER1,RB Leipzig,medium,1. FC Union Berlin,low,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711458,2024-09-14 16:30:00,GER1,Holstein Kiel,medium,Bayern Munich,high,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
-711450,2024-09-15 13:30:00,GER1,FC Augsburg,low,St. Pauli,medium,HomeWin,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
-711453,2024-09-15 15:30:00,GER1,Mainz,medium,Werder Bremen,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
-711463,2024-09-20 18:30:00,GER1,FC Augsburg,low,Mainz,medium,AwayWin,Bottom,Mid,Mid,Mid,Low,Mid,Weak,Average
-711461,2024-09-21 13:30:00,GER1,1. FC Union Berlin,low,TSG Hoffenheim,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711464,2024-09-21 13:30:00,GER1,VfL Bochum,low,Holstein Kiel,medium,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711466,2024-09-21 13:30:00,GER1,Werder Bremen,medium,Bayern Munich,high,AwayWin,Mid,Top,Mid,High,Low,High,Weak,Strong
-711462,2024-09-21 13:30:00,GER1,1. FC Heidenheim 1846,medium,SC Freiburg,high,AwayWin,Bottom,Top,Low,Mid,Low,Low,Weak,Average
-711459,2024-09-21 16:30:00,GER1,Eintracht Frankfurt,medium,Borussia Monchengladbach,low,HomeWin,Top,Mid,Mid,Mid,High,Low,Average,Weak
-711460,2024-09-22 13:30:00,GER1,Bayer Leverkusen,medium,VfL Wolfsburg,low,HomeWin,Top,Bottom,High,Mid,High,Mid,Strong,Weak
-711465,2024-09-22 15:30:00,GER1,VfB Stuttgart,medium,Borussia Dortmund,high,HomeWin,Mid,Mid,Mid,Mid,Mid,High,Average,Average
-711467,2024-09-22 17:30:00,GER1,St. Pauli,medium,RB Leipzig,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711469,2024-09-27 18:30:00,GER1,Borussia Dortmund,high,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,High,Low,Average,Weak
-711468,2024-09-28 13:30:00,GER1,Mainz,medium,1. FC Heidenheim 1846,medium,AwayWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711473,2024-09-28 13:30:00,GER1,SC Freiburg,high,St. Pauli,medium,AwayWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
-711472,2024-09-28 13:30:00,GER1,VfL Wolfsburg,low,VfB Stuttgart,medium,Draw,Bottom,Mid,Mid,Mid,Mid,Mid,Weak,Average
-711470,2024-09-28 13:30:00,GER1,Borussia Monchengladbach,low,1. FC Union Berlin,low,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711474,2024-09-28 13:30:00,GER1,RB Leipzig,medium,FC Augsburg,low,HomeWin,Mid,Bottom,Mid,Mid,Mid,Low,Average,Weak
-711471,2024-09-28 16:30:00,GER1,Bayern Munich,high,Bayer Leverkusen,medium,Draw,Top,Top,High,High,High,High,Strong,Strong
-711475,2024-09-29 13:30:00,GER1,Holstein Kiel,medium,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Low,Mid,Low,High,Weak,Average
-711476,2024-09-29 15:30:00,GER1,TSG Hoffenheim,low,Werder Bremen,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711485,2024-10-04 18:30:00,GER1,FC Augsburg,low,Borussia Monchengladbach,low,HomeWin,Bottom,Mid,Mid,Mid,Low,Low,Weak,Weak
-711479,2024-10-05 13:30:00,GER1,Werder Bremen,medium,SC Freiburg,high,AwayWin,Mid,Top,Mid,Mid,Low,Low,Weak,Average
-711483,2024-10-05 13:30:00,GER1,Bayer Leverkusen,medium,Holstein Kiel,medium,Draw,Top,Bottom,High,Low,High,Low,Strong,Weak
-711484,2024-10-05 13:30:00,GER1,1. FC Union Berlin,low,Borussia Dortmund,high,HomeWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
-711477,2024-10-05 13:30:00,GER1,VfL Bochum,low,VfL Wolfsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
-711480,2024-10-05 16:30:00,GER1,St. Pauli,medium,Mainz,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711481,2024-10-06 13:30:00,GER1,1. FC Heidenheim 1846,medium,RB Leipzig,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711482,2024-10-06 15:30:00,GER1,Eintracht Frankfurt,medium,Bayern Munich,high,Draw,Top,Top,Mid,High,High,High,Average,Strong
-711478,2024-10-06 17:30:00,GER1,VfB Stuttgart,medium,TSG Hoffenheim,low,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711492,2024-10-18 18:30:00,GER1,Borussia Dortmund,high,St. Pauli,medium,HomeWin,Mid,Bottom,Mid,Low,High,Low,Average,Weak
-711494,2024-10-19 13:30:00,GER1,Mainz,medium,RB Leipzig,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
-711493,2024-10-19 13:30:00,GER1,Bayer Leverkusen,medium,Eintracht Frankfurt,medium,HomeWin,Top,Top,High,Mid,High,High,Strong,Average
-711491,2024-10-19 13:30:00,GER1,Borussia Monchengladbach,low,1. FC Heidenheim 1846,medium,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711487,2024-10-19 13:30:00,GER1,TSG Hoffenheim,low,VfL Bochum,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711488,2024-10-19 13:30:00,GER1,SC Freiburg,high,FC Augsburg,low,HomeWin,Top,Bottom,Mid,Mid,Low,Low,Average,Weak
-711490,2024-10-19 16:30:00,GER1,Bayern Munich,high,VfB Stuttgart,medium,HomeWin,Top,Mid,High,Mid,High,Mid,Strong,Average
-711489,2024-10-20 13:30:00,GER1,Holstein Kiel,medium,1. FC Union Berlin,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711486,2024-10-20 15:30:00,GER1,VfL Wolfsburg,low,Werder Bremen,medium,AwayWin,Bottom,Mid,Mid,Mid,Mid,Low,Weak,Weak
-711497,2024-10-25 18:30:00,GER1,Mainz,medium,Borussia Monchengladbach,low,Draw,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
-711498,2024-10-26 13:30:00,GER1,FC Augsburg,low,Borussia Dortmund,high,HomeWin,Bottom,Mid,Mid,Mid,Low,High,Weak,Average
-711500,2024-10-26 13:30:00,GER1,RB Leipzig,medium,SC Freiburg,high,HomeWin,Mid,Top,Mid,Mid,Mid,Low,Average,Average
-711502,2024-10-26 13:30:00,GER1,VfB Stuttgart,medium,Holstein Kiel,medium,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711503,2024-10-26 13:30:00,GER1,St. Pauli,medium,VfL Wolfsburg,low,Draw,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
-711501,2024-10-26 16:30:00,GER1,Werder Bremen,medium,Bayer Leverkusen,medium,Draw,Mid,Top,Mid,High,Low,High,Weak,Strong
-711499,2024-10-27 14:30:00,GER1,VfL Bochum,low,Bayern Munich,high,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
-711496,2024-10-27 16:30:00,GER1,1. FC Union Berlin,low,Eintracht Frankfurt,medium,Draw,Bottom,Top,Low,Mid,Low,High,Weak,Average
-711495,2024-10-27 18:30:00,GER1,1. FC Heidenheim 1846,medium,TSG Hoffenheim,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711504,2024-11-01 19:30:00,GER1,Bayer Leverkusen,medium,VfB Stuttgart,medium,Draw,Top,Mid,High,Mid,High,Mid,Strong,Average
-711509,2024-11-02 14:30:00,GER1,Holstein Kiel,medium,1. FC Heidenheim 1846,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711511,2024-11-02 14:30:00,GER1,Eintracht Frankfurt,medium,VfL Bochum,low,HomeWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
-711506,2024-11-02 14:30:00,GER1,VfL Wolfsburg,low,FC Augsburg,low,Draw,Bottom,Bottom,Mid,Mid,Mid,Low,Weak,Weak
-711507,2024-11-02 14:30:00,GER1,TSG Hoffenheim,low,St. Pauli,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711510,2024-11-02 14:30:00,GER1,Bayern Munich,high,1. FC Union Berlin,low,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711505,2024-11-02 17:30:00,GER1,Borussia Dortmund,high,RB Leipzig,medium,HomeWin,Mid,Mid,Mid,Mid,High,Mid,Average,Average
-711508,2024-11-03 14:30:00,GER1,SC Freiburg,high,Mainz,medium,Draw,Top,Mid,Mid,Mid,Low,Mid,Average,Average
-711512,2024-11-03 16:30:00,GER1,Borussia Monchengladbach,low,Werder Bremen,medium,HomeWin,Mid,Mid,Mid,Mid,Low,Low,Weak,Weak
-711520,2024-11-08 19:30:00,GER1,1. FC Union Berlin,low,SC Freiburg,high,Draw,Bottom,Top,Low,Mid,Low,Low,Weak,Average
-711517,2024-11-09 14:30:00,GER1,VfL Bochum,low,Bayer Leverkusen,medium,Draw,Bottom,Top,Low,High,Low,High,Weak,Strong
-711519,2024-11-09 14:30:00,GER1,Mainz,medium,Borussia Dortmund,high,HomeWin,Mid,Mid,Mid,Mid,Mid,High,Average,Average
-711521,2024-11-09 14:30:00,GER1,St. Pauli,medium,Bayern Munich,high,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
-711515,2024-11-09 14:30:00,GER1,Werder Bremen,medium,Holstein Kiel,medium,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711516,2024-11-09 17:30:00,GER1,RB Leipzig,medium,Borussia Monchengladbach,low,Draw,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
-711518,2024-11-10 14:30:00,GER1,FC Augsburg,low,TSG Hoffenheim,low,Draw,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
-711514,2024-11-10 16:30:00,GER1,VfB Stuttgart,medium,Eintracht Frankfurt,medium,AwayWin,Mid,Top,Mid,Mid,Mid,High,Average,Average
-711513,2024-11-10 18:30:00,GER1,1. FC Heidenheim 1846,medium,VfL Wolfsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
-711526,2024-11-22 19:30:00,GER1,Bayern Munich,high,FC Augsburg,low,HomeWin,Top,Bottom,High,Mid,High,Low,Strong,Weak
-711529,2024-11-23 14:30:00,GER1,VfB Stuttgart,medium,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711528,2024-11-23 14:30:00,GER1,TSG Hoffenheim,low,RB Leipzig,medium,HomeWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711530,2024-11-23 14:30:00,GER1,VfL Wolfsburg,low,1. FC Union Berlin,low,HomeWin,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
-711523,2024-11-23 14:30:00,GER1,Borussia Dortmund,high,SC Freiburg,high,HomeWin,Mid,Top,Mid,Mid,High,Low,Average,Average
-711522,2024-11-23 14:30:00,GER1,Bayer Leverkusen,medium,1. FC Heidenheim 1846,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711525,2024-11-23 17:30:00,GER1,Eintracht Frankfurt,medium,Werder Bremen,medium,HomeWin,Top,Mid,Mid,Mid,High,Low,Average,Weak
-711527,2024-11-24 14:30:00,GER1,Holstein Kiel,medium,Mainz,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711524,2024-11-24 16:30:00,GER1,Borussia Monchengladbach,low,St. Pauli,medium,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711539,2024-11-29 19:30:00,GER1,St. Pauli,medium,Holstein Kiel,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711534,2024-11-30 14:30:00,GER1,RB Leipzig,medium,VfL Wolfsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Mid,Mid,Average,Weak
-711536,2024-11-30 14:30:00,GER1,FC Augsburg,low,VfL Bochum,low,HomeWin,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
-711532,2024-11-30 14:30:00,GER1,Werder Bremen,medium,VfB Stuttgart,medium,Draw,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
-711533,2024-11-30 14:30:00,GER1,SC Freiburg,high,Borussia Monchengladbach,low,HomeWin,Top,Mid,Mid,Mid,Low,Low,Average,Weak
-711535,2024-11-30 14:30:00,GER1,1. FC Union Berlin,low,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
-711537,2024-11-30 17:30:00,GER1,Borussia Dortmund,high,Bayern Munich,high,Draw,Mid,Top,Mid,High,High,High,Average,Strong
-711538,2024-12-01 14:30:00,GER1,Mainz,medium,TSG Hoffenheim,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711531,2024-12-01 16:30:00,GER1,1. FC Heidenheim 1846,medium,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Low,Mid,Low,High,Weak,Average
-711545,2024-12-06 19:30:00,GER1,VfB Stuttgart,medium,1. FC Union Berlin,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711543,2024-12-07 14:30:00,GER1,Holstein Kiel,medium,RB Leipzig,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711540,2024-12-07 14:30:00,GER1,Bayer Leverkusen,medium,St. Pauli,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711541,2024-12-07 14:30:00,GER1,Eintracht Frankfurt,medium,FC Augsburg,low,Draw,Top,Bottom,Mid,Mid,High,Low,Average,Weak
-711542,2024-12-07 14:30:00,GER1,Bayern Munich,high,1. FC Heidenheim 1846,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711546,2024-12-07 14:30:00,GER1,VfL Bochum,low,Werder Bremen,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711547,2024-12-07 17:30:00,GER1,Borussia Monchengladbach,low,Borussia Dortmund,high,Draw,Mid,Mid,Mid,Mid,Low,High,Weak,Average
-711548,2024-12-08 14:30:00,GER1,VfL Wolfsburg,low,Mainz,medium,HomeWin,Bottom,Mid,Mid,Mid,Mid,Mid,Weak,Average
-711544,2024-12-08 16:30:00,GER1,TSG Hoffenheim,low,SC Freiburg,high,Draw,Bottom,Top,Low,Mid,Low,Low,Weak,Average
-711557,2024-12-13 19:30:00,GER1,SC Freiburg,high,VfL Wolfsburg,low,HomeWin,Top,Bottom,Mid,Mid,Low,Mid,Average,Weak
-711556,2024-12-14 14:30:00,GER1,1. FC Union Berlin,low,VfL Bochum,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711553,2024-12-14 14:30:00,GER1,FC Augsburg,low,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Mid,High,Low,High,Weak,Strong
-711552,2024-12-14 14:30:00,GER1,Borussia Monchengladbach,low,Holstein Kiel,medium,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711550,2024-12-14 14:30:00,GER1,Mainz,medium,Bayern Munich,high,HomeWin,Mid,Top,Mid,High,Mid,High,Average,Strong
-711554,2024-12-14 17:30:00,GER1,St. Pauli,medium,Werder Bremen,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711549,2024-12-15 14:30:00,GER1,1. FC Heidenheim 1846,medium,VfB Stuttgart,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711551,2024-12-15 16:30:00,GER1,Borussia Dortmund,high,TSG Hoffenheim,low,Draw,Mid,Bottom,Mid,Low,High,Low,Average,Weak
-711555,2024-12-15 18:30:00,GER1,RB Leipzig,medium,Eintracht Frankfurt,medium,HomeWin,Mid,Top,Mid,Mid,Mid,High,Average,Average
-711565,2024-12-20 19:30:00,GER1,Bayern Munich,high,RB Leipzig,medium,HomeWin,Top,Mid,High,Mid,High,Mid,Strong,Average
-711562,2024-12-21 14:30:00,GER1,TSG Hoffenheim,low,Borussia Monchengladbach,low,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711561,2024-12-21 14:30:00,GER1,VfB Stuttgart,medium,St. Pauli,medium,AwayWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711564,2024-12-21 14:30:00,GER1,Eintracht Frankfurt,medium,Mainz,medium,AwayWin,Top,Mid,Mid,Mid,High,Mid,Average,Average
-711566,2024-12-21 14:30:00,GER1,Holstein Kiel,medium,FC Augsburg,low,HomeWin,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
-711563,2024-12-21 14:30:00,GER1,Werder Bremen,medium,1. FC Union Berlin,low,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711558,2024-12-21 17:30:00,GER1,Bayer Leverkusen,medium,SC Freiburg,high,HomeWin,Top,Top,High,Mid,High,Low,Strong,Average
-711560,2024-12-22 14:30:00,GER1,VfL Bochum,low,1. FC Heidenheim 1846,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711559,2024-12-22 16:30:00,GER1,VfL Wolfsburg,low,Borussia Dortmund,high,AwayWin,Bottom,Mid,Mid,Mid,Mid,High,Weak,Average
-711572,2025-01-10 19:45:00,GER1,Borussia Dortmund,high,Bayer Leverkusen,medium,AwayWin,Mid,Top,Mid,High,High,High,Average,Strong
-711569,2025-01-11 14:30:00,GER1,TSG Hoffenheim,low,VfL Wolfsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
-711567,2025-01-11 14:30:00,GER1,SC Freiburg,high,Holstein Kiel,medium,HomeWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
-711571,2025-01-11 14:30:00,GER1,Mainz,medium,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711575,2025-01-11 14:30:00,GER1,St. Pauli,medium,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Low,Mid,Low,High,Weak,Average
-711570,2025-01-11 14:30:00,GER1,1. FC Heidenheim 1846,medium,1. FC Union Berlin,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711573,2025-01-11 17:30:00,GER1,Borussia Monchengladbach,low,Bayern Munich,high,AwayWin,Mid,Top,Mid,High,Low,High,Weak,Strong
-711568,2025-01-12 14:30:00,GER1,RB Leipzig,medium,Werder Bremen,medium,HomeWin,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
-711574,2025-01-12 16:30:00,GER1,FC Augsburg,low,VfB Stuttgart,medium,AwayWin,Bottom,Mid,Mid,Mid,Low,Mid,Weak,Average
-711584,2025-01-14 17:30:00,GER1,Holstein Kiel,medium,Borussia Dortmund,high,HomeWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
-711583,2025-01-14 19:30:00,GER1,Bayer Leverkusen,medium,Mainz,medium,HomeWin,Top,Mid,High,Mid,High,Mid,Strong,Average
-711582,2025-01-14 19:30:00,GER1,Eintracht Frankfurt,medium,SC Freiburg,high,HomeWin,Top,Top,Mid,Mid,High,Low,Average,Average
-711580,2025-01-14 19:30:00,GER1,VfL Wolfsburg,low,Borussia Monchengladbach,low,HomeWin,Bottom,Mid,Mid,Mid,Mid,Low,Weak,Weak
-711577,2025-01-15 17:30:00,GER1,VfL Bochum,low,St. Pauli,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711581,2025-01-15 19:30:00,GER1,Bayern Munich,high,TSG Hoffenheim,low,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711579,2025-01-15 19:30:00,GER1,Werder Bremen,medium,1. FC Heidenheim 1846,medium,Draw,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711576,2025-01-15 19:30:00,GER1,1. FC Union Berlin,low,FC Augsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
+711448,2024-08-30 18:30:00,GER1,1. FC Union Berlin,low,St. Pauli,medium,HomeWin,Mid Low,Mid Low,Mid Low,Mid Low,Low,Low,Very Weak,Very Weak
+711442,2024-08-31 13:30:00,GER1,VfB Stuttgart,medium,Mainz,medium,Draw,Mid,Mid High,Mid,Mid,Mid,Mid High,Average,Average
+711443,2024-08-31 13:30:00,GER1,Werder Bremen,medium,Borussia Dortmund,high,Draw,Mid,Mid High,Mid,Mid High,Mid Low,Mid High,Weak,Average
+711444,2024-08-31 13:30:00,GER1,Holstein Kiel,medium,VfL Wolfsburg,low,AwayWin,Low,Mid Low,Low,Mid,Low,Mid,Very Weak,Weak
+711445,2024-08-31 13:30:00,GER1,VfL Bochum,low,Borussia Monchengladbach,low,AwayWin,Low,Mid,Low,Mid,Low,Mid Low,Very Weak,Weak
+711446,2024-08-31 13:30:00,GER1,Eintracht Frankfurt,medium,TSG Hoffenheim,low,HomeWin,High,Low,Mid High,Mid Low,Mid High,Low,Strong,Very Weak
+711447,2024-08-31 16:30:00,GER1,Bayer Leverkusen,medium,RB Leipzig,medium,AwayWin,High,Mid,High,Mid,High,Mid,Strong,Average
+711441,2024-09-01 13:30:00,GER1,1. FC Heidenheim 1846,medium,FC Augsburg,low,HomeWin,Low,Mid Low,Low,Mid,Low,Low,Very Weak,Weak
+711449,2024-09-01 15:30:00,GER1,Bayern Munich,high,SC Freiburg,high,HomeWin,High,Mid High,High,Mid High,High,Mid Low,Strong,Average
+711452,2024-09-13 18:30:00,GER1,Borussia Dortmund,high,1. FC Heidenheim 1846,medium,HomeWin,Mid High,Low,Mid High,Low,Mid High,Low,Average,Very Weak
+711455,2024-09-14 13:30:00,GER1,RB Leipzig,medium,1. FC Union Berlin,low,Draw,Mid,Mid Low,Mid,Mid Low,Mid,Low,Average,Very Weak
+711454,2024-09-14 13:30:00,GER1,VfL Wolfsburg,low,Eintracht Frankfurt,medium,AwayWin,Mid Low,High,Mid,Mid High,Mid,Mid High,Weak,Strong
+711457,2024-09-14 13:30:00,GER1,TSG Hoffenheim,low,Bayer Leverkusen,medium,AwayWin,Low,High,Mid Low,High,Low,High,Very Weak,Strong
+711456,2024-09-14 13:30:00,GER1,SC Freiburg,high,VfL Bochum,low,HomeWin,Mid High,Low,Mid High,Low,Mid Low,Low,Average,Very Weak
+711451,2024-09-14 13:30:00,GER1,Borussia Monchengladbach,low,VfB Stuttgart,medium,AwayWin,Mid,Mid,Mid,Mid,Mid Low,Mid,Weak,Average
+711458,2024-09-14 16:30:00,GER1,Holstein Kiel,medium,Bayern Munich,high,AwayWin,Low,High,Low,High,Low,High,Very Weak,Strong
+711450,2024-09-15 13:30:00,GER1,FC Augsburg,low,St. Pauli,medium,HomeWin,Mid Low,Mid Low,Mid,Mid Low,Low,Low,Weak,Very Weak
+711453,2024-09-15 15:30:00,GER1,Mainz,medium,Werder Bremen,medium,AwayWin,Mid High,Mid,Mid,Mid,Mid High,Mid Low,Average,Weak
+711463,2024-09-20 18:30:00,GER1,FC Augsburg,low,Mainz,medium,AwayWin,Mid Low,Mid High,Mid,Mid,Low,Mid High,Weak,Average
+711462,2024-09-21 13:30:00,GER1,1. FC Heidenheim 1846,medium,SC Freiburg,high,AwayWin,Low,Mid High,Low,Mid High,Low,Mid Low,Very Weak,Average
+711461,2024-09-21 13:30:00,GER1,1. FC Union Berlin,low,TSG Hoffenheim,low,HomeWin,Mid Low,Low,Mid Low,Mid Low,Low,Low,Very Weak,Very Weak
+711466,2024-09-21 13:30:00,GER1,Werder Bremen,medium,Bayern Munich,high,AwayWin,Mid,High,Mid,High,Mid Low,High,Weak,Strong
+711464,2024-09-21 13:30:00,GER1,VfL Bochum,low,Holstein Kiel,medium,Draw,Low,Low,Low,Low,Low,Low,Very Weak,Very Weak
+711459,2024-09-21 16:30:00,GER1,Eintracht Frankfurt,medium,Borussia Monchengladbach,low,HomeWin,High,Mid,Mid High,Mid,Mid High,Mid Low,Strong,Weak
+711460,2024-09-22 13:30:00,GER1,Bayer Leverkusen,medium,VfL Wolfsburg,low,HomeWin,High,Mid Low,High,Mid,High,Mid,Strong,Weak
+711465,2024-09-22 15:30:00,GER1,VfB Stuttgart,medium,Borussia Dortmund,high,HomeWin,Mid,Mid High,Mid,Mid High,Mid,Mid High,Average,Average
+711467,2024-09-22 17:30:00,GER1,St. Pauli,medium,RB Leipzig,medium,Draw,Mid Low,Mid,Mid Low,Mid,Low,Mid,Very Weak,Average
+711469,2024-09-27 18:30:00,GER1,Borussia Dortmund,high,VfL Bochum,low,HomeWin,Mid High,Low,Mid High,Low,Mid High,Low,Average,Very Weak
+711470,2024-09-28 13:30:00,GER1,Borussia Monchengladbach,low,1. FC Union Berlin,low,HomeWin,Mid,Mid Low,Mid,Mid Low,Mid Low,Low,Weak,Very Weak
+711472,2024-09-28 13:30:00,GER1,VfL Wolfsburg,low,VfB Stuttgart,medium,Draw,Mid Low,Mid,Mid,Mid,Mid,Mid,Weak,Average
+711468,2024-09-28 13:30:00,GER1,Mainz,medium,1. FC Heidenheim 1846,medium,AwayWin,Mid High,Low,Mid,Low,Mid High,Low,Average,Very Weak
+711473,2024-09-28 13:30:00,GER1,SC Freiburg,high,St. Pauli,medium,AwayWin,Mid High,Mid Low,Mid High,Mid Low,Mid Low,Low,Average,Very Weak
+711474,2024-09-28 13:30:00,GER1,RB Leipzig,medium,FC Augsburg,low,HomeWin,Mid,Mid Low,Mid,Mid,Mid,Low,Average,Weak
+711471,2024-09-28 16:30:00,GER1,Bayern Munich,high,Bayer Leverkusen,medium,Draw,High,High,High,High,High,High,Strong,Strong
+711475,2024-09-29 13:30:00,GER1,Holstein Kiel,medium,Eintracht Frankfurt,medium,AwayWin,Low,High,Low,Mid High,Low,Mid High,Very Weak,Strong
+711476,2024-09-29 15:30:00,GER1,TSG Hoffenheim,low,Werder Bremen,medium,AwayWin,Low,Mid,Mid Low,Mid,Low,Mid Low,Very Weak,Weak
+711485,2024-10-04 18:30:00,GER1,FC Augsburg,low,Borussia Monchengladbach,low,HomeWin,Mid Low,Mid,Mid,Mid,Low,Mid Low,Weak,Weak
+711479,2024-10-05 13:30:00,GER1,Werder Bremen,medium,SC Freiburg,high,AwayWin,Mid,Mid High,Mid,Mid High,Mid Low,Mid Low,Weak,Average
+711477,2024-10-05 13:30:00,GER1,VfL Bochum,low,VfL Wolfsburg,low,AwayWin,Low,Mid Low,Low,Mid,Low,Mid,Very Weak,Weak
+711484,2024-10-05 13:30:00,GER1,1. FC Union Berlin,low,Borussia Dortmund,high,HomeWin,Mid Low,Mid High,Mid Low,Mid High,Low,Mid High,Very Weak,Average
+711483,2024-10-05 13:30:00,GER1,Bayer Leverkusen,medium,Holstein Kiel,medium,Draw,High,Low,High,Low,High,Low,Strong,Very Weak
+711480,2024-10-05 16:30:00,GER1,St. Pauli,medium,Mainz,medium,AwayWin,Mid Low,Mid High,Mid Low,Mid,Low,Mid High,Very Weak,Average
+711481,2024-10-06 13:30:00,GER1,1. FC Heidenheim 1846,medium,RB Leipzig,medium,AwayWin,Low,Mid,Low,Mid,Low,Mid,Very Weak,Average
+711482,2024-10-06 15:30:00,GER1,Eintracht Frankfurt,medium,Bayern Munich,high,Draw,High,High,Mid High,High,Mid High,High,Strong,Strong
+711478,2024-10-06 17:30:00,GER1,VfB Stuttgart,medium,TSG Hoffenheim,low,Draw,Mid,Low,Mid,Mid Low,Mid,Low,Average,Very Weak
+711492,2024-10-18 18:30:00,GER1,Borussia Dortmund,high,St. Pauli,medium,HomeWin,Mid High,Mid Low,Mid High,Mid Low,Mid High,Low,Average,Very Weak
+711487,2024-10-19 13:30:00,GER1,TSG Hoffenheim,low,VfL Bochum,low,HomeWin,Low,Low,Mid Low,Low,Low,Low,Very Weak,Very Weak
+711488,2024-10-19 13:30:00,GER1,SC Freiburg,high,FC Augsburg,low,HomeWin,Mid High,Mid Low,Mid High,Mid,Mid Low,Low,Average,Weak
+711491,2024-10-19 13:30:00,GER1,Borussia Monchengladbach,low,1. FC Heidenheim 1846,medium,HomeWin,Mid,Low,Mid,Low,Mid Low,Low,Weak,Very Weak
+711493,2024-10-19 13:30:00,GER1,Bayer Leverkusen,medium,Eintracht Frankfurt,medium,HomeWin,High,High,High,Mid High,High,Mid High,Strong,Strong
+711494,2024-10-19 13:30:00,GER1,Mainz,medium,RB Leipzig,medium,AwayWin,Mid High,Mid,Mid,Mid,Mid High,Mid,Average,Average
+711490,2024-10-19 16:30:00,GER1,Bayern Munich,high,VfB Stuttgart,medium,HomeWin,High,Mid,High,Mid,High,Mid,Strong,Average
+711489,2024-10-20 13:30:00,GER1,Holstein Kiel,medium,1. FC Union Berlin,low,AwayWin,Low,Mid Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711486,2024-10-20 15:30:00,GER1,VfL Wolfsburg,low,Werder Bremen,medium,AwayWin,Mid Low,Mid,Mid,Mid,Mid,Mid Low,Weak,Weak
+711497,2024-10-25 18:30:00,GER1,Mainz,medium,Borussia Monchengladbach,low,Draw,Mid High,Mid,Mid,Mid,Mid High,Mid Low,Average,Weak
+711498,2024-10-26 13:30:00,GER1,FC Augsburg,low,Borussia Dortmund,high,HomeWin,Mid Low,Mid High,Mid,Mid High,Low,Mid High,Weak,Average
+711500,2024-10-26 13:30:00,GER1,RB Leipzig,medium,SC Freiburg,high,HomeWin,Mid,Mid High,Mid,Mid High,Mid,Mid Low,Average,Average
+711502,2024-10-26 13:30:00,GER1,VfB Stuttgart,medium,Holstein Kiel,medium,HomeWin,Mid,Low,Mid,Low,Mid,Low,Average,Very Weak
+711503,2024-10-26 13:30:00,GER1,St. Pauli,medium,VfL Wolfsburg,low,Draw,Mid Low,Mid Low,Mid Low,Mid,Low,Mid,Very Weak,Weak
+711501,2024-10-26 16:30:00,GER1,Werder Bremen,medium,Bayer Leverkusen,medium,Draw,Mid,High,Mid,High,Mid Low,High,Weak,Strong
+711499,2024-10-27 14:30:00,GER1,VfL Bochum,low,Bayern Munich,high,AwayWin,Low,High,Low,High,Low,High,Very Weak,Strong
+711496,2024-10-27 16:30:00,GER1,1. FC Union Berlin,low,Eintracht Frankfurt,medium,Draw,Mid Low,High,Mid Low,Mid High,Low,Mid High,Very Weak,Strong
+711495,2024-10-27 18:30:00,GER1,1. FC Heidenheim 1846,medium,TSG Hoffenheim,low,Draw,Low,Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711504,2024-11-01 19:30:00,GER1,Bayer Leverkusen,medium,VfB Stuttgart,medium,Draw,High,Mid,High,Mid,High,Mid,Strong,Average
+711506,2024-11-02 14:30:00,GER1,VfL Wolfsburg,low,FC Augsburg,low,Draw,Mid Low,Mid Low,Mid,Mid,Mid,Low,Weak,Weak
+711507,2024-11-02 14:30:00,GER1,TSG Hoffenheim,low,St. Pauli,medium,AwayWin,Low,Mid Low,Mid Low,Mid Low,Low,Low,Very Weak,Very Weak
+711509,2024-11-02 14:30:00,GER1,Holstein Kiel,medium,1. FC Heidenheim 1846,medium,HomeWin,Low,Low,Low,Low,Low,Low,Very Weak,Very Weak
+711510,2024-11-02 14:30:00,GER1,Bayern Munich,high,1. FC Union Berlin,low,HomeWin,High,Mid Low,High,Mid Low,High,Low,Strong,Very Weak
+711511,2024-11-02 14:30:00,GER1,Eintracht Frankfurt,medium,VfL Bochum,low,HomeWin,High,Low,Mid High,Low,Mid High,Low,Strong,Very Weak
+711505,2024-11-02 17:30:00,GER1,Borussia Dortmund,high,RB Leipzig,medium,HomeWin,Mid High,Mid,Mid High,Mid,Mid High,Mid,Average,Average
+711508,2024-11-03 14:30:00,GER1,SC Freiburg,high,Mainz,medium,Draw,Mid High,Mid High,Mid High,Mid,Mid Low,Mid High,Average,Average
+711512,2024-11-03 16:30:00,GER1,Borussia Monchengladbach,low,Werder Bremen,medium,HomeWin,Mid,Mid,Mid,Mid,Mid Low,Mid Low,Weak,Weak
+711520,2024-11-08 19:30:00,GER1,1. FC Union Berlin,low,SC Freiburg,high,Draw,Mid Low,Mid High,Mid Low,Mid High,Low,Mid Low,Very Weak,Average
+711517,2024-11-09 14:30:00,GER1,VfL Bochum,low,Bayer Leverkusen,medium,Draw,Low,High,Low,High,Low,High,Very Weak,Strong
+711515,2024-11-09 14:30:00,GER1,Werder Bremen,medium,Holstein Kiel,medium,HomeWin,Mid,Low,Mid,Low,Mid Low,Low,Weak,Very Weak
+711521,2024-11-09 14:30:00,GER1,St. Pauli,medium,Bayern Munich,high,AwayWin,Mid Low,High,Mid Low,High,Low,High,Very Weak,Strong
+711519,2024-11-09 14:30:00,GER1,Mainz,medium,Borussia Dortmund,high,HomeWin,Mid High,Mid High,Mid,Mid High,Mid High,Mid High,Average,Average
+711516,2024-11-09 17:30:00,GER1,RB Leipzig,medium,Borussia Monchengladbach,low,Draw,Mid,Mid,Mid,Mid,Mid,Mid Low,Average,Weak
+711518,2024-11-10 14:30:00,GER1,FC Augsburg,low,TSG Hoffenheim,low,Draw,Mid Low,Low,Mid,Mid Low,Low,Low,Weak,Very Weak
+711514,2024-11-10 16:30:00,GER1,VfB Stuttgart,medium,Eintracht Frankfurt,medium,AwayWin,Mid,High,Mid,Mid High,Mid,Mid High,Average,Strong
+711513,2024-11-10 18:30:00,GER1,1. FC Heidenheim 1846,medium,VfL Wolfsburg,low,AwayWin,Low,Mid Low,Low,Mid,Low,Mid,Very Weak,Weak
+711526,2024-11-22 19:30:00,GER1,Bayern Munich,high,FC Augsburg,low,HomeWin,High,Mid Low,High,Mid,High,Low,Strong,Weak
+711522,2024-11-23 14:30:00,GER1,Bayer Leverkusen,medium,1. FC Heidenheim 1846,medium,HomeWin,High,Low,High,Low,High,Low,Strong,Very Weak
+711523,2024-11-23 14:30:00,GER1,Borussia Dortmund,high,SC Freiburg,high,HomeWin,Mid High,Mid High,Mid High,Mid High,Mid High,Mid Low,Average,Average
+711528,2024-11-23 14:30:00,GER1,TSG Hoffenheim,low,RB Leipzig,medium,HomeWin,Low,Mid,Mid Low,Mid,Low,Mid,Very Weak,Average
+711529,2024-11-23 14:30:00,GER1,VfB Stuttgart,medium,VfL Bochum,low,HomeWin,Mid,Low,Mid,Low,Mid,Low,Average,Very Weak
+711530,2024-11-23 14:30:00,GER1,VfL Wolfsburg,low,1. FC Union Berlin,low,HomeWin,Mid Low,Mid Low,Mid,Mid Low,Mid,Low,Weak,Very Weak
+711525,2024-11-23 17:30:00,GER1,Eintracht Frankfurt,medium,Werder Bremen,medium,HomeWin,High,Mid,Mid High,Mid,Mid High,Mid Low,Strong,Weak
+711527,2024-11-24 14:30:00,GER1,Holstein Kiel,medium,Mainz,medium,AwayWin,Low,Mid High,Low,Mid,Low,Mid High,Very Weak,Average
+711524,2024-11-24 16:30:00,GER1,Borussia Monchengladbach,low,St. Pauli,medium,HomeWin,Mid,Mid Low,Mid,Mid Low,Mid Low,Low,Weak,Very Weak
+711539,2024-11-29 19:30:00,GER1,St. Pauli,medium,Holstein Kiel,medium,HomeWin,Mid Low,Low,Mid Low,Low,Low,Low,Very Weak,Very Weak
+711532,2024-11-30 14:30:00,GER1,Werder Bremen,medium,VfB Stuttgart,medium,Draw,Mid,Mid,Mid,Mid,Mid Low,Mid,Weak,Average
+711533,2024-11-30 14:30:00,GER1,SC Freiburg,high,Borussia Monchengladbach,low,HomeWin,Mid High,Mid,Mid High,Mid,Mid Low,Mid Low,Average,Weak
+711534,2024-11-30 14:30:00,GER1,RB Leipzig,medium,VfL Wolfsburg,low,AwayWin,Mid,Mid Low,Mid,Mid,Mid,Mid,Average,Weak
+711535,2024-11-30 14:30:00,GER1,1. FC Union Berlin,low,Bayer Leverkusen,medium,AwayWin,Mid Low,High,Mid Low,High,Low,High,Very Weak,Strong
+711536,2024-11-30 14:30:00,GER1,FC Augsburg,low,VfL Bochum,low,HomeWin,Mid Low,Low,Mid,Low,Low,Low,Weak,Very Weak
+711537,2024-11-30 17:30:00,GER1,Borussia Dortmund,high,Bayern Munich,high,Draw,Mid High,High,Mid High,High,Mid High,High,Average,Strong
+711538,2024-12-01 14:30:00,GER1,Mainz,medium,TSG Hoffenheim,low,HomeWin,Mid High,Low,Mid,Mid Low,Mid High,Low,Average,Very Weak
+711531,2024-12-01 16:30:00,GER1,1. FC Heidenheim 1846,medium,Eintracht Frankfurt,medium,AwayWin,Low,High,Low,Mid High,Low,Mid High,Very Weak,Strong
+711545,2024-12-06 19:30:00,GER1,VfB Stuttgart,medium,1. FC Union Berlin,low,HomeWin,Mid,Mid Low,Mid,Mid Low,Mid,Low,Average,Very Weak
+711540,2024-12-07 14:30:00,GER1,Bayer Leverkusen,medium,St. Pauli,medium,HomeWin,High,Mid Low,High,Mid Low,High,Low,Strong,Very Weak
+711541,2024-12-07 14:30:00,GER1,Eintracht Frankfurt,medium,FC Augsburg,low,Draw,High,Mid Low,Mid High,Mid,Mid High,Low,Strong,Weak
+711542,2024-12-07 14:30:00,GER1,Bayern Munich,high,1. FC Heidenheim 1846,medium,HomeWin,High,Low,High,Low,High,Low,Strong,Very Weak
+711543,2024-12-07 14:30:00,GER1,Holstein Kiel,medium,RB Leipzig,medium,AwayWin,Low,Mid,Low,Mid,Low,Mid,Very Weak,Average
+711546,2024-12-07 14:30:00,GER1,VfL Bochum,low,Werder Bremen,medium,AwayWin,Low,Mid,Low,Mid,Low,Mid Low,Very Weak,Weak
+711547,2024-12-07 17:30:00,GER1,Borussia Monchengladbach,low,Borussia Dortmund,high,Draw,Mid,Mid High,Mid,Mid High,Mid Low,Mid High,Weak,Average
+711548,2024-12-08 14:30:00,GER1,VfL Wolfsburg,low,Mainz,medium,HomeWin,Mid Low,Mid High,Mid,Mid,Mid,Mid High,Weak,Average
+711544,2024-12-08 16:30:00,GER1,TSG Hoffenheim,low,SC Freiburg,high,Draw,Low,Mid High,Mid Low,Mid High,Low,Mid Low,Very Weak,Average
+711557,2024-12-13 19:30:00,GER1,SC Freiburg,high,VfL Wolfsburg,low,HomeWin,Mid High,Mid Low,Mid High,Mid,Mid Low,Mid,Average,Weak
+711550,2024-12-14 14:30:00,GER1,Mainz,medium,Bayern Munich,high,HomeWin,Mid High,High,Mid,High,Mid High,High,Average,Strong
+711552,2024-12-14 14:30:00,GER1,Borussia Monchengladbach,low,Holstein Kiel,medium,HomeWin,Mid,Low,Mid,Low,Mid Low,Low,Weak,Very Weak
+711553,2024-12-14 14:30:00,GER1,FC Augsburg,low,Bayer Leverkusen,medium,AwayWin,Mid Low,High,Mid,High,Low,High,Weak,Strong
+711556,2024-12-14 14:30:00,GER1,1. FC Union Berlin,low,VfL Bochum,low,AwayWin,Mid Low,Low,Mid Low,Low,Low,Low,Very Weak,Very Weak
+711554,2024-12-14 17:30:00,GER1,St. Pauli,medium,Werder Bremen,medium,AwayWin,Mid Low,Mid,Mid Low,Mid,Low,Mid Low,Very Weak,Weak
+711549,2024-12-15 14:30:00,GER1,1. FC Heidenheim 1846,medium,VfB Stuttgart,medium,AwayWin,Low,Mid,Low,Mid,Low,Mid,Very Weak,Average
+711551,2024-12-15 16:30:00,GER1,Borussia Dortmund,high,TSG Hoffenheim,low,Draw,Mid High,Low,Mid High,Mid Low,Mid High,Low,Average,Very Weak
+711555,2024-12-15 18:30:00,GER1,RB Leipzig,medium,Eintracht Frankfurt,medium,HomeWin,Mid,High,Mid,Mid High,Mid,Mid High,Average,Strong
+711565,2024-12-20 19:30:00,GER1,Bayern Munich,high,RB Leipzig,medium,HomeWin,High,Mid,High,Mid,High,Mid,Strong,Average
+711561,2024-12-21 14:30:00,GER1,VfB Stuttgart,medium,St. Pauli,medium,AwayWin,Mid,Mid Low,Mid,Mid Low,Mid,Low,Average,Very Weak
+711562,2024-12-21 14:30:00,GER1,TSG Hoffenheim,low,Borussia Monchengladbach,low,AwayWin,Low,Mid,Mid Low,Mid,Low,Mid Low,Very Weak,Weak
+711563,2024-12-21 14:30:00,GER1,Werder Bremen,medium,1. FC Union Berlin,low,HomeWin,Mid,Mid Low,Mid,Mid Low,Mid Low,Low,Weak,Very Weak
+711564,2024-12-21 14:30:00,GER1,Eintracht Frankfurt,medium,Mainz,medium,AwayWin,High,Mid High,Mid High,Mid,Mid High,Mid High,Strong,Average
+711566,2024-12-21 14:30:00,GER1,Holstein Kiel,medium,FC Augsburg,low,HomeWin,Low,Mid Low,Low,Mid,Low,Low,Very Weak,Weak
+711558,2024-12-21 17:30:00,GER1,Bayer Leverkusen,medium,SC Freiburg,high,HomeWin,High,Mid High,High,Mid High,High,Mid Low,Strong,Average
+711560,2024-12-22 14:30:00,GER1,VfL Bochum,low,1. FC Heidenheim 1846,medium,HomeWin,Low,Low,Low,Low,Low,Low,Very Weak,Very Weak
+711559,2024-12-22 16:30:00,GER1,VfL Wolfsburg,low,Borussia Dortmund,high,AwayWin,Mid Low,Mid High,Mid,Mid High,Mid,Mid High,Weak,Average
+711572,2025-01-10 19:45:00,GER1,Borussia Dortmund,high,Bayer Leverkusen,medium,AwayWin,Mid High,High,Mid High,High,Mid High,High,Average,Strong
+711570,2025-01-11 14:30:00,GER1,1. FC Heidenheim 1846,medium,1. FC Union Berlin,low,HomeWin,Low,Mid Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711567,2025-01-11 14:30:00,GER1,SC Freiburg,high,Holstein Kiel,medium,HomeWin,Mid High,Low,Mid High,Low,Mid Low,Low,Average,Very Weak
+711571,2025-01-11 14:30:00,GER1,Mainz,medium,VfL Bochum,low,HomeWin,Mid High,Low,Mid,Low,Mid High,Low,Average,Very Weak
+711575,2025-01-11 14:30:00,GER1,St. Pauli,medium,Eintracht Frankfurt,medium,AwayWin,Mid Low,High,Mid Low,Mid High,Low,Mid High,Very Weak,Strong
+711569,2025-01-11 14:30:00,GER1,TSG Hoffenheim,low,VfL Wolfsburg,low,AwayWin,Low,Mid Low,Mid Low,Mid,Low,Mid,Very Weak,Weak
+711573,2025-01-11 17:30:00,GER1,Borussia Monchengladbach,low,Bayern Munich,high,AwayWin,Mid,High,Mid,High,Mid Low,High,Weak,Strong
+711568,2025-01-12 14:30:00,GER1,RB Leipzig,medium,Werder Bremen,medium,HomeWin,Mid,Mid,Mid,Mid,Mid,Mid Low,Average,Weak
+711574,2025-01-12 16:30:00,GER1,FC Augsburg,low,VfB Stuttgart,medium,AwayWin,Mid Low,Mid,Mid,Mid,Low,Mid,Weak,Average
+711584,2025-01-14 17:30:00,GER1,Holstein Kiel,medium,Borussia Dortmund,high,HomeWin,Low,Mid High,Low,Mid High,Low,Mid High,Very Weak,Average
+711580,2025-01-14 19:30:00,GER1,VfL Wolfsburg,low,Borussia Monchengladbach,low,HomeWin,Mid Low,Mid,Mid,Mid,Mid,Mid Low,Weak,Weak
+711582,2025-01-14 19:30:00,GER1,Eintracht Frankfurt,medium,SC Freiburg,high,HomeWin,High,Mid High,Mid High,Mid High,Mid High,Mid Low,Strong,Average
+711583,2025-01-14 19:30:00,GER1,Bayer Leverkusen,medium,Mainz,medium,HomeWin,High,Mid High,High,Mid,High,Mid High,Strong,Average
+711577,2025-01-15 17:30:00,GER1,VfL Bochum,low,St. Pauli,medium,HomeWin,Low,Mid Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711579,2025-01-15 19:30:00,GER1,Werder Bremen,medium,1. FC Heidenheim 1846,medium,Draw,Mid,Low,Mid,Low,Mid Low,Low,Weak,Very Weak
+711581,2025-01-15 19:30:00,GER1,Bayern Munich,high,TSG Hoffenheim,low,HomeWin,High,Low,High,Mid Low,High,Low,Strong,Very Weak
+711576,2025-01-15 19:30:00,GER1,1. FC Union Berlin,low,FC Augsburg,low,AwayWin,Mid Low,Mid Low,Mid Low,Mid,Low,Low,Very Weak,Weak
 711578,2025-01-15 19:30:00,GER1,VfB Stuttgart,medium,RB Leipzig,medium,HomeWin,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
-711589,2025-01-17 19:30:00,GER1,Eintracht Frankfurt,medium,Borussia Dortmund,high,HomeWin,Top,Mid,Mid,Mid,High,High,Average,Average
-711585,2025-01-18 14:30:00,GER1,VfB Stuttgart,medium,SC Freiburg,high,HomeWin,Mid,Top,Mid,Mid,Mid,Low,Average,Average
-711592,2025-01-18 14:30:00,GER1,1. FC Heidenheim 1846,medium,St. Pauli,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711587,2025-01-18 14:30:00,GER1,Holstein Kiel,medium,TSG Hoffenheim,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711593,2025-01-18 14:30:00,GER1,VfL Bochum,low,RB Leipzig,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711588,2025-01-18 14:30:00,GER1,Bayern Munich,high,VfL Wolfsburg,low,HomeWin,Top,Bottom,High,Mid,High,Mid,Strong,Weak
-711590,2025-01-18 17:30:00,GER1,Bayer Leverkusen,medium,Borussia Monchengladbach,low,HomeWin,Top,Mid,High,Mid,High,Low,Strong,Weak
-711591,2025-01-19 14:30:00,GER1,1. FC Union Berlin,low,Mainz,medium,HomeWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711586,2025-01-19 16:30:00,GER1,Werder Bremen,medium,FC Augsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Low,Low,Weak,Weak
-711598,2025-01-24 19:30:00,GER1,VfL Wolfsburg,low,Holstein Kiel,medium,Draw,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
-711594,2025-01-25 14:30:00,GER1,FC Augsburg,low,1. FC Heidenheim 1846,medium,HomeWin,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
-711597,2025-01-25 14:30:00,GER1,Mainz,medium,VfB Stuttgart,medium,HomeWin,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
-711599,2025-01-25 14:30:00,GER1,RB Leipzig,medium,Bayer Leverkusen,medium,Draw,Mid,Top,Mid,High,Mid,High,Average,Strong
-711596,2025-01-25 14:30:00,GER1,Borussia Dortmund,high,Werder Bremen,medium,Draw,Mid,Mid,Mid,Mid,High,Low,Average,Weak
-711600,2025-01-25 14:30:00,GER1,SC Freiburg,high,Bayern Munich,high,AwayWin,Top,Top,Mid,High,Low,High,Average,Strong
-711595,2025-01-25 17:30:00,GER1,Borussia Monchengladbach,low,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711601,2025-01-26 14:30:00,GER1,TSG Hoffenheim,low,Eintracht Frankfurt,medium,Draw,Bottom,Top,Low,Mid,Low,High,Weak,Average
-711602,2025-01-26 16:30:00,GER1,St. Pauli,medium,1. FC Union Berlin,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711610,2025-01-31 19:30:00,GER1,Werder Bremen,medium,Mainz,medium,HomeWin,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
-711607,2025-02-01 14:30:00,GER1,Bayern Munich,high,Holstein Kiel,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711608,2025-02-01 14:30:00,GER1,VfL Bochum,low,SC Freiburg,high,AwayWin,Bottom,Top,Low,Mid,Low,Low,Weak,Average
-711606,2025-02-01 14:30:00,GER1,1. FC Heidenheim 1846,medium,Borussia Dortmund,high,AwayWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
-711611,2025-02-01 14:30:00,GER1,St. Pauli,medium,FC Augsburg,low,Draw,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
-711609,2025-02-01 14:30:00,GER1,VfB Stuttgart,medium,Borussia Monchengladbach,low,AwayWin,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
-711605,2025-02-01 17:30:00,GER1,1. FC Union Berlin,low,RB Leipzig,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711603,2025-02-02 14:30:00,GER1,Eintracht Frankfurt,medium,VfL Wolfsburg,low,Draw,Top,Bottom,Mid,Mid,High,Mid,Average,Weak
-711604,2025-02-02 16:30:00,GER1,Bayer Leverkusen,medium,TSG Hoffenheim,low,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711615,2025-02-07 19:30:00,GER1,Bayern Munich,high,Werder Bremen,medium,HomeWin,Top,Mid,High,Mid,High,Low,Strong,Weak
-711620,2025-02-08 14:30:00,GER1,TSG Hoffenheim,low,1. FC Union Berlin,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711617,2025-02-08 14:30:00,GER1,SC Freiburg,high,1. FC Heidenheim 1846,medium,HomeWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
-711616,2025-02-08 14:30:00,GER1,VfL Wolfsburg,low,Bayer Leverkusen,medium,Draw,Bottom,Top,Mid,High,Mid,High,Weak,Strong
-711613,2025-02-08 14:30:00,GER1,Borussia Dortmund,high,VfB Stuttgart,medium,AwayWin,Mid,Mid,Mid,Mid,High,Mid,Average,Average
-711612,2025-02-08 14:30:00,GER1,Mainz,medium,FC Augsburg,low,Draw,Mid,Bottom,Mid,Mid,Mid,Low,Average,Weak
-711614,2025-02-08 17:30:00,GER1,Borussia Monchengladbach,low,Eintracht Frankfurt,medium,Draw,Mid,Top,Mid,Mid,Low,High,Weak,Average
-711619,2025-02-09 14:30:00,GER1,Holstein Kiel,medium,VfL Bochum,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711618,2025-02-09 16:30:00,GER1,RB Leipzig,medium,St. Pauli,medium,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711626,2025-02-14 19:30:00,GER1,FC Augsburg,low,RB Leipzig,medium,Draw,Bottom,Mid,Mid,Mid,Low,Mid,Weak,Average
-711623,2025-02-15 14:30:00,GER1,1. FC Union Berlin,low,Borussia Monchengladbach,low,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711629,2025-02-15 14:30:00,GER1,VfB Stuttgart,medium,VfL Wolfsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Mid,Mid,Average,Weak
-711621,2025-02-15 14:30:00,GER1,VfL Bochum,low,Borussia Dortmund,high,HomeWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
-711627,2025-02-15 14:30:00,GER1,St. Pauli,medium,SC Freiburg,high,AwayWin,Bottom,Top,Low,Mid,Low,Low,Weak,Average
-711624,2025-02-15 17:30:00,GER1,Bayer Leverkusen,medium,Bayern Munich,high,Draw,Top,Top,High,High,High,High,Strong,Strong
-711628,2025-02-16 14:30:00,GER1,Werder Bremen,medium,TSG Hoffenheim,low,AwayWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711625,2025-02-16 16:30:00,GER1,Eintracht Frankfurt,medium,Holstein Kiel,medium,HomeWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
-711622,2025-02-16 18:30:00,GER1,1. FC Heidenheim 1846,medium,Mainz,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711636,2025-02-21 19:30:00,GER1,SC Freiburg,high,Werder Bremen,medium,HomeWin,Top,Mid,Mid,Mid,Low,Low,Average,Weak
-711634,2025-02-22 14:30:00,GER1,VfL Wolfsburg,low,VfL Bochum,low,Draw,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
-711630,2025-02-22 14:30:00,GER1,Mainz,medium,St. Pauli,medium,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711632,2025-02-22 14:30:00,GER1,Borussia Monchengladbach,low,FC Augsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Low,Low,Weak,Weak
-711638,2025-02-22 14:30:00,GER1,Holstein Kiel,medium,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
-711631,2025-02-22 17:30:00,GER1,Borussia Dortmund,high,1. FC Union Berlin,low,HomeWin,Mid,Bottom,Mid,Low,High,Low,Average,Weak
-711635,2025-02-23 14:30:00,GER1,RB Leipzig,medium,1. FC Heidenheim 1846,medium,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711633,2025-02-23 16:30:00,GER1,Bayern Munich,high,Eintracht Frankfurt,medium,HomeWin,Top,Top,High,Mid,High,High,Strong,Average
-711637,2025-02-23 18:30:00,GER1,TSG Hoffenheim,low,VfB Stuttgart,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711639,2025-02-28 19:30:00,GER1,VfB Stuttgart,medium,Bayern Munich,high,AwayWin,Mid,Top,Mid,High,Mid,High,Average,Strong
-711643,2025-03-01 14:30:00,GER1,VfL Bochum,low,TSG Hoffenheim,low,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711646,2025-03-01 14:30:00,GER1,1. FC Heidenheim 1846,medium,Borussia Monchengladbach,low,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711641,2025-03-01 14:30:00,GER1,RB Leipzig,medium,Mainz,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
-711642,2025-03-01 14:30:00,GER1,St. Pauli,medium,Borussia Dortmund,high,AwayWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
-711640,2025-03-01 14:30:00,GER1,Werder Bremen,medium,VfL Wolfsburg,low,AwayWin,Mid,Bottom,Mid,Mid,Low,Mid,Weak,Weak
-711644,2025-03-01 17:30:00,GER1,Eintracht Frankfurt,medium,Bayer Leverkusen,medium,AwayWin,Top,Top,Mid,High,High,High,Average,Strong
-711645,2025-03-02 14:30:00,GER1,1. FC Union Berlin,low,Holstein Kiel,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711647,2025-03-02 16:30:00,GER1,FC Augsburg,low,SC Freiburg,high,Draw,Bottom,Top,Mid,Mid,Low,Low,Weak,Average
-711653,2025-03-07 19:30:00,GER1,Borussia Monchengladbach,low,Mainz,medium,AwayWin,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
-711654,2025-03-08 14:30:00,GER1,Borussia Dortmund,high,FC Augsburg,low,AwayWin,Mid,Bottom,Mid,Mid,High,Low,Average,Weak
-711651,2025-03-08 14:30:00,GER1,Bayern Munich,high,VfL Bochum,low,AwayWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711650,2025-03-08 14:30:00,GER1,Holstein Kiel,medium,VfB Stuttgart,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711655,2025-03-08 14:30:00,GER1,Bayer Leverkusen,medium,Werder Bremen,medium,AwayWin,Top,Mid,High,Mid,High,Low,Strong,Weak
-711656,2025-03-08 14:30:00,GER1,VfL Wolfsburg,low,St. Pauli,medium,Draw,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
-711649,2025-03-08 17:30:00,GER1,SC Freiburg,high,RB Leipzig,medium,Draw,Top,Mid,Mid,Mid,Low,Mid,Average,Average
-711652,2025-03-09 14:30:00,GER1,Eintracht Frankfurt,medium,1. FC Union Berlin,low,AwayWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
-711648,2025-03-09 16:30:00,GER1,TSG Hoffenheim,low,1. FC Heidenheim 1846,medium,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711663,2025-03-14 19:30:00,GER1,St. Pauli,medium,TSG Hoffenheim,low,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711658,2025-03-15 14:30:00,GER1,1. FC Union Berlin,low,Bayern Munich,high,Draw,Bottom,Top,Low,High,Low,High,Weak,Strong
-711665,2025-03-15 14:30:00,GER1,Mainz,medium,SC Freiburg,high,Draw,Mid,Top,Mid,Mid,Mid,Low,Average,Average
-711664,2025-03-15 14:30:00,GER1,FC Augsburg,low,VfL Wolfsburg,low,HomeWin,Bottom,Bottom,Mid,Mid,Low,Mid,Weak,Weak
-711661,2025-03-15 14:30:00,GER1,Werder Bremen,medium,Borussia Monchengladbach,low,AwayWin,Mid,Mid,Mid,Mid,Low,Low,Weak,Weak
-711662,2025-03-15 17:30:00,GER1,RB Leipzig,medium,Borussia Dortmund,high,HomeWin,Mid,Mid,Mid,Mid,Mid,High,Average,Average
-711659,2025-03-16 14:30:00,GER1,VfL Bochum,low,Eintracht Frankfurt,medium,AwayWin,Bottom,Top,Low,Mid,Low,High,Weak,Average
-711657,2025-03-16 16:30:00,GER1,1. FC Heidenheim 1846,medium,Holstein Kiel,medium,HomeWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711660,2025-03-16 18:30:00,GER1,VfB Stuttgart,medium,Bayer Leverkusen,medium,AwayWin,Mid,Top,Mid,High,Mid,High,Average,Strong
-711666,2025-03-28 19:30:00,GER1,Bayer Leverkusen,medium,VfL Bochum,low,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711669,2025-03-29 14:30:00,GER1,Holstein Kiel,medium,Werder Bremen,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711674,2025-03-29 14:30:00,GER1,Bayern Munich,high,St. Pauli,medium,HomeWin,Top,Bottom,High,Low,High,Low,Strong,Weak
-711672,2025-03-29 14:30:00,GER1,Borussia Monchengladbach,low,RB Leipzig,medium,HomeWin,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
-711667,2025-03-29 14:30:00,GER1,TSG Hoffenheim,low,FC Augsburg,low,Draw,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
-711670,2025-03-29 14:30:00,GER1,VfL Wolfsburg,low,1. FC Heidenheim 1846,medium,AwayWin,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
-711671,2025-03-29 17:30:00,GER1,Eintracht Frankfurt,medium,VfB Stuttgart,medium,HomeWin,Top,Mid,Mid,Mid,High,Mid,Average,Average
-711668,2025-03-30 13:30:00,GER1,SC Freiburg,high,1. FC Union Berlin,low,AwayWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
-711673,2025-03-30 15:30:00,GER1,Borussia Dortmund,high,Mainz,medium,HomeWin,Mid,Mid,Mid,Mid,High,Mid,Average,Average
-711683,2025-04-04 18:30:00,GER1,FC Augsburg,low,Bayern Munich,high,AwayWin,Bottom,Top,Mid,High,Low,High,Weak,Strong
-711676,2025-04-05 13:30:00,GER1,SC Freiburg,high,Borussia Dortmund,high,AwayWin,Top,Mid,Mid,Mid,Low,High,Average,Average
-711680,2025-04-05 13:30:00,GER1,Mainz,medium,Holstein Kiel,medium,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711679,2025-04-05 13:30:00,GER1,VfL Bochum,low,VfB Stuttgart,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711682,2025-04-05 13:30:00,GER1,1. FC Heidenheim 1846,medium,Bayer Leverkusen,medium,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
-711677,2025-04-05 13:30:00,GER1,RB Leipzig,medium,TSG Hoffenheim,low,HomeWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711675,2025-04-05 16:30:00,GER1,Werder Bremen,medium,Eintracht Frankfurt,medium,HomeWin,Mid,Top,Mid,Mid,Low,High,Weak,Average
-711678,2025-04-06 13:30:00,GER1,St. Pauli,medium,Borussia Monchengladbach,low,Draw,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711681,2025-04-06 15:30:00,GER1,1. FC Union Berlin,low,VfL Wolfsburg,low,HomeWin,Bottom,Bottom,Low,Mid,Low,Mid,Weak,Weak
-711692,2025-04-11 18:30:00,GER1,VfL Wolfsburg,low,RB Leipzig,medium,AwayWin,Bottom,Mid,Mid,Mid,Mid,Mid,Weak,Average
-711687,2025-04-12 13:30:00,GER1,Holstein Kiel,medium,St. Pauli,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711684,2025-04-12 13:30:00,GER1,VfL Bochum,low,FC Augsburg,low,AwayWin,Bottom,Bottom,Low,Mid,Low,Low,Weak,Weak
-711691,2025-04-12 13:30:00,GER1,Bayer Leverkusen,medium,1. FC Union Berlin,low,Draw,Top,Bottom,High,Low,High,Low,Strong,Weak
-711690,2025-04-12 13:30:00,GER1,Borussia Monchengladbach,low,SC Freiburg,high,AwayWin,Mid,Top,Mid,Mid,Low,Low,Weak,Average
-711686,2025-04-12 13:30:00,GER1,TSG Hoffenheim,low,Mainz,medium,HomeWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711688,2025-04-12 16:30:00,GER1,Bayern Munich,high,Borussia Dortmund,high,Draw,Top,Mid,High,Mid,High,High,Strong,Average
-711685,2025-04-13 13:30:00,GER1,VfB Stuttgart,medium,Werder Bremen,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Low,Average,Weak
-711689,2025-04-13 15:30:00,GER1,Eintracht Frankfurt,medium,1. FC Heidenheim 1846,medium,HomeWin,Top,Bottom,Mid,Low,High,Low,Average,Weak
-711695,2025-04-19 13:30:00,GER1,Werder Bremen,medium,VfL Bochum,low,HomeWin,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711693,2025-04-19 13:30:00,GER1,1. FC Heidenheim 1846,medium,Bayern Munich,high,AwayWin,Bottom,Top,Low,High,Low,High,Weak,Strong
-711701,2025-04-19 13:30:00,GER1,Mainz,medium,VfL Wolfsburg,low,Draw,Mid,Bottom,Mid,Mid,Mid,Mid,Average,Weak
-711696,2025-04-19 13:30:00,GER1,SC Freiburg,high,TSG Hoffenheim,low,HomeWin,Top,Bottom,Mid,Low,Low,Low,Average,Weak
-711697,2025-04-19 13:30:00,GER1,RB Leipzig,medium,Holstein Kiel,medium,Draw,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711694,2025-04-19 16:30:00,GER1,1. FC Union Berlin,low,VfB Stuttgart,medium,Draw,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711699,2025-04-20 13:30:00,GER1,FC Augsburg,low,Eintracht Frankfurt,medium,Draw,Bottom,Top,Mid,Mid,Low,High,Weak,Average
-711700,2025-04-20 15:30:00,GER1,Borussia Dortmund,high,Borussia Monchengladbach,low,HomeWin,Mid,Mid,Mid,Mid,High,Low,Average,Weak
-711698,2025-04-20 17:30:00,GER1,St. Pauli,medium,Bayer Leverkusen,medium,Draw,Bottom,Top,Low,High,Low,High,Weak,Strong
-711704,2025-04-25 18:30:00,GER1,VfB Stuttgart,medium,1. FC Heidenheim 1846,medium,AwayWin,Mid,Bottom,Mid,Low,Mid,Low,Average,Weak
-711707,2025-04-26 13:30:00,GER1,Holstein Kiel,medium,Borussia Monchengladbach,low,HomeWin,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711706,2025-04-26 13:30:00,GER1,VfL Wolfsburg,low,SC Freiburg,high,AwayWin,Bottom,Top,Mid,Mid,Mid,Low,Weak,Average
-711705,2025-04-26 13:30:00,GER1,TSG Hoffenheim,low,Borussia Dortmund,high,AwayWin,Bottom,Mid,Low,Mid,Low,High,Weak,Average
-711702,2025-04-26 13:30:00,GER1,Bayer Leverkusen,medium,FC Augsburg,low,HomeWin,Top,Bottom,High,Mid,High,Low,Strong,Weak
-711708,2025-04-26 13:30:00,GER1,Bayern Munich,high,Mainz,medium,HomeWin,Top,Mid,High,Mid,High,Mid,Strong,Average
-711709,2025-04-26 16:30:00,GER1,Eintracht Frankfurt,medium,RB Leipzig,medium,HomeWin,Top,Mid,Mid,Mid,High,Mid,Average,Average
-711703,2025-04-27 13:30:00,GER1,VfL Bochum,low,1. FC Union Berlin,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711710,2025-04-27 15:30:00,GER1,Werder Bremen,medium,St. Pauli,medium,Draw,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711714,2025-05-02 18:30:00,GER1,1. FC Heidenheim 1846,medium,VfL Bochum,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711717,2025-05-03 13:30:00,GER1,St. Pauli,medium,VfB Stuttgart,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711713,2025-05-03 13:30:00,GER1,1. FC Union Berlin,low,Werder Bremen,medium,Draw,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
-711718,2025-05-03 13:30:00,GER1,RB Leipzig,medium,Bayern Munich,high,Draw,Mid,Top,Mid,High,Mid,High,Average,Strong
-711719,2025-05-03 13:30:00,GER1,Borussia Monchengladbach,low,TSG Hoffenheim,low,Draw,Mid,Bottom,Mid,Low,Low,Low,Weak,Weak
-711711,2025-05-03 16:30:00,GER1,Borussia Dortmund,high,VfL Wolfsburg,low,HomeWin,Mid,Bottom,Mid,Mid,High,Mid,Average,Weak
-711716,2025-05-04 13:30:00,GER1,FC Augsburg,low,Holstein Kiel,medium,AwayWin,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
-711715,2025-05-04 15:30:00,GER1,SC Freiburg,high,Bayer Leverkusen,medium,Draw,Top,Top,Mid,High,Low,High,Average,Strong
-711712,2025-05-04 17:30:00,GER1,Mainz,medium,Eintracht Frankfurt,medium,Draw,Mid,Top,Mid,Mid,Mid,High,Average,Average
-711725,2025-05-09 18:30:00,GER1,VfL Wolfsburg,low,TSG Hoffenheim,low,Draw,Bottom,Bottom,Mid,Low,Mid,Low,Weak,Weak
-711728,2025-05-10 13:30:00,GER1,Werder Bremen,medium,RB Leipzig,medium,Draw,Mid,Mid,Mid,Mid,Low,Mid,Weak,Average
-711726,2025-05-10 13:30:00,GER1,VfL Bochum,low,Mainz,medium,AwayWin,Bottom,Mid,Low,Mid,Low,Mid,Weak,Average
-711724,2025-05-10 13:30:00,GER1,Holstein Kiel,medium,SC Freiburg,high,AwayWin,Bottom,Top,Low,Mid,Low,Low,Weak,Average
-711723,2025-05-10 13:30:00,GER1,1. FC Union Berlin,low,1. FC Heidenheim 1846,medium,AwayWin,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
-711720,2025-05-10 16:30:00,GER1,Bayern Munich,high,Borussia Monchengladbach,low,HomeWin,Top,Mid,High,Mid,High,Low,Strong,Weak
-711722,2025-05-11 13:30:00,GER1,Bayer Leverkusen,medium,Borussia Dortmund,high,AwayWin,Top,Mid,High,Mid,High,High,Strong,Average
-711721,2025-05-11 15:30:00,GER1,Eintracht Frankfurt,medium,St. Pauli,medium,Draw,Top,Bottom,Mid,Low,High,Low,Average,Weak
-711727,2025-05-11 17:30:00,GER1,VfB Stuttgart,medium,FC Augsburg,low,HomeWin,Mid,Bottom,Mid,Mid,Mid,Low,Average,Weak
-711738,2025-05-17 13:30:00,GER1,FC Augsburg,low,1. FC Union Berlin,low,Draw,Bottom,Bottom,Mid,Low,Low,Low,Weak,Weak
-711737,2025-05-17 13:30:00,GER1,TSG Hoffenheim,low,Bayern Munich,high,Draw,Bottom,Top,Low,High,Low,High,Weak,Strong
-711734,2025-05-17 13:30:00,GER1,SC Freiburg,high,Eintracht Frankfurt,medium,Draw,Top,Top,Mid,Mid,Low,High,Average,Average
-711732,2025-05-17 13:30:00,GER1,Borussia Dortmund,high,Holstein Kiel,medium,Draw,Mid,Bottom,Mid,Low,High,Low,Average,Weak
-711733,2025-05-17 13:30:00,GER1,Borussia Monchengladbach,low,VfL Wolfsburg,low,Draw,Mid,Bottom,Mid,Mid,Low,Mid,Weak,Weak
-711731,2025-05-17 13:30:00,GER1,Mainz,medium,Bayer Leverkusen,medium,Draw,Mid,Top,Mid,High,Mid,High,Average,Strong
-711735,2025-05-17 13:30:00,GER1,St. Pauli,medium,VfL Bochum,low,Draw,Bottom,Bottom,Low,Low,Low,Low,Weak,Weak
+711589,2025-01-17 19:30:00,GER1,Eintracht Frankfurt,medium,Borussia Dortmund,high,HomeWin,High,Mid High,Mid High,Mid High,Mid High,Mid High,Strong,Average
+711585,2025-01-18 14:30:00,GER1,VfB Stuttgart,medium,SC Freiburg,high,HomeWin,Mid,Mid High,Mid,Mid High,Mid,Mid Low,Average,Average
+711592,2025-01-18 14:30:00,GER1,1. FC Heidenheim 1846,medium,St. Pauli,medium,AwayWin,Low,Mid Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711587,2025-01-18 14:30:00,GER1,Holstein Kiel,medium,TSG Hoffenheim,low,AwayWin,Low,Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711588,2025-01-18 14:30:00,GER1,Bayern Munich,high,VfL Wolfsburg,low,HomeWin,High,Mid Low,High,Mid,High,Mid,Strong,Weak
+711593,2025-01-18 14:30:00,GER1,VfL Bochum,low,RB Leipzig,medium,Draw,Low,Mid,Low,Mid,Low,Mid,Very Weak,Average
+711590,2025-01-18 17:30:00,GER1,Bayer Leverkusen,medium,Borussia Monchengladbach,low,HomeWin,High,Mid,High,Mid,High,Mid Low,Strong,Weak
+711591,2025-01-19 14:30:00,GER1,1. FC Union Berlin,low,Mainz,medium,HomeWin,Mid Low,Mid High,Mid Low,Mid,Low,Mid High,Very Weak,Average
+711586,2025-01-19 16:30:00,GER1,Werder Bremen,medium,FC Augsburg,low,AwayWin,Mid,Mid Low,Mid,Mid,Mid Low,Low,Weak,Weak
+711598,2025-01-24 19:30:00,GER1,VfL Wolfsburg,low,Holstein Kiel,medium,Draw,Mid Low,Low,Mid,Low,Mid,Low,Weak,Very Weak
+711594,2025-01-25 14:30:00,GER1,FC Augsburg,low,1. FC Heidenheim 1846,medium,HomeWin,Mid Low,Low,Mid,Low,Low,Low,Weak,Very Weak
+711596,2025-01-25 14:30:00,GER1,Borussia Dortmund,high,Werder Bremen,medium,Draw,Mid High,Mid,Mid High,Mid,Mid High,Mid Low,Average,Weak
+711597,2025-01-25 14:30:00,GER1,Mainz,medium,VfB Stuttgart,medium,HomeWin,Mid High,Mid,Mid,Mid,Mid High,Mid,Average,Average
+711599,2025-01-25 14:30:00,GER1,RB Leipzig,medium,Bayer Leverkusen,medium,Draw,Mid,High,Mid,High,Mid,High,Average,Strong
+711600,2025-01-25 14:30:00,GER1,SC Freiburg,high,Bayern Munich,high,AwayWin,Mid High,High,Mid High,High,Mid Low,High,Average,Strong
+711595,2025-01-25 17:30:00,GER1,Borussia Monchengladbach,low,VfL Bochum,low,HomeWin,Mid,Low,Mid,Low,Mid Low,Low,Weak,Very Weak
+711601,2025-01-26 14:30:00,GER1,TSG Hoffenheim,low,Eintracht Frankfurt,medium,Draw,Low,High,Mid Low,Mid High,Low,Mid High,Very Weak,Strong
+711602,2025-01-26 16:30:00,GER1,St. Pauli,medium,1. FC Union Berlin,low,HomeWin,Mid Low,Mid Low,Mid Low,Mid Low,Low,Low,Very Weak,Very Weak
+711610,2025-01-31 19:30:00,GER1,Werder Bremen,medium,Mainz,medium,HomeWin,Mid,Mid High,Mid,Mid,Mid Low,Mid High,Weak,Average
+711606,2025-02-01 14:30:00,GER1,1. FC Heidenheim 1846,medium,Borussia Dortmund,high,AwayWin,Low,Mid High,Low,Mid High,Low,Mid High,Very Weak,Average
+711607,2025-02-01 14:30:00,GER1,Bayern Munich,high,Holstein Kiel,medium,HomeWin,High,Low,High,Low,High,Low,Strong,Very Weak
+711608,2025-02-01 14:30:00,GER1,VfL Bochum,low,SC Freiburg,high,AwayWin,Low,Mid High,Low,Mid High,Low,Mid Low,Very Weak,Average
+711609,2025-02-01 14:30:00,GER1,VfB Stuttgart,medium,Borussia Monchengladbach,low,AwayWin,Mid,Mid,Mid,Mid,Mid,Mid Low,Average,Weak
+711611,2025-02-01 14:30:00,GER1,St. Pauli,medium,FC Augsburg,low,Draw,Mid Low,Mid Low,Mid Low,Mid,Low,Low,Very Weak,Weak
+711605,2025-02-01 17:30:00,GER1,1. FC Union Berlin,low,RB Leipzig,medium,Draw,Mid Low,Mid,Mid Low,Mid,Low,Mid,Very Weak,Average
+711603,2025-02-02 14:30:00,GER1,Eintracht Frankfurt,medium,VfL Wolfsburg,low,Draw,High,Mid Low,Mid High,Mid,Mid High,Mid,Strong,Weak
+711604,2025-02-02 16:30:00,GER1,Bayer Leverkusen,medium,TSG Hoffenheim,low,HomeWin,High,Low,High,Mid Low,High,Low,Strong,Very Weak
+711615,2025-02-07 19:30:00,GER1,Bayern Munich,high,Werder Bremen,medium,HomeWin,High,Mid,High,Mid,High,Mid Low,Strong,Weak
+711612,2025-02-08 14:30:00,GER1,Mainz,medium,FC Augsburg,low,Draw,Mid High,Mid Low,Mid,Mid,Mid High,Low,Average,Weak
+711613,2025-02-08 14:30:00,GER1,Borussia Dortmund,high,VfB Stuttgart,medium,AwayWin,Mid High,Mid,Mid High,Mid,Mid High,Mid,Average,Average
+711616,2025-02-08 14:30:00,GER1,VfL Wolfsburg,low,Bayer Leverkusen,medium,Draw,Mid Low,High,Mid,High,Mid,High,Weak,Strong
+711617,2025-02-08 14:30:00,GER1,SC Freiburg,high,1. FC Heidenheim 1846,medium,HomeWin,Mid High,Low,Mid High,Low,Mid Low,Low,Average,Very Weak
+711620,2025-02-08 14:30:00,GER1,TSG Hoffenheim,low,1. FC Union Berlin,low,AwayWin,Low,Mid Low,Mid Low,Mid Low,Low,Low,Very Weak,Very Weak
+711614,2025-02-08 17:30:00,GER1,Borussia Monchengladbach,low,Eintracht Frankfurt,medium,Draw,Mid,High,Mid,Mid High,Mid Low,Mid High,Weak,Strong
+711619,2025-02-09 14:30:00,GER1,Holstein Kiel,medium,VfL Bochum,low,Draw,Low,Low,Low,Low,Low,Low,Very Weak,Very Weak
+711618,2025-02-09 16:30:00,GER1,RB Leipzig,medium,St. Pauli,medium,HomeWin,Mid,Mid Low,Mid,Mid Low,Mid,Low,Average,Very Weak
+711626,2025-02-14 19:30:00,GER1,FC Augsburg,low,RB Leipzig,medium,Draw,Mid Low,Mid,Mid,Mid,Low,Mid,Weak,Average
+711621,2025-02-15 14:30:00,GER1,VfL Bochum,low,Borussia Dortmund,high,HomeWin,Low,Mid High,Low,Mid High,Low,Mid High,Very Weak,Average
+711623,2025-02-15 14:30:00,GER1,1. FC Union Berlin,low,Borussia Monchengladbach,low,AwayWin,Mid Low,Mid,Mid Low,Mid,Low,Mid Low,Very Weak,Weak
+711627,2025-02-15 14:30:00,GER1,St. Pauli,medium,SC Freiburg,high,AwayWin,Mid Low,Mid High,Mid Low,Mid High,Low,Mid Low,Very Weak,Average
+711629,2025-02-15 14:30:00,GER1,VfB Stuttgart,medium,VfL Wolfsburg,low,AwayWin,Mid,Mid Low,Mid,Mid,Mid,Mid,Average,Weak
+711624,2025-02-15 17:30:00,GER1,Bayer Leverkusen,medium,Bayern Munich,high,Draw,High,High,High,High,High,High,Strong,Strong
+711628,2025-02-16 14:30:00,GER1,Werder Bremen,medium,TSG Hoffenheim,low,AwayWin,Mid,Low,Mid,Mid Low,Mid Low,Low,Weak,Very Weak
+711625,2025-02-16 16:30:00,GER1,Eintracht Frankfurt,medium,Holstein Kiel,medium,HomeWin,High,Low,Mid High,Low,Mid High,Low,Strong,Very Weak
+711622,2025-02-16 18:30:00,GER1,1. FC Heidenheim 1846,medium,Mainz,medium,AwayWin,Low,Mid High,Low,Mid,Low,Mid High,Very Weak,Average
+711636,2025-02-21 19:30:00,GER1,SC Freiburg,high,Werder Bremen,medium,HomeWin,Mid High,Mid,Mid High,Mid,Mid Low,Mid Low,Average,Weak
+711632,2025-02-22 14:30:00,GER1,Borussia Monchengladbach,low,FC Augsburg,low,AwayWin,Mid,Mid Low,Mid,Mid,Mid Low,Low,Weak,Weak
+711630,2025-02-22 14:30:00,GER1,Mainz,medium,St. Pauli,medium,HomeWin,Mid High,Mid Low,Mid,Mid Low,Mid High,Low,Average,Very Weak
+711638,2025-02-22 14:30:00,GER1,Holstein Kiel,medium,Bayer Leverkusen,medium,AwayWin,Low,High,Low,High,Low,High,Very Weak,Strong
+711634,2025-02-22 14:30:00,GER1,VfL Wolfsburg,low,VfL Bochum,low,Draw,Mid Low,Low,Mid,Low,Mid,Low,Weak,Very Weak
+711631,2025-02-22 17:30:00,GER1,Borussia Dortmund,high,1. FC Union Berlin,low,HomeWin,Mid High,Mid Low,Mid High,Mid Low,Mid High,Low,Average,Very Weak
+711635,2025-02-23 14:30:00,GER1,RB Leipzig,medium,1. FC Heidenheim 1846,medium,Draw,Mid,Low,Mid,Low,Mid,Low,Average,Very Weak
+711633,2025-02-23 16:30:00,GER1,Bayern Munich,high,Eintracht Frankfurt,medium,HomeWin,High,High,High,Mid High,High,Mid High,Strong,Strong
+711637,2025-02-23 18:30:00,GER1,TSG Hoffenheim,low,VfB Stuttgart,medium,Draw,Low,Mid,Mid Low,Mid,Low,Mid,Very Weak,Average
+711639,2025-02-28 19:30:00,GER1,VfB Stuttgart,medium,Bayern Munich,high,AwayWin,Mid,High,Mid,High,Mid,High,Average,Strong
+711642,2025-03-01 14:30:00,GER1,St. Pauli,medium,Borussia Dortmund,high,AwayWin,Mid Low,Mid High,Mid Low,Mid High,Low,Mid High,Very Weak,Average
+711640,2025-03-01 14:30:00,GER1,Werder Bremen,medium,VfL Wolfsburg,low,AwayWin,Mid,Mid Low,Mid,Mid,Mid Low,Mid,Weak,Weak
+711643,2025-03-01 14:30:00,GER1,VfL Bochum,low,TSG Hoffenheim,low,AwayWin,Low,Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711646,2025-03-01 14:30:00,GER1,1. FC Heidenheim 1846,medium,Borussia Monchengladbach,low,AwayWin,Low,Mid,Low,Mid,Low,Mid Low,Very Weak,Weak
+711641,2025-03-01 14:30:00,GER1,RB Leipzig,medium,Mainz,medium,AwayWin,Mid,Mid High,Mid,Mid,Mid,Mid High,Average,Average
+711644,2025-03-01 17:30:00,GER1,Eintracht Frankfurt,medium,Bayer Leverkusen,medium,AwayWin,High,High,Mid High,High,Mid High,High,Strong,Strong
+711645,2025-03-02 14:30:00,GER1,1. FC Union Berlin,low,Holstein Kiel,medium,AwayWin,Mid Low,Low,Mid Low,Low,Low,Low,Very Weak,Very Weak
+711647,2025-03-02 16:30:00,GER1,FC Augsburg,low,SC Freiburg,high,Draw,Mid Low,Mid High,Mid,Mid High,Low,Mid Low,Weak,Average
+711653,2025-03-07 19:30:00,GER1,Borussia Monchengladbach,low,Mainz,medium,AwayWin,Mid,Mid High,Mid,Mid,Mid Low,Mid High,Weak,Average
+711650,2025-03-08 14:30:00,GER1,Holstein Kiel,medium,VfB Stuttgart,medium,Draw,Low,Mid,Low,Mid,Low,Mid,Very Weak,Average
+711651,2025-03-08 14:30:00,GER1,Bayern Munich,high,VfL Bochum,low,AwayWin,High,Low,High,Low,High,Low,Strong,Very Weak
+711654,2025-03-08 14:30:00,GER1,Borussia Dortmund,high,FC Augsburg,low,AwayWin,Mid High,Mid Low,Mid High,Mid,Mid High,Low,Average,Weak
+711655,2025-03-08 14:30:00,GER1,Bayer Leverkusen,medium,Werder Bremen,medium,AwayWin,High,Mid,High,Mid,High,Mid Low,Strong,Weak
+711656,2025-03-08 14:30:00,GER1,VfL Wolfsburg,low,St. Pauli,medium,Draw,Mid Low,Mid Low,Mid,Mid Low,Mid,Low,Weak,Very Weak
+711649,2025-03-08 17:30:00,GER1,SC Freiburg,high,RB Leipzig,medium,Draw,Mid High,Mid,Mid High,Mid,Mid Low,Mid,Average,Average
+711652,2025-03-09 14:30:00,GER1,Eintracht Frankfurt,medium,1. FC Union Berlin,low,AwayWin,High,Mid Low,Mid High,Mid Low,Mid High,Low,Strong,Very Weak
+711648,2025-03-09 16:30:00,GER1,TSG Hoffenheim,low,1. FC Heidenheim 1846,medium,Draw,Low,Low,Mid Low,Low,Low,Low,Very Weak,Very Weak
+711663,2025-03-14 19:30:00,GER1,St. Pauli,medium,TSG Hoffenheim,low,HomeWin,Mid Low,Low,Mid Low,Mid Low,Low,Low,Very Weak,Very Weak
+711664,2025-03-15 14:30:00,GER1,FC Augsburg,low,VfL Wolfsburg,low,HomeWin,Mid Low,Mid Low,Mid,Mid,Low,Mid,Weak,Weak
+711665,2025-03-15 14:30:00,GER1,Mainz,medium,SC Freiburg,high,Draw,Mid High,Mid High,Mid,Mid High,Mid High,Mid Low,Average,Average
+711658,2025-03-15 14:30:00,GER1,1. FC Union Berlin,low,Bayern Munich,high,Draw,Mid Low,High,Mid Low,High,Low,High,Very Weak,Strong
+711661,2025-03-15 14:30:00,GER1,Werder Bremen,medium,Borussia Monchengladbach,low,AwayWin,Mid,Mid,Mid,Mid,Mid Low,Mid Low,Weak,Weak
+711662,2025-03-15 17:30:00,GER1,RB Leipzig,medium,Borussia Dortmund,high,HomeWin,Mid,Mid High,Mid,Mid High,Mid,Mid High,Average,Average
+711659,2025-03-16 14:30:00,GER1,VfL Bochum,low,Eintracht Frankfurt,medium,AwayWin,Low,High,Low,Mid High,Low,Mid High,Very Weak,Strong
+711657,2025-03-16 16:30:00,GER1,1. FC Heidenheim 1846,medium,Holstein Kiel,medium,HomeWin,Low,Low,Low,Low,Low,Low,Very Weak,Very Weak
+711660,2025-03-16 18:30:00,GER1,VfB Stuttgart,medium,Bayer Leverkusen,medium,AwayWin,Mid,High,Mid,High,Mid,High,Average,Strong
+711666,2025-03-28 19:30:00,GER1,Bayer Leverkusen,medium,VfL Bochum,low,HomeWin,High,Low,High,Low,High,Low,Strong,Very Weak
+711667,2025-03-29 14:30:00,GER1,TSG Hoffenheim,low,FC Augsburg,low,Draw,Low,Mid Low,Mid Low,Mid,Low,Low,Very Weak,Weak
+711669,2025-03-29 14:30:00,GER1,Holstein Kiel,medium,Werder Bremen,medium,AwayWin,Low,Mid,Low,Mid,Low,Mid Low,Very Weak,Weak
+711670,2025-03-29 14:30:00,GER1,VfL Wolfsburg,low,1. FC Heidenheim 1846,medium,AwayWin,Mid Low,Low,Mid,Low,Mid,Low,Weak,Very Weak
+711672,2025-03-29 14:30:00,GER1,Borussia Monchengladbach,low,RB Leipzig,medium,HomeWin,Mid,Mid,Mid,Mid,Mid Low,Mid,Weak,Average
+711674,2025-03-29 14:30:00,GER1,Bayern Munich,high,St. Pauli,medium,HomeWin,High,Mid Low,High,Mid Low,High,Low,Strong,Very Weak
+711671,2025-03-29 17:30:00,GER1,Eintracht Frankfurt,medium,VfB Stuttgart,medium,HomeWin,High,Mid,Mid High,Mid,Mid High,Mid,Strong,Average
+711668,2025-03-30 13:30:00,GER1,SC Freiburg,high,1. FC Union Berlin,low,AwayWin,Mid High,Mid Low,Mid High,Mid Low,Mid Low,Low,Average,Very Weak
+711673,2025-03-30 15:30:00,GER1,Borussia Dortmund,high,Mainz,medium,HomeWin,Mid High,Mid High,Mid High,Mid,Mid High,Mid High,Average,Average
+711683,2025-04-04 18:30:00,GER1,FC Augsburg,low,Bayern Munich,high,AwayWin,Mid Low,High,Mid,High,Low,High,Weak,Strong
+711677,2025-04-05 13:30:00,GER1,RB Leipzig,medium,TSG Hoffenheim,low,HomeWin,Mid,Low,Mid,Mid Low,Mid,Low,Average,Very Weak
+711680,2025-04-05 13:30:00,GER1,Mainz,medium,Holstein Kiel,medium,Draw,Mid High,Low,Mid,Low,Mid High,Low,Average,Very Weak
+711676,2025-04-05 13:30:00,GER1,SC Freiburg,high,Borussia Dortmund,high,AwayWin,Mid High,Mid High,Mid High,Mid High,Mid Low,Mid High,Average,Average
+711682,2025-04-05 13:30:00,GER1,1. FC Heidenheim 1846,medium,Bayer Leverkusen,medium,AwayWin,Low,High,Low,High,Low,High,Very Weak,Strong
+711679,2025-04-05 13:30:00,GER1,VfL Bochum,low,VfB Stuttgart,medium,AwayWin,Low,Mid,Low,Mid,Low,Mid,Very Weak,Average
+711675,2025-04-05 16:30:00,GER1,Werder Bremen,medium,Eintracht Frankfurt,medium,HomeWin,Mid,High,Mid,Mid High,Mid Low,Mid High,Weak,Strong
+711678,2025-04-06 13:30:00,GER1,St. Pauli,medium,Borussia Monchengladbach,low,Draw,Mid Low,Mid,Mid Low,Mid,Low,Mid Low,Very Weak,Weak
+711681,2025-04-06 15:30:00,GER1,1. FC Union Berlin,low,VfL Wolfsburg,low,HomeWin,Mid Low,Mid Low,Mid Low,Mid,Low,Mid,Very Weak,Weak
+711692,2025-04-11 18:30:00,GER1,VfL Wolfsburg,low,RB Leipzig,medium,AwayWin,Mid Low,Mid,Mid,Mid,Mid,Mid,Weak,Average
+711684,2025-04-12 13:30:00,GER1,VfL Bochum,low,FC Augsburg,low,AwayWin,Low,Mid Low,Low,Mid,Low,Low,Very Weak,Weak
+711686,2025-04-12 13:30:00,GER1,TSG Hoffenheim,low,Mainz,medium,HomeWin,Low,Mid High,Mid Low,Mid,Low,Mid High,Very Weak,Average
+711687,2025-04-12 13:30:00,GER1,Holstein Kiel,medium,St. Pauli,medium,AwayWin,Low,Mid Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711690,2025-04-12 13:30:00,GER1,Borussia Monchengladbach,low,SC Freiburg,high,AwayWin,Mid,Mid High,Mid,Mid High,Mid Low,Mid Low,Weak,Average
+711691,2025-04-12 13:30:00,GER1,Bayer Leverkusen,medium,1. FC Union Berlin,low,Draw,High,Mid Low,High,Mid Low,High,Low,Strong,Very Weak
+711688,2025-04-12 16:30:00,GER1,Bayern Munich,high,Borussia Dortmund,high,Draw,High,Mid High,High,Mid High,High,Mid High,Strong,Average
+711685,2025-04-13 13:30:00,GER1,VfB Stuttgart,medium,Werder Bremen,medium,AwayWin,Mid,Mid,Mid,Mid,Mid,Mid Low,Average,Weak
+711689,2025-04-13 15:30:00,GER1,Eintracht Frankfurt,medium,1. FC Heidenheim 1846,medium,HomeWin,High,Low,Mid High,Low,Mid High,Low,Strong,Very Weak
+711693,2025-04-19 13:30:00,GER1,1. FC Heidenheim 1846,medium,Bayern Munich,high,AwayWin,Low,High,Low,High,Low,High,Very Weak,Strong
+711701,2025-04-19 13:30:00,GER1,Mainz,medium,VfL Wolfsburg,low,Draw,Mid High,Mid Low,Mid,Mid,Mid High,Mid,Average,Weak
+711695,2025-04-19 13:30:00,GER1,Werder Bremen,medium,VfL Bochum,low,HomeWin,Mid,Low,Mid,Low,Mid Low,Low,Weak,Very Weak
+711697,2025-04-19 13:30:00,GER1,RB Leipzig,medium,Holstein Kiel,medium,Draw,Mid,Low,Mid,Low,Mid,Low,Average,Very Weak
+711696,2025-04-19 13:30:00,GER1,SC Freiburg,high,TSG Hoffenheim,low,HomeWin,Mid High,Low,Mid High,Mid Low,Mid Low,Low,Average,Very Weak
+711694,2025-04-19 16:30:00,GER1,1. FC Union Berlin,low,VfB Stuttgart,medium,Draw,Mid Low,Mid,Mid Low,Mid,Low,Mid,Very Weak,Average
+711699,2025-04-20 13:30:00,GER1,FC Augsburg,low,Eintracht Frankfurt,medium,Draw,Mid Low,High,Mid,Mid High,Low,Mid High,Weak,Strong
+711700,2025-04-20 15:30:00,GER1,Borussia Dortmund,high,Borussia Monchengladbach,low,HomeWin,Mid High,Mid,Mid High,Mid,Mid High,Mid Low,Average,Weak
+711698,2025-04-20 17:30:00,GER1,St. Pauli,medium,Bayer Leverkusen,medium,Draw,Mid Low,High,Mid Low,High,Low,High,Very Weak,Strong
+711704,2025-04-25 18:30:00,GER1,VfB Stuttgart,medium,1. FC Heidenheim 1846,medium,AwayWin,Mid,Low,Mid,Low,Mid,Low,Average,Very Weak
+711702,2025-04-26 13:30:00,GER1,Bayer Leverkusen,medium,FC Augsburg,low,HomeWin,High,Mid Low,High,Mid,High,Low,Strong,Weak
+711707,2025-04-26 13:30:00,GER1,Holstein Kiel,medium,Borussia Monchengladbach,low,HomeWin,Low,Mid,Low,Mid,Low,Mid Low,Very Weak,Weak
+711708,2025-04-26 13:30:00,GER1,Bayern Munich,high,Mainz,medium,HomeWin,High,Mid High,High,Mid,High,Mid High,Strong,Average
+711705,2025-04-26 13:30:00,GER1,TSG Hoffenheim,low,Borussia Dortmund,high,AwayWin,Low,Mid High,Mid Low,Mid High,Low,Mid High,Very Weak,Average
+711706,2025-04-26 13:30:00,GER1,VfL Wolfsburg,low,SC Freiburg,high,AwayWin,Mid Low,Mid High,Mid,Mid High,Mid,Mid Low,Weak,Average
+711709,2025-04-26 16:30:00,GER1,Eintracht Frankfurt,medium,RB Leipzig,medium,HomeWin,High,Mid,Mid High,Mid,Mid High,Mid,Strong,Average
+711703,2025-04-27 13:30:00,GER1,VfL Bochum,low,1. FC Union Berlin,low,Draw,Low,Mid Low,Low,Mid Low,Low,Low,Very Weak,Very Weak
+711710,2025-04-27 15:30:00,GER1,Werder Bremen,medium,St. Pauli,medium,Draw,Mid,Mid Low,Mid,Mid Low,Mid Low,Low,Weak,Very Weak
+711714,2025-05-02 18:30:00,GER1,1. FC Heidenheim 1846,medium,VfL Bochum,low,Draw,Low,Low,Low,Low,Low,Low,Very Weak,Very Weak
+711717,2025-05-03 13:30:00,GER1,St. Pauli,medium,VfB Stuttgart,medium,AwayWin,Mid Low,Mid,Mid Low,Mid,Low,Mid,Very Weak,Average
+711713,2025-05-03 13:30:00,GER1,1. FC Union Berlin,low,Werder Bremen,medium,Draw,Mid Low,Mid,Mid Low,Mid,Low,Mid Low,Very Weak,Weak
+711719,2025-05-03 13:30:00,GER1,Borussia Monchengladbach,low,TSG Hoffenheim,low,Draw,Mid,Low,Mid,Mid Low,Mid Low,Low,Weak,Very Weak
+711718,2025-05-03 13:30:00,GER1,RB Leipzig,medium,Bayern Munich,high,Draw,Mid,High,Mid,High,Mid,High,Average,Strong
+711711,2025-05-03 16:30:00,GER1,Borussia Dortmund,high,VfL Wolfsburg,low,HomeWin,Mid High,Mid Low,Mid High,Mid,Mid High,Mid,Average,Weak
+711716,2025-05-04 13:30:00,GER1,FC Augsburg,low,Holstein Kiel,medium,AwayWin,Mid Low,Low,Mid,Low,Low,Low,Weak,Very Weak
+711715,2025-05-04 15:30:00,GER1,SC Freiburg,high,Bayer Leverkusen,medium,Draw,Mid High,High,Mid High,High,Mid Low,High,Average,Strong
+711712,2025-05-04 17:30:00,GER1,Mainz,medium,Eintracht Frankfurt,medium,Draw,Mid High,High,Mid,Mid High,Mid High,Mid High,Average,Strong
+711725,2025-05-09 18:30:00,GER1,VfL Wolfsburg,low,TSG Hoffenheim,low,Draw,Mid Low,Low,Mid,Mid Low,Mid,Low,Weak,Very Weak
+711724,2025-05-10 13:30:00,GER1,Holstein Kiel,medium,SC Freiburg,high,AwayWin,Low,Mid High,Low,Mid High,Low,Mid Low,Very Weak,Average
+711726,2025-05-10 13:30:00,GER1,VfL Bochum,low,Mainz,medium,AwayWin,Low,Mid High,Low,Mid,Low,Mid High,Very Weak,Average
+711723,2025-05-10 13:30:00,GER1,1. FC Union Berlin,low,1. FC Heidenheim 1846,medium,AwayWin,Mid Low,Low,Mid Low,Low,Low,Low,Very Weak,Very Weak
+711728,2025-05-10 13:30:00,GER1,Werder Bremen,medium,RB Leipzig,medium,Draw,Mid,Mid,Mid,Mid,Mid Low,Mid,Weak,Average
+711720,2025-05-10 16:30:00,GER1,Bayern Munich,high,Borussia Monchengladbach,low,HomeWin,High,Mid,High,Mid,High,Mid Low,Strong,Weak
+711722,2025-05-11 13:30:00,GER1,Bayer Leverkusen,medium,Borussia Dortmund,high,AwayWin,High,Mid High,High,Mid High,High,Mid High,Strong,Average
+711721,2025-05-11 15:30:00,GER1,Eintracht Frankfurt,medium,St. Pauli,medium,Draw,High,Mid Low,Mid High,Mid Low,Mid High,Low,Strong,Very Weak
+711727,2025-05-11 17:30:00,GER1,VfB Stuttgart,medium,FC Augsburg,low,HomeWin,Mid,Mid Low,Mid,Mid,Mid,Low,Average,Weak
+711731,2025-05-17 13:30:00,GER1,Mainz,medium,Bayer Leverkusen,medium,Draw,Mid High,High,Mid,High,Mid High,High,Average,Strong
+711730,2025-05-17 13:30:00,GER1,1. FC Heidenheim 1846,medium,Werder Bremen,medium,Draw,Low,Mid,Low,Mid,Low,Mid Low,Very Weak,Weak
+711732,2025-05-17 13:30:00,GER1,Borussia Dortmund,high,Holstein Kiel,medium,Draw,Mid High,Low,Mid High,Low,Mid High,Low,Average,Very Weak
+711733,2025-05-17 13:30:00,GER1,Borussia Monchengladbach,low,VfL Wolfsburg,low,Draw,Mid,Mid Low,Mid,Mid,Mid Low,Mid,Weak,Weak
+711734,2025-05-17 13:30:00,GER1,SC Freiburg,high,Eintracht Frankfurt,medium,Draw,Mid High,High,Mid High,Mid High,Mid Low,Mid High,Average,Strong
 711736,2025-05-17 13:30:00,GER1,RB Leipzig,medium,VfB Stuttgart,medium,Draw,Mid,Mid,Mid,Mid,Mid,Mid,Average,Average
-711730,2025-05-17 13:30:00,GER1,1. FC Heidenheim 1846,medium,Werder Bremen,medium,Draw,Bottom,Mid,Low,Mid,Low,Low,Weak,Weak
+711735,2025-05-17 13:30:00,GER1,St. Pauli,medium,VfL Bochum,low,Draw,Mid Low,Low,Mid Low,Low,Low,Low,Very Weak,Very Weak
+711737,2025-05-17 13:30:00,GER1,TSG Hoffenheim,low,Bayern Munich,high,Draw,Low,High,Mid Low,High,Low,High,Very Weak,Strong
+711738,2025-05-17 13:30:00,GER1,FC Augsburg,low,1. FC Union Berlin,low,Draw,Mid Low,Mid Low,Mid,Mid Low,Low,Low,Weak,Very Weak
