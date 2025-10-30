@@ -1,3 +1,6 @@
+[![Owner](https://img.shields.io/badge/Owner-stoyanvalchev-emeraldgreen)](https://github.com/stoyanvalchev)
+[![Owner](https://img.shields.io/badge/Owner-zarkobeats-emeraldgreen)](https://github.com/zarkobeats)
+
 # Probabilistic Models in Sports Analytics
 
 This project explores the application of **probabilistic graphical models**, specifically **Bayesian networks**, within the realm of **sports analytics**. Using real-world data, it demonstrates an end-to-end workflow for visualizing dependencies and making probabilistic predictions about sports team performance.
